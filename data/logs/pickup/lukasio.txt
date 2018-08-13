@@ -1,0 +1,4 @@
+[Wed Jan 09 21:53:17 CET 2013] Lukasio [192.168.218.139] picked up a Rune platelegs, location: 3089, 3525
+[Wed Jan 09 21:53:18 CET 2013] Lukasio [192.168.218.139] picked up a Toktz-ket-xil, location: 3089, 3525
+[Wed Jan 09 21:53:20 CET 2013] Lukasio [192.168.218.139] picked up a Toktz-ket-xil, location: 3089, 3525
+[Wed Jan 09 21:53:21 CET 2013] Lukasio [192.168.218.139] picked up a Amulet of glory (4), location: 3089, 3525

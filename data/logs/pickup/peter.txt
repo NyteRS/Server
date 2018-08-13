@@ -1,0 +1,167 @@
+[Sat Aug 17 08:48:18 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:48:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:48:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:48:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:48:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:48:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:48:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:48:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:48:21 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:48:21 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:48:21 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:48:21 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:48:26 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:48:26 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:48:26 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:48:27 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:29 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:30 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:30 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:48:30 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:30 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:30 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:30 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:32 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:48:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:48:34 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:48:34 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:48:34 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:48:37 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:37 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:37 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:37 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:38 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:38 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:38 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:38 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:38 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:48:38 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:39 PDT 2013] Peter [78.147.138.165] picked up a Magic shortbow, location: 2715, 9815
+[Sat Aug 17 08:48:39 PDT 2013] Peter [78.147.138.165] picked up a Magic shortbow, location: 2715, 9815
+[Sat Aug 17 08:48:39 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:40 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:40 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:40 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:40 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:40 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:40 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:41 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:41 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:41 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:48:41 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:17 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:49:17 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:49:18 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:49:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:49:19 PDT 2013] Peter [78.147.138.165] picked up a Rune arrow, location: 2715, 9815
+[Sat Aug 17 08:49:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:49:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:49:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:49:20 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:49:20 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:49:21 PDT 2013] Peter [78.147.138.165] picked up a Dragon bolts (e), location: 2715, 9815
+[Sat Aug 17 08:49:21 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:22 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:23 PDT 2013] Peter [78.147.138.165] picked up a Helm of neitiznot, location: 2715, 9815
+[Sat Aug 17 08:49:24 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:24 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:24 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:25 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:25 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:25 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:25 PDT 2013] Peter [78.147.138.165] picked up a Astral rune, location: 2715, 9815
+[Sat Aug 17 08:49:26 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:26 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:26 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:26 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:26 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:27 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:27 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:27 PDT 2013] Peter [78.147.138.165] picked up a Death rune, location: 2715, 9815
+[Sat Aug 17 08:49:28 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:28 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:28 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:28 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:29 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:29 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:29 PDT 2013] Peter [78.147.138.165] picked up a Amulet of glory, location: 2715, 9815
+[Sat Aug 17 08:49:29 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:49:30 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:49:30 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:49:30 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:49:30 PDT 2013] Peter [78.147.138.165] picked up a Rune c'bow, location: 2715, 9815
+[Sat Aug 17 08:49:30 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:49:31 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:49:31 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:49:31 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:49:31 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:49:31 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide body, location: 2715, 9815
+[Sat Aug 17 08:49:31 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:49:32 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:49:32 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:49:32 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:49:33 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:49:33 PDT 2013] Peter [78.147.138.165] picked up a Earth rune, location: 2715, 9815
+[Sat Aug 17 08:49:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:33 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Black d'hide vambraces, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:34 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:35 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:35 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:36 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:36 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 08:49:36 PDT 2013] Peter [78.147.138.165] picked up a Manta ray, location: 2715, 9815
+[Sat Aug 17 13:47:54 PDT 2013] Peter [78.147.138.165] picked up a Coins, location: 2732, 9483
+[Wed Aug 21 07:58:36 PDT 2013] Peter [78.149.161.103] picked up a Schematic, location: 2835, 10207
+[Wed Aug 21 07:58:36 PDT 2013] Peter [78.149.161.103] picked up a Schematic, location: 2835, 10207
+[Wed Aug 21 08:41:08 PDT 2013] Peter [78.149.161.103] picked up a Kwuarm seed, location: 3050, 9589
+[Wed Aug 21 08:41:09 PDT 2013] Peter [78.149.161.103] picked up a Kwuarm seed, location: 3050, 9589
+[Wed Aug 21 09:25:30 PDT 2013] Peter [78.149.161.103] picked up a Water rune, location: 2479, 5151

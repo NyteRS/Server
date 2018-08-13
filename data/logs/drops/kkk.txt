@@ -1,0 +1,15 @@
+[Tue Aug 20 03:06:13 PDT 2013] Kkk [188.241.23.156] dropped a Iron full helm at location: 2865, 3546
+[Tue Aug 20 03:06:18 PDT 2013] Kkk [188.241.23.156] dropped a Coins at location: 2865, 3545
+[Tue Aug 20 03:06:20 PDT 2013] Kkk [188.241.23.156] dropped a Nature rune at location: 2865, 3545
+[Tue Aug 20 03:06:21 PDT 2013] Kkk [188.241.23.156] dropped a Blood rune at location: 2865, 3545
+[Tue Aug 20 03:06:23 PDT 2013] Kkk [188.241.23.156] dropped a Mind rune at location: 2865, 3545
+[Tue Aug 20 03:06:24 PDT 2013] Kkk [188.241.23.156] dropped a Air rune at location: 2865, 3545
+[Tue Aug 20 03:06:25 PDT 2013] Kkk [188.241.23.156] dropped a Fire rune at location: 2865, 3545
+[Tue Aug 20 03:06:27 PDT 2013] Kkk [188.241.23.156] dropped a Chaos rune at location: 2865, 3545
+[Tue Aug 20 03:06:28 PDT 2013] Kkk [188.241.23.156] dropped a Teleport to house at location: 2865, 3545
+[Tue Aug 20 03:06:30 PDT 2013] Kkk [188.241.23.156] dropped a Death rune at location: 2865, 3545
+[Tue Aug 20 03:06:31 PDT 2013] Kkk [188.241.23.156] dropped a Water rune at location: 2865, 3545
+[Tue Aug 20 03:06:33 PDT 2013] Kkk [188.241.23.156] dropped a Earth rune at location: 2865, 3545
+[Tue Aug 20 03:06:34 PDT 2013] Kkk [188.241.23.156] dropped a Combat bracelet (4) at location: 2865, 3545
+[Tue Aug 20 03:06:36 PDT 2013] Kkk [188.241.23.156] dropped a Amulet of glory (4) at location: 2865, 3545
+[Tue Aug 20 03:06:38 PDT 2013] Kkk [188.241.23.156] dropped a Manta ray at location: 2865, 3545

@@ -1,0 +1,354 @@
+jordonexecuted the command tele 2845 10209 0 at 26from IP 192.168.1.66
+jordonexecuted the command addnpc 1866 1 at 26from IP 192.168.1.66
+jordonexecuted the command addnpc 520 1 at 26from IP 192.168.1.66
+jordonexecuted the command addnpc 494 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2865 10209 1 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2893 10208 2 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2893 10193 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2887 10199 2 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2870 10199 1 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+lukasexecuted the command Tele 2842 10221 0 at 26from IP 192.168.218.124
+lukasexecuted the command thisnpc at 26from IP 192.168.218.124
+lukasexecuted the command thisnpc at 26from IP 192.168.218.124
+lukasexecuted the command mypos at 26from IP 192.168.218.124
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2842 10221 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2838 10205 0 at 26from IP 192.168.1.66
+jordonexecuted the command addnpc 494 0 at 26from IP 192.168.1.66
+jordonexecuted the command addnpc 494 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10207 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10206 0 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10207 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10210 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10210 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10210 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2939 10210 0 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10210 0 at 26from IP 192.168.1.66
+jordonexecuted the command tele 2839 10210 at 26from IP 192.168.1.66
+jordonexecuted the command tele 3222 3222 at 26from IP 192.168.1.66
+jordonexecuted the command tele 3222 3222 1 at 26from IP 192.168.1.66
+lukasioexecuted the command tempnpc 300 at 26from IP 192.168.218.124
+lukasioexecuted the command tempnpc 301 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 300 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 301 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 305 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 303 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 307 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 227 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 338 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 338 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 349 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 278 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 277 at 26from IP 192.168.218.124
+lukasexecuted the command spec at 26from IP 192.168.218.124
+jordonexecuted the command tele 2845 10209 0 at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+lukasexecuted the command item 3024 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6685 1 at 26from IP 192.168.218.124
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+lukasioexecuted the command item 2448  at 26from IP 192.168.218.124
+lukasioexecuted the command item 2448 1 at 26from IP 192.168.218.124
+lukasioexecuted the command item 2448 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 2448 1 at 26from IP 192.168.218.124
+jordonexecuted the command addnpc 494 0 at 26from IP 192.168.1.66
+lukasexecuted the command addnpc 278 0 at 26from IP 192.168.218.124
+lukasexecuted the command tempnpc 278 at 26from IP 192.168.218.124
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command addnpc 494 0 at 26from IP 192.168.1.66
+jordonexecuted the command snow at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+lukasexecuted the command snow at 26from IP 192.168.218.124
+jordonexecuted the command mypos at 26from IP 192.168.1.66
+lukasexecuted the command item 12087 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 15262 2 at 26from IP 192.168.218.124
+lukasexecuted the command item 15262 1 at 26from IP 192.168.218.124
+lukasexecuted the command empty at 26from IP 192.168.218.124
+lukasexecuted the command item 12595 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 12207 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 7918 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6215 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6218 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6227 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6237 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6259 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6335 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6339 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 5607 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 13316 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 6279 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 10836 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 10837 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 10838 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 10839 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 10840 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 15262 10 at 26from IP 192.168.218.124
+lukasexecuted the command item 22540 1 at 26from IP 192.168.218.124
+lukasexecuted the command empty at 26from IP 192.168.218.124
+lukasexecuted the command item 22540 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 21147 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 20147 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 20147 1 at 26from IP 192.168.218.124
+lukasexecuted the command empty at 26from IP 192.168.218.124
+lukasexecuted the command item 20147 1 at 26from IP 192.168.218.124
+lukasexecuted the command item 19335 1 at 26from IP 192.168.218.124
+lukasexecuted the command dzone at 26from IP 192.168.218.124
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 6199 28 at 26from IP 192.168.1.66
+jordonexecuted the command item 6199 3 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 6199 29 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 6199 29 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 6199 28 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 6199 28 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 29 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 28 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 28 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 28 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 120 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 567 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 10 at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 5 at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 50 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 100 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 40 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 400 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 38 at 26from IP 192.168.1.66
+jordonexecuted the command item 10025 2 at 26from IP 192.168.1.66
+jordonexecuted the command empty at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command item 536 5 at 27from IP 192.168.1.66
+jordonexecuted the command setlevel at 27from IP 192.168.1.66
+jordonexecuted the command master at 27from IP 192.168.1.66
+jordonexecuted the command empty at 27from IP 192.168.1.66
+jordonexecuted the command item 4151 1 at 27from IP 192.168.1.66
+jordonexecuted the command item 2572 1 at 27from IP 192.168.1.66
+jordonexecuted the command tele 3303 2787 0 at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command item 14600 1 at 27from IP 192.168.1.66
+jordonexecuted the command item 15507 1 at 27from IP 192.168.1.66
+jordonexecuted the command item 10507 1 at 27from IP 192.168.1.66
+jordonexecuted the command item 10507 1 at 27from IP 192.168.1.66
+lukasexecuted the command addnpc 1113 0 at 27from IP 192.168.218.124
+lukasexecuted the command tempnpc 1113 at 27from IP 192.168.218.124
+lukasexecuted the command item 12013 1 at 27from IP 192.168.218.124
+lukasexecuted the command dzone at 27from IP 192.168.218.124
+lukasexecuted the command item 8393 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8394 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8650 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8670 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8652 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8654 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8682 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8686 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8654 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8656 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8658 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8660 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8662 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8664 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8666 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8668 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8670 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8672 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8674 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8678 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8970 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8953 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8966 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8967 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8968 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8969 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8970 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8971 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 12625 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 18667 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8961 1 at 27from IP 192.168.218.124
+lukasexecuted the command empty at 27from IP 192.168.218.124
+lukasexecuted the command item 8956 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8963 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8966 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8967 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8969 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 7138 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 7132 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 7124 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 7126 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 7116 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 2887 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 2997 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 5036 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 5037 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 5038 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 5040 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 8959 1 at 27from IP 192.168.218.124
+lukasexecuted the command dzone at 27from IP 192.168.218.124
+lukasexecuted the command item 995 500000 at 27from IP 192.168.218.124
+lukasexecuted the command empty at 27from IP 192.168.218.124
+lukasexecuted the command empty at 27from IP 192.168.218.124
+lukasexecuted the command item 995 500000000 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 8948 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 455 0 at 27from IP 192.168.218.124
+lukasexecuted the command tempnpc 6970 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 6970 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 3299 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 5112 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 883 1 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 582 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 33 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 249 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 649 0 at 27from IP 192.168.218.124
+lukasexecuted the command Addnpc 533 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 7951 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 966 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 162 3 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 522 3 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 590 1 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 3805 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command tempnpc 278 at 27from IP 192.168.218.124
+lukasexecuted the command tempnpc 278 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 278 3 at 27from IP 192.168.218.124
+lukasexecuted the command tempnpc 289 at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command tele 2849 10220 at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command teleto 2849 10220 0 at 27from IP 192.168.218.124
+lukasexecuted the command tele 2849 10220 at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command tele 2849 10220 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command tele 2838 10205 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command snow at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command Tele 3100 3492 0 at 27from IP 192.168.218.124
+lukasexecuted the command tele 3097 3492 0 at 27from IP 192.168.218.124
+jordonexecuted the command tele 3277 9171 at 27from IP 192.168.1.66
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 883 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 534 1 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command tele 3096 3492 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 552 3 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command tele 3253 3418 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 495 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 494 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 495 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command tele 2725 3495 0 at 27from IP 192.168.218.124
+lukasexecuted the command addnpc 495 0 at 27from IP 192.168.218.124
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command Tele 2870 3720 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command Tele 2865 3720 0 at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command item 21371 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 18744 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 18746 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 12204 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 3695 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 13642 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 15426 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 2949 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 3678 1 at 27from IP 192.168.218.124
+lukasexecuted the command item 7668 1 at 27from IP 192.168.218.124
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command tele 3303 2787 at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+jordonexecuted the command mypos at 27from IP 192.168.1.66
+lukasexecuted the command thisnpc at 27from IP 192.168.218.124
+lukasexecuted the command mypos at 27from IP 192.168.218.124

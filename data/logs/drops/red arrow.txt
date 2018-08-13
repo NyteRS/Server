@@ -1,0 +1,6 @@
+[Tue Aug 20 03:53:01 PDT 2013] Red arrow [76.30.105.223] dropped a Gloves at location: 3096, 3494
+[Thu Aug 22 01:38:02 PDT 2013] Red arrow [76.30.105.223] dropped a Rune scimitar at location: 2976, 3922
+[Thu Aug 22 02:55:10 PDT 2013] Red arrow [76.30.105.223] dropped a Rune scimitar at location: 2977, 3921
+[Thu Aug 22 03:47:37 PDT 2013] Red arrow [76.30.105.223] dropped a Combat bracelet (4) at location: 2988, 3913
+[Thu Aug 22 03:48:44 PDT 2013] Red arrow [76.30.105.223] dropped a Manta ray at location: 3087, 3504
+[Thu Aug 22 03:49:26 PDT 2013] Red arrow [76.30.105.223] dropped a Rune scimitar at location: 3088, 3503

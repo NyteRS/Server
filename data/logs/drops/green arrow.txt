@@ -1,0 +1,31 @@
+[Mon Aug 19 13:42:12 PDT 2013] Green arrow [76.30.105.223] dropped a Chef's hat at location: 3094, 3498
+[Tue Aug 20 09:03:08 PDT 2013] Green arrow [76.30.105.223] dropped a Crimson charm at location: 2972, 3916
+[Wed Aug 21 16:31:10 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2963, 3912
+[Wed Aug 21 16:39:29 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 3012, 3355
+[Wed Aug 21 17:16:29 PDT 2013] Green arrow [76.30.105.223] dropped a Coins at location: 2961, 3915
+[Thu Aug 22 00:43:08 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 3175, 3956
+[Thu Aug 22 00:49:26 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2534, 4716
+[Thu Aug 22 02:19:03 PDT 2013] Green arrow [76.30.105.223] dropped a Teleport to house at location: 2838, 10207
+[Thu Aug 22 02:19:42 PDT 2013] Green arrow [76.30.105.223] dropped a Teleport to house at location: 3080, 3521
+[Thu Aug 22 02:24:20 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2838, 10207
+[Thu Aug 22 04:21:27 PDT 2013] Green arrow [76.30.105.223] dropped a Green charm at location: 2836, 3749
+[Thu Aug 22 04:55:56 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2847, 3733
+[Thu Aug 22 09:05:33 PDT 2013] Green arrow [76.30.105.223] dropped a Mind rune at location: 3083, 3512
+[Thu Aug 22 09:14:03 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2844, 3488
+[Thu Aug 22 09:31:01 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2858, 3758
+[Thu Aug 22 09:31:03 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2858, 3758
+[Thu Aug 22 09:31:04 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2858, 3758
+[Thu Aug 22 09:33:34 PDT 2013] Green arrow [76.30.105.223] dropped a Grimy ranarr at location: 2853, 3756
+[Thu Aug 22 09:33:35 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2853, 3756
+[Thu Aug 22 09:36:58 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2842, 3756
+[Thu Aug 22 09:42:05 PDT 2013] Green arrow [76.30.105.223] dropped a Frost dragon bones at location: 2828, 3756
+[Thu Aug 22 10:01:08 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2835, 3750
+[Thu Aug 22 10:14:22 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2858, 3758
+[Thu Aug 22 10:14:24 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2858, 3758
+[Thu Aug 22 10:14:24 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2858, 3758
+[Thu Aug 22 10:25:09 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2845, 3756
+[Thu Aug 22 10:27:18 PDT 2013] Green arrow [76.30.105.223] dropped a Prayer potion (4) at location: 2837, 3750
+[Thu Aug 22 10:37:08 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2848, 3754
+[Thu Aug 22 10:53:25 PDT 2013] Green arrow [76.30.105.223] dropped a Grimy ranarr at location: 2856, 3756
+[Thu Aug 22 11:26:54 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2838, 10207
+[Thu Aug 22 14:13:32 PDT 2013] Green arrow [76.30.105.223] dropped a Vial at location: 2846, 3752

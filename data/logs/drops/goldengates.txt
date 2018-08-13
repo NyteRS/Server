@@ -1,0 +1,2 @@
+[Wed Aug 21 11:18:06 PDT 2013] Goldengates [99.227.225.167] dropped a Magic staff at location: 2680, 9586
+[Wed Aug 21 11:22:49 PDT 2013] Goldengates [99.227.225.167] dropped a Irit seed at location: 2675, 9589

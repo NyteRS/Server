@@ -1,0 +1,498 @@
+[Mon Aug 19 13:31:22 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2677, 3732
+[Mon Aug 19 13:32:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2682, 3728
+[Mon Aug 19 13:37:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2683, 3728
+[Mon Aug 19 13:38:17 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2685, 3731
+[Mon Aug 19 13:38:24 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2682, 3727
+[Mon Aug 19 13:48:09 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2680, 3731
+[Tue Aug 20 00:34:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2684, 3729
+[Tue Aug 20 00:35:22 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2685, 3731
+[Tue Aug 20 00:59:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2673, 3715
+[Tue Aug 20 01:02:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2672, 3715
+[Tue Aug 20 01:02:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Iron ore, location: 2668, 3716
+[Tue Aug 20 01:03:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Fire rune, location: 2672, 3716
+[Tue Aug 20 01:07:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2673, 3715
+[Tue Aug 20 01:12:19 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2666, 3715
+[Tue Aug 20 01:12:20 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2666, 3715
+[Tue Aug 20 01:14:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2673, 3715
+[Tue Aug 20 01:15:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2685, 3728
+[Tue Aug 20 01:20:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5153
+[Tue Aug 20 01:22:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5151
+[Tue Aug 20 01:22:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5151
+[Tue Aug 20 01:24:20 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5152
+[Tue Aug 20 01:25:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5152
+[Tue Aug 20 01:26:21 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5153
+[Tue Aug 20 01:27:13 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5158
+[Tue Aug 20 01:33:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2462, 5141
+[Tue Aug 20 01:34:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5151
+[Tue Aug 20 01:36:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5153
+[Tue Aug 20 01:36:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5153
+[Tue Aug 20 01:37:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5153
+[Tue Aug 20 01:38:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2483, 5157
+[Tue Aug 20 01:41:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5158
+[Tue Aug 20 01:42:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5152
+[Tue Aug 20 01:43:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5151
+[Tue Aug 20 01:47:59 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5153
+[Tue Aug 20 01:55:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5151
+[Tue Aug 20 01:58:10 PDT 2013] Sir aaron [213.119.7.155] picked up a Onyx bolt tips, location: 2482, 5156
+[Tue Aug 20 01:58:13 PDT 2013] Sir aaron [213.119.7.155] picked up a Onyx bolt tips, location: 2482, 5156
+[Tue Aug 20 01:58:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5156
+[Tue Aug 20 01:58:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5151
+[Tue Aug 20 02:04:59 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5156
+[Tue Aug 20 02:05:35 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5157
+[Tue Aug 20 02:09:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5151
+[Tue Aug 20 02:10:23 PDT 2013] Sir aaron [213.119.7.155] picked up a Onyx bolt tips, location: 2482, 5156
+[Tue Aug 20 02:12:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5158
+[Tue Aug 20 02:13:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5153
+[Tue Aug 20 02:18:52 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2474, 5152
+[Tue Aug 20 02:19:26 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5153
+[Tue Aug 20 02:20:19 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5158
+[Tue Aug 20 02:24:24 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5151
+[Tue Aug 20 02:25:59 PDT 2013] Sir aaron [213.119.7.155] picked up a Obsidian cape, location: 2482, 5158
+[Tue Aug 20 02:26:59 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5160
+[Tue Aug 20 02:30:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5151
+[Tue Aug 20 02:30:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Fire battlestaff, location: 2475, 5151
+[Tue Aug 20 02:31:37 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5156
+[Tue Aug 20 02:32:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5156
+[Tue Aug 20 02:33:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5151
+[Tue Aug 20 02:34:36 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5153
+[Tue Aug 20 02:35:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5158
+[Tue Aug 20 02:36:09 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5151
+[Tue Aug 20 02:36:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2483, 5156
+[Tue Aug 20 02:40:57 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5157
+[Tue Aug 20 02:41:24 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5153
+[Tue Aug 20 02:42:09 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5153
+[Tue Aug 20 02:57:52 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5151
+[Tue Aug 20 02:58:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5158
+[Tue Aug 20 02:59:18 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5153
+[Tue Aug 20 02:59:19 PDT 2013] Sir aaron [213.119.7.155] picked up a Onyx bolt tips, location: 2473, 5153
+[Tue Aug 20 03:07:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5151
+[Tue Aug 20 03:09:18 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2474, 5153
+[Tue Aug 20 03:10:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5152
+[Tue Aug 20 03:11:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5151
+[Tue Aug 20 03:29:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2483, 5158
+[Tue Aug 20 03:36:45 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5151
+[Tue Aug 20 03:40:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5152
+[Tue Aug 20 03:46:13 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2483, 5157
+[Tue Aug 20 03:47:35 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5158
+[Tue Aug 20 03:48:02 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5152
+[Tue Aug 20 03:50:23 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2473, 5153
+[Tue Aug 20 03:53:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2475, 5151
+[Tue Aug 20 03:55:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5156
+[Tue Aug 20 03:59:36 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2481, 5153
+[Tue Aug 20 04:00:17 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5156
+[Tue Aug 20 04:00:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5153
+[Tue Aug 20 04:04:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5156
+[Tue Aug 20 04:04:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2484, 5156
+[Tue Aug 20 04:11:09 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2479, 5151
+[Tue Aug 20 04:14:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2482, 5156
+[Tue Aug 20 04:17:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5153
+[Tue Aug 20 04:18:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2480, 5151
+[Tue Aug 20 04:46:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9554
+[Tue Aug 20 04:47:25 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9547
+[Tue Aug 20 04:48:26 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2677, 9546
+[Tue Aug 20 04:49:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:16 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:16 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:16 PDT 2013] Sir aaron [213.119.7.155] picked up a Magic staff, location: 2675, 9547
+[Tue Aug 20 04:49:17 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9547
+[Tue Aug 20 04:49:17 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9547
+[Tue Aug 20 04:49:17 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9547
+[Tue Aug 20 04:49:18 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9547
+[Tue Aug 20 04:50:12 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2676, 9543
+[Tue Aug 20 04:50:46 PDT 2013] Sir aaron [213.119.7.155] picked up a Nature rune, location: 2676, 9544
+[Tue Aug 20 04:50:49 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2676, 9544
+[Tue Aug 20 04:51:20 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9541
+[Tue Aug 20 04:51:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9541
+[Tue Aug 20 04:52:16 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9541
+[Tue Aug 20 05:08:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9547
+[Tue Aug 20 05:10:46 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2667, 9547
+[Tue Aug 20 05:11:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2669, 9547
+[Tue Aug 20 05:12:10 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9550
+[Tue Aug 20 05:12:58 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2677, 9549
+[Tue Aug 20 05:13:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9550
+[Tue Aug 20 05:14:08 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9548
+[Tue Aug 20 05:14:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9547
+[Tue Aug 20 05:15:19 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9547
+[Tue Aug 20 05:18:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 05:18:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9542
+[Tue Aug 20 05:19:09 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9542
+[Tue Aug 20 05:19:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 2672, 9542
+[Tue Aug 20 05:19:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2672, 9542
+[Tue Aug 20 05:19:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2672, 9542
+[Tue Aug 20 05:20:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2671, 9543
+[Tue Aug 20 05:20:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2670, 9541
+[Tue Aug 20 05:20:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2670, 9541
+[Tue Aug 20 05:20:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2670, 9541
+[Tue Aug 20 05:20:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2670, 9541
+[Tue Aug 20 05:20:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2670, 9541
+[Tue Aug 20 05:20:57 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2670, 9541
+[Tue Aug 20 05:21:23 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9544
+[Tue Aug 20 05:22:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9544
+[Tue Aug 20 05:22:35 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9545
+[Tue Aug 20 05:23:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9543
+[Tue Aug 20 05:23:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:49 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 2679, 9541
+[Tue Aug 20 05:23:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9541
+[Tue Aug 20 05:23:51 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9541
+[Tue Aug 20 05:23:51 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9541
+[Tue Aug 20 05:23:51 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2679, 9541
+[Tue Aug 20 05:25:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9542
+[Tue Aug 20 05:25:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9542
+[Tue Aug 20 05:25:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9542
+[Tue Aug 20 05:25:57 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9541
+[Tue Aug 20 06:55:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9553
+[Tue Aug 20 06:55:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9551
+[Tue Aug 20 06:56:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9549
+[Tue Aug 20 06:56:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2667, 9547
+[Tue Aug 20 06:56:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2669, 9547
+[Tue Aug 20 06:57:22 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2669, 9547
+[Tue Aug 20 06:57:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2670, 9546
+[Tue Aug 20 06:58:21 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2669, 9544
+[Tue Aug 20 06:58:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2675, 9544
+[Tue Aug 20 06:59:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2673, 9543
+[Tue Aug 20 06:59:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2674, 9543
+[Tue Aug 20 06:59:59 PDT 2013] Sir aaron [213.119.7.155] picked up a Mithril sword, location: 2672, 9543
+[Tue Aug 20 07:00:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Mithril sword, location: 2672, 9543
+[Tue Aug 20 07:00:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Mithril sword, location: 2672, 9543
+[Tue Aug 20 07:00:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2672, 9543
+[Tue Aug 20 07:00:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2672, 9543
+[Tue Aug 20 07:00:37 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2671, 9544
+[Tue Aug 20 07:01:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2677, 9544
+[Tue Aug 20 07:01:17 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9542
+[Tue Aug 20 07:01:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9543
+[Tue Aug 20 07:02:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Big bones, location: 2678, 9544
+[Tue Aug 20 07:05:20 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:21 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:22 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:25 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:26 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2842, 3488
+[Tue Aug 20 07:05:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2842, 3488
+[Tue Aug 20 07:05:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2842, 3488
+[Tue Aug 20 07:05:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2842, 3488
+[Tue Aug 20 07:05:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2842, 3488
+[Tue Aug 20 07:05:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2842, 3488
+[Tue Aug 20 07:05:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2842, 3488
+[Tue Aug 20 07:05:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2842, 3488
+[Tue Aug 20 07:05:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2842, 3488
+[Tue Aug 20 07:05:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2842, 3488
+[Tue Aug 20 07:05:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2842, 3488
+[Tue Aug 20 07:05:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2842, 3488
+[Tue Aug 20 07:05:35 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:36 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:37 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2842, 3488
+[Tue Aug 20 07:05:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2842, 3488
+[Tue Aug 20 07:05:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2842, 3488
+[Tue Aug 20 07:05:45 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2842, 3488
+[Tue Aug 20 07:05:46 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2842, 3488
+[Tue Aug 20 07:05:49 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2842, 3488
+[Tue Aug 20 07:05:57 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2842, 3488
+[Tue Aug 20 07:06:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2842, 3488
+[Tue Aug 20 07:06:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2842, 3488
+[Tue Aug 20 07:06:35 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3485
+[Tue Aug 20 07:07:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:08:20 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:09:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3487
+[Tue Aug 20 07:10:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3487
+[Tue Aug 20 07:10:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:10:51 PDT 2013] Sir aaron [213.119.7.155] picked up a Grimy lantadyme, location: 2841, 3487
+[Tue Aug 20 07:11:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Shark, location: 2841, 3486
+[Tue Aug 20 07:11:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3486
+[Tue Aug 20 07:13:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:14:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Green charm, location: 2842, 3485
+[Tue Aug 20 07:14:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3485
+[Tue Aug 20 07:15:19 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3487
+[Tue Aug 20 07:16:45 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:19:12 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3486
+[Tue Aug 20 07:34:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3488
+[Tue Aug 20 07:36:10 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:37:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3487
+[Tue Aug 20 07:38:10 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3486
+[Tue Aug 20 07:38:13 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3486
+[Tue Aug 20 07:41:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3486
+[Tue Aug 20 07:42:19 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3487
+[Tue Aug 20 07:43:25 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3487
+[Tue Aug 20 07:44:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 07:52:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2844, 3489
+[Tue Aug 20 07:53:45 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3487
+[Tue Aug 20 07:55:20 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2848, 3487
+[Tue Aug 20 07:56:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Pure essence, location: 2841, 3486
+[Tue Aug 20 07:57:00 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3486
+[Tue Aug 20 07:57:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3485
+[Tue Aug 20 07:59:22 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3489
+[Tue Aug 20 08:00:36 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3486
+[Tue Aug 20 08:02:08 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3487
+[Tue Aug 20 08:04:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3486
+[Tue Aug 20 08:05:02 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2841, 3487
+[Tue Aug 20 08:06:18 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2843, 3488
+[Tue Aug 20 08:07:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3485
+[Tue Aug 20 08:07:15 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3485
+[Tue Aug 20 08:19:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Frost dragon bones, location: 2842, 3487
+[Tue Aug 20 08:49:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Marmaros 2h sword, location: 3255, 9333
+[Tue Aug 20 08:56:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Marmaros platebody, location: 3207, 9287
+[Tue Aug 20 09:11:37 PDT 2013] Sir aaron [213.119.7.155] picked up a Marmaros maul, location: 3242, 9322
+[Tue Aug 20 09:15:49 PDT 2013] Sir aaron [213.119.7.155] picked up a Bathus maul, location: 3255, 9335
+[Tue Aug 20 09:15:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Bathus maul, location: 3255, 9335
+[Tue Aug 20 09:16:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Bathus platelegs, location: 3224, 9323
+[Tue Aug 20 11:10:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Fire cape, location: 2439, 5168
+[Tue Aug 20 11:10:14 PDT 2013] Sir aaron [213.119.7.155] picked up a Tokkul, location: 2439, 5168
+[Tue Aug 20 11:12:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon bolts (e), location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon scimitar, location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon scimitar, location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon scimitar, location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2717, 9821
+[Tue Aug 20 11:12:44 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2717, 9821
+[Tue Aug 20 11:12:45 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2717, 9821
+[Tue Aug 20 11:12:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Fire cape, location: 2717, 9821
+[Tue Aug 20 11:12:49 PDT 2013] Sir aaron [213.119.7.155] picked up a Helm of neitiznot, location: 2717, 9821
+[Tue Aug 20 11:12:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2717, 9821
+[Tue Aug 20 11:12:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Prayer potion (4), location: 2717, 9821
+[Tue Aug 20 11:12:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Toktz-ket-xil, location: 2717, 9821
+[Tue Aug 20 11:13:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Dragon boots, location: 2717, 9821
+[Tue Aug 20 11:28:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Marmaros longsword, location: 3216, 9321
+[Tue Aug 20 11:31:23 PDT 2013] Sir aaron [213.119.7.155] picked up a Bathus platebody, location: 3206, 9288
+[Tue Aug 20 11:31:23 PDT 2013] Sir aaron [213.119.7.155] picked up a Bathus platebody, location: 3206, 9288
+[Wed Aug 21 00:44:26 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3048, 9578
+[Wed Aug 21 00:44:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3048, 9584
+[Wed Aug 21 00:45:24 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3048, 9584
+[Wed Aug 21 00:45:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3046, 9589
+[Wed Aug 21 00:46:02 PDT 2013] Sir aaron [213.119.7.155] picked up a Blood rune, location: 3049, 9579
+[Wed Aug 21 00:46:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3049, 9584
+[Wed Aug 21 00:54:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3060, 9584
+[Wed Aug 21 00:55:21 PDT 2013] Sir aaron [213.119.7.155] picked up a Crimson charm, location: 3047, 9583
+[Wed Aug 21 00:56:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3055, 9583
+[Wed Aug 21 00:57:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3054, 9588
+[Wed Aug 21 00:59:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3049, 9583
+[Wed Aug 21 00:59:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3049, 9583
+[Wed Aug 21 00:59:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3049, 9583
+[Wed Aug 21 00:59:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3049, 9583
+[Wed Aug 21 00:59:48 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3049, 9583
+[Wed Aug 21 01:11:03 PDT 2013] Sir aaron [213.119.7.155] picked up a Bathus dagger, location: 3242, 9303
+[Wed Aug 21 01:23:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Marmaros maul, location: 3220, 9305
+[Wed Aug 21 05:36:18 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3052, 9585
+[Wed Aug 21 05:36:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Coins, location: 3050, 9592
+[Wed Aug 21 05:36:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3050, 9592
+[Wed Aug 21 05:37:01 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3050, 9592
+[Wed Aug 21 05:37:47 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3053, 9592
+[Wed Aug 21 05:45:34 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3048, 9589
+[Wed Aug 21 05:55:02 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3057, 9586
+[Wed Aug 21 05:55:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3059, 9585
+[Wed Aug 21 05:55:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Gold charm, location: 3058, 9585
+[Thu Aug 22 06:14:36 PDT 2013] Sir aaron [213.119.7.155] picked up a Regen bracelet, location: 2090, 4429
+[Thu Aug 22 06:19:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Coins, location: 2091, 4428
+[Thu Aug 22 06:19:57 PDT 2013] Sir aaron [213.119.7.155] picked up a Cosmic rune, location: 2091, 4428
+[Thu Aug 22 06:24:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Onyx bolts (e), location: 2091, 4428
+[Thu Aug 22 06:24:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Mystic earth staff, location: 2091, 4428
+[Thu Aug 22 06:42:25 PDT 2013] Sir aaron [213.119.7.155] picked up a Regen bracelet, location: 2461, 4783
+[Thu Aug 22 06:42:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Regen bracelet, location: 2461, 4783
+[Thu Aug 22 06:42:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Regen bracelet, location: 2461, 4783
+[Thu Aug 22 06:42:27 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2461, 4783
+[Thu Aug 22 06:42:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2461, 4783
+[Thu Aug 22 06:42:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2461, 4783
+[Thu Aug 22 06:42:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2461, 4783
+[Thu Aug 22 06:42:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2461, 4783
+[Thu Aug 22 06:42:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Archer helm, location: 2461, 4783
+[Thu Aug 22 06:42:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:29 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Granite shield, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:30 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Amulet of ranging, location: 2461, 4783
+[Thu Aug 22 06:42:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:31 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:32 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Rune c'bow, location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Ruby bolts (e), location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Ruby bolts (e), location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Ruby bolts (e), location: 2461, 4783
+[Thu Aug 22 06:42:33 PDT 2013] Sir aaron [213.119.7.155] picked up a Ruby bolts (e), location: 2461, 4783
+[Thu Aug 22 06:42:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:38 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Ava's accumulator, location: 2461, 4783
+[Thu Aug 22 06:42:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:40 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:41 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:42 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:49 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:50 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:51 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:51 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:52 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:53 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:54 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:55 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:42:56 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:04 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:07 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:08 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:08 PDT 2013] Sir aaron [213.119.7.155] picked up a Manta ray, location: 2461, 4783
+[Thu Aug 22 06:43:12 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2461, 4783
+[Thu Aug 22 06:43:12 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2461, 4783
+[Thu Aug 22 06:43:12 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2461, 4783
+[Thu Aug 22 06:43:12 PDT 2013] Sir aaron [213.119.7.155] picked up a Snakeskin boots, location: 2461, 4783
+[Thu Aug 22 07:09:05 PDT 2013] Sir aaron [213.119.7.155] picked up a Holy elixir, location: 2091, 4426
+[Thu Aug 22 07:09:11 PDT 2013] Sir aaron [213.119.7.155] picked up a Pure essence, location: 2091, 4426
+[Thu Aug 22 08:03:28 PDT 2013] Sir aaron [213.119.7.155] picked up a Spirit shield, location: 2091, 4428
+[Thu Aug 22 08:03:39 PDT 2013] Sir aaron [213.119.7.155] picked up a Regen bracelet, location: 2091, 4428
+[Thu Aug 22 08:03:43 PDT 2013] Sir aaron [213.119.7.155] picked up a Cosmic rune, location: 2091, 4428
+[Thu Aug 22 08:04:06 PDT 2013] Sir aaron [213.119.7.155] picked up a Blue charm, location: 2091, 4428

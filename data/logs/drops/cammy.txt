@@ -1,0 +1,16 @@
+[Tue Aug 20 19:48:35 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2447, 5178
+[Tue Aug 20 19:48:36 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2447, 5178
+[Tue Aug 20 19:48:37 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2447, 5178
+[Tue Aug 20 19:48:42 PDT 2013] Cammy [80.47.43.196] dropped a Super defence (1) at location: 2447, 5178
+[Tue Aug 20 19:48:44 PDT 2013] Cammy [80.47.43.196] dropped a Prayer renewal at location: 2447, 5178
+[Tue Aug 20 19:48:45 PDT 2013] Cammy [80.47.43.196] dropped a Super restore (3) at location: 2447, 5178
+[Tue Aug 20 19:48:46 PDT 2013] Cammy [80.47.43.196] dropped a Ranging potion (2) at location: 2447, 5178
+[Tue Aug 20 19:48:48 PDT 2013] Cammy [80.47.43.196] dropped a Prayer potion (2) at location: 2447, 5178
+[Tue Aug 20 19:48:49 PDT 2013] Cammy [80.47.43.196] dropped a Super restore (3) at location: 2447, 5178
+[Tue Aug 20 19:48:50 PDT 2013] Cammy [80.47.43.196] dropped a Super defence (3) at location: 2447, 5178
+[Tue Aug 20 19:48:59 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2448, 5177
+[Tue Aug 20 19:49:00 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2448, 5177
+[Tue Aug 20 19:49:03 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2448, 5177
+[Tue Aug 20 19:49:05 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2448, 5177
+[Tue Aug 20 19:49:06 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2448, 5177
+[Tue Aug 20 19:49:07 PDT 2013] Cammy [80.47.43.196] dropped a Vial at location: 2448, 5177

@@ -1,0 +1,61 @@
+[Mon Aug 19 12:14:09 PDT 2013] Asdasdsad [174.130.217.244] picked up a Manta ray, location: 3341, 3676
+[Mon Aug 19 12:14:09 PDT 2013] Asdasdsad [174.130.217.244] picked up a Manta ray, location: 3341, 3676
+[Mon Aug 19 12:14:09 PDT 2013] Asdasdsad [174.130.217.244] picked up a Manta ray, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Manta ray, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:11 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Blood rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Nature rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Nature rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Nature rune, location: 3341, 3676
+[Mon Aug 19 12:14:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Nature rune, location: 3341, 3676
+[Mon Aug 19 12:14:13 PDT 2013] Asdasdsad [174.130.217.244] picked up a Nature rune, location: 3341, 3676
+[Mon Aug 19 12:14:13 PDT 2013] Asdasdsad [174.130.217.244] picked up a Nature rune, location: 3341, 3676
+[Mon Aug 19 12:14:13 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Obsidian cape, location: 3341, 3676
+[Mon Aug 19 12:14:14 PDT 2013] Asdasdsad [174.130.217.244] picked up a Death rune, location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Death rune, location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Death rune, location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Death rune, location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Death rune, location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Death rune, location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Combat bracelet (4), location: 3341, 3676
+[Mon Aug 19 12:14:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Combat bracelet (4), location: 3341, 3676
+[Mon Aug 19 12:14:16 PDT 2013] Asdasdsad [174.130.217.244] picked up a Combat bracelet (4), location: 3341, 3676
+[Mon Aug 19 12:14:16 PDT 2013] Asdasdsad [174.130.217.244] picked up a Combat bracelet (4), location: 3341, 3676
+[Mon Aug 19 12:14:16 PDT 2013] Asdasdsad [174.130.217.244] picked up a Combat bracelet (4), location: 3341, 3676
+[Mon Aug 19 12:14:17 PDT 2013] Asdasdsad [174.130.217.244] picked up a Instruction manual, location: 3341, 3676
+[Mon Aug 19 12:14:17 PDT 2013] Asdasdsad [174.130.217.244] picked up a Instruction manual, location: 3341, 3676
+[Mon Aug 19 12:14:17 PDT 2013] Asdasdsad [174.130.217.244] picked up a Instruction manual, location: 3341, 3676
+[Mon Aug 19 12:14:17 PDT 2013] Asdasdsad [174.130.217.244] picked up a Instruction manual, location: 3341, 3676
+[Mon Aug 19 12:14:17 PDT 2013] Asdasdsad [174.130.217.244] picked up a Instruction manual, location: 3341, 3676
+[Mon Aug 19 12:14:18 PDT 2013] Asdasdsad [174.130.217.244] picked up a Instruction manual, location: 3341, 3676
+[Mon Aug 19 12:14:18 PDT 2013] Asdasdsad [174.130.217.244] picked up a Air rune, location: 3341, 3676
+[Mon Aug 19 12:14:19 PDT 2013] Asdasdsad [174.130.217.244] picked up a Anti-dragon shield, location: 3341, 3676
+[Mon Aug 19 12:14:20 PDT 2013] Asdasdsad [174.130.217.244] picked up a Iron scimitar, location: 3341, 3676
+[Mon Aug 19 12:14:34 PDT 2013] Asdasdsad [174.130.217.244] picked up a Amulet of glory (3), location: 3341, 3676
+[Mon Aug 19 12:14:48 PDT 2013] Asdasdsad [174.130.217.244] picked up a Dragon bones, location: 3336, 3674
+[Mon Aug 19 12:16:01 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3097, 3508
+[Mon Aug 19 12:16:03 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3096, 3508
+[Mon Aug 19 12:16:07 PDT 2013] Asdasdsad [174.130.217.244] picked up a Coins, location: 3100, 3510
+[Mon Aug 19 12:16:08 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3100, 3510
+[Mon Aug 19 12:16:15 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3099, 3510
+[Mon Aug 19 12:16:23 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3098, 3512
+[Mon Aug 19 12:16:51 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3097, 3512
+[Mon Aug 19 12:16:51 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3097, 3512
+[Mon Aug 19 12:17:12 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3097, 3508
+[Mon Aug 19 12:17:21 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3098, 3511
+[Mon Aug 19 12:17:22 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3096, 3510
+[Mon Aug 19 12:17:42 PDT 2013] Asdasdsad [174.130.217.244] picked up a Bones, location: 3096, 3510

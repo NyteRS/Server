@@ -1,0 +1,1488 @@
+[Mon Aug 19 14:05:42 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9733
+[Mon Aug 19 14:05:44 PDT 2013] Ice [76.30.94.165] picked up a Iron full helm, location: 2904, 9733
+[Mon Aug 19 14:05:59 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9731
+[Mon Aug 19 14:06:35 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9727
+[Mon Aug 19 14:06:38 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9727
+[Mon Aug 19 14:07:01 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9726
+[Mon Aug 19 14:07:20 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2901, 9728
+[Mon Aug 19 14:07:31 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9731
+[Mon Aug 19 14:07:45 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2909, 9727
+[Mon Aug 19 14:08:12 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2908, 9729
+[Mon Aug 19 14:08:13 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2908, 9729
+[Mon Aug 19 14:08:17 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9729
+[Mon Aug 19 14:08:29 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9730
+[Mon Aug 19 14:08:40 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2910, 9728
+[Mon Aug 19 14:08:50 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2910, 9725
+[Mon Aug 19 14:09:02 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2907, 9726
+[Mon Aug 19 14:09:34 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2910, 9725
+[Mon Aug 19 14:10:31 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2908, 9722
+[Mon Aug 19 14:10:52 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9726
+[Mon Aug 19 14:11:00 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9726
+[Mon Aug 19 14:11:17 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2901, 9729
+[Mon Aug 19 14:11:48 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9734
+[Mon Aug 19 14:11:48 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9734
+[Mon Aug 19 14:11:50 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9734
+[Mon Aug 19 14:12:00 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2901, 9735
+[Mon Aug 19 14:12:02 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9733
+[Mon Aug 19 14:12:05 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9733
+[Mon Aug 19 14:12:07 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9733
+[Mon Aug 19 14:12:38 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9732
+[Mon Aug 19 14:12:41 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9733
+[Mon Aug 19 14:12:57 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9726
+[Mon Aug 19 14:13:18 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9735
+[Mon Aug 19 14:13:46 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2901, 9736
+[Mon Aug 19 14:13:50 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2906, 9732
+[Mon Aug 19 14:14:52 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9734
+[Mon Aug 19 14:14:54 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9734
+[Mon Aug 19 14:14:57 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9734
+[Mon Aug 19 14:15:26 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9734
+[Mon Aug 19 14:15:48 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9734
+[Mon Aug 19 14:15:50 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9735
+[Mon Aug 19 14:16:11 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9734
+[Mon Aug 19 14:16:26 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2901, 9734
+[Mon Aug 19 14:16:38 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2907, 9733
+[Mon Aug 19 14:16:56 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2908, 9732
+[Mon Aug 19 14:17:34 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9733
+[Mon Aug 19 14:17:41 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9732
+[Mon Aug 19 14:18:03 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9732
+[Mon Aug 19 14:18:21 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9731
+[Mon Aug 19 14:18:46 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9730
+[Mon Aug 19 14:19:02 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9727
+[Mon Aug 19 14:19:25 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2899, 9728
+[Mon Aug 19 14:19:42 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2900, 9728
+[Mon Aug 19 14:19:55 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2901, 9732
+[Mon Aug 19 14:20:13 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9731
+[Mon Aug 19 14:20:40 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2907, 9728
+[Mon Aug 19 14:23:41 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2910, 9728
+[Mon Aug 19 14:23:55 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2906, 9729
+[Mon Aug 19 14:23:58 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2906, 9729
+[Mon Aug 19 14:24:13 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9728
+[Mon Aug 19 14:24:33 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9724
+[Mon Aug 19 14:24:51 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9726
+[Mon Aug 19 14:25:04 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2902, 9727
+[Mon Aug 19 14:25:14 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2903, 9728
+[Mon Aug 19 14:25:27 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9728
+[Mon Aug 19 14:25:53 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2908, 9726
+[Mon Aug 19 14:26:05 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2908, 9725
+[Mon Aug 19 14:26:46 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2905, 9730
+[Mon Aug 19 14:26:54 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2906, 9733
+[Mon Aug 19 14:27:02 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2904, 9732
+[Mon Aug 19 14:27:18 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2906, 9736
+[Mon Aug 19 14:27:49 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2906, 9733
+[Mon Aug 19 15:10:17 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 3423, 3549
+[Mon Aug 19 15:30:25 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3418, 3509
+[Mon Aug 19 15:32:30 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3417, 3508
+[Mon Aug 19 15:33:20 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3415, 3509
+[Mon Aug 19 15:34:01 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3415, 3508
+[Mon Aug 19 15:34:02 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3415, 3509
+[Mon Aug 19 15:34:34 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3416, 3507
+[Mon Aug 19 15:34:38 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3414, 3509
+[Mon Aug 19 15:37:07 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3417, 3509
+[Mon Aug 19 15:37:13 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3414, 3509
+[Mon Aug 19 15:37:43 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3419, 3507
+[Mon Aug 19 15:43:43 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3418, 3507
+[Mon Aug 19 15:50:34 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 3436, 3561
+[Mon Aug 19 15:53:40 PDT 2013] Ice [76.30.94.165] picked up a Adamant kiteshield, location: 3440, 3561
+[Mon Aug 19 17:39:18 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3334, 3690
+[Mon Aug 19 17:39:54 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3331, 3679
+[Mon Aug 19 17:40:19 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3329, 3680
+[Mon Aug 19 19:18:11 PDT 2013] Ice [76.30.94.165] picked up a Black 2h sword, location: 2841, 9552
+[Mon Aug 19 19:22:29 PDT 2013] Ice [76.30.94.165] picked up a Mystic robes set, location: 2996, 3386
+[Mon Aug 19 19:34:12 PDT 2013] Ice [76.30.94.165] picked up a Death rune, location: 2758, 10009
+[Mon Aug 19 19:36:06 PDT 2013] Ice [76.30.94.165] picked up a Fire rune, location: 2759, 10005
+[Mon Aug 19 19:44:36 PDT 2013] Ice [76.30.94.165] picked up a Fire rune, location: 2761, 10011
+[Mon Aug 19 19:48:09 PDT 2013] Ice [76.30.94.165] picked up a Staff of fire, location: 2758, 10008
+[Mon Aug 19 19:48:12 PDT 2013] Ice [76.30.94.165] picked up a Fire rune, location: 2758, 10008
+[Mon Aug 19 19:48:14 PDT 2013] Ice [76.30.94.165] picked up a Fire rune, location: 2758, 10010
+[Mon Aug 19 19:52:16 PDT 2013] Ice [76.30.94.165] picked up a Fire rune, location: 2760, 10009
+[Mon Aug 19 19:52:17 PDT 2013] Ice [76.30.94.165] picked up a Fire rune, location: 2759, 10009
+[Tue Aug 20 05:00:15 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2971, 3916
+[Tue Aug 20 05:01:12 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2978, 3920
+[Tue Aug 20 05:01:13 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2978, 3920
+[Tue Aug 20 05:02:09 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3916
+[Tue Aug 20 05:02:12 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2963, 3916
+[Tue Aug 20 05:03:05 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3916
+[Tue Aug 20 05:03:07 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2967, 3916
+[Tue Aug 20 05:03:56 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2961, 3916
+[Tue Aug 20 05:03:57 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3916
+[Tue Aug 20 05:04:00 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3916
+[Tue Aug 20 05:04:41 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3912
+[Tue Aug 20 05:05:25 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3918
+[Tue Aug 20 05:06:13 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3914
+[Tue Aug 20 05:07:07 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3918
+[Tue Aug 20 05:08:07 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2962, 3911
+[Tue Aug 20 05:08:58 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2962, 3911
+[Tue Aug 20 05:09:09 PDT 2013] Ice [76.30.94.165] picked up a Shark, location: 2961, 3913
+[Tue Aug 20 05:09:10 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3913
+[Tue Aug 20 05:11:08 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2962, 3911
+[Tue Aug 20 05:11:09 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2962, 3911
+[Tue Aug 20 05:12:12 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2962, 3911
+[Tue Aug 20 05:12:15 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2962, 3911
+[Tue Aug 20 05:17:23 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2971, 3918
+[Tue Aug 20 05:17:57 PDT 2013] Ice [76.30.94.165] picked up a Shark, location: 2972, 3918
+[Tue Aug 20 05:17:58 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2972, 3918
+[Tue Aug 20 05:18:02 PDT 2013] Ice [76.30.94.165] picked up a Shark, location: 2972, 3918
+[Tue Aug 20 05:18:49 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2970, 3919
+[Tue Aug 20 05:18:50 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2970, 3919
+[Tue Aug 20 05:19:36 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2979, 3920
+[Tue Aug 20 05:20:16 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2969, 3914
+[Tue Aug 20 05:21:00 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2968, 3919
+[Tue Aug 20 05:21:02 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2968, 3919
+[Tue Aug 20 05:21:45 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2963, 3918
+[Tue Aug 20 05:21:47 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3918
+[Tue Aug 20 05:22:11 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2961, 3914
+[Tue Aug 20 05:22:15 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3914
+[Tue Aug 20 05:22:18 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2961, 3914
+[Tue Aug 20 05:22:46 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3915
+[Tue Aug 20 05:22:51 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2961, 3915
+[Tue Aug 20 05:23:23 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3912
+[Tue Aug 20 05:24:12 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3916
+[Tue Aug 20 05:24:47 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3912
+[Tue Aug 20 05:25:31 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3913
+[Tue Aug 20 05:26:26 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2962, 3911
+[Tue Aug 20 05:27:24 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2962, 3911
+[Tue Aug 20 05:28:11 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2961, 3913
+[Tue Aug 20 05:28:13 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3913
+[Tue Aug 20 05:29:00 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2962, 3912
+[Tue Aug 20 05:29:02 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2962, 3912
+[Tue Aug 20 10:17:38 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2971, 3918
+[Tue Aug 20 10:18:35 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2969, 3917
+[Tue Aug 20 10:18:37 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2969, 3917
+[Tue Aug 20 10:19:17 PDT 2013] Ice [76.30.94.165] picked up a Limpwurt root, location: 2961, 3916
+[Tue Aug 20 10:19:18 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3916
+[Tue Aug 20 10:19:57 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3916
+[Tue Aug 20 10:20:44 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3918
+[Tue Aug 20 10:20:46 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2961, 3918
+[Tue Aug 20 10:21:28 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2967, 3917
+[Tue Aug 20 10:21:30 PDT 2013] Ice [76.30.94.165] picked up a Body talisman, location: 2967, 3916
+[Tue Aug 20 10:21:32 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2967, 3917
+[Tue Aug 20 10:21:46 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3917
+[Tue Aug 20 10:22:14 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3916
+[Tue Aug 20 10:22:53 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2967, 3918
+[Tue Aug 20 10:22:57 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2967, 3918
+[Tue Aug 20 10:22:59 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3918
+[Tue Aug 20 10:24:20 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3917
+[Tue Aug 20 10:24:23 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2967, 3917
+[Tue Aug 20 10:25:16 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2961, 3917
+[Tue Aug 20 10:25:19 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2961, 3917
+[Tue Aug 20 10:26:02 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3919
+[Tue Aug 20 10:26:10 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2967, 3919
+[Tue Aug 20 10:27:03 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2963, 3918
+[Tue Aug 20 10:27:07 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2963, 3918
+[Tue Aug 20 10:27:55 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2967, 3918
+[Tue Aug 20 10:27:58 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2967, 3918
+[Tue Aug 20 10:28:02 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2967, 3918
+[Tue Aug 20 10:29:11 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2983, 3912
+[Tue Aug 20 10:29:13 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2983, 3912
+[Tue Aug 20 10:29:14 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2983, 3912
+[Tue Aug 20 10:29:56 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2985, 3912
+[Tue Aug 20 10:29:58 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2985, 3912
+[Tue Aug 20 10:30:48 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2979, 3919
+[Tue Aug 20 10:30:50 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2979, 3919
+[Tue Aug 20 10:30:52 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2979, 3919
+[Tue Aug 20 10:30:53 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2979, 3919
+[Tue Aug 20 10:31:42 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2983, 3914
+[Tue Aug 20 10:31:44 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2983, 3914
+[Tue Aug 20 10:32:16 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2981, 3920
+[Tue Aug 20 10:32:18 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2981, 3920
+[Tue Aug 20 10:32:54 PDT 2013] Ice [76.30.94.165] picked up a Frost dragon bones, location: 2985, 3914
+[Tue Aug 20 10:32:56 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2985, 3914
+[Tue Aug 20 10:35:57 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2714, 9814
+[Tue Aug 20 10:54:26 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 3555, 9713
+[Tue Aug 20 10:54:28 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 3555, 9713
+[Tue Aug 20 10:54:29 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 3555, 9713
+[Tue Aug 20 10:54:29 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 3555, 9713
+[Tue Aug 20 10:54:30 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:30 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3555, 9713
+[Tue Aug 20 10:54:31 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3555, 9713
+[Tue Aug 20 10:54:31 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3555, 9713
+[Tue Aug 20 10:54:31 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3555, 9713
+[Tue Aug 20 10:54:31 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3555, 9713
+[Tue Aug 20 10:54:31 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 3555, 9713
+[Tue Aug 20 10:54:31 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 3555, 9713
+[Tue Aug 20 10:54:32 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 3555, 9713
+[Tue Aug 20 10:54:32 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 3555, 9713
+[Tue Aug 20 10:54:32 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 3555, 9713
+[Tue Aug 20 10:54:33 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 3555, 9713
+[Tue Aug 20 10:54:33 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 3555, 9713
+[Tue Aug 20 10:54:33 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 3555, 9713
+[Tue Aug 20 10:54:33 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 3555, 9713
+[Tue Aug 20 10:54:33 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 3555, 9713
+[Tue Aug 20 10:54:33 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 3555, 9713
+[Tue Aug 20 10:54:34 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 3555, 9713
+[Tue Aug 20 10:54:34 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 3555, 9713
+[Tue Aug 20 10:54:34 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 3555, 9713
+[Tue Aug 20 10:54:34 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 3555, 9713
+[Tue Aug 20 10:54:34 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 3555, 9713
+[Tue Aug 20 10:54:34 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 3555, 9713
+[Tue Aug 20 10:54:35 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 3555, 9713
+[Tue Aug 20 10:54:35 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 3555, 9713
+[Tue Aug 20 10:54:36 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 3555, 9713
+[Tue Aug 20 10:54:36 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 3555, 9713
+[Tue Aug 20 10:54:36 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 3555, 9713
+[Tue Aug 20 10:54:36 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 3555, 9713
+[Tue Aug 20 10:54:36 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 3555, 9713
+[Tue Aug 20 10:54:36 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 3555, 9713
+[Tue Aug 20 10:54:37 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 3555, 9713
+[Tue Aug 20 10:54:37 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 3555, 9713
+[Tue Aug 20 10:54:37 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 3555, 9713
+[Tue Aug 20 10:54:37 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 3555, 9713
+[Tue Aug 20 10:54:37 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:38 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:38 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:38 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:40 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3555, 9713
+[Tue Aug 20 10:54:41 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 3555, 9713
+[Tue Aug 20 10:54:43 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 3555, 9713
+[Tue Aug 20 10:54:44 PDT 2013] Ice [76.30.94.165] picked up a Spade, location: 3555, 9713
+[Tue Aug 20 12:33:20 PDT 2013] Ice [76.30.94.165] picked up a Dragon boots, location: 2870, 5308
+[Tue Aug 20 13:20:22 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:22 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:22 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:23 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:23 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3540
+[Tue Aug 20 13:20:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3540
+[Tue Aug 20 13:20:25 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3540
+[Tue Aug 20 13:20:25 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3540
+[Tue Aug 20 13:20:25 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3540
+[Tue Aug 20 13:20:25 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3540
+[Tue Aug 20 13:20:28 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3540
+[Tue Aug 20 13:20:58 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3538
+[Tue Aug 20 13:20:58 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3538
+[Tue Aug 20 13:20:58 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3538
+[Tue Aug 20 13:20:59 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3538
+[Tue Aug 20 13:20:59 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3538
+[Tue Aug 20 13:21:00 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3538
+[Tue Aug 20 13:21:00 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:00 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:00 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:00 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:00 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3538
+[Tue Aug 20 13:21:03 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2850, 3538
+[Tue Aug 20 13:21:03 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2850, 3538
+[Tue Aug 20 13:21:23 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:21:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:21:25 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:25 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:27 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:27 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:21:28 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:21:28 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:21:29 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:22:01 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2852, 3538
+[Tue Aug 20 13:22:02 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2852, 3538
+[Tue Aug 20 13:22:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:04 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:22:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:22:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:22:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:22:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:22:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:23:41 PDT 2013] Ice [76.30.94.165] picked up a Mithril dagger, location: 2849, 3543
+[Tue Aug 20 13:24:13 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2850, 3541
+[Tue Aug 20 13:25:58 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:25:59 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:26:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:01 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:02 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:26:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:26:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:26:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:26:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:26:03 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:26:04 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:26:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:26:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:26:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:26:04 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:26:05 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:27:04 PDT 2013] Ice [76.30.94.165] picked up a Grimy harralander, location: 2850, 3541
+[Tue Aug 20 13:28:00 PDT 2013] Ice [76.30.94.165] picked up a Bronze defender, location: 2852, 3539
+[Tue Aug 20 13:31:13 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3539
+[Tue Aug 20 13:31:13 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2850, 3539
+[Tue Aug 20 13:31:14 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3539
+[Tue Aug 20 13:31:15 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3539
+[Tue Aug 20 13:31:15 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3539
+[Tue Aug 20 13:31:15 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2850, 3539
+[Tue Aug 20 13:31:16 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2850, 3539
+[Tue Aug 20 13:31:16 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2850, 3539
+[Tue Aug 20 13:31:16 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2850, 3539
+[Tue Aug 20 13:31:17 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2850, 3539
+[Tue Aug 20 13:31:48 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3539
+[Tue Aug 20 13:31:49 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3539
+[Tue Aug 20 13:31:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:51 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:51 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:31:51 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:31:51 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:31:51 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:31:51 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:31:52 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:31:52 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3539
+[Tue Aug 20 13:31:52 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3539
+[Tue Aug 20 13:31:53 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3539
+[Tue Aug 20 13:31:53 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3539
+[Tue Aug 20 13:31:53 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3539
+[Tue Aug 20 13:33:14 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:33:14 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:14 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:14 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:15 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:15 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:16 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:16 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:33:16 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:33:16 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:33:16 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:33:16 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:33:17 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:33:17 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:33:19 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:33:19 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:33:19 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:33:19 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:33:19 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:33:20 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:33:20 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:34:10 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:34:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:34:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:34:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:34:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:34:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:34:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:13 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:13 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:13 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:13 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:34:13 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:34:14 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:34:14 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:34:14 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:34:15 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:34:16 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:34:16 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:34:16 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:34:16 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:34:16 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:34:17 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:35:23 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:35:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:35:25 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:35:25 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:35:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:35:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:35:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:35:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:35:26 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:35:27 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:35:27 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:35:27 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:36:04 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:05 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:36:05 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:36:05 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:05 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:36:06 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:36:06 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:36:06 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:07 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:07 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:07 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:07 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:07 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:36:08 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:36:08 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:36:08 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:36:08 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:36:08 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:36:49 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:36:51 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:36:51 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:52 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:52 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:52 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:52 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:36:52 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:37:06 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:38:09 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:38:10 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:38:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:38:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:38:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:38:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:38:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:38:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:38:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:39:49 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:49 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:51 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:51 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2852, 3538
+[Tue Aug 20 13:39:51 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2852, 3538
+[Tue Aug 20 13:39:56 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:39:56 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2852, 3538
+[Tue Aug 20 13:40:32 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:40:33 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:40:34 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:40:35 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:40:35 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:40:36 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:40:37 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:40:38 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:40:38 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:40:38 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:41:24 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3539
+[Tue Aug 20 13:41:25 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:41:25 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:41:26 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3539
+[Tue Aug 20 13:41:27 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3539
+[Tue Aug 20 13:41:27 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3539
+[Tue Aug 20 13:41:27 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3539
+[Tue Aug 20 13:41:28 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3539
+[Tue Aug 20 13:41:28 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:41:29 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3539
+[Tue Aug 20 13:42:08 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2851, 3538
+[Tue Aug 20 13:42:09 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2851, 3538
+[Tue Aug 20 13:42:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:11 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:12 PDT 2013] Ice [76.30.94.165] picked up a Rune platelegs, location: 2851, 3538
+[Tue Aug 20 13:42:12 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:42:12 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:42:12 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:42:12 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:42:13 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:42:13 PDT 2013] Ice [76.30.94.165] picked up a Warrior guild token, location: 2851, 3538
+[Tue Aug 20 13:43:14 PDT 2013] Ice [76.30.94.165] picked up a Iron defender, location: 2851, 3541
+[Tue Aug 20 13:52:35 PDT 2013] Ice [76.30.94.165] picked up a Iron defender, location: 2851, 3541
+[Tue Aug 20 13:52:43 PDT 2013] Ice [76.30.94.165] picked up a Iron defender, location: 2851, 3541
+[Tue Aug 20 13:52:47 PDT 2013] Ice [76.30.94.165] picked up a Iron defender, location: 2851, 3541
+[Tue Aug 20 13:56:05 PDT 2013] Ice [76.30.94.165] picked up a Steel defender, location: 2853, 3535
+[Tue Aug 20 14:03:01 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2850, 3539
+[Tue Aug 20 14:09:34 PDT 2013] Ice [76.30.94.165] picked up a Black defender, location: 2846, 3548
+[Tue Aug 20 14:42:34 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2913, 9736
+[Tue Aug 20 14:42:36 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2913, 9736
+[Tue Aug 20 14:46:22 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2901, 9734
+[Tue Aug 20 14:48:25 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2902, 9730
+[Tue Aug 20 14:49:14 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2903, 9729
+[Tue Aug 20 14:51:07 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2908, 9735
+[Tue Aug 20 14:53:57 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2901, 9734
+[Tue Aug 20 14:56:21 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2902, 9732
+[Tue Aug 20 14:57:13 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2906, 9732
+[Tue Aug 20 14:59:05 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2905, 9735
+[Tue Aug 20 16:04:59 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3418, 3510
+[Tue Aug 20 16:07:11 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3416, 3509
+[Tue Aug 20 16:07:21 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3417, 3508
+[Tue Aug 20 16:08:56 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3413, 3510
+[Tue Aug 20 16:11:34 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3414, 3511
+[Tue Aug 20 16:14:14 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3420, 3507
+[Tue Aug 20 16:14:16 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 3417, 3509
+[Tue Aug 20 16:17:14 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3047, 9583
+[Tue Aug 20 16:18:48 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3047, 9580
+[Tue Aug 20 16:19:10 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3051, 9579
+[Tue Aug 20 17:10:00 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3051, 9584
+[Tue Aug 20 17:11:37 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3047, 9581
+[Tue Aug 20 17:13:49 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3053, 9591
+[Tue Aug 20 17:29:27 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:27 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:27 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:28 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:28 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:28 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:29 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2470, 4775
+[Tue Aug 20 17:29:29 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:29 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2470, 4775
+[Tue Aug 20 17:29:30 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2470, 4775
+[Tue Aug 20 17:29:31 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2470, 4775
+[Tue Aug 20 17:29:31 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2470, 4775
+[Tue Aug 20 17:29:31 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2470, 4775
+[Tue Aug 20 17:29:41 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:41 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:41 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:42 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:42 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:42 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:42 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:42 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2470, 4775
+[Tue Aug 20 17:29:42 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 2470, 4775
+[Tue Aug 20 17:29:43 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 2470, 4775
+[Tue Aug 20 17:29:43 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 2470, 4775
+[Tue Aug 20 17:29:43 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 2470, 4775
+[Tue Aug 20 17:29:43 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 2470, 4775
+[Tue Aug 20 17:29:45 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:48 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:49 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:49 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2470, 4775
+[Tue Aug 20 17:29:49 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2470, 4775
+[Tue Aug 20 17:29:49 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2470, 4775
+[Tue Aug 20 17:29:49 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2470, 4775
+[Tue Aug 20 17:29:49 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2470, 4775
+[Tue Aug 20 17:29:50 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2470, 4775
+[Tue Aug 20 17:29:50 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2470, 4775
+[Tue Aug 20 17:29:50 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2470, 4775
+[Tue Aug 20 17:29:51 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2470, 4775
+[Tue Aug 20 17:29:51 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2470, 4775
+[Tue Aug 20 17:29:51 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2470, 4775
+[Tue Aug 20 17:29:51 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2470, 4775
+[Tue Aug 20 17:29:51 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:51 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:52 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:52 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:52 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:53 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:53 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:53 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:29:54 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2470, 4775
+[Tue Aug 20 17:29:55 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2470, 4775
+[Tue Aug 20 17:30:03 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:04 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2470, 4775
+[Tue Aug 20 17:30:05 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2470, 4775
+[Tue Aug 20 17:30:10 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:10 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:11 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (1), location: 2470, 4775
+[Tue Aug 20 17:30:13 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (1), location: 2470, 4775
+[Tue Aug 20 17:30:14 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:14 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:16 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2469, 4774
+[Tue Aug 20 17:30:16 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:19 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:19 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:21 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:21 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:30 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:30:42 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2470, 4775
+[Tue Aug 20 17:34:07 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2094, 4427
+[Tue Aug 20 17:34:08 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2094, 4427
+[Tue Aug 20 17:34:09 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:09 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:10 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:10 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:10 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:10 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:10 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:10 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:11 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:11 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:14 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2094, 4427
+[Tue Aug 20 17:34:14 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2094, 4427
+[Tue Aug 20 17:34:37 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:37 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:37 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (1), location: 2094, 4427
+[Tue Aug 20 17:34:38 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:39 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:40 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:40 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:34:40 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2094, 4427
+[Tue Aug 20 17:34:41 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide body, location: 2094, 4427
+[Tue Aug 20 17:34:42 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2094, 4427
+[Tue Aug 20 17:35:04 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2094, 4427
+[Tue Aug 20 17:35:05 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2094, 4427
+[Tue Aug 20 17:35:07 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2094, 4427
+[Tue Aug 20 17:35:09 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2094, 4427
+[Tue Aug 20 17:35:12 PDT 2013] Ice [76.30.94.165] picked up a Black d'hide chaps, location: 2094, 4427
+[Tue Aug 20 17:35:35 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:35:36 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 2094, 4427
+[Tue Aug 20 17:35:37 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2094, 4427
+[Tue Aug 20 17:45:01 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3047, 9582
+[Tue Aug 20 17:45:04 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3046, 9580
+[Tue Aug 20 17:45:10 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3047, 9582
+[Tue Aug 20 17:45:13 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3046, 9580
+[Tue Aug 20 17:49:59 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3054, 9573
+[Tue Aug 20 17:51:51 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3047, 9584
+[Tue Aug 20 17:55:21 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3339, 3675
+[Tue Aug 20 17:55:50 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3332, 3676
+[Tue Aug 20 17:56:16 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3332, 3676
+[Tue Aug 20 17:57:31 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3331, 3678
+[Tue Aug 20 17:59:05 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3331, 3676
+[Tue Aug 20 17:59:10 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3328, 3677
+[Tue Aug 20 17:59:22 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3329, 3676
+[Tue Aug 20 17:59:25 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3329, 3676
+[Tue Aug 20 18:02:13 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3331, 3677
+[Tue Aug 20 18:02:40 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3327, 3670
+[Tue Aug 20 18:06:50 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3326, 3677
+[Tue Aug 20 18:07:24 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3332, 3677
+[Tue Aug 20 18:07:33 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3332, 3677
+[Tue Aug 20 18:08:49 PDT 2013] Ice [76.30.94.165] picked up a Dragon bones, location: 3332, 3677
+[Tue Aug 20 18:09:56 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3332, 3678
+[Tue Aug 20 18:15:09 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3330, 3678
+[Tue Aug 20 18:15:23 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3326, 3676
+[Tue Aug 20 18:58:33 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2904, 9735
+[Tue Aug 20 18:58:48 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2898, 9736
+[Tue Aug 20 19:00:17 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2908, 9731
+[Tue Aug 20 19:00:26 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2906, 9730
+[Tue Aug 20 19:00:40 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2906, 9730
+[Tue Aug 20 19:01:50 PDT 2013] Ice [76.30.94.165] picked up a Steel longsword, location: 2905, 9729
+[Tue Aug 20 19:05:45 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2909, 9732
+[Tue Aug 20 19:08:22 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3045, 9579
+[Tue Aug 20 19:08:25 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3045, 9582
+[Tue Aug 20 19:09:24 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3050, 9579
+[Tue Aug 20 19:11:02 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3045, 9578
+[Tue Aug 20 19:11:54 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3046, 9581
+[Tue Aug 20 19:11:57 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 3040, 9582
+[Tue Aug 20 19:11:58 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 3040, 9582
+[Tue Aug 20 19:12:18 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3041, 9581
+[Tue Aug 20 19:12:21 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3041, 9581
+[Tue Aug 20 19:12:42 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3040, 9586
+[Tue Aug 20 19:13:47 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3056, 9576
+[Tue Aug 20 19:14:41 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3052, 9579
+[Tue Aug 20 19:15:04 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3056, 9575
+[Tue Aug 20 19:15:26 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3054, 9579
+[Tue Aug 20 19:15:54 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3056, 9576
+[Tue Aug 20 19:17:35 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3054, 9578
+[Tue Aug 20 19:17:52 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3055, 9580
+[Tue Aug 20 19:17:55 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3055, 9579
+[Tue Aug 20 19:19:08 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3053, 9575
+[Tue Aug 20 19:19:24 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3052, 9576
+[Tue Aug 20 19:21:37 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3055, 9576
+[Tue Aug 20 19:21:53 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3056, 9577
+[Tue Aug 20 19:22:33 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3053, 9578
+[Tue Aug 20 19:22:49 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3056, 9580
+[Tue Aug 20 19:22:59 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3054, 9575
+[Tue Aug 20 19:23:32 PDT 2013] Ice [76.30.94.165] picked up a Ranarr seed, location: 3053, 9578
+[Tue Aug 20 19:24:04 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3050, 9576
+[Tue Aug 20 19:24:26 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3052, 9580
+[Tue Aug 20 19:25:18 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3050, 9575
+[Tue Aug 20 19:27:49 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3049, 9575
+[Tue Aug 20 19:29:05 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3060, 9580
+[Tue Aug 20 19:30:47 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3053, 9577
+[Tue Aug 20 19:32:34 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 3056, 9576
+[Tue Aug 20 19:34:52 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2836, 9558
+[Tue Aug 20 19:36:51 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2837, 9556
+[Tue Aug 20 19:47:46 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2837, 9559
+[Tue Aug 20 19:50:23 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2835, 9560
+[Tue Aug 20 19:56:26 PDT 2013] Ice [76.30.94.165] picked up a Starved ancient effigy, location: 2761, 10000
+[Tue Aug 20 19:56:29 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2761, 10000
+[Tue Aug 20 20:01:33 PDT 2013] Ice [76.30.94.165] picked up a Adamant med helm, location: 2760, 10008
+[Tue Aug 20 20:03:33 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2763, 10008
+[Tue Aug 20 20:04:35 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2758, 10006
+[Tue Aug 20 20:05:17 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2759, 10004
+[Tue Aug 20 20:07:53 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2759, 10001
+[Tue Aug 20 20:09:10 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2762, 10007
+[Tue Aug 20 20:11:09 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2762, 10008
+[Tue Aug 20 20:31:34 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2837, 9555
+[Tue Aug 20 20:42:08 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3121, 9670
+[Tue Aug 20 20:47:20 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3124, 9658
+[Tue Aug 20 20:48:26 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 3123, 9657
+[Tue Aug 20 20:51:08 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3124, 9658
+[Tue Aug 20 20:59:42 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2708, 10030
+[Tue Aug 20 20:59:45 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2708, 10030
+[Tue Aug 20 21:00:00 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2708, 10029
+[Tue Aug 20 21:00:17 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2705, 10030
+[Tue Aug 20 21:00:41 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2705, 10030
+[Tue Aug 20 21:55:29 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2702, 10025
+[Tue Aug 20 21:56:06 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2702, 10025
+[Tue Aug 20 21:57:07 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2704, 10031
+[Tue Aug 20 22:00:17 PDT 2013] Ice [76.30.94.165] picked up a Rune full helm, location: 2701, 10030
+[Tue Aug 20 22:00:19 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2701, 10030
+[Tue Aug 20 22:02:39 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2702, 10020
+[Tue Aug 20 22:02:39 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2702, 10020
+[Tue Aug 20 22:13:36 PDT 2013] Ice [76.30.94.165] picked up a Leaf-bladed spear, location: 2722, 10008
+[Tue Aug 20 22:15:20 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2729, 10002
+[Tue Aug 20 22:15:44 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2728, 10004
+[Tue Aug 20 22:17:47 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2729, 10000
+[Tue Aug 20 22:19:51 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2723, 10006
+[Tue Aug 20 22:22:10 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2723, 10006
+[Tue Aug 20 22:40:26 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2516, 4649
+[Tue Aug 20 22:40:48 PDT 2013] Ice [76.30.94.165] picked up a Bones, location: 2517, 4650
+[Tue Aug 20 22:40:50 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2517, 4650
+[Tue Aug 20 22:40:58 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2517, 4650
+[Tue Aug 20 22:42:34 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 2517, 4649
+[Tue Aug 20 22:42:36 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2517, 4649
+[Tue Aug 20 22:42:37 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 2515, 4648
+[Tue Aug 20 22:42:39 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2517, 4648
+[Tue Aug 20 22:42:42 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2516, 4650
+[Tue Aug 20 22:44:02 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2516, 4649
+[Tue Aug 20 22:44:03 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2516, 4651
+[Tue Aug 20 22:44:05 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 2516, 4648
+[Tue Aug 20 22:47:04 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 2515, 4648
+[Tue Aug 20 22:48:14 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2516, 4648
+[Tue Aug 20 22:48:17 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2515, 4650
+[Tue Aug 20 22:48:22 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2515, 4650
+[Tue Aug 20 22:52:21 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2518, 4645
+[Tue Aug 20 22:52:23 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2518, 4646
+[Tue Aug 20 22:52:28 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2517, 4645
+[Tue Aug 20 22:53:19 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2518, 4645
+[Tue Aug 20 22:53:25 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2517, 4646
+[Tue Aug 20 22:53:28 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2518, 4648
+[Tue Aug 20 22:54:59 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2519, 4648
+[Tue Aug 20 23:01:19 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2517, 4647
+[Tue Aug 20 23:01:26 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2517, 4648
+[Tue Aug 20 23:07:29 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3018, 3924
+[Tue Aug 20 23:09:17 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3044, 3946
+[Tue Aug 20 23:10:25 PDT 2013] Ice [76.30.94.165] picked up a Armadyl totem, location: 3013, 3949
+[Tue Aug 20 23:11:26 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3020, 3914
+[Tue Aug 20 23:13:24 PDT 2013] Ice [76.30.94.165] picked up a Armadyl totem, location: 3017, 3947
+[Tue Aug 20 23:15:28 PDT 2013] Ice [76.30.94.165] picked up a Bandos statuette, location: 3044, 3946
+[Tue Aug 20 23:17:49 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's hood, location: 3011, 3953
+[Tue Aug 20 23:18:52 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3019, 3915
+[Tue Aug 20 23:22:12 PDT 2013] Ice [76.30.94.165] picked up a Armadyl statuette, location: 3013, 3949
+[Tue Aug 20 23:24:28 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's coif, location: 3015, 3940
+[Tue Aug 20 23:25:43 PDT 2013] Ice [76.30.94.165] picked up a Bandos statuette, location: 3018, 3914
+[Tue Aug 20 23:29:12 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3018, 3948
+[Tue Aug 20 23:30:17 PDT 2013] Ice [76.30.94.165] picked up a Bronzed dragon claw, location: 3004, 3921
+[Tue Aug 20 23:31:17 PDT 2013] Ice [76.30.94.165] picked up a Bandos statuette, location: 3015, 3948
+[Tue Aug 20 23:38:22 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3015, 3948
+[Tue Aug 20 23:39:38 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's staff, location: 3059, 3945
+[Tue Aug 20 23:39:41 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's staff, location: 3059, 3945
+[Tue Aug 20 23:39:41 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's staff, location: 3059, 3945
+[Tue Aug 20 23:45:03 PDT 2013] Ice [76.30.94.165] picked up a Bronzed dragon claw, location: 3018, 3914
+[Tue Aug 20 23:46:32 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's javelin, location: 3015, 3948
+[Tue Aug 20 23:49:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's hood, location: 3018, 3914
+[Tue Aug 20 23:52:57 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's leather body, location: 3015, 3948
+[Tue Aug 20 23:52:59 PDT 2013] Ice [76.30.94.165] picked up a Zamorak medallion, location: 3015, 3948
+[Tue Aug 20 23:53:01 PDT 2013] Ice [76.30.94.165] picked up a Zamorak medallion, location: 3015, 3948
+[Tue Aug 20 23:53:52 PDT 2013] Ice [76.30.94.165] picked up a Bandos scrimshaw, location: 3019, 3915
+[Tue Aug 20 23:57:17 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's robe top, location: 3015, 3948
+[Tue Aug 20 23:58:12 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3018, 3914
+[Tue Aug 20 23:59:17 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's javelin, location: 3015, 3948
+[Tue Aug 20 23:59:20 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's robe top, location: 3015, 3948
+[Wed Aug 21 00:00:20 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3014, 3929
+[Wed Aug 21 00:01:30 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's staff, location: 3015, 3948
+[Wed Aug 21 00:05:51 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's throwing axe, location: 3020, 3914
+[Wed Aug 21 00:06:50 PDT 2013] Ice [76.30.94.165] picked up a Bandos statuette, location: 3017, 3941
+[Wed Aug 21 00:08:44 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3015, 3939
+[Wed Aug 21 00:09:48 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3914
+[Wed Aug 21 00:13:32 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's hood, location: 3011, 3951
+[Wed Aug 21 00:17:13 PDT 2013] Ice [76.30.94.165] picked up a Zamorak statuette, location: 3018, 3914
+[Wed Aug 21 00:17:16 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's robe top, location: 3018, 3914
+[Wed Aug 21 00:20:22 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3018, 3914
+[Wed Aug 21 00:22:13 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3014, 3929
+[Wed Aug 21 00:23:11 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's throwing axe, location: 3017, 3941
+[Wed Aug 21 00:24:30 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3057, 3947
+[Wed Aug 21 11:02:32 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3083, 3506
+[Wed Aug 21 11:02:46 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3083, 3506
+[Wed Aug 21 11:06:36 PDT 2013] Ice [76.30.94.165] picked up a Guthixian brazier, location: 3019, 3915
+[Wed Aug 21 11:06:38 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3019, 3915
+[Wed Aug 21 11:10:25 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3018, 3914
+[Wed Aug 21 11:12:31 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3019, 3915
+[Wed Aug 21 11:15:10 PDT 2013] Ice [76.30.94.165] picked up a C. morrigan's throwing axe, location: 3019, 3913
+[Wed Aug 21 11:15:12 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3019, 3913
+[Wed Aug 21 11:15:14 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3019, 3913
+[Wed Aug 21 11:16:55 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3914
+[Wed Aug 21 11:16:55 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3914
+[Wed Aug 21 11:16:57 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3914
+[Wed Aug 21 11:18:04 PDT 2013] Ice [76.30.94.165] picked up a Armadyl totem, location: 3019, 3947
+[Wed Aug 21 11:21:36 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3018, 3914
+[Wed Aug 21 11:21:37 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3018, 3914
+[Wed Aug 21 11:22:49 PDT 2013] Ice [76.30.94.165] picked up a Saradomin carving, location: 3015, 3948
+[Wed Aug 21 11:22:52 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's hood, location: 3015, 3948
+[Wed Aug 21 11:24:47 PDT 2013] Ice [76.30.94.165] picked up a Ancient psaltery bridge, location: 3015, 3930
+[Wed Aug 21 11:24:48 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's robe top, location: 3015, 3930
+[Wed Aug 21 11:33:39 PDT 2013] Ice [76.30.94.165] picked up a Ancient psaltery bridge, location: 3018, 3914
+[Wed Aug 21 11:34:56 PDT 2013] Ice [76.30.94.165] picked up a C. morrigan's throwing axe, location: 3017, 3941
+[Wed Aug 21 11:34:58 PDT 2013] Ice [76.30.94.165] picked up a Ancient psaltery bridge, location: 3017, 3941
+[Wed Aug 21 11:35:52 PDT 2013] Ice [76.30.94.165] picked up a Zamorak medallion, location: 3018, 3914
+[Wed Aug 21 11:47:32 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3016, 3941
+[Wed Aug 21 11:47:34 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's javelin, location: 3016, 3941
+[Wed Aug 21 11:47:35 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's staff, location: 3016, 3941
+[Wed Aug 21 11:47:35 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's staff, location: 3016, 3941
+[Wed Aug 21 11:47:37 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's staff, location: 3016, 3941
+[Wed Aug 21 11:48:48 PDT 2013] Ice [76.30.94.165] picked up a Vesta's platebody, location: 3018, 3914
+[Wed Aug 21 11:48:51 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3914
+[Wed Aug 21 11:48:52 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3914
+[Wed Aug 21 11:50:05 PDT 2013] Ice [76.30.94.165] picked up a Bandos scrimshaw, location: 3018, 3940
+[Wed Aug 21 11:52:29 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's robe top, location: 3015, 3939
+[Wed Aug 21 11:52:31 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3015, 3939
+[Wed Aug 21 11:53:25 PDT 2013] Ice [76.30.94.165] picked up a Bandos scrimshaw, location: 3018, 3914
+[Wed Aug 21 11:55:43 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's coif, location: 3018, 3914
+[Wed Aug 21 11:57:53 PDT 2013] Ice [76.30.94.165] picked up a Zamorak statuette, location: 3018, 3914
+[Wed Aug 21 12:01:56 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3003, 3915
+[Wed Aug 21 12:01:59 PDT 2013] Ice [76.30.94.165] picked up a Rune arrow, location: 3003, 3915
+[Wed Aug 21 12:02:03 PDT 2013] Ice [76.30.94.165] picked up a Archer helm, location: 3003, 3915
+[Wed Aug 21 12:02:09 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3003, 3915
+[Wed Aug 21 12:02:11 PDT 2013] Ice [76.30.94.165] picked up a Rune arrow, location: 3003, 3915
+[Wed Aug 21 12:02:12 PDT 2013] Ice [76.30.94.165] picked up a Rune arrow, location: 3003, 3915
+[Wed Aug 21 12:41:03 PDT 2013] Ice [76.30.94.165] picked up a Bandos scrimshaw, location: 3362, 3680
+[Wed Aug 21 12:45:47 PDT 2013] Ice [76.30.94.165] picked up a Ancient psaltery bridge, location: 3019, 3915
+[Wed Aug 21 12:47:33 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3011, 3955
+[Wed Aug 21 12:52:09 PDT 2013] Ice [76.30.94.165] picked up a Bandos scrimshaw, location: 3019, 3915
+[Wed Aug 21 12:56:14 PDT 2013] Ice [76.30.94.165] picked up a Ancient psaltery bridge, location: 3015, 3940
+[Wed Aug 21 12:56:14 PDT 2013] Ice [76.30.94.165] picked up a Ancient psaltery bridge, location: 3015, 3940
+[Wed Aug 21 12:58:33 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's throwing axe, location: 3015, 3948
+[Wed Aug 21 12:58:34 PDT 2013] Ice [76.30.94.165] picked up a Saradomin amphora, location: 3015, 3948
+[Wed Aug 21 13:07:25 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's robe bottom, location: 3015, 3940
+[Wed Aug 21 13:07:25 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's robe bottom, location: 3015, 3940
+[Wed Aug 21 13:11:58 PDT 2013] Ice [76.30.94.165] picked up a Guthixian brazier, location: 3017, 3950
+[Wed Aug 21 13:15:20 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's robe bottom, location: 3018, 3914
+[Wed Aug 21 13:21:48 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3018, 3950
+[Wed Aug 21 13:24:49 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's hood, location: 3013, 3949
+[Wed Aug 21 13:24:49 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's hood, location: 3013, 3949
+[Wed Aug 21 13:27:39 PDT 2013] Ice [76.30.94.165] picked up a Third age carafe, location: 3019, 3915
+[Wed Aug 21 13:28:56 PDT 2013] Ice [76.30.94.165] picked up a C. morrigan's throwing axe, location: 3015, 3948
+[Wed Aug 21 13:30:16 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's coif, location: 3014, 3929
+[Wed Aug 21 13:32:14 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 3018, 3914
+[Wed Aug 21 13:33:25 PDT 2013] Ice [76.30.94.165] picked up a Zuriel's robe bottom, location: 3015, 3939
+[Wed Aug 21 13:33:27 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3015, 3939
+[Wed Aug 21 13:34:23 PDT 2013] Ice [76.30.94.165] picked up a Bandos statuette, location: 3020, 3914
+[Wed Aug 21 13:36:24 PDT 2013] Ice [76.30.94.165] picked up a Morrigan's javelin, location: 3018, 3914
+[Wed Aug 21 13:36:26 PDT 2013] Ice [76.30.94.165] picked up a Zamorak medallion, location: 3018, 3914
+[Wed Aug 21 13:40:38 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's robe top, location: 3019, 3915
+[Wed Aug 21 13:42:51 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3019, 3915
+[Wed Aug 21 13:42:53 PDT 2013] Ice [76.30.94.165] picked up a Ruby chalice, location: 3019, 3915
+[Wed Aug 21 13:43:46 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's staff, location: 3015, 3939
+[Wed Aug 21 13:43:46 PDT 2013] Ice [76.30.94.165] picked up a Corrupt zuriel's staff, location: 3015, 3939
+[Wed Aug 21 13:54:18 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2910, 3614
+[Wed Aug 21 13:56:43 PDT 2013] Ice [76.30.94.165] picked up a Prayer renewal, location: 2909, 3617
+[Wed Aug 21 13:56:43 PDT 2013] Ice [76.30.94.165] picked up a Prayer renewal, location: 2909, 3617
+[Wed Aug 21 13:57:50 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2910, 3613
+[Wed Aug 21 13:57:53 PDT 2013] Ice [76.30.94.165] picked up a Rune platebody, location: 2910, 3613
+[Wed Aug 21 13:57:56 PDT 2013] Ice [76.30.94.165] picked up a Death rune, location: 2910, 3613
+[Wed Aug 21 13:57:57 PDT 2013] Ice [76.30.94.165] picked up a Death rune, location: 2910, 3613
+[Wed Aug 21 13:57:59 PDT 2013] Ice [76.30.94.165] picked up a Ourg bones, location: 2910, 3613
+[Wed Aug 21 14:08:31 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2904, 3611
+[Wed Aug 21 14:08:36 PDT 2013] Ice [76.30.94.165] picked up a Ourg bones, location: 2904, 3611
+[Wed Aug 21 14:11:12 PDT 2013] Ice [76.30.94.165] picked up a Blue cape, location: 3043, 4969
+[Wed Aug 21 14:16:13 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2465, 4783
+[Wed Aug 21 14:16:15 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2465, 4783
+[Wed Aug 21 14:16:16 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2465, 4783
+[Wed Aug 21 14:16:17 PDT 2013] Ice [76.30.94.165] picked up a Onyx bolts (e), location: 2465, 4783
+[Wed Aug 21 14:16:19 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2465, 4783
+[Wed Aug 21 14:16:20 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2465, 4783
+[Wed Aug 21 14:16:21 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2465, 4783
+[Wed Aug 21 14:16:22 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2465, 4783
+[Wed Aug 21 14:16:23 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4783
+[Wed Aug 21 14:16:24 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2465, 4783
+[Wed Aug 21 14:16:25 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2465, 4783
+[Wed Aug 21 14:16:26 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (4), location: 2465, 4783
+[Wed Aug 21 14:16:27 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (4), location: 2465, 4783
+[Wed Aug 21 14:16:28 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2465, 4783
+[Wed Aug 21 14:16:29 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2465, 4783
+[Wed Aug 21 14:16:30 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4783
+[Wed Aug 21 14:16:30 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2465, 4783
+[Wed Aug 21 14:16:32 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2465, 4783
+[Wed Aug 21 14:25:08 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2467, 4777
+[Wed Aug 21 14:25:10 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2467, 4777
+[Wed Aug 21 14:25:11 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2467, 4777
+[Wed Aug 21 14:25:12 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2467, 4777
+[Wed Aug 21 14:27:07 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2465, 4771
+[Wed Aug 21 14:27:09 PDT 2013] Ice [76.30.94.165] picked up a Onyx bolts (e), location: 2465, 4771
+[Wed Aug 21 14:27:09 PDT 2013] Ice [76.30.94.165] picked up a Onyx bolts (e), location: 2465, 4771
+[Wed Aug 21 14:27:14 PDT 2013] Ice [76.30.94.165] picked up a Vial, location: 2465, 4771
+[Wed Aug 21 14:27:15 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2465, 4771
+[Wed Aug 21 14:27:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (4), location: 2465, 4771
+[Wed Aug 21 14:27:18 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2465, 4771
+[Wed Aug 21 14:27:20 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2465, 4771
+[Wed Aug 21 14:27:21 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2465, 4771
+[Wed Aug 21 14:27:22 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2465, 4771
+[Wed Aug 21 14:27:23 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2465, 4771
+[Wed Aug 21 14:27:24 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2465, 4771
+[Wed Aug 21 14:27:26 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2465, 4771
+[Wed Aug 21 14:27:27 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:28 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (1), location: 2465, 4771
+[Wed Aug 21 14:27:29 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2465, 4771
+[Wed Aug 21 14:27:30 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:31 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:32 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:33 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:33 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:40 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:43 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:46 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:47 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:49 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:50 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:51 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:51 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:52 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:53 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:54 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:56 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:27:56 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:28:52 PDT 2013] Ice [76.30.94.165] picked up a Vial, location: 2465, 4771
+[Wed Aug 21 14:28:54 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2465, 4771
+[Wed Aug 21 14:28:55 PDT 2013] Ice [76.30.94.165] picked up a Onyx bolts (e), location: 2465, 4771
+[Wed Aug 21 14:28:56 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (4), location: 2465, 4771
+[Wed Aug 21 14:28:57 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2465, 4771
+[Wed Aug 21 14:28:58 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2465, 4771
+[Wed Aug 21 14:28:59 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2465, 4771
+[Wed Aug 21 14:29:01 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2465, 4771
+[Wed Aug 21 14:29:02 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2465, 4771
+[Wed Aug 21 14:29:03 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2465, 4771
+[Wed Aug 21 14:29:05 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (4), location: 2465, 4771
+[Wed Aug 21 14:29:06 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2465, 4771
+[Wed Aug 21 14:29:07 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2465, 4771
+[Wed Aug 21 14:29:09 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2465, 4771
+[Wed Aug 21 14:29:19 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:20 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:21 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:26 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:27 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:27 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:28 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:29 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:30 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:31 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:32 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:33 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:33 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:35 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:29:36 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2465, 4771
+[Wed Aug 21 14:37:05 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2470, 4773
+[Wed Aug 21 14:37:06 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2470, 4773
+[Wed Aug 21 14:37:09 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2470, 4773
+[Wed Aug 21 14:37:12 PDT 2013] Ice [76.30.94.165] picked up a Big bones, location: 2470, 4773
+[Wed Aug 21 14:44:39 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 14:44:39 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 14:44:40 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 14:44:40 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2910, 3612
+[Wed Aug 21 14:45:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 14:45:19 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 14:45:20 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2910, 3612
+[Wed Aug 21 14:46:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2905, 3610
+[Wed Aug 21 14:46:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2905, 3610
+[Wed Aug 21 14:46:04 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2905, 3610
+[Wed Aug 21 14:46:06 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3610
+[Wed Aug 21 14:46:07 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3610
+[Wed Aug 21 14:46:54 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2905, 3604
+[Wed Aug 21 14:46:57 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3604
+[Wed Aug 21 14:46:57 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3604
+[Wed Aug 21 14:46:57 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3604
+[Wed Aug 21 14:46:58 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3604
+[Wed Aug 21 14:46:58 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3604
+[Wed Aug 21 14:47:43 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2905, 3604
+[Wed Aug 21 14:47:44 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2905, 3604
+[Wed Aug 21 14:48:12 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2905, 3604
+[Wed Aug 21 14:49:10 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2904, 3604
+[Wed Aug 21 14:49:13 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2904, 3604
+[Wed Aug 21 14:50:30 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2906, 3602
+[Wed Aug 21 14:50:31 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2906, 3602
+[Wed Aug 21 14:51:37 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:51:37 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:51:38 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:51:40 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:52:12 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:52:13 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:52:46 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:52:47 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:53:24 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:53:26 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:54:12 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:54:14 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:54:59 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3604
+[Wed Aug 21 14:55:01 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:55:03 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3604
+[Wed Aug 21 14:55:49 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3603
+[Wed Aug 21 14:55:53 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:56:34 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3603
+[Wed Aug 21 14:56:36 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3603
+[Wed Aug 21 14:57:14 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3603
+[Wed Aug 21 14:57:15 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:16 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:17 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:18 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:18 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:21 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:21 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:21 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:22 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:22 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:23 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:23 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2903, 3603
+[Wed Aug 21 14:57:24 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2903, 3603
+[Wed Aug 21 14:58:26 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2902, 3604
+[Wed Aug 21 14:58:27 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2902, 3604
+[Wed Aug 21 14:59:15 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2902, 3604
+[Wed Aug 21 14:59:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2902, 3604
+[Wed Aug 21 14:59:20 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2902, 3604
+[Wed Aug 21 14:59:34 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2903, 3604
+[Wed Aug 21 14:59:35 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2903, 3604
+[Wed Aug 21 14:59:35 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2903, 3604
+[Wed Aug 21 14:59:37 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2903, 3604
+[Wed Aug 21 14:59:37 PDT 2013] Ice [76.30.94.165] picked up a Ourg bones, location: 2903, 3604
+[Wed Aug 21 15:00:36 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 15:00:36 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2910, 3612
+[Wed Aug 21 15:00:38 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2910, 3612
+[Wed Aug 21 15:05:04 PDT 2013] Ice [76.30.94.165] picked up a Grimy guam, location: 2836, 3824
+[Wed Aug 21 15:08:01 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2838, 3828
+[Wed Aug 21 15:10:55 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2837, 3828
+[Wed Aug 21 15:10:56 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2837, 3828
+[Wed Aug 21 15:10:56 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:10:56 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2837, 3828
+[Wed Aug 21 15:10:57 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2837, 3828
+[Wed Aug 21 15:10:57 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:57 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:58 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:59 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:59 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:59 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:59 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:59 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:10:59 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2837, 3828
+[Wed Aug 21 15:11:00 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:00 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:00 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:01 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2837, 3828
+[Wed Aug 21 15:11:01 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2837, 3828
+[Wed Aug 21 15:11:02 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2837, 3828
+[Wed Aug 21 15:11:02 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2837, 3828
+[Wed Aug 21 15:11:02 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2837, 3828
+[Wed Aug 21 15:11:02 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2837, 3828
+[Wed Aug 21 15:11:02 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2837, 3828
+[Wed Aug 21 15:11:04 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2837, 3828
+[Wed Aug 21 15:11:05 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:06 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:06 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2837, 3828
+[Wed Aug 21 15:11:07 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2837, 3828
+[Wed Aug 21 15:11:07 PDT 2013] Ice [76.30.94.165] picked up a Grimy guam, location: 2837, 3828
+[Wed Aug 21 15:11:08 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:08 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:08 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:09 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:09 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:10 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:10 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2837, 3828
+[Wed Aug 21 15:11:11 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2837, 3828
+[Wed Aug 21 15:11:11 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2837, 3828
+[Wed Aug 21 15:11:54 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2836, 3825
+[Wed Aug 21 15:13:51 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2836, 3825
+[Wed Aug 21 15:13:53 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2836, 3825
+[Wed Aug 21 15:13:55 PDT 2013] Ice [76.30.94.165] picked up a Clean lantadyme, location: 2836, 3825
+[Wed Aug 21 15:13:55 PDT 2013] Ice [76.30.94.165] picked up a Clean lantadyme, location: 2836, 3825
+[Wed Aug 21 15:15:40 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2836, 3824
+[Wed Aug 21 15:18:39 PDT 2013] Ice [76.30.94.165] picked up a Dragon mace, location: 2834, 3823
+[Wed Aug 21 15:18:42 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2834, 3823
+[Wed Aug 21 15:21:38 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2840, 3829
+[Wed Aug 21 15:27:22 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2836, 3824
+[Wed Aug 21 15:31:10 PDT 2013] Ice [76.30.94.165] picked up a Rune sq shield, location: 2336, 9810
+[Wed Aug 21 15:34:34 PDT 2013] Ice [76.30.94.165] picked up a Dagannoth hide, location: 2902, 4448
+[Wed Aug 21 15:36:40 PDT 2013] Ice [76.30.94.165] picked up a Archers' ring, location: 2904, 4450
+[Wed Aug 21 15:36:56 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2904, 4450
+[Wed Aug 21 16:09:34 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2463, 4777
+[Wed Aug 21 16:09:36 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2463, 4777
+[Wed Aug 21 16:09:37 PDT 2013] Ice [76.30.94.165] picked up a Cannon stand, location: 2463, 4777
+[Wed Aug 21 16:09:37 PDT 2013] Ice [76.30.94.165] picked up a Cannon barrels, location: 2463, 4777
+[Wed Aug 21 16:09:38 PDT 2013] Ice [76.30.94.165] picked up a Cannonball, location: 2463, 4777
+[Wed Aug 21 16:09:39 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:09:40 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2463, 4777
+[Wed Aug 21 16:09:41 PDT 2013] Ice [76.30.94.165] picked up a Cannon furnace, location: 2463, 4777
+[Wed Aug 21 16:09:42 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2463, 4777
+[Wed Aug 21 16:09:44 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2463, 4777
+[Wed Aug 21 16:09:44 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2463, 4777
+[Wed Aug 21 16:09:45 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2463, 4777
+[Wed Aug 21 16:09:47 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2463, 4777
+[Wed Aug 21 16:09:47 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2463, 4777
+[Wed Aug 21 16:09:48 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:09:53 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:09:54 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2463, 4777
+[Wed Aug 21 16:09:55 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:09:56 PDT 2013] Ice [76.30.94.165] picked up a Archers' ring, location: 2463, 4777
+[Wed Aug 21 16:09:57 PDT 2013] Ice [76.30.94.165] picked up a Archers' ring, location: 2463, 4777
+[Wed Aug 21 16:09:58 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2463, 4777
+[Wed Aug 21 16:09:59 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2463, 4777
+[Wed Aug 21 16:10:01 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2463, 4777
+[Wed Aug 21 16:10:03 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:10:10 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:10:11 PDT 2013] Ice [76.30.94.165] picked up a Cannon base, location: 2463, 4777
+[Wed Aug 21 16:10:12 PDT 2013] Ice [76.30.94.165] picked up a Cannon base, location: 2463, 4777
+[Wed Aug 21 16:10:13 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2463, 4777
+[Wed Aug 21 16:10:17 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:10:17 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2463, 4777
+[Wed Aug 21 16:33:59 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2936
+[Wed Aug 21 16:34:06 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3275, 2936
+[Wed Aug 21 16:35:39 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3269, 2939
+[Wed Aug 21 16:35:41 PDT 2013] Ice [76.30.94.165] picked up a Rune arrow, location: 3269, 2939
+[Wed Aug 21 16:35:53 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3268, 2938
+[Wed Aug 21 16:47:44 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3275, 2934
+[Wed Aug 21 16:47:53 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2934
+[Wed Aug 21 16:47:58 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3274, 2934
+[Wed Aug 21 16:48:10 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3275, 2937
+[Wed Aug 21 16:48:35 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2933
+[Wed Aug 21 16:48:50 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3275, 2936
+[Wed Aug 21 16:49:22 PDT 2013] Ice [76.30.94.165] picked up a Chaos rune, location: 3274, 2935
+[Wed Aug 21 16:49:53 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3274, 2936
+[Wed Aug 21 16:50:04 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3274, 2937
+[Wed Aug 21 16:50:31 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2933
+[Wed Aug 21 16:51:59 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3274, 2932
+[Wed Aug 21 16:52:09 PDT 2013] Ice [76.30.94.165] picked up a Soul rune, location: 3274, 2932
+[Wed Aug 21 16:52:43 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2932
+[Wed Aug 21 16:53:34 PDT 2013] Ice [76.30.94.165] picked up a Grimy harralander, location: 3275, 2933
+[Wed Aug 21 16:53:35 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2933
+[Wed Aug 21 16:54:29 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3270, 2940
+[Wed Aug 21 16:54:31 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3270, 2940
+[Wed Aug 21 16:54:33 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3270, 2940
+[Wed Aug 21 17:01:23 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2521, 4645
+[Wed Aug 21 17:01:25 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2520, 4646
+[Wed Aug 21 17:01:38 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2522, 4645
+[Wed Aug 21 17:01:44 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2521, 4644
+[Wed Aug 21 17:01:47 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2520, 4644
+[Wed Aug 21 17:01:51 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2518, 4645
+[Wed Aug 21 17:02:08 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2521, 4644
+[Wed Aug 21 17:03:07 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2521, 4647
+[Wed Aug 21 17:03:58 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2520, 4646
+[Wed Aug 21 17:04:20 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2522, 4646
+[Wed Aug 21 17:04:46 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2519, 4646
+[Wed Aug 21 17:06:20 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2518, 4646
+[Wed Aug 21 17:06:22 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2519, 4644
+[Wed Aug 21 17:06:23 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2520, 4647
+[Wed Aug 21 17:08:29 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2520, 4648
+[Wed Aug 21 17:08:33 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2521, 4647
+[Wed Aug 21 17:12:53 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2523, 4644
+[Wed Aug 21 17:12:54 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2523, 4644
+[Wed Aug 21 17:18:32 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2524, 4644
+[Wed Aug 21 17:20:31 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2524, 4645
+[Wed Aug 21 17:20:40 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2525, 4644
+[Wed Aug 21 17:20:45 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2524, 4645
+[Wed Aug 21 17:29:20 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2520, 4644
+[Wed Aug 21 17:48:21 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3274, 2931
+[Wed Aug 21 18:11:12 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3275, 2933
+[Wed Aug 21 18:11:15 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3275, 2933
+[Wed Aug 21 18:12:45 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3274, 2933
+[Wed Aug 21 18:13:55 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3276, 2932
+[Wed Aug 21 18:13:57 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 3276, 2932
+[Wed Aug 21 18:13:58 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 3276, 2932
+[Wed Aug 21 18:14:02 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3275, 2933
+[Wed Aug 21 18:44:24 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:24 PDT 2013] Ice [76.30.94.165] picked up a Vial, location: 2469, 4772
+[Wed Aug 21 18:44:25 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:25 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:25 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2469, 4772
+[Wed Aug 21 18:44:26 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2469, 4772
+[Wed Aug 21 18:44:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2469, 4772
+[Wed Aug 21 18:44:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2469, 4772
+[Wed Aug 21 18:44:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2469, 4772
+[Wed Aug 21 18:44:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2469, 4772
+[Wed Aug 21 18:44:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2469, 4772
+[Wed Aug 21 18:44:27 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2469, 4772
+[Wed Aug 21 18:44:28 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2469, 4772
+[Wed Aug 21 18:44:28 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2469, 4772
+[Wed Aug 21 18:44:28 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2469, 4772
+[Wed Aug 21 18:44:29 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2469, 4772
+[Wed Aug 21 18:44:29 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2469, 4772
+[Wed Aug 21 18:44:29 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2469, 4772
+[Wed Aug 21 18:44:29 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2469, 4772
+[Wed Aug 21 18:44:30 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2469, 4772
+[Wed Aug 21 18:44:31 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (2), location: 2469, 4772
+[Wed Aug 21 18:44:34 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2469, 4772
+[Wed Aug 21 18:44:35 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory (2), location: 2469, 4772
+[Wed Aug 21 18:44:36 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2469, 4772
+[Wed Aug 21 18:44:37 PDT 2013] Ice [76.30.94.165] picked up a Snakeskin boots, location: 2469, 4772
+[Wed Aug 21 18:44:41 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2469, 4772
+[Wed Aug 21 18:45:02 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2469, 4772
+[Wed Aug 21 18:45:03 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2469, 4772
+[Wed Aug 21 18:45:04 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2469, 4772
+[Wed Aug 21 18:45:05 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 2469, 4772
+[Wed Aug 21 18:45:07 PDT 2013] Ice [76.30.94.165] picked up a Ranging potion (2), location: 2469, 4772
+[Wed Aug 21 18:45:10 PDT 2013] Ice [76.30.94.165] picked up a Prayer potion (3), location: 2469, 4772
+[Wed Aug 21 18:46:08 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2468, 4772
+[Wed Aug 21 18:49:07 PDT 2013] Ice [76.30.94.165] picked up a Water orb, location: 2970, 9502
+[Wed Aug 21 18:49:12 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9502
+[Wed Aug 21 18:50:01 PDT 2013] Ice [76.30.94.165] picked up a Kwuarm seed, location: 2974, 9502
+[Wed Aug 21 18:50:02 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2974, 9502
+[Wed Aug 21 18:52:21 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 18:53:40 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2975, 9503
+[Wed Aug 21 18:54:30 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2976, 9502
+[Wed Aug 21 18:56:35 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2975, 9503
+[Wed Aug 21 18:56:42 PDT 2013] Ice [76.30.94.165] picked up a Grimy marrentill, location: 2974, 9502
+[Wed Aug 21 18:58:18 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9502
+[Wed Aug 21 18:59:05 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2970, 9502
+[Wed Aug 21 18:59:06 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9502
+[Wed Aug 21 18:59:53 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2978, 9501
+[Wed Aug 21 19:00:35 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2976, 9502
+[Wed Aug 21 19:01:09 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2975, 9501
+[Wed Aug 21 19:01:50 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9502
+[Wed Aug 21 19:02:22 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:03:18 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 19:04:01 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:04:56 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2973, 9503
+[Wed Aug 21 19:06:16 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9502
+[Wed Aug 21 19:07:05 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2974, 9502
+[Wed Aug 21 19:08:06 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:09:14 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:09:56 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 19:10:57 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:11:16 PDT 2013] Ice [76.30.94.165] picked up a Mithril arrow, location: 2974, 9501
+[Wed Aug 21 19:11:43 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:12:28 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9500
+[Wed Aug 21 19:12:31 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9500
+[Wed Aug 21 19:13:15 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2973, 9503
+[Wed Aug 21 19:14:39 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9500
+[Wed Aug 21 19:15:25 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:16:11 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:16:48 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:18:27 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 19:18:30 PDT 2013] Ice [76.30.94.165] picked up a Uncut dragonstone, location: 2974, 9501
+[Wed Aug 21 19:18:30 PDT 2013] Ice [76.30.94.165] picked up a Uncut dragonstone, location: 2973, 9503
+[Wed Aug 21 19:29:06 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9500
+[Wed Aug 21 19:30:03 PDT 2013] Ice [76.30.94.165] picked up a Gold ore, location: 2972, 9500
+[Wed Aug 21 19:30:16 PDT 2013] Ice [76.30.94.165] picked up a Grimy tarromin, location: 2973, 9500
+[Wed Aug 21 19:30:30 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2971, 9500
+[Wed Aug 21 19:32:15 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2973, 9503
+[Wed Aug 21 19:33:13 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2976, 9502
+[Wed Aug 21 19:33:44 PDT 2013] Ice [76.30.94.165] picked up a Uncut dragonstone, location: 2975, 9501
+[Wed Aug 21 19:33:52 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2975, 9501
+[Wed Aug 21 19:33:54 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2975, 9501
+[Wed Aug 21 19:34:31 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9501
+[Wed Aug 21 19:36:02 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 19:36:34 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:37:14 PDT 2013] Ice [76.30.94.165] picked up a Uncut dragonstone, location: 2972, 9503
+[Wed Aug 21 19:37:17 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:38:16 PDT 2013] Ice [76.30.94.165] picked up a Uncut dragonstone, location: 2972, 9503
+[Wed Aug 21 19:38:19 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:38:50 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:39:40 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:40:33 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:42:40 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2973, 9500
+[Wed Aug 21 19:42:42 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2973, 9500
+[Wed Aug 21 19:43:21 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9500
+[Wed Aug 21 19:44:22 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9501
+[Wed Aug 21 19:44:26 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2970, 9501
+[Wed Aug 21 19:45:10 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 19:45:43 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9501
+[Wed Aug 21 19:47:12 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 19:47:15 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9502
+[Wed Aug 21 19:48:04 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2974, 9501
+[Wed Aug 21 19:48:38 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2972, 9503
+[Wed Aug 21 19:49:39 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9502
+[Wed Aug 21 19:49:43 PDT 2013] Ice [76.30.94.165] picked up a Sapphire bolts, location: 2974, 9502
+[Wed Aug 21 19:50:13 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2970, 9502
+[Wed Aug 21 19:50:51 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2976, 9502
+[Wed Aug 21 19:52:42 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2974, 9501
+[Wed Aug 21 20:05:02 PDT 2013] Ice [76.30.94.165] picked up a Manta ray, location: 3001, 3384
+[Wed Aug 21 20:07:27 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2863, 9779
+[Wed Aug 21 20:10:58 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2860, 9776
+[Wed Aug 21 20:11:03 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2860, 9776
+[Wed Aug 21 20:11:07 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2860, 9776
+[Wed Aug 21 20:11:09 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2860, 9776
+[Wed Aug 21 20:12:11 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2860, 9777
+[Wed Aug 21 20:13:02 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2857, 9774
+[Wed Aug 21 20:27:38 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2865, 9766
+[Wed Aug 21 20:32:52 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2860, 9768
+[Wed Aug 21 20:35:49 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2863, 9775
+[Wed Aug 21 20:36:19 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2860, 9773
+[Wed Aug 21 20:36:22 PDT 2013] Ice [76.30.94.165] picked up a Rune chainbody, location: 2862, 9776
+[Wed Aug 21 20:38:47 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2861, 9774
+[Wed Aug 21 20:39:22 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2865, 9774
+[Wed Aug 21 20:39:25 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2865, 9774
+[Wed Aug 21 20:39:31 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2865, 9774
+[Wed Aug 21 20:40:14 PDT 2013] Ice [76.30.94.165] picked up a Rune med helm, location: 2865, 9779
+[Wed Aug 21 20:41:47 PDT 2013] Ice [76.30.94.165] picked up a Rune med helm, location: 2867, 9784
+[Wed Aug 21 20:41:47 PDT 2013] Ice [76.30.94.165] picked up a Rune med helm, location: 2867, 9784
+[Wed Aug 21 20:41:49 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2867, 9784
+[Wed Aug 21 20:44:20 PDT 2013] Ice [76.30.94.165] picked up a Rune med helm, location: 2872, 9779
+[Wed Aug 21 20:44:22 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2872, 9779
+[Wed Aug 21 20:45:16 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2869, 9776
+[Wed Aug 21 20:48:23 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2870, 9776
+[Wed Aug 21 20:48:53 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2867, 9776
+[Wed Aug 21 20:49:23 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2868, 9777
+[Wed Aug 21 20:53:20 PDT 2013] Ice [76.30.94.165] picked up a Rune chainbody, location: 2866, 9778
+[Wed Aug 21 20:53:24 PDT 2013] Ice [76.30.94.165] picked up a Rune sq shield, location: 2865, 9777
+[Wed Aug 21 21:01:25 PDT 2013] Ice [76.30.94.165] picked up a Toktz-ket-xil, location: 3080, 3505
+[Wed Aug 21 21:55:57 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2834, 3823
+[Wed Aug 21 21:56:00 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2834, 3823
+[Wed Aug 21 22:08:03 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2836, 3825
+[Wed Aug 21 22:08:06 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2836, 3825
+[Wed Aug 21 22:08:09 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2836, 3825
+[Wed Aug 21 22:11:08 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2835, 3823
+[Wed Aug 21 22:14:06 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2836, 3824
+[Wed Aug 21 22:14:09 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2836, 3824
+[Wed Aug 21 22:16:57 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2836, 3824
+[Wed Aug 21 22:24:12 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2834, 3823
+[Wed Aug 21 22:27:16 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2834, 3823
+[Wed Aug 21 22:29:41 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2838, 3831
+[Wed Aug 21 22:29:44 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2838, 3831
+[Wed Aug 21 22:38:15 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2839, 3828
+[Wed Aug 21 22:45:26 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2836, 3824
+[Wed Aug 21 22:48:41 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2836, 3824
+[Wed Aug 21 22:51:52 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2836, 3825
+[Wed Aug 21 22:55:31 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2833, 3824
+[Wed Aug 21 22:56:05 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:06 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2833, 3825
+[Wed Aug 21 22:56:06 PDT 2013] Ice [76.30.94.165] picked up a Ava's accumulator, location: 2833, 3825
+[Wed Aug 21 22:56:08 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2833, 3825
+[Wed Aug 21 22:56:08 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2833, 3825
+[Wed Aug 21 22:56:09 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather chaps, location: 2833, 3825
+[Wed Aug 21 22:56:09 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2833, 3825
+[Wed Aug 21 22:56:09 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2833, 3825
+[Wed Aug 21 22:56:09 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2833, 3825
+[Wed Aug 21 22:56:09 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2833, 3825
+[Wed Aug 21 22:56:10 PDT 2013] Ice [76.30.94.165] picked up a Dragon bolts (e), location: 2833, 3825
+[Wed Aug 21 22:56:10 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2833, 3825
+[Wed Aug 21 22:56:10 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2833, 3825
+[Wed Aug 21 22:56:11 PDT 2013] Ice [76.30.94.165] picked up a Corrupt morrigan's leather body, location: 2833, 3825
+[Wed Aug 21 22:56:12 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2833, 3825
+[Wed Aug 21 22:56:12 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2833, 3825
+[Wed Aug 21 22:56:12 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2833, 3825
+[Wed Aug 21 22:56:12 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2833, 3825
+[Wed Aug 21 22:56:13 PDT 2013] Ice [76.30.94.165] picked up a Blood rune, location: 2833, 3825
+[Wed Aug 21 22:56:13 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2833, 3825
+[Wed Aug 21 22:56:13 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2833, 3825
+[Wed Aug 21 22:56:14 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2833, 3825
+[Wed Aug 21 22:56:14 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2833, 3825
+[Wed Aug 21 22:56:14 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2833, 3825
+[Wed Aug 21 22:56:14 PDT 2013] Ice [76.30.94.165] picked up a Gloves, location: 2833, 3825
+[Wed Aug 21 22:56:14 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2833, 3825
+[Wed Aug 21 22:56:15 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2833, 3825
+[Wed Aug 21 22:56:15 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2833, 3825
+[Wed Aug 21 22:56:15 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2833, 3825
+[Wed Aug 21 22:56:16 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2833, 3825
+[Wed Aug 21 22:56:16 PDT 2013] Ice [76.30.94.165] picked up a Death rune, location: 2833, 3825
+[Wed Aug 21 22:56:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:17 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:18 PDT 2013] Ice [76.30.94.165] picked up a Amulet of glory, location: 2833, 3825
+[Wed Aug 21 22:56:18 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2833, 3825
+[Wed Aug 21 22:56:18 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2833, 3825
+[Wed Aug 21 22:56:19 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2833, 3825
+[Wed Aug 21 22:56:19 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2833, 3825
+[Wed Aug 21 22:56:19 PDT 2013] Ice [76.30.94.165] picked up a Ring of wealth, location: 2833, 3825
+[Wed Aug 21 22:56:20 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2833, 3825
+[Wed Aug 21 22:56:20 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 2833, 3825
+[Wed Aug 21 22:56:20 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 2833, 3825
+[Wed Aug 21 22:56:21 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2833, 3825
+[Wed Aug 21 22:56:21 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 2833, 3825
+[Wed Aug 21 22:56:22 PDT 2013] Ice [76.30.94.165] picked up a Water rune, location: 2833, 3825
+[Wed Aug 21 22:56:23 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2833, 3825
+[Wed Aug 21 22:56:24 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2833, 3825
+[Wed Aug 21 22:56:25 PDT 2013] Ice [76.30.94.165] picked up a Unholy book, location: 2833, 3825
+[Wed Aug 21 22:56:26 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2833, 3825
+[Wed Aug 21 23:05:52 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2836, 3824
+[Wed Aug 21 23:46:03 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 2836, 3825
+[Wed Aug 21 23:46:07 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2836, 3825
+[Wed Aug 21 23:56:28 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2836, 3824
+[Wed Aug 21 23:56:34 PDT 2013] Ice [76.30.94.165] picked up a Rune 2h sword, location: 2836, 3824
+[Thu Aug 22 09:54:18 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3121, 9663
+[Thu Aug 22 09:54:20 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3121, 9662
+[Thu Aug 22 09:58:17 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3124, 9661
+[Thu Aug 22 10:13:59 PDT 2013] Ice [76.30.94.165] picked up a Abyssal whip, location: 3417, 3561
+[Thu Aug 22 10:14:01 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3417, 3561
+[Thu Aug 22 10:14:38 PDT 2013] Ice [76.30.94.165] picked up a Rune med helm, location: 3411, 3555
+[Thu Aug 22 10:15:25 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3410, 3557
+[Thu Aug 22 10:16:15 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3414, 3554
+[Thu Aug 22 10:16:20 PDT 2013] Ice [76.30.94.165] picked up a Rune med helm, location: 3414, 3554
+[Thu Aug 22 10:17:40 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3413, 3555
+[Thu Aug 22 10:17:47 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3412, 3554
+[Thu Aug 22 10:18:21 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3414, 3554
+[Thu Aug 22 10:20:03 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3410, 3556
+[Thu Aug 22 10:20:05 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3410, 3556
+[Thu Aug 22 10:20:06 PDT 2013] Ice [76.30.94.165] picked up a Rune sq shield, location: 3410, 3556
+[Thu Aug 22 10:22:24 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3429, 3569
+[Thu Aug 22 10:22:26 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3429, 3569
+[Thu Aug 22 10:23:14 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3430, 3568
+[Thu Aug 22 10:23:17 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3430, 3568
+[Thu Aug 22 10:44:45 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3416, 3562
+[Thu Aug 22 10:47:40 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3416, 3564
+[Thu Aug 22 10:49:00 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3566
+[Thu Aug 22 10:49:45 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:50:12 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3418, 3566
+[Thu Aug 22 10:51:49 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3418, 3565
+[Thu Aug 22 10:52:20 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3418, 3566
+[Thu Aug 22 10:54:44 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3418, 3565
+[Thu Aug 22 10:56:10 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3419, 3565
+[Thu Aug 22 10:56:18 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3419, 3565
+[Thu Aug 22 10:56:28 PDT 2013] Ice [76.30.94.165] picked up a Coins, location: 3418, 3566
+[Thu Aug 22 10:56:50 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:56:53 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3418, 3565
+[Thu Aug 22 10:57:07 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:57:09 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:57:12 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3418, 3565
+[Thu Aug 22 10:57:19 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:57:22 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:57:25 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3418, 3565
+[Thu Aug 22 10:57:45 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3417, 3565
+[Thu Aug 22 10:58:28 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:58:32 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3419, 3565
+[Thu Aug 22 10:58:34 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3417, 3565
+[Thu Aug 22 10:59:24 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 10:59:29 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 11:00:54 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 11:00:55 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 11:00:57 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 3418, 3565
+[Thu Aug 22 11:00:59 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3417, 3565
+[Thu Aug 22 11:02:10 PDT 2013] Ice [76.30.94.165] picked up a Green charm, location: 3417, 3565
+[Thu Aug 22 11:03:46 PDT 2013] Ice [76.30.94.165] picked up a Gold charm, location: 3436, 3558
+[Thu Aug 22 11:26:33 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2470, 4773
+[Thu Aug 22 11:26:35 PDT 2013] Ice [76.30.94.165] picked up a Super restore (4), location: 2470, 4773
+[Thu Aug 22 11:26:40 PDT 2013] Ice [76.30.94.165] picked up a Death rune, location: 2470, 4773
+[Thu Aug 22 11:35:30 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2333, 9815
+[Thu Aug 22 12:02:17 PDT 2013] Ice [76.30.94.165] picked up a White dagger, location: 2908, 4457
+[Thu Aug 22 12:14:59 PDT 2013] Ice [76.30.94.165] picked up a Crimson charm, location: 2090, 4429
+[Thu Aug 22 12:15:03 PDT 2013] Ice [76.30.94.165] picked up a Onyx bolts (e), location: 2090, 4429
+[Thu Aug 22 14:15:42 PDT 2013] Ice [76.30.94.165] picked up a Regen bracelet, location: 2090, 4429
+[Thu Aug 22 14:15:43 PDT 2013] Ice [76.30.94.165] picked up a Regen bracelet, location: 2090, 4429
+[Thu Aug 22 14:15:43 PDT 2013] Ice [76.30.94.165] picked up a Regen bracelet, location: 2090, 4429
+[Thu Aug 22 14:15:44 PDT 2013] Ice [76.30.94.165] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2090, 4429
+[Thu Aug 22 14:15:45 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2090, 4429
+[Thu Aug 22 14:15:46 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2090, 4429
+[Thu Aug 22 14:15:46 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2090, 4429
+[Thu Aug 22 14:15:46 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2090, 4429
+[Thu Aug 22 14:15:46 PDT 2013] Ice [76.30.94.165] picked up a Pure essence, location: 2090, 4429
+[Thu Aug 22 14:15:47 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2090, 4429
+[Thu Aug 22 14:15:47 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2090, 4429
+[Thu Aug 22 14:15:47 PDT 2013] Ice [76.30.94.165] picked up a Blue charm, location: 2090, 4429

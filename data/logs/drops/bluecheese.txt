@@ -1,0 +1,15 @@
+[Mon Aug 19 10:08:54 PDT 2013] Bluecheese [82.171.189.82] dropped a Iron platebody at location: 3000, 3386
+[Mon Aug 19 10:08:56 PDT 2013] Bluecheese [82.171.189.82] dropped a Iron full helm at location: 3000, 3386
+[Mon Aug 19 10:08:56 PDT 2013] Bluecheese [82.171.189.82] dropped a Iron boots at location: 3000, 3386
+[Mon Aug 19 10:08:58 PDT 2013] Bluecheese [82.171.189.82] dropped a Unholy book at location: 3000, 3386
+[Mon Aug 19 10:08:59 PDT 2013] Bluecheese [82.171.189.82] dropped a Iron platelegs at location: 3000, 3386
+[Mon Aug 19 14:53:13 PDT 2013] Bluecheese [82.171.189.82] dropped a Body rune at location: 3051, 9577
+[Mon Aug 19 15:21:26 PDT 2013] Bluecheese [82.171.189.82] dropped a Coins at location: 3048, 9576
+[Tue Aug 20 04:02:44 PDT 2013] Bluecheese [82.171.189.82] dropped a Lobster at location: 2657, 9493
+[Tue Aug 20 05:18:31 PDT 2013] Bluecheese [82.171.189.82] dropped a Vial at location: 2657, 9496
+[Tue Aug 20 05:18:31 PDT 2013] Bluecheese [82.171.189.82] dropped a Vial at location: 2657, 9496
+[Tue Aug 20 05:18:34 PDT 2013] Bluecheese [82.171.189.82] dropped a Vial at location: 2657, 9496
+[Tue Aug 20 05:24:41 PDT 2013] Bluecheese [82.171.189.82] dropped a Mithril arrow at location: 2975, 9501
+[Tue Aug 20 05:28:29 PDT 2013] Bluecheese [82.171.189.82] dropped a Grimy ranarr at location: 2972, 9504
+[Tue Aug 20 05:29:06 PDT 2013] Bluecheese [82.171.189.82] dropped a Sapphire bolts at location: 2973, 9505
+[Tue Aug 20 05:32:53 PDT 2013] Bluecheese [82.171.189.82] dropped a Coins at location: 2974, 9501

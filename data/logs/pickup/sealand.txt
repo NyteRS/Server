@@ -1,0 +1,3 @@
+[Wed Aug 21 09:13:06 PDT 2013] Sealand [82.181.33.88] picked up a Starved ancient effigy, location: 2348, 9865
+[Wed Aug 21 09:41:40 PDT 2013] Sealand [82.181.33.88] picked up a Ruined dragon armour slice, location: 2348, 9862
+[Wed Aug 21 09:50:52 PDT 2013] Sealand [82.181.33.88] picked up a Coins, location: 2347, 9863

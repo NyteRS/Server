@@ -1,0 +1,34 @@
+[Wed Aug 21 17:50:30 PDT 2013] Happy4you [71.10.125.218] dropped a Instruction manual at location: 2839, 10209
+[Wed Aug 21 18:11:18 PDT 2013] Happy4you [71.10.125.218] dropped a Iron scimitar at location: 3097, 3496
+[Wed Aug 21 18:11:20 PDT 2013] Happy4you [71.10.125.218] dropped a Iron full helm at location: 3097, 3496
+[Wed Aug 21 18:12:06 PDT 2013] Happy4you [71.10.125.218] dropped a Iron boots at location: 3093, 3495
+[Wed Aug 21 18:27:53 PDT 2013] Happy4you [71.10.125.218] dropped a Iron platelegs at location: 3558, 9945
+[Thu Aug 22 07:52:55 PDT 2013] Happy4you [71.10.125.218] dropped a Rune boots at location: 2999, 3385
+[Thu Aug 22 08:12:02 PDT 2013] Happy4you [71.10.125.218] dropped a Coins at location: 3338, 3680
+[Thu Aug 22 08:21:33 PDT 2013] Happy4you [71.10.125.218] dropped a Iron platebody at location: 3091, 3490
+[Thu Aug 22 09:08:28 PDT 2013] Happy4you [71.10.125.218] dropped a Coins at location: 3411, 3538
+[Thu Aug 22 09:09:59 PDT 2013] Happy4you [71.10.125.218] dropped a Leather gloves at location: 3417, 3544
+[Thu Aug 22 09:35:23 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3329, 3676
+[Thu Aug 22 09:37:17 PDT 2013] Happy4you [71.10.125.218] dropped a Chocolate bomb at location: 3325, 3671
+[Thu Aug 22 09:39:40 PDT 2013] Happy4you [71.10.125.218] dropped a Coins at location: 3326, 3674
+[Thu Aug 22 09:40:08 PDT 2013] Happy4you [71.10.125.218] dropped a Chocolate bomb at location: 3326, 3673
+[Thu Aug 22 09:55:37 PDT 2013] Happy4you [71.10.125.218] dropped a Coins at location: 3549, 9684
+[Thu Aug 22 09:57:06 PDT 2013] Happy4you [71.10.125.218] dropped a Manta ray at location: 3553, 3293
+[Thu Aug 22 09:57:07 PDT 2013] Happy4you [71.10.125.218] dropped a Manta ray at location: 3555, 3297
+[Thu Aug 22 10:00:47 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3567, 3303
+[Thu Aug 22 10:02:44 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3573, 3299
+[Thu Aug 22 10:06:27 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3556, 3282
+[Thu Aug 22 10:12:57 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3549, 9684
+[Thu Aug 22 11:52:00 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3551, 9685
+[Thu Aug 22 11:56:24 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3551, 9689
+[Thu Aug 22 12:05:52 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3327, 3670
+[Thu Aug 22 12:14:20 PDT 2013] Happy4you [71.10.125.218] dropped a Super attack (2) at location: 3546, 9684
+[Thu Aug 22 12:14:21 PDT 2013] Happy4you [71.10.125.218] dropped a Super strength (1) at location: 3546, 9684
+[Thu Aug 22 12:17:44 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3557, 3296
+[Thu Aug 22 12:22:43 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3537, 9704
+[Thu Aug 22 12:25:24 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3578, 9706
+[Thu Aug 22 12:27:50 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3557, 9714
+[Thu Aug 22 12:29:44 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3537, 9704
+[Thu Aug 22 12:34:08 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3565, 3309
+[Thu Aug 22 13:04:15 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3050, 9590
+[Thu Aug 22 13:04:15 PDT 2013] Happy4you [71.10.125.218] dropped a Vial at location: 3050, 9590

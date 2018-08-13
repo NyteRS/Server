@@ -1,0 +1,3 @@
+[Tue Aug 20 21:49:31 PDT 2013] Extreme [173.3.177.191] dropped a Avantoe seed at location: 2672, 9541
+[Tue Aug 20 21:53:16 PDT 2013] Extreme [173.3.177.191] dropped a Avantoe seed at location: 2676, 9546
+[Tue Aug 20 21:53:18 PDT 2013] Extreme [173.3.177.191] dropped a Cosmic rune at location: 2676, 9546

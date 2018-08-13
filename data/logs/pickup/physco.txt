@@ -1,0 +1,813 @@
+[Sat Aug 17 10:04:13 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2668, 3715
+[Sat Aug 17 10:12:40 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2908, 9728
+[Sat Aug 17 10:14:48 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2905, 9732
+[Sat Aug 17 10:18:08 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2907, 9730
+[Sat Aug 17 10:18:52 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2902, 9728
+[Sat Aug 17 10:26:21 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2904, 9737
+[Sat Aug 17 10:28:00 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2909, 9733
+[Sat Aug 17 10:29:19 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2905, 9734
+[Sat Aug 17 10:29:23 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2903, 9734
+[Sat Aug 17 10:29:25 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2906, 9731
+[Sat Aug 17 10:29:28 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2907, 9729
+[Sat Aug 17 10:29:30 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2907, 9729
+[Sat Aug 17 10:29:31 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2903, 9726
+[Sat Aug 17 10:29:31 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2903, 9726
+[Sat Aug 17 10:29:50 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2902, 9733
+[Sat Aug 17 10:29:53 PDT 2013] Physco [86.186.152.47] picked up a Iron dagger, location: 2905, 9734
+[Sat Aug 17 10:30:37 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2907, 9733
+[Sat Aug 17 10:30:39 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2908, 9733
+[Sat Aug 17 10:30:40 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2908, 9733
+[Sat Aug 17 10:31:02 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2909, 9734
+[Sat Aug 17 10:31:21 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 2907, 9729
+[Sat Aug 17 10:36:52 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3044, 9579
+[Sat Aug 17 10:36:54 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 3044, 9579
+[Sat Aug 17 10:37:15 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 3044, 9579
+[Sat Aug 17 10:38:02 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3049, 9579
+[Sat Aug 17 10:38:35 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3051, 9582
+[Sat Aug 17 10:39:02 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3055, 9583
+[Sat Aug 17 10:39:24 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3052, 9583
+[Sat Aug 17 10:39:53 PDT 2013] Physco [86.186.152.47] picked up a Rune c'bow, location: 3044, 9589
+[Sat Aug 17 10:40:18 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3053, 9586
+[Sat Aug 17 10:40:44 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3053, 9587
+[Sat Aug 17 10:41:16 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3053, 9580
+[Sat Aug 17 10:41:17 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3053, 9580
+[Sat Aug 17 10:43:06 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3055, 9574
+[Sat Aug 17 10:43:31 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3061, 9581
+[Sat Aug 17 10:43:33 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3061, 9581
+[Sat Aug 17 10:45:19 PDT 2013] Physco [86.186.152.47] picked up a Rune c'bow, location: 3050, 9578
+[Sat Aug 17 10:48:57 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3052, 9581
+[Sat Aug 17 10:51:21 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3050, 9578
+[Sat Aug 17 10:52:47 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3049, 9579
+[Sat Aug 17 10:53:07 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3054, 9580
+[Sat Aug 17 10:54:09 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3058, 9587
+[Sat Aug 17 10:54:11 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3058, 9587
+[Sat Aug 17 10:54:15 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3058, 9587
+[Sat Aug 17 10:54:38 PDT 2013] Physco [86.186.152.47] picked up a Law rune, location: 3052, 9585
+[Sat Aug 17 10:55:01 PDT 2013] Physco [86.186.152.47] picked up a Blood rune, location: 3053, 9584
+[Sat Aug 17 10:55:33 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3050, 9592
+[Sat Aug 17 10:56:02 PDT 2013] Physco [86.186.152.47] picked up a Big bones, location: 3054, 9587
+[Sat Aug 17 10:56:39 PDT 2013] Physco [86.186.152.47] picked up a Black kiteshield, location: 3054, 9586
+[Sat Aug 17 10:57:25 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3060, 9587
+[Sat Aug 17 10:59:49 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3052, 9588
+[Sat Aug 17 11:00:27 PDT 2013] Physco [86.186.152.47] picked up a Black kiteshield, location: 3052, 9583
+[Sat Aug 17 11:00:33 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3052, 9583
+[Sat Aug 17 11:00:47 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3053, 9583
+[Sat Aug 17 11:01:14 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3058, 9587
+[Sat Aug 17 11:03:04 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3059, 9584
+[Sat Aug 17 11:03:59 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3059, 9579
+[Sat Aug 17 11:04:03 PDT 2013] Physco [86.186.152.47] picked up a Black kiteshield, location: 3059, 9579
+[Sat Aug 17 11:08:02 PDT 2013] Physco [86.186.152.47] picked up a Mystic gloves, location: 3441, 3565
+[Sat Aug 17 11:08:13 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3437, 3564
+[Sat Aug 17 11:08:22 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3438, 3564
+[Sat Aug 17 11:08:26 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3438, 3564
+[Sat Aug 17 11:09:12 PDT 2013] Physco [86.186.152.47] picked up a Mystic gloves, location: 3434, 3564
+[Sat Aug 17 11:09:15 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3434, 3564
+[Sat Aug 17 11:09:16 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3434, 3564
+[Sat Aug 17 11:09:17 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3434, 3564
+[Sat Aug 17 11:09:17 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3434, 3564
+[Sat Aug 17 11:09:20 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3434, 3561
+[Sat Aug 17 11:10:24 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3440, 3557
+[Sat Aug 17 11:10:27 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3438, 3558
+[Sat Aug 17 11:10:38 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3435, 3561
+[Sat Aug 17 11:10:51 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3438, 3558
+[Sat Aug 17 11:10:53 PDT 2013] Physco [86.186.152.47] picked up a Tuna, location: 3438, 3558
+[Sat Aug 17 11:11:12 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3438, 3561
+[Sat Aug 17 11:11:25 PDT 2013] Physco [86.186.152.47] picked up a Mystic gloves, location: 3434, 3565
+[Sat Aug 17 11:11:26 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3434, 3565
+[Sat Aug 17 11:11:28 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3434, 3565
+[Sat Aug 17 11:11:53 PDT 2013] Physco [86.186.152.47] picked up a Mystic gloves, location: 3428, 3564
+[Sat Aug 17 11:12:09 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3429, 3563
+[Sat Aug 17 11:13:25 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3433, 3563
+[Sat Aug 17 11:13:36 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3436, 3561
+[Sat Aug 17 11:13:38 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3440, 3563
+[Sat Aug 17 11:13:56 PDT 2013] Physco [86.186.152.47] picked up a Tuna, location: 3441, 3563
+[Sat Aug 17 11:14:17 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3439, 3565
+[Sat Aug 17 11:14:45 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3438, 3563
+[Sat Aug 17 11:14:56 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3434, 3565
+[Sat Aug 17 11:15:19 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3436, 3561
+[Sat Aug 17 11:15:32 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3439, 3563
+[Sat Aug 17 11:15:38 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3439, 3561
+[Sat Aug 17 11:16:16 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3436, 3564
+[Sat Aug 17 11:16:28 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3437, 3565
+[Sat Aug 17 11:51:40 PDT 2013] Physco [86.186.152.47] picked up a Bones, location: 3081, 3458
+[Sat Aug 17 11:53:44 PDT 2013] Physco [86.186.152.47] picked up a Bones, location: 3078, 3458
+[Sat Aug 17 11:53:58 PDT 2013] Physco [86.186.152.47] picked up a Bones, location: 3080, 3459
+[Sat Aug 17 11:54:19 PDT 2013] Physco [86.186.152.47] picked up a Bones, location: 3082, 3457
+[Sat Aug 17 11:55:17 PDT 2013] Physco [86.186.152.47] picked up a Bones, location: 3080, 3457
+[Sat Aug 17 11:55:21 PDT 2013] Physco [86.186.152.47] picked up a Bones, location: 3077, 3457
+[Sat Aug 17 12:01:13 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2675, 3714
+[Sat Aug 17 12:21:23 PDT 2013] Physco [86.186.152.47] picked up a Ruby ring, location: 3409, 3538
+[Sat Aug 17 12:23:07 PDT 2013] Physco [86.186.152.47] picked up a Ruby ring, location: 3408, 3538
+[Sat Aug 17 12:24:02 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3409, 3537
+[Sat Aug 17 12:25:18 PDT 2013] Physco [86.186.152.47] picked up a Emerald ring, location: 3410, 3537
+[Sat Aug 17 12:25:33 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3411, 3537
+[Sat Aug 17 12:28:26 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3411, 3540
+[Sat Aug 17 13:04:07 PDT 2013] Physco [86.186.152.47] picked up a Rune sq shield, location: 2731, 9486
+[Sat Aug 17 13:04:09 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2731, 9486
+[Sat Aug 17 13:04:11 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2731, 9486
+[Sat Aug 17 13:05:01 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2735, 9485
+[Sat Aug 17 13:05:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2735, 9485
+[Sat Aug 17 13:06:12 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2730, 9487
+[Sat Aug 17 13:06:14 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2730, 9487
+[Sat Aug 17 13:06:54 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2726, 9490
+[Sat Aug 17 13:06:55 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2726, 9490
+[Sat Aug 17 13:07:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2727, 9487
+[Sat Aug 17 13:07:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon plateskirt, location: 2728, 9487
+[Sat Aug 17 13:07:55 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2728, 9487
+[Sat Aug 17 13:08:38 PDT 2013] Physco [86.186.152.47] picked up a Rune bar, location: 2729, 9487
+[Sat Aug 17 13:08:39 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9487
+[Sat Aug 17 13:08:41 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2729, 9487
+[Sat Aug 17 13:09:23 PDT 2013] Physco [86.186.152.47] picked up a Blood rune, location: 2732, 9484
+[Sat Aug 17 13:09:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2732, 9484
+[Sat Aug 17 13:10:11 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9485
+[Sat Aug 17 13:12:37 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2739, 9501
+[Sat Aug 17 13:12:39 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9501
+[Sat Aug 17 13:14:24 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9501
+[Sat Aug 17 13:16:00 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9501
+[Sat Aug 17 13:18:46 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2740, 9492
+[Sat Aug 17 13:18:50 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2740, 9492
+[Sat Aug 17 13:20:40 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2739, 9498
+[Sat Aug 17 13:20:41 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9498
+[Sat Aug 17 13:21:34 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2739, 9497
+[Sat Aug 17 13:21:38 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2739, 9497
+[Sat Aug 17 13:21:40 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9497
+[Sat Aug 17 13:22:04 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2740, 9494
+[Sat Aug 17 13:22:32 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2741, 9490
+[Sat Aug 17 13:23:31 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2732, 9490
+[Sat Aug 17 13:23:33 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2732, 9490
+[Sat Aug 17 13:23:39 PDT 2013] Physco [86.186.152.47] picked up a Rune sq shield, location: 2732, 9490
+[Sat Aug 17 13:23:59 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2740, 9501
+[Sat Aug 17 13:29:23 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2741, 9491
+[Sat Aug 17 13:29:26 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2741, 9491
+[Sat Aug 17 13:31:17 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2739, 9497
+[Sat Aug 17 13:31:18 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2739, 9497
+[Sat Aug 17 13:31:20 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9497
+[Sat Aug 17 13:31:54 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2738, 9487
+[Sat Aug 17 13:32:33 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2739, 9487
+[Sat Aug 17 13:32:37 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2739, 9487
+[Sat Aug 17 13:33:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2732, 9483
+[Sat Aug 17 13:33:29 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2732, 9483
+[Sat Aug 17 13:37:56 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2734, 9491
+[Sat Aug 17 13:38:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2735, 9491
+[Sat Aug 17 13:38:34 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2738, 9488
+[Sat Aug 17 13:40:54 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9486
+[Sat Aug 17 13:40:56 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2729, 9486
+[Sat Aug 17 13:41:24 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9487
+[Sat Aug 17 13:41:33 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2738, 9487
+[Sat Aug 17 13:41:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2738, 9487
+[Sat Aug 17 13:42:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9486
+[Sat Aug 17 13:42:59 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9487
+[Sat Aug 17 13:43:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2738, 9487
+[Sat Aug 17 13:44:02 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2729, 9483
+[Sat Aug 17 13:44:06 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9483
+[Sat Aug 17 13:44:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2735, 9491
+[Sat Aug 17 13:44:39 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2735, 9491
+[Sat Aug 17 13:47:27 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2736, 9483
+[Sat Aug 17 13:47:29 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2736, 9483
+[Sat Aug 17 13:47:41 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2740, 9484
+[Sat Aug 17 13:47:43 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2740, 9484
+[Sat Aug 17 13:48:20 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2735, 9485
+[Sat Aug 17 13:48:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2732, 9483
+[Sat Aug 17 13:48:48 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2733, 9483
+[Sat Aug 17 13:48:53 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2733, 9483
+[Sat Aug 17 13:49:18 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2733, 9482
+[Sat Aug 17 13:49:39 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9483
+[Sat Aug 17 13:49:40 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2729, 9483
+[Sat Aug 17 13:50:17 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2728, 9487
+[Sat Aug 17 13:50:53 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2729, 9484
+[Sat Aug 17 13:51:04 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2729, 9484
+[Sat Aug 17 14:20:05 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2674, 3715
+[Sat Aug 17 14:20:52 PDT 2013] Physco [86.186.152.47] picked up a Fire rune, location: 2674, 3714
+[Sat Aug 17 14:20:54 PDT 2013] Physco [86.186.152.47] picked up a Fire rune, location: 2673, 3715
+[Sat Aug 17 14:21:11 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2674, 3715
+[Sat Aug 17 14:53:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 14:53:38 PDT 2013] Physco [86.186.152.47] picked up a Chaos rune, location: 2834, 9822
+[Sat Aug 17 14:53:40 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 14:55:21 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2832, 9824
+[Sat Aug 17 14:55:23 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9824
+[Sat Aug 17 14:56:23 PDT 2013] Physco [86.186.152.47] picked up a Bob's print, location: 2833, 9823
+[Sat Aug 17 14:56:24 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2833, 9823
+[Sat Aug 17 14:56:26 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9823
+[Sat Aug 17 14:57:19 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2830, 9825
+[Sat Aug 17 14:57:21 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9825
+[Sat Aug 17 15:06:12 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:06:15 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:09:23 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:24 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:25 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:25 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:26 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:26 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:26 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:26 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:32 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:33 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:34 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:34 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:34 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:34 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:09:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:09:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:09:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Sat Aug 17 15:11:19 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2830, 9827
+[Sat Aug 17 15:11:19 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2830, 9827
+[Sat Aug 17 15:11:25 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2830, 9827
+[Sat Aug 17 15:11:26 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Sat Aug 17 15:11:32 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Sat Aug 17 15:12:39 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2835, 9825
+[Sat Aug 17 15:12:40 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9825
+[Sat Aug 17 15:12:44 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9825
+[Sat Aug 17 15:12:45 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Sat Aug 17 15:14:02 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2836, 9825
+[Sat Aug 17 15:14:09 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2836, 9825
+[Sat Aug 17 15:14:11 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2836, 9825
+[Sat Aug 17 15:14:12 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2836, 9825
+[Sat Aug 17 15:15:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9822
+[Sat Aug 17 15:15:38 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2835, 9822
+[Sat Aug 17 15:15:45 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9822
+[Sat Aug 17 15:16:56 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2832, 9827
+[Sat Aug 17 15:17:00 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9827
+[Sat Aug 17 15:22:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9822
+[Sat Aug 17 15:22:37 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2833, 9822
+[Sat Aug 17 15:23:56 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9825
+[Sat Aug 17 15:23:58 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Sat Aug 17 15:24:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Sat Aug 17 15:25:29 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2839, 9825
+[Sat Aug 17 15:25:31 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9825
+[Sat Aug 17 15:26:56 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2840, 9824
+[Sat Aug 17 15:26:58 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2840, 9824
+[Sat Aug 17 15:27:01 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2840, 9824
+[Sat Aug 17 15:40:05 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2833, 9822
+[Sat Aug 17 15:40:07 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2833, 9822
+[Sat Aug 17 15:40:07 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9822
+[Sat Aug 17 15:40:08 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9822
+[Sat Aug 17 15:40:08 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9822
+[Sat Aug 17 15:40:08 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9822
+[Sat Aug 17 15:42:08 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2838, 9825
+[Sat Aug 17 15:42:11 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2838, 9825
+[Sat Aug 17 15:42:11 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2838, 9825
+[Sat Aug 17 15:42:11 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9825
+[Sat Aug 17 15:42:12 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9825
+[Sat Aug 17 15:42:12 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9825
+[Sat Aug 17 15:42:12 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9825
+[Sat Aug 17 15:45:16 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:45:17 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:45:18 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:45:18 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:45:18 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:45:19 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:45:19 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:45:19 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:46:54 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:46:56 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:46:57 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:48:32 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:48:34 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:48:35 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2834, 9822
+[Sat Aug 17 15:48:35 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2834, 9822
+[Sat Aug 17 15:48:36 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2834, 9822
+[Sat Aug 17 15:48:36 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2834, 9822
+[Sat Aug 17 15:48:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:48:37 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 15:50:50 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2836, 9826
+[Sat Aug 17 15:50:53 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2836, 9826
+[Sat Aug 17 15:52:31 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9822
+[Sat Aug 17 15:58:01 PDT 2013] Physco [86.186.152.47] picked up a Fire rune, location: 2834, 9822
+[Sat Aug 17 15:58:02 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 15:58:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 16:00:36 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9822
+[Sat Aug 17 16:00:40 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9822
+[Sat Aug 17 16:01:56 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9825
+[Sat Aug 17 16:01:59 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Sat Aug 17 16:40:18 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2834, 9822
+[Sat Aug 17 16:40:20 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Sat Aug 17 16:41:47 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2837, 9826
+[Sat Aug 17 16:41:51 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9826
+[Sat Aug 17 16:44:18 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9821
+[Sat Aug 17 16:44:20 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2835, 9821
+[Sat Aug 17 16:44:21 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9821
+[Sat Aug 17 16:44:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9821
+[Sat Aug 17 16:44:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9821
+[Sat Aug 17 16:47:37 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9822
+[Sat Aug 17 16:47:39 PDT 2013] Physco [86.186.152.47] picked up a Black dragonhide, location: 2833, 9822
+[Mon Aug 19 05:02:19 PDT 2013] Physco [86.186.152.47] picked up a Rune chainbody, location: 2876, 9771
+[Mon Aug 19 05:02:24 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2876, 9771
+[Mon Aug 19 05:04:12 PDT 2013] Physco [86.186.152.47] picked up a Nature rune, location: 2874, 9772
+[Mon Aug 19 05:05:59 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2868, 9772
+[Mon Aug 19 05:07:09 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2865, 9769
+[Mon Aug 19 05:08:34 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2862, 9767
+[Mon Aug 19 05:09:05 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2863, 9766
+[Mon Aug 19 05:11:34 PDT 2013] Physco [86.186.152.47] picked up a Rune full helm, location: 2860, 9766
+[Mon Aug 19 05:12:34 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2860, 9767
+[Mon Aug 19 05:14:38 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2860, 9764
+[Mon Aug 19 05:14:52 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 2861, 9765
+[Mon Aug 19 05:14:53 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2861, 9765
+[Mon Aug 19 05:16:11 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2864, 9773
+[Mon Aug 19 05:16:56 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2859, 9774
+[Mon Aug 19 05:19:43 PDT 2013] Physco [86.186.152.47] picked up a Blood rune, location: 2860, 9778
+[Mon Aug 19 05:19:45 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2860, 9778
+[Mon Aug 19 05:20:59 PDT 2013] Physco [86.186.152.47] picked up a Blood rune, location: 2860, 9779
+[Mon Aug 19 05:23:17 PDT 2013] Physco [86.186.152.47] picked up a Dragon med helm, location: 2876, 9772
+[Mon Aug 19 05:23:19 PDT 2013] Physco [86.186.152.47] picked up a Law rune, location: 2876, 9772
+[Mon Aug 19 05:27:40 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2865, 9770
+[Mon Aug 19 05:37:37 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2863, 9767
+[Mon Aug 19 05:40:49 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2862, 9773
+[Mon Aug 19 05:40:56 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2862, 9773
+[Mon Aug 19 05:46:52 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2857, 9770
+[Mon Aug 19 05:48:28 PDT 2013] Physco [86.186.152.47] picked up a Blood rune, location: 2856, 9772
+[Mon Aug 19 05:48:30 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2856, 9772
+[Mon Aug 19 05:49:18 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2857, 9770
+[Mon Aug 19 06:03:41 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 2855, 9770
+[Mon Aug 19 06:07:42 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2855, 9771
+[Mon Aug 19 06:33:58 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2709, 9445
+[Mon Aug 19 06:34:00 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9445
+[Mon Aug 19 06:34:48 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2712, 9445
+[Mon Aug 19 06:34:52 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2712, 9445
+[Mon Aug 19 06:35:31 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2708, 9449
+[Mon Aug 19 06:35:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2708, 9449
+[Mon Aug 19 06:36:25 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2709, 9448
+[Mon Aug 19 06:36:27 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9448
+[Mon Aug 19 06:36:34 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9448
+[Mon Aug 19 06:37:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2719, 9459
+[Mon Aug 19 06:37:24 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2719, 9459
+[Mon Aug 19 06:37:26 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2719, 9459
+[Mon Aug 19 06:38:07 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2703, 9448
+[Mon Aug 19 06:38:10 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2703, 9448
+[Mon Aug 19 06:40:06 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2707, 9445
+[Mon Aug 19 06:40:08 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2707, 9445
+[Mon Aug 19 06:40:11 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2707, 9445
+[Mon Aug 19 06:40:13 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2707, 9445
+[Mon Aug 19 06:40:44 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2711, 9451
+[Mon Aug 19 06:41:19 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2709, 9454
+[Mon Aug 19 06:41:20 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9454
+[Mon Aug 19 07:30:38 PDT 2013] Physco [86.186.152.47] picked up a Runite limbs, location: 2705, 9454
+[Mon Aug 19 07:30:40 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2705, 9454
+[Mon Aug 19 07:31:46 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2698, 9443
+[Mon Aug 19 07:31:48 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2698, 9443
+[Mon Aug 19 07:32:57 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2704, 9453
+[Mon Aug 19 07:32:58 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2704, 9453
+[Mon Aug 19 07:33:37 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2705, 9453
+[Mon Aug 19 07:33:39 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2705, 9453
+[Mon Aug 19 07:34:34 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2705, 9451
+[Mon Aug 19 07:34:36 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2705, 9451
+[Mon Aug 19 07:35:15 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2701, 9451
+[Mon Aug 19 07:36:19 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2701, 9447
+[Mon Aug 19 07:37:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2702, 9447
+[Mon Aug 19 07:37:44 PDT 2013] Physco [86.186.152.47] picked up a Rune sq shield, location: 2703, 9446
+[Mon Aug 19 07:37:44 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 2703, 9446
+[Mon Aug 19 07:37:47 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2703, 9446
+[Mon Aug 19 07:38:46 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2703, 9447
+[Mon Aug 19 07:38:47 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2703, 9447
+[Mon Aug 19 07:39:31 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2702, 9448
+[Mon Aug 19 07:40:17 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2699, 9444
+[Mon Aug 19 07:52:27 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3419, 3505
+[Mon Aug 19 07:52:39 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3416, 3507
+[Mon Aug 19 08:09:49 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2702, 9453
+[Mon Aug 19 08:10:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9458
+[Mon Aug 19 08:10:24 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2709, 9458
+[Mon Aug 19 08:11:11 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2713, 9451
+[Mon Aug 19 08:11:12 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2713, 9451
+[Mon Aug 19 08:11:59 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2713, 9448
+[Mon Aug 19 08:12:02 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2713, 9448
+[Mon Aug 19 08:12:24 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2711, 9451
+[Mon Aug 19 08:12:41 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2711, 9451
+[Mon Aug 19 08:13:10 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2708, 9451
+[Mon Aug 19 08:13:18 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2708, 9451
+[Mon Aug 19 08:13:44 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2708, 9457
+[Mon Aug 19 08:14:23 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2707, 9459
+[Mon Aug 19 08:14:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2707, 9459
+[Mon Aug 19 08:14:31 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2707, 9459
+[Mon Aug 19 08:14:32 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2707, 9459
+[Mon Aug 19 08:15:03 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2701, 9454
+[Mon Aug 19 08:15:06 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2701, 9454
+[Mon Aug 19 08:16:00 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2703, 9456
+[Mon Aug 19 08:16:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2703, 9456
+[Mon Aug 19 08:16:46 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2712, 9463
+[Mon Aug 19 08:17:28 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2712, 9451
+[Mon Aug 19 08:18:02 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9452
+[Mon Aug 19 08:18:44 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2721, 9448
+[Mon Aug 19 08:18:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2721, 9448
+[Mon Aug 19 08:22:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2710, 9452
+[Mon Aug 19 08:22:36 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 2710, 9452
+[Mon Aug 19 08:22:38 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2710, 9452
+[Mon Aug 19 08:23:38 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2709, 9453
+[Mon Aug 19 08:23:39 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2709, 9453
+[Mon Aug 19 08:24:29 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2697, 9457
+[Mon Aug 19 08:24:33 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2697, 9457
+[Mon Aug 19 08:24:55 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2698, 9456
+[Mon Aug 19 08:24:56 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2698, 9456
+[Mon Aug 19 08:29:28 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9825
+[Mon Aug 19 08:30:17 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9822
+[Mon Aug 19 08:31:03 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2843, 9824
+[Mon Aug 19 08:31:05 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2843, 9824
+[Mon Aug 19 08:31:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9824
+[Mon Aug 19 08:32:43 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2842, 9825
+[Mon Aug 19 08:33:15 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9825
+[Mon Aug 19 08:33:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2841, 9826
+[Mon Aug 19 08:34:42 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2837, 9824
+[Mon Aug 19 08:34:44 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9824
+[Mon Aug 19 08:35:18 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9824
+[Mon Aug 19 08:36:07 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 2834, 9824
+[Mon Aug 19 08:36:09 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9824
+[Mon Aug 19 08:37:04 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Mon Aug 19 08:37:47 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9826
+[Mon Aug 19 08:39:07 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9824
+[Mon Aug 19 08:40:02 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9823
+[Mon Aug 19 08:40:09 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9823
+[Mon Aug 19 09:14:33 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2828, 9825
+[Mon Aug 19 09:15:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9822
+[Mon Aug 19 09:16:22 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9823
+[Mon Aug 19 09:16:26 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2835, 9823
+[Mon Aug 19 09:17:03 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9826
+[Mon Aug 19 09:17:42 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9825
+[Mon Aug 19 09:18:30 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9825
+[Mon Aug 19 09:18:32 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2837, 9825
+[Mon Aug 19 09:19:10 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Mon Aug 19 09:19:12 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2835, 9825
+[Mon Aug 19 09:19:46 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Mon Aug 19 09:21:02 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2836, 9823
+[Mon Aug 19 09:21:51 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2833, 9824
+[Mon Aug 19 09:21:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9824
+[Mon Aug 19 09:22:51 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9823
+[Mon Aug 19 09:23:37 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Mon Aug 19 09:24:11 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2838, 9825
+[Mon Aug 19 09:24:13 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9825
+[Mon Aug 19 09:25:13 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Mon Aug 19 09:25:16 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Mon Aug 19 09:26:16 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9822
+[Mon Aug 19 09:27:13 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9823
+[Mon Aug 19 09:28:06 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9822
+[Mon Aug 19 09:28:41 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2829, 9828
+[Mon Aug 19 09:28:43 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2829, 9828
+[Mon Aug 19 09:29:34 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2837, 9823
+[Mon Aug 19 09:29:35 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9823
+[Mon Aug 19 09:30:27 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9824
+[Mon Aug 19 09:31:10 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9825
+[Mon Aug 19 09:32:00 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2837, 9827
+[Mon Aug 19 09:32:02 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9827
+[Mon Aug 19 09:35:48 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9822
+[Mon Aug 19 09:38:55 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9821
+[Mon Aug 19 09:40:08 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9822
+[Mon Aug 19 09:40:55 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9822
+[Mon Aug 19 09:41:20 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2835, 9823
+[Mon Aug 19 09:41:21 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9823
+[Mon Aug 19 09:41:47 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2836, 9823
+[Mon Aug 19 09:41:49 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2836, 9823
+[Mon Aug 19 09:42:29 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2839, 9825
+[Mon Aug 19 09:42:31 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9825
+[Mon Aug 19 09:43:24 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2835, 9825
+[Mon Aug 19 09:43:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Mon Aug 19 10:21:27 PDT 2013] Physco [86.186.152.47] picked up a Dragon scimitar, location: 2987, 3634
+[Mon Aug 19 10:21:33 PDT 2013] Physco [86.186.152.47] picked up a Rune platelegs, location: 2987, 3634
+[Mon Aug 19 10:21:35 PDT 2013] Physco [86.186.152.47] picked up a Rune platelegs, location: 2987, 3634
+[Mon Aug 19 10:21:36 PDT 2013] Physco [86.186.152.47] picked up a Diamond bolts (e), location: 2987, 3634
+[Mon Aug 19 10:21:39 PDT 2013] Physco [86.186.152.47] picked up a Rune c'bow, location: 2987, 3634
+[Mon Aug 19 10:21:41 PDT 2013] Physco [86.186.152.47] picked up a Dragon dagger (p++), location: 2987, 3634
+[Mon Aug 19 10:21:50 PDT 2013] Physco [86.186.152.47] picked up a Granite maul, location: 2987, 3634
+[Mon Aug 19 10:21:52 PDT 2013] Physco [86.186.152.47] picked up a Granite maul, location: 2987, 3634
+[Mon Aug 19 19:59:41 PDT 2013] Physco [86.186.152.47] picked up a Dragon platelegs, location: 2849, 3489
+[Mon Aug 19 19:59:46 PDT 2013] Physco [86.186.152.47] picked up a Manta ray, location: 2849, 3489
+[Mon Aug 19 19:59:48 PDT 2013] Physco [86.186.152.47] picked up a Prayer renewal, location: 2849, 3489
+[Mon Aug 19 19:59:49 PDT 2013] Physco [86.186.152.47] picked up a Full slayer helmet, location: 2849, 3489
+[Mon Aug 19 19:59:51 PDT 2013] Physco [86.186.152.47] picked up a Full slayer helmet, location: 2849, 3489
+[Mon Aug 19 19:59:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon scimitar, location: 2849, 3489
+[Mon Aug 19 20:00:14 PDT 2013] Physco [86.186.152.47] picked up a Attack cape (t), location: 2849, 3489
+[Mon Aug 19 20:03:41 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2850, 3489
+[Mon Aug 19 20:04:35 PDT 2013] Physco [86.186.152.47] picked up a Adamant bar, location: 2849, 3489
+[Mon Aug 19 20:04:38 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2849, 3489
+[Mon Aug 19 20:04:41 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2849, 3489
+[Mon Aug 19 20:05:20 PDT 2013] Physco [86.186.152.47] picked up a Shark, location: 2851, 3488
+[Mon Aug 19 20:05:22 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2851, 3488
+[Mon Aug 19 20:05:54 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2850, 3490
+[Mon Aug 19 20:06:59 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2851, 3487
+[Mon Aug 19 20:07:01 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2851, 3487
+[Mon Aug 19 20:07:06 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2851, 3487
+[Mon Aug 19 20:07:48 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2850, 3488
+[Mon Aug 19 20:08:30 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2849, 3490
+[Mon Aug 19 20:08:33 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2849, 3490
+[Mon Aug 19 20:09:28 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2852, 3487
+[Mon Aug 19 20:09:29 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2852, 3487
+[Mon Aug 19 20:10:23 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2851, 3488
+[Mon Aug 19 20:10:24 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2851, 3488
+[Mon Aug 19 20:11:05 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2849, 3490
+[Mon Aug 19 20:11:07 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2849, 3490
+[Mon Aug 19 20:11:09 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2849, 3490
+[Mon Aug 19 20:11:49 PDT 2013] Physco [86.186.152.47] picked up a Grimy avantoe, location: 2852, 3487
+[Mon Aug 19 20:11:50 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2852, 3487
+[Mon Aug 19 20:12:32 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2849, 3490
+[Mon Aug 19 20:12:34 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2849, 3490
+[Mon Aug 19 20:13:28 PDT 2013] Physco [86.186.152.47] picked up a Frost dragon bones, location: 2852, 3487
+[Mon Aug 19 20:39:08 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9827
+[Wed Aug 21 07:49:33 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9822
+[Wed Aug 21 07:50:09 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9824
+[Wed Aug 21 07:50:40 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2835, 9825
+[Wed Aug 21 07:50:43 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2835, 9825
+[Wed Aug 21 07:50:44 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Wed Aug 21 07:51:45 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2830, 9827
+[Wed Aug 21 07:51:47 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Wed Aug 21 07:52:29 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9825
+[Wed Aug 21 07:53:16 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Wed Aug 21 07:54:06 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9826
+[Wed Aug 21 07:54:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9826
+[Wed Aug 21 07:55:52 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2839, 9822
+[Wed Aug 21 07:55:54 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2839, 9822
+[Wed Aug 21 07:56:42 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 2837, 9827
+[Wed Aug 21 07:56:44 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2837, 9827
+[Wed Aug 21 07:56:47 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9827
+[Wed Aug 21 07:57:37 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9823
+[Wed Aug 21 07:58:06 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2831, 9827
+[Wed Aug 21 07:58:35 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2833, 9827
+[Wed Aug 21 07:58:40 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9827
+[Wed Aug 21 07:59:20 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2834, 9823
+[Wed Aug 21 08:03:25 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9823
+[Wed Aug 21 17:15:50 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9821
+[Wed Aug 21 17:16:13 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2835, 9822
+[Wed Aug 21 17:16:15 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2835, 9822
+[Wed Aug 21 17:16:55 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9826
+[Wed Aug 21 17:17:31 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2833, 9823
+[Wed Aug 21 17:17:33 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9823
+[Wed Aug 21 17:18:59 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9826
+[Wed Aug 21 17:19:31 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 2838, 9824
+[Wed Aug 21 17:19:32 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2838, 9824
+[Wed Aug 21 17:20:28 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2836, 9822
+[Wed Aug 21 17:20:53 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2837, 9825
+[Wed Aug 21 17:21:36 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2830, 9827
+[Wed Aug 21 17:22:17 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2831, 9824
+[Wed Aug 21 17:22:55 PDT 2013] Physco [86.186.152.47] picked up a Draconic visage, location: 2832, 9827
+[Wed Aug 21 17:22:58 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 2832, 9827
+[Wed Aug 21 17:23:01 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2832, 9827
+[Wed Aug 21 17:23:54 PDT 2013] Physco [86.186.152.47] picked up a Dragon bones, location: 2833, 9827
+[Wed Aug 21 17:28:44 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 3107, 9672
+[Wed Aug 21 17:28:46 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3107, 9672
+[Wed Aug 21 17:29:06 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3100, 9672
+[Wed Aug 21 17:29:33 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9672
+[Wed Aug 21 17:29:59 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3096, 9672
+[Wed Aug 21 17:30:32 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3095, 9672
+[Wed Aug 21 17:30:38 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9672
+[Wed Aug 21 17:31:24 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9673
+[Wed Aug 21 17:32:13 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3096, 9672
+[Wed Aug 21 17:32:31 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9672
+[Wed Aug 21 17:33:14 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9673
+[Wed Aug 21 17:33:50 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9672
+[Wed Aug 21 17:34:20 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3094, 9672
+[Wed Aug 21 17:34:22 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3094, 9672
+[Wed Aug 21 17:35:02 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3095, 9673
+[Wed Aug 21 17:35:05 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3093, 9672
+[Wed Aug 21 17:35:31 PDT 2013] Physco [86.186.152.47] picked up a Nature rune, location: 3094, 9672
+[Wed Aug 21 17:36:00 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3093, 9672
+[Wed Aug 21 17:37:25 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3093, 9671
+[Wed Aug 21 17:37:50 PDT 2013] Physco [86.186.152.47] picked up a Chaos rune, location: 3092, 9672
+[Wed Aug 21 17:37:53 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3092, 9672
+[Wed Aug 21 17:37:56 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 3092, 9672
+[Wed Aug 21 17:38:22 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 3093, 9673
+[Wed Aug 21 17:38:24 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3093, 9673
+[Wed Aug 21 17:38:42 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3093, 9672
+[Wed Aug 21 17:38:45 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3094, 9674
+[Wed Aug 21 17:38:47 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3094, 9674
+[Wed Aug 21 17:39:43 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3095, 9674
+[Wed Aug 21 17:39:44 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3094, 9673
+[Wed Aug 21 17:40:10 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3094, 9674
+[Wed Aug 21 17:40:11 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 3094, 9674
+[Wed Aug 21 17:40:20 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3094, 9674
+[Wed Aug 21 17:41:57 PDT 2013] Physco [86.186.152.47] picked up a Blue charm, location: 3095, 9674
+[Wed Aug 21 17:42:27 PDT 2013] Physco [86.186.152.47] picked up a Rope, location: 3094, 9673
+[Wed Aug 21 17:51:51 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3058, 9551
+[Wed Aug 21 17:51:53 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3058, 9551
+[Wed Aug 21 17:51:55 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3058, 9551
+[Wed Aug 21 17:51:57 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3058, 9551
+[Wed Aug 21 17:52:53 PDT 2013] Physco [86.186.152.47] picked up a Runite bolts, location: 3060, 9545
+[Wed Aug 21 17:52:54 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3060, 9545
+[Wed Aug 21 17:52:58 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9545
+[Wed Aug 21 17:53:45 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3062, 9547
+[Wed Aug 21 17:53:48 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3062, 9547
+[Wed Aug 21 17:55:54 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3057, 9554
+[Wed Aug 21 17:55:57 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3057, 9554
+[Wed Aug 21 17:56:47 PDT 2013] Physco [86.186.152.47] picked up a Black axe, location: 3060, 9551
+[Wed Aug 21 17:56:48 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3060, 9551
+[Wed Aug 21 17:56:52 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9551
+[Wed Aug 21 17:57:42 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3054, 9553
+[Wed Aug 21 17:57:43 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3054, 9553
+[Wed Aug 21 17:58:51 PDT 2013] Physco [86.186.152.47] picked up a Runite bolts, location: 3047, 9552
+[Wed Aug 21 17:58:52 PDT 2013] Physco [86.186.152.47] picked up a Snakeskin chaps, location: 3047, 9552
+[Wed Aug 21 17:58:55 PDT 2013] Physco [86.186.152.47] picked up a Runite bolts, location: 3047, 9552
+[Wed Aug 21 17:58:56 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3047, 9552
+[Wed Aug 21 17:59:43 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3057, 9552
+[Wed Aug 21 17:59:44 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3057, 9552
+[Wed Aug 21 18:00:45 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3060, 9545
+[Wed Aug 21 18:00:46 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9545
+[Wed Aug 21 18:01:24 PDT 2013] Physco [86.186.152.47] picked up a Soul rune, location: 3062, 9542
+[Wed Aug 21 18:01:25 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3062, 9542
+[Wed Aug 21 18:01:28 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3062, 9542
+[Wed Aug 21 18:03:16 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3062, 9545
+[Wed Aug 21 18:03:19 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3062, 9545
+[Wed Aug 21 18:04:12 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3062, 9545
+[Wed Aug 21 18:04:15 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3062, 9545
+[Wed Aug 21 18:05:13 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3063, 9542
+[Wed Aug 21 18:06:44 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9545
+[Wed Aug 21 18:07:46 PDT 2013] Physco [86.186.152.47] picked up a Granite legs, location: 3060, 9545
+[Wed Aug 21 18:07:48 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3060, 9545
+[Wed Aug 21 18:07:54 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9545
+[Wed Aug 21 18:08:41 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3065, 9546
+[Wed Aug 21 18:08:46 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3065, 9546
+[Wed Aug 21 18:09:31 PDT 2013] Physco [86.186.152.47] picked up a Soul rune, location: 3062, 9541
+[Wed Aug 21 18:09:33 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3062, 9541
+[Wed Aug 21 18:09:34 PDT 2013] Physco [86.186.152.47] picked up a Coins, location: 3062, 9541
+[Wed Aug 21 18:09:36 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3062, 9541
+[Wed Aug 21 18:11:43 PDT 2013] Physco [86.186.152.47] picked up a Snakeskin chaps, location: 3061, 9546
+[Wed Aug 21 18:11:47 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3061, 9546
+[Wed Aug 21 18:12:22 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3060, 9543
+[Wed Aug 21 18:12:25 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3060, 9543
+[Wed Aug 21 18:12:29 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9543
+[Wed Aug 21 18:13:13 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3060, 9545
+[Wed Aug 21 18:23:10 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3056, 9553
+[Wed Aug 21 18:23:58 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3051, 9550
+[Wed Aug 21 18:24:28 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3053, 9548
+[Wed Aug 21 18:24:35 PDT 2013] Physco [86.186.152.47] picked up a Mithril bolts, location: 3053, 9548
+[Wed Aug 21 18:24:37 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3053, 9548
+[Wed Aug 21 18:25:35 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3033, 9549
+[Wed Aug 21 18:26:14 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3031, 9547
+[Wed Aug 21 18:26:17 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3031, 9547
+[Wed Aug 21 18:26:47 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3034, 9549
+[Wed Aug 21 18:26:48 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3034, 9549
+[Wed Aug 21 18:27:56 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3029, 9550
+[Wed Aug 21 18:27:58 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3029, 9550
+[Wed Aug 21 18:28:48 PDT 2013] Physco [86.186.152.47] picked up a Gold charm, location: 3036, 9549
+[Wed Aug 21 18:28:49 PDT 2013] Physco [86.186.152.47] picked up a Mithril bolts, location: 3036, 9549
+[Wed Aug 21 18:28:52 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3036, 9549
+[Wed Aug 21 18:29:51 PDT 2013] Physco [86.186.152.47] picked up a Snakeskin chaps, location: 3034, 9552
+[Wed Aug 21 18:29:53 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3034, 9552
+[Wed Aug 21 18:30:55 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3030, 9548
+[Wed Aug 21 18:30:57 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3030, 9548
+[Wed Aug 21 18:31:41 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3033, 9543
+[Wed Aug 21 18:31:42 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3017, 9503
+[Wed Aug 21 18:33:15 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3027, 9547
+[Wed Aug 21 18:33:16 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3027, 9547
+[Wed Aug 21 18:34:09 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3029, 9547
+[Wed Aug 21 18:34:10 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3029, 9547
+[Wed Aug 21 18:34:13 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3029, 9547
+[Wed Aug 21 18:34:55 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3033, 9543
+[Wed Aug 21 18:34:56 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3033, 9543
+[Wed Aug 21 18:34:59 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3033, 9543
+[Wed Aug 21 18:35:40 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3032, 9543
+[Wed Aug 21 18:35:41 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3032, 9543
+[Wed Aug 21 18:35:47 PDT 2013] Physco [86.186.152.47] picked up a Wyvern bones, location: 3032, 9543
+[Wed Aug 21 18:37:18 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3033, 9547
+[Wed Aug 21 18:39:43 PDT 2013] Physco [86.186.152.47] picked up a Green charm, location: 3029, 9547
+[Wed Aug 21 18:41:28 PDT 2013] Physco [86.186.152.47] picked up a Pure essence, location: 3029, 9544
+[Wed Aug 21 18:41:30 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3029, 9544
+[Wed Aug 21 18:42:36 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3033, 9550
+[Wed Aug 21 18:43:34 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3025, 9543
+[Wed Aug 21 18:45:12 PDT 2013] Physco [86.186.152.47] picked up a Lobster, location: 3047, 9543
+[Wed Aug 21 18:45:18 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3047, 9543
+[Wed Aug 21 18:48:55 PDT 2013] Physco [86.186.152.47] picked up a Soul rune, location: 3051, 9554
+[Wed Aug 21 18:50:12 PDT 2013] Physco [86.186.152.47] picked up a Nature rune, location: 3048, 9554
+[Wed Aug 21 18:50:17 PDT 2013] Physco [86.186.152.47] picked up a Nature rune, location: 3048, 9554
+[Wed Aug 21 18:52:59 PDT 2013] Physco [86.186.152.47] picked up a Death rune, location: 3047, 9547
+[Wed Aug 21 18:53:03 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3047, 9547
+[Wed Aug 21 18:58:03 PDT 2013] Physco [86.186.152.47] picked up a Soul rune, location: 3047, 9547
+[Wed Aug 21 18:58:04 PDT 2013] Physco [86.186.152.47] picked up a Crimson charm, location: 3047, 9547
+[Wed Aug 21 19:20:14 PDT 2013] Physco [86.174.211.196] picked up a Sheep bones (1), location: 2703, 9990
+[Wed Aug 21 19:20:24 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2703, 9990
+[Wed Aug 21 19:27:12 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2519, 4637
+[Wed Aug 21 19:27:15 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2517, 4637
+[Wed Aug 21 19:30:10 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2518, 4636
+[Wed Aug 21 19:30:38 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2517, 4636
+[Wed Aug 21 19:32:23 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2518, 4636
+[Wed Aug 21 19:33:42 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2519, 4636
+[Wed Aug 21 19:35:35 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2519, 4635
+[Wed Aug 21 19:35:38 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2519, 4635
+[Wed Aug 21 19:36:50 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2518, 4636
+[Wed Aug 21 19:36:53 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2520, 4635
+[Wed Aug 21 19:37:16 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2519, 4636
+[Wed Aug 21 19:37:23 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2518, 4635
+[Wed Aug 21 19:39:37 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2517, 4636
+[Wed Aug 21 19:40:38 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2518, 4636
+[Wed Aug 21 19:41:38 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2517, 4637
+[Wed Aug 21 19:41:54 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2518, 4637
+[Wed Aug 21 19:41:56 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2518, 4637
+[Wed Aug 21 19:44:29 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2517, 4634
+[Wed Aug 21 19:45:21 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2517, 4635
+[Wed Aug 21 19:46:40 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2514, 4636
+[Wed Aug 21 19:47:36 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2515, 4635
+[Wed Aug 21 19:47:47 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2515, 4634
+[Wed Aug 21 19:50:32 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2516, 4635
+[Wed Aug 21 19:51:40 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2515, 4635
+[Wed Aug 21 19:53:32 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2514, 4635
+[Wed Aug 21 19:53:57 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2515, 4634
+[Wed Aug 21 19:54:22 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2515, 4635
+[Wed Aug 21 19:54:56 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2516, 4635
+[Wed Aug 21 19:56:23 PDT 2013] Physco [86.174.211.196] picked up a Blue charm, location: 2519, 4637
+[Wed Aug 21 19:57:38 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2517, 4636
+[Wed Aug 21 19:58:41 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2518, 4636
+[Wed Aug 21 20:07:07 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2893, 9796
+[Wed Aug 21 20:07:33 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2903, 9800
+[Wed Aug 21 20:07:53 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2902, 9803
+[Wed Aug 21 20:08:13 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2898, 9803
+[Wed Aug 21 20:08:33 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2903, 9802
+[Wed Aug 21 20:08:35 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2903, 9802
+[Wed Aug 21 20:09:25 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2898, 9802
+[Wed Aug 21 20:09:28 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2899, 9802
+[Wed Aug 21 20:09:56 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2906, 9799
+[Wed Aug 21 20:10:25 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2900, 9803
+[Wed Aug 21 20:10:55 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2899, 9797
+[Wed Aug 21 20:11:20 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2899, 9802
+[Wed Aug 21 20:11:26 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2899, 9802
+[Wed Aug 21 20:11:27 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2899, 9802
+[Wed Aug 21 20:11:51 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2897, 9799
+[Wed Aug 21 20:12:11 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2898, 9800
+[Wed Aug 21 20:12:33 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2906, 9799
+[Wed Aug 21 20:13:00 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2897, 9796
+[Wed Aug 21 20:13:16 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2896, 9797
+[Wed Aug 21 20:13:38 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2903, 9808
+[Wed Aug 21 20:14:59 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2893, 9796
+[Wed Aug 21 20:15:20 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2893, 9797
+[Wed Aug 21 20:15:57 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2894, 9796
+[Wed Aug 21 20:16:00 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2894, 9796
+[Wed Aug 21 20:16:36 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2902, 9806
+[Wed Aug 21 20:16:37 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2902, 9806
+[Wed Aug 21 20:17:16 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2898, 9802
+[Wed Aug 21 20:17:29 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2899, 9802
+[Wed Aug 21 20:17:30 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2899, 9802
+[Wed Aug 21 20:18:30 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2893, 9800
+[Wed Aug 21 20:18:55 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2904, 9802
+[Wed Aug 21 20:18:58 PDT 2013] Physco [86.174.211.196] picked up a Nature rune, location: 2904, 9802
+[Wed Aug 21 20:18:59 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2904, 9802
+[Wed Aug 21 20:19:27 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2903, 9806
+[Wed Aug 21 20:19:31 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2903, 9806
+[Wed Aug 21 20:20:05 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2903, 9808
+[Wed Aug 21 20:20:30 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2902, 9803
+[Wed Aug 21 20:20:59 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2906, 9799
+[Wed Aug 21 20:21:01 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 2906, 9799
+[Wed Aug 21 20:21:03 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2906, 9799
+[Wed Aug 21 20:21:42 PDT 2013] Physco [86.174.211.196] picked up a Dragon bones, location: 2899, 9796
+[Thu Aug 22 04:02:42 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2973, 9507
+[Thu Aug 22 04:03:12 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2973, 9500
+[Thu Aug 22 04:03:16 PDT 2013] Physco [86.174.211.196] picked up a Water orb, location: 2973, 9500
+[Thu Aug 22 04:06:18 PDT 2013] Physco [86.174.211.196] picked up a Uncut dragonstone, location: 2975, 9503
+[Thu Aug 22 04:07:02 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2969, 9505
+[Thu Aug 22 04:07:05 PDT 2013] Physco [86.174.211.196] picked up a Blood rune, location: 2969, 9505
+[Thu Aug 22 04:07:05 PDT 2013] Physco [86.174.211.196] picked up a Blood rune, location: 2969, 9505
+[Thu Aug 22 04:07:36 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2970, 9504
+[Thu Aug 22 04:08:14 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 2975, 9504
+[Thu Aug 22 04:08:37 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2971, 9506
+[Thu Aug 22 04:12:31 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2974, 9505
+[Thu Aug 22 04:12:35 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2974, 9505
+[Thu Aug 22 04:12:38 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2974, 9505
+[Thu Aug 22 04:12:39 PDT 2013] Physco [86.174.211.196] picked up a Cadantine seed, location: 2974, 9505
+[Thu Aug 22 04:12:39 PDT 2013] Physco [86.174.211.196] picked up a Cadantine seed, location: 2974, 9505
+[Thu Aug 22 04:12:39 PDT 2013] Physco [86.174.211.196] picked up a Cadantine seed, location: 2974, 9505
+[Thu Aug 22 04:12:42 PDT 2013] Physco [86.174.211.196] picked up a Cadantine seed, location: 2974, 9505
+[Thu Aug 22 04:12:57 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2974, 9503
+[Thu Aug 22 04:13:49 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2971, 9503
+[Thu Aug 22 04:15:38 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2973, 9503
+[Thu Aug 22 04:17:50 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2974, 9505
+[Thu Aug 22 04:17:54 PDT 2013] Physco [86.174.211.196] picked up a Avantoe seed, location: 2974, 9505
+[Thu Aug 22 04:18:17 PDT 2013] Physco [86.174.211.196] picked up a Seaweed, location: 2972, 9505
+[Thu Aug 22 04:18:33 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 2972, 9504
+[Thu Aug 22 04:19:52 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2971, 9506
+[Thu Aug 22 04:20:23 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2969, 9503
+[Thu Aug 22 04:21:24 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2960, 9505
+[Thu Aug 22 04:36:42 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2971, 9503
+[Thu Aug 22 04:37:14 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2974, 9502
+[Thu Aug 22 04:37:17 PDT 2013] Physco [86.174.211.196] picked up a Uncut dragonstone, location: 2974, 9502
+[Thu Aug 22 04:37:45 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2977, 9503
+[Thu Aug 22 04:37:47 PDT 2013] Physco [86.174.211.196] picked up a Blood rune, location: 2977, 9503
+[Thu Aug 22 04:39:07 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 2971, 9503
+[Thu Aug 22 04:42:00 PDT 2013] Physco [86.174.211.196] picked up a Dragon med helm, location: 3440, 3568
+[Thu Aug 22 04:42:01 PDT 2013] Physco [86.174.211.196] picked up a Nature rune, location: 3440, 3568
+[Thu Aug 22 04:42:04 PDT 2013] Physco [86.174.211.196] picked up a Dragon med helm, location: 3440, 3568
+[Thu Aug 22 04:42:08 PDT 2013] Physco [86.174.211.196] picked up a Dragon med helm, location: 3440, 3568
+[Thu Aug 22 04:43:42 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 3440, 3569
+[Thu Aug 22 04:44:15 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 3440, 3566
+[Thu Aug 22 04:44:36 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 3441, 3566
+[Thu Aug 22 04:45:54 PDT 2013] Physco [86.174.211.196] picked up a Steel 2h sword, location: 3440, 3565
+[Thu Aug 22 04:47:17 PDT 2013] Physco [86.174.211.196] picked up a Chaos rune, location: 3442, 3565
+[Thu Aug 22 04:50:16 PDT 2013] Physco [86.174.211.196] picked up a Law rune, location: 3438, 3569
+[Thu Aug 22 04:50:40 PDT 2013] Physco [86.174.211.196] picked up a Green charm, location: 3437, 3570
+[Thu Aug 22 04:51:14 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 3438, 3565
+[Thu Aug 22 04:52:34 PDT 2013] Physco [86.174.211.196] picked up a Chaos rune, location: 3438, 3568
+[Thu Aug 22 04:53:11 PDT 2013] Physco [86.174.211.196] picked up a Starved ancient effigy, location: 3434, 3568
+[Thu Aug 22 04:53:14 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 3434, 3568
+[Thu Aug 22 04:53:15 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 3434, 3568
+[Thu Aug 22 04:53:50 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 3432, 3568
+[Thu Aug 22 04:54:43 PDT 2013] Physco [86.174.211.196] picked up a Rune boots, location: 3439, 3566
+[Thu Aug 22 04:55:18 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 3433, 3568
+[Thu Aug 22 04:55:29 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 3433, 3567
+[Thu Aug 22 04:56:33 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 3440, 3566
+[Thu Aug 22 04:56:34 PDT 2013] Physco [86.174.211.196] picked up a Gold charm, location: 3440, 3566
+[Thu Aug 22 05:40:42 PDT 2013] Physco [86.174.211.196] picked up a Death rune, location: 3439, 3566
+[Thu Aug 22 05:41:57 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 3438, 3565
+[Thu Aug 22 05:41:59 PDT 2013] Physco [86.174.211.196] picked up a Law rune, location: 3438, 3565
+[Thu Aug 22 05:43:01 PDT 2013] Physco [86.174.211.196] picked up a Crimson charm, location: 3439, 3566

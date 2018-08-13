@@ -1,0 +1,4 @@
+[Sun Aug 18 16:29:27 PDT 2013] Master chief [67.184.30.177] dropped a Marrentill seed at location: 2829, 10229
+[Sun Aug 18 16:29:28 PDT 2013] Master chief [67.184.30.177] dropped a Potato seed at location: 2829, 10229
+[Sun Aug 18 19:29:01 PDT 2013] Master chief [67.184.30.177] dropped a Jug of wine at location: 3044, 9582
+[Tue Aug 20 19:48:08 PDT 2013] Master chief [67.184.30.177] dropped a Earth talisman at location: 3107, 3507

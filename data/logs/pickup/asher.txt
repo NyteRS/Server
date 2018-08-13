@@ -1,0 +1,5 @@
+[Thu Aug 22 10:08:12 PDT 2013] Asher [128.123.161.48] picked up a Green charm, location: 2673, 3713
+[Thu Aug 22 10:22:32 PDT 2013] Asher [128.123.161.48] picked up a Gold charm, location: 3166, 2983
+[Thu Aug 22 10:22:33 PDT 2013] Asher [128.123.161.48] picked up a Bones, location: 3166, 2983
+[Thu Aug 22 10:24:58 PDT 2013] Asher [128.123.161.48] picked up a Gold charm, location: 3168, 2983
+[Thu Aug 22 10:25:35 PDT 2013] Asher [128.123.161.48] picked up a Gold charm, location: 3169, 2982

@@ -1,0 +1,2 @@
+[Sun Aug 18 17:26:58 PDT 2013] Level 3 [77.245.179.12] traded 7352443 Coins to the user Duel arena [77.245.179.12]
+[Sun Aug 18 17:26:58 PDT 2013] Level 3 [77.245.179.12] traded 1000 Manta ray to the user Duel arena [77.245.179.12]

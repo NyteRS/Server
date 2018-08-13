@@ -1,0 +1,8 @@
+[Wed Aug 21 05:37:16 PDT 2013] Randy [46.208.174.122] picked up a Fire rune, location: 2675, 3715
+[Wed Aug 21 05:42:15 PDT 2013] Randy [46.208.174.122] picked up a Gold charm, location: 2675, 3714
+[Wed Aug 21 05:43:24 PDT 2013] Randy [46.208.174.122] picked up a Limpwurt root, location: 2673, 3714
+[Wed Aug 21 05:43:26 PDT 2013] Randy [46.208.174.122] picked up a Gold charm, location: 2673, 3714
+[Wed Aug 21 05:54:09 PDT 2013] Randy [46.208.174.122] picked up a Gold charm, location: 2684, 3723
+[Wed Aug 21 05:57:08 PDT 2013] Randy [46.208.174.122] picked up a Nature rune, location: 2683, 3723
+[Wed Aug 21 06:16:22 PDT 2013] Randy [46.208.174.122] picked up a Fire rune, location: 2682, 3723
+[Wed Aug 21 06:19:23 PDT 2013] Randy [46.208.174.122] picked up a Chaos rune, location: 2683, 3724

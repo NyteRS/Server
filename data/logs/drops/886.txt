@@ -1,0 +1,7 @@
+[Mon Aug 19 12:52:08 PDT 2013] 886 [76.30.94.165] dropped a Chef's hat at location: 2990, 3387
+[Mon Aug 19 12:52:09 PDT 2013] 886 [76.30.94.165] dropped a Zamorak robetop at location: 2990, 3387
+[Mon Aug 19 12:52:12 PDT 2013] 886 [76.30.94.165] dropped a Banner at location: 2990, 3387
+[Mon Aug 19 12:52:15 PDT 2013] 886 [76.30.94.165] dropped a Zamorak robe at location: 2990, 3387
+[Mon Aug 19 12:52:17 PDT 2013] 886 [76.30.94.165] dropped a Gloves at location: 2990, 3387
+[Mon Aug 19 12:52:18 PDT 2013] 886 [76.30.94.165] dropped a Boots at location: 2990, 3387
+[Mon Aug 19 12:52:21 PDT 2013] 886 [76.30.94.165] dropped a Instruction manual at location: 2990, 3387

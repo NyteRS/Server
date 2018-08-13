@@ -1,0 +1,10 @@
+[Wed Aug 21 03:58:23 PDT 2013] Zaki [176.205.165.94] picked up a Gold charm, location: 2673, 3715
+[Wed Aug 21 09:42:25 PDT 2013] Zaki [176.205.165.94] picked up a Dragon bones, location: 2741, 9488
+[Wed Aug 21 09:42:26 PDT 2013] Zaki [176.205.165.94] picked up a Crimson charm, location: 2741, 9488
+[Wed Aug 21 09:43:59 PDT 2013] Zaki [176.205.165.94] picked up a Rune longsword, location: 2738, 9489
+[Wed Aug 21 09:44:00 PDT 2013] Zaki [176.205.165.94] picked up a Rune longsword, location: 2738, 9489
+[Wed Aug 21 09:44:05 PDT 2013] Zaki [176.205.165.94] picked up a Dragon bones, location: 2738, 9489
+[Wed Aug 21 09:44:32 PDT 2013] Zaki [176.205.165.94] picked up a Blood rune, location: 2738, 9489
+[Thu Aug 22 05:26:27 PDT 2013] Zaki [176.205.165.94] picked up a Willow longbow (u), location: 3093, 3243
+[Thu Aug 22 07:59:08 PDT 2013] Zaki [176.205.165.94] picked up a Water rune, location: 3098, 3508
+[Thu Aug 22 08:28:47 PDT 2013] Zaki [176.205.165.94] picked up a Staff of air, location: 3095, 3510

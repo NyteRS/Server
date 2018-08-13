@@ -1,0 +1,1 @@
+[Wed Aug 21 17:08:34 PDT 2013] Smart1 [71.203.152.149] dropped a Coins at location: 2672, 3710

@@ -1,0 +1,265 @@
+[Sun Aug 18 17:58:59 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3420, 3512
+[Sun Aug 18 17:59:39 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3419, 3512
+[Sun Aug 18 17:59:42 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 17:59:42 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 18:54:01 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3411, 3513
+[Sun Aug 18 18:54:16 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3416, 3511
+[Sun Aug 18 18:54:40 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3415, 3511
+[Sun Aug 18 18:54:42 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3512
+[Sun Aug 18 18:55:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 18:55:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 18:55:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 18:55:05 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 18:55:46 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3510
+[Sun Aug 18 18:56:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3509
+[Sun Aug 18 18:56:05 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3509
+[Sun Aug 18 18:56:05 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3509
+[Sun Aug 18 18:56:06 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3509
+[Sun Aug 18 18:56:06 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3509
+[Sun Aug 18 18:56:06 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3509
+[Sun Aug 18 18:56:25 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3416, 3511
+[Sun Aug 18 18:56:54 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3420, 3510
+[Sun Aug 18 18:57:21 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3507
+[Sun Aug 18 18:57:40 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3415, 3508
+[Sun Aug 18 18:57:42 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3417, 3508
+[Sun Aug 18 18:58:19 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3415, 3509
+[Sun Aug 18 18:59:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3415, 3510
+[Sun Aug 18 18:59:16 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3511
+[Sun Aug 18 18:59:40 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3411, 3511
+[Sun Aug 18 18:59:41 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3411, 3511
+[Sun Aug 18 18:59:42 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3411, 3511
+[Sun Aug 18 18:59:59 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3510
+[Sun Aug 18 19:00:01 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3510
+[Sun Aug 18 19:00:01 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3510
+[Sun Aug 18 19:00:01 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3510
+[Sun Aug 18 19:00:28 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3510
+[Sun Aug 18 19:00:32 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3511
+[Sun Aug 18 19:01:27 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3420, 3511
+[Sun Aug 18 19:01:27 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3420, 3511
+[Sun Aug 18 19:01:50 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3507
+[Sun Aug 18 19:02:22 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3413, 3508
+[Sun Aug 18 19:02:58 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3412, 3509
+[Sun Aug 18 19:02:58 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3412, 3509
+[Sun Aug 18 19:03:24 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3414, 3513
+[Sun Aug 18 19:03:52 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3415, 3512
+[Sun Aug 18 19:04:06 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3510
+[Sun Aug 18 19:04:30 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3509
+[Sun Aug 18 19:04:31 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3509
+[Sun Aug 18 19:09:47 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3418, 3512
+[Sun Aug 18 19:09:48 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3416, 3511
+[Sun Aug 18 19:20:17 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3052, 9589
+[Sun Aug 18 19:20:57 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3047, 9584
+[Sun Aug 18 19:21:24 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3054, 9592
+[Sun Aug 18 19:22:06 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3050, 9576
+[Sun Aug 18 19:23:13 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3051, 9574
+[Sun Aug 18 19:23:47 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9575
+[Sun Aug 18 19:24:26 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3042, 9580
+[Sun Aug 18 19:24:58 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9578
+[Sun Aug 18 19:25:18 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3043, 9579
+[Sun Aug 18 19:25:36 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3043, 9580
+[Sun Aug 18 19:25:56 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3040, 9583
+[Sun Aug 18 19:26:31 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3043, 9582
+[Sun Aug 18 19:26:50 PDT 2013] Master chief [67.184.30.177] picked up a Jug of wine, location: 3044, 9580
+[Sun Aug 18 19:26:53 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9580
+[Sun Aug 18 19:28:33 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9582
+[Sun Aug 18 19:29:04 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3045, 9582
+[Sun Aug 18 19:29:29 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3042, 9580
+[Sun Aug 18 19:29:55 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3042, 9586
+[Sun Aug 18 19:30:58 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3045, 9580
+[Sun Aug 18 19:31:32 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3046, 9579
+[Sun Aug 18 19:32:07 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9580
+[Sun Aug 18 19:32:36 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9579
+[Sun Aug 18 19:33:08 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3045, 9578
+[Sun Aug 18 19:33:35 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3049, 9574
+[Sun Aug 18 19:34:45 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3049, 9577
+[Sun Aug 18 19:35:23 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3047, 9577
+[Sun Aug 18 19:35:33 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3047, 9577
+[Sun Aug 18 19:36:10 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3049, 9575
+[Sun Aug 18 19:36:46 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3049, 9579
+[Sun Aug 18 19:37:04 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9579
+[Sun Aug 18 19:37:39 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9579
+[Sun Aug 18 19:38:33 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3042, 9580
+[Sun Aug 18 19:39:05 PDT 2013] Master chief [67.184.30.177] picked up a Iron platelegs, location: 3048, 9582
+[Sun Aug 18 19:39:10 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3048, 9582
+[Sun Aug 18 19:39:47 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3045, 9579
+[Sun Aug 18 19:40:12 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3046, 9578
+[Sun Aug 18 19:40:30 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3045, 9579
+[Sun Aug 18 19:41:11 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9580
+[Sun Aug 18 19:41:30 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3043, 9581
+[Sun Aug 18 19:42:03 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3043, 9582
+[Sun Aug 18 19:42:30 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9576
+[Sun Aug 18 19:43:49 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3044, 9578
+[Sun Aug 18 19:44:28 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3045, 9578
+[Sun Aug 18 19:45:18 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 3043, 9581
+[Mon Aug 19 09:06:57 PDT 2013] Master chief [67.184.30.177] picked up a Dragon platelegs, location: 2709, 9461
+[Mon Aug 19 09:07:02 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9461
+[Mon Aug 19 09:08:20 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2700, 9446
+[Mon Aug 19 09:11:01 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2699, 9452
+[Mon Aug 19 09:11:51 PDT 2013] Master chief [67.184.30.177] picked up a Runite limbs, location: 2709, 9450
+[Mon Aug 19 09:12:01 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9450
+[Mon Aug 19 09:13:15 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9451
+[Mon Aug 19 09:14:16 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2706, 9446
+[Mon Aug 19 09:15:10 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2697, 9454
+[Mon Aug 19 09:16:12 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2698, 9452
+[Mon Aug 19 09:17:18 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9452
+[Mon Aug 19 09:18:49 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9459
+[Mon Aug 19 09:20:01 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2702, 9456
+[Mon Aug 19 09:25:23 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2703, 9454
+[Mon Aug 19 09:26:32 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9456
+[Mon Aug 19 09:27:45 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2719, 9463
+[Mon Aug 19 09:28:58 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2697, 9454
+[Mon Aug 19 09:30:00 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2705, 9454
+[Mon Aug 19 09:31:03 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2712, 9455
+[Mon Aug 19 09:32:09 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2701, 9460
+[Mon Aug 19 09:32:57 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2706, 9454
+[Mon Aug 19 09:33:57 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2705, 9459
+[Mon Aug 19 09:34:54 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2697, 9452
+[Mon Aug 19 09:36:09 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2701, 9455
+[Mon Aug 19 09:36:10 PDT 2013] Master chief [67.184.30.177] picked up a Super strength (1), location: 2701, 9455
+[Mon Aug 19 09:38:34 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2697, 9450
+[Mon Aug 19 09:39:29 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2705, 9450
+[Mon Aug 19 18:20:48 PDT 2013] Master chief [67.184.30.177] picked up a Rune platebody, location: 2715, 9817
+[Mon Aug 19 18:23:40 PDT 2013] Master chief [67.184.30.177] picked up a Iron full helm, location: 2714, 9813
+[Mon Aug 19 18:23:42 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2714, 9813
+[Mon Aug 19 18:23:42 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2714, 9813
+[Mon Aug 19 18:23:42 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2714, 9813
+[Mon Aug 19 18:23:42 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2714, 9813
+[Mon Aug 19 18:23:42 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:43 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:44 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:44 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2714, 9813
+[Mon Aug 19 18:23:44 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:44 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:45 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:45 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:45 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:45 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:45 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2714, 9813
+[Mon Aug 19 18:23:46 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2714, 9813
+[Mon Aug 19 18:23:46 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2714, 9813
+[Mon Aug 19 18:23:46 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2714, 9813
+[Mon Aug 19 18:23:46 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2714, 9813
+[Mon Aug 19 18:23:46 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2714, 9813
+[Mon Aug 19 18:23:56 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:56 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:56 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:56 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:56 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:57 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:57 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:57 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:57 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:57 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:58 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:58 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:58 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:58 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:59 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:59 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:59 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:23:59 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:23:59 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:23:59 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:24:00 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:24:00 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:24:00 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:24:00 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2714, 9813
+[Mon Aug 19 18:24:00 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2714, 9813
+[Mon Aug 19 18:24:01 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2714, 9813
+[Mon Aug 19 18:24:01 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2714, 9813
+[Mon Aug 19 18:24:01 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2714, 9813
+[Mon Aug 19 18:24:01 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2714, 9813
+[Mon Aug 19 18:24:02 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2714, 9813
+[Mon Aug 19 18:24:02 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2714, 9813
+[Mon Aug 19 18:24:02 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2714, 9813
+[Mon Aug 19 18:24:02 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2714, 9813
+[Mon Aug 19 18:24:21 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:24:21 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:24:21 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:24:21 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:24:21 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:24:22 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe top, location: 2715, 9812
+[Mon Aug 19 18:24:22 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:22 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:22 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:23 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:23 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:23 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Thieving cape, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:24 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:25 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai robe bottom, location: 2715, 9812
+[Mon Aug 19 18:24:25 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2715, 9812
+[Mon Aug 19 18:24:25 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:25 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:26 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:27 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:44 PDT 2013] Master chief [67.184.30.177] picked up a Red chinchompa, location: 2715, 9812
+[Mon Aug 19 18:24:46 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:47 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:48 PDT 2013] Master chief [67.184.30.177] picked up a Dagon'hai hat, location: 2713, 9813
+[Mon Aug 19 18:24:48 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2713, 9813
+[Mon Aug 19 18:24:48 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2713, 9813
+[Mon Aug 19 18:24:49 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2713, 9813
+[Mon Aug 19 18:24:49 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2713, 9813
+[Mon Aug 19 18:24:49 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2713, 9813
+[Mon Aug 19 18:24:49 PDT 2013] Master chief [67.184.30.177] picked up a Mystic gloves, location: 2713, 9813
+[Mon Aug 19 18:24:49 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2713, 9813
+[Mon Aug 19 18:24:49 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2713, 9813
+[Mon Aug 19 18:24:50 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2713, 9813
+[Mon Aug 19 18:24:50 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2713, 9813
+[Mon Aug 19 18:24:50 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2713, 9813
+[Mon Aug 19 18:24:50 PDT 2013] Master chief [67.184.30.177] picked up a Anti-dragon shield, location: 2713, 9813
+[Mon Aug 19 19:46:43 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2698, 9449
+[Mon Aug 19 19:47:51 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2699, 9449
+[Mon Aug 19 19:48:51 PDT 2013] Master chief [67.184.30.177] picked up a Dragon plateskirt, location: 2703, 9450
+[Mon Aug 19 19:48:54 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2703, 9450
+[Tue Aug 20 17:21:38 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2701, 9448
+[Tue Aug 20 18:30:57 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3162, 2982
+[Tue Aug 20 18:30:58 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3162, 2981
+[Tue Aug 20 18:31:00 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3163, 2981
+[Tue Aug 20 18:31:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3163, 2981
+[Tue Aug 20 18:43:46 PDT 2013] Master chief [67.184.30.177] picked up a Obsidian charm, location: 2473, 5151
+[Tue Aug 20 18:43:47 PDT 2013] Master chief [67.184.30.177] picked up a Obsidian charm, location: 2473, 5151
+[Tue Aug 20 18:43:52 PDT 2013] Master chief [67.184.30.177] picked up a Obsidian charm, location: 2473, 5151
+[Tue Aug 20 19:05:45 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 2652, 9501
+[Tue Aug 20 19:05:52 PDT 2013] Master chief [67.184.30.177] picked up a Gold charm, location: 2652, 9501
+[Tue Aug 20 19:05:58 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 2652, 9501
+[Tue Aug 20 19:06:02 PDT 2013] Master chief [67.184.30.177] picked up a Big bones, location: 2653, 9501
+[Tue Aug 20 19:08:15 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9457
+[Tue Aug 20 19:09:37 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2709, 9458
+[Tue Aug 20 19:15:49 PDT 2013] Master chief [67.184.30.177] picked up a Dragon bones, location: 2706, 9456
+[Tue Aug 20 19:23:14 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3090, 3448
+[Tue Aug 20 19:25:04 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3092, 3450
+[Tue Aug 20 19:25:45 PDT 2013] Master chief [67.184.30.177] picked up a Unicorn horn, location: 3093, 3450
+[Tue Aug 20 19:25:46 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3093, 3450
+[Tue Aug 20 19:26:10 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3093, 3448
+[Tue Aug 20 19:29:07 PDT 2013] Master chief [67.184.30.177] picked up a Bones, location: 3091, 3449
+[Tue Aug 20 19:48:14 PDT 2013] Master chief [67.184.30.177] picked up a Earth talisman, location: 3107, 3507
+[Tue Aug 20 19:48:14 PDT 2013] Master chief [67.184.30.177] picked up a Earth talisman, location: 3107, 3507
+[Wed Aug 21 16:02:20 PDT 2013] Master chief [67.184.30.177] picked up a Coins, location: 2713, 9487
+[Wed Aug 21 16:02:21 PDT 2013] Master chief [67.184.30.177] picked up a Rune chainbody, location: 2713, 9487
+[Wed Aug 21 16:02:27 PDT 2013] Master chief [67.184.30.177] picked up a Crimson charm, location: 2713, 9487
+[Wed Aug 21 16:02:29 PDT 2013] Master chief [67.184.30.177] picked up a Crimson charm, location: 2713, 9487
+[Wed Aug 21 16:02:30 PDT 2013] Master chief [67.184.30.177] picked up a Coins, location: 2713, 9487
+[Wed Aug 21 16:02:31 PDT 2013] Master chief [67.184.30.177] picked up a Coins, location: 2713, 9487
+[Wed Aug 21 16:02:31 PDT 2013] Master chief [67.184.30.177] picked up a Coins, location: 2713, 9487
+[Wed Aug 21 16:02:31 PDT 2013] Master chief [67.184.30.177] picked up a Coins, location: 2713, 9487
+[Wed Aug 21 16:03:46 PDT 2013] Master chief [67.184.30.177] picked up a Coins, location: 2713, 9484
+[Wed Aug 21 16:03:49 PDT 2013] Master chief [67.184.30.177] picked up a Grimy tarromin, location: 2713, 9484
+[Wed Aug 21 16:05:30 PDT 2013] Master chief [67.184.30.177] picked up a Gold charm, location: 2713, 9481
+[Wed Aug 21 16:07:16 PDT 2013] Master chief [67.184.30.177] picked up a Crimson charm, location: 2710, 9482
+[Wed Aug 21 16:08:42 PDT 2013] Master chief [67.184.30.177] picked up a Grimy guam, location: 2711, 9481
+[Wed Aug 21 17:19:04 PDT 2013] Master chief [67.184.30.177] picked up a Bathus longsword, location: 3206, 9309
+[Wed Aug 21 17:23:11 PDT 2013] Master chief [67.184.30.177] picked up a Bathus dagger (p+), location: 3261, 9286

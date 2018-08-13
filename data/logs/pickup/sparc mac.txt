@@ -1,0 +1,61 @@
+[Sun Aug 18 15:20:47 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2683, 3723
+[Sun Aug 18 15:29:24 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:24 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:24 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:24 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:25 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:25 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:25 PDT 2013] Sparc mac [92.24.61.171] picked up a Berserker helm, location: 2802, 9148
+[Sun Aug 18 15:29:26 PDT 2013] Sparc mac [92.24.61.171] picked up a Bronze arrow, location: 2802, 9148
+[Sun Aug 18 15:29:26 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:26 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:26 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:26 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:26 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:27 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:27 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:27 PDT 2013] Sparc mac [92.24.61.171] picked up a Red chinchompa, location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:29 PDT 2013] Sparc mac [92.24.61.171] picked up a Amulet of glory (4), location: 2802, 9148
+[Sun Aug 18 15:29:38 PDT 2013] Sparc mac [92.24.61.171] picked up a Rune c'bow, location: 2802, 9148
+[Sun Aug 18 15:29:39 PDT 2013] Sparc mac [92.24.61.171] picked up a Rune c'bow, location: 2802, 9148
+[Sun Aug 18 15:29:39 PDT 2013] Sparc mac [92.24.61.171] picked up a Rune c'bow, location: 2802, 9148
+[Sun Aug 18 15:29:39 PDT 2013] Sparc mac [92.24.61.171] picked up a Rune c'bow, location: 2802, 9148
+[Sun Aug 18 15:29:39 PDT 2013] Sparc mac [92.24.61.171] picked up a Rune c'bow, location: 2802, 9148
+[Sun Aug 18 15:29:39 PDT 2013] Sparc mac [92.24.61.171] picked up a Bronze arrow, location: 2802, 9148
+[Sun Aug 18 15:29:40 PDT 2013] Sparc mac [92.24.61.171] picked up a Shortbow, location: 2802, 9148
+[Sun Aug 18 15:29:40 PDT 2013] Sparc mac [92.24.61.171] picked up a Bronze arrow, location: 2802, 9148
+[Sun Aug 18 15:29:40 PDT 2013] Sparc mac [92.24.61.171] picked up a Bronze arrow, location: 2802, 9148
+[Sun Aug 18 15:29:40 PDT 2013] Sparc mac [92.24.61.171] picked up a Shortbow, location: 2802, 9148
+[Sun Aug 18 15:29:41 PDT 2013] Sparc mac [92.24.61.171] picked up a Ring of life, location: 2802, 9148
+[Sun Aug 18 15:29:42 PDT 2013] Sparc mac [92.24.61.171] picked up a Ring of life, location: 2802, 9148
+[Sun Aug 18 15:29:42 PDT 2013] Sparc mac [92.24.61.171] picked up a Ring of life, location: 2802, 9148
+[Sun Aug 18 15:29:42 PDT 2013] Sparc mac [92.24.61.171] picked up a Ring of life, location: 2802, 9148
+[Sun Aug 18 15:29:42 PDT 2013] Sparc mac [92.24.61.171] picked up a Ring of life, location: 2802, 9148
+[Sun Aug 18 15:29:42 PDT 2013] Sparc mac [92.24.61.171] picked up a Ring of life, location: 2802, 9148
+[Sun Aug 18 15:29:42 PDT 2013] Sparc mac [92.24.61.171] picked up a Nature rune, location: 2802, 9148
+[Sun Aug 18 15:29:43 PDT 2013] Sparc mac [92.24.61.171] picked up a Nature rune, location: 2802, 9148
+[Sun Aug 18 15:29:43 PDT 2013] Sparc mac [92.24.61.171] picked up a Nature rune, location: 2802, 9148
+[Sun Aug 18 15:29:43 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2802, 9148
+[Sun Aug 18 15:29:44 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:45 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:46 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:46 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Sun Aug 18 15:29:46 PDT 2013] Sparc mac [92.24.61.171] picked up a Chef's hat, location: 2802, 9148
+[Mon Aug 19 07:56:55 PDT 2013] Sparc mac [92.24.61.171] picked up a Crimson charm, location: 3415, 3512
+[Mon Aug 19 08:01:29 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 3417, 3510
+[Mon Aug 19 08:14:28 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 3414, 3509
+[Mon Aug 19 08:14:29 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2670, 3717
+[Mon Aug 19 08:14:29 PDT 2013] Sparc mac [92.24.61.171] picked up a Gold charm, location: 2670, 3717

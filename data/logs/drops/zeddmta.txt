@@ -1,0 +1,11 @@
+[Tue Aug 20 17:33:21 PDT 2013] Zeddmta [195.20.205.18] dropped a Die (4 sides) at location: 2871, 10187
+[Tue Aug 20 17:56:47 PDT 2013] Zeddmta [195.20.205.18] dropped a Mithril scimitar at location: 2673, 3714
+[Tue Aug 20 17:56:56 PDT 2013] Zeddmta [195.20.205.18] dropped a Adamant scimitar at location: 2673, 3714
+[Tue Aug 20 17:58:21 PDT 2013] Zeddmta [195.20.205.18] dropped a Rune scimitar at location: 2670, 3716
+[Tue Aug 20 18:00:08 PDT 2013] Zeddmta [195.20.205.18] dropped a Climbing boots at location: 2672, 3715
+[Tue Aug 20 18:02:49 PDT 2013] Zeddmta [195.20.205.18] dropped a Grimy ranarr at location: 2674, 3715
+[Tue Aug 20 18:21:26 PDT 2013] Zeddmta [195.20.205.18] dropped a Larupia top at location: 3094, 3491
+[Tue Aug 20 19:35:56 PDT 2013] Zeddmta [195.20.205.18] dropped a Irit seed at location: 3051, 9576
+[Tue Aug 20 19:58:15 PDT 2013] Zeddmta [195.20.205.18] dropped a Rune longsword at location: 3054, 9575
+[Wed Aug 21 20:57:25 PDT 2013] Zeddmta [24.13.161.106] dropped a Snapdragon seed at location: 2685, 3722
+[Wed Aug 21 23:06:49 PDT 2013] Zeddmta [24.13.161.106] dropped a Adamant bar at location: 2863, 9920

@@ -1,0 +1,59 @@
+[Sun Aug 18 19:50:02 PDT 2013] Lee [174.130.217.244] dropped a Torstol seed at location: 3000, 3386
+[Sun Aug 18 19:56:00 PDT 2013] Lee [174.130.217.244] dropped a Yew shortbow at location: 2678, 3721
+[Sun Aug 18 22:47:16 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2412, 5111
+[Sun Aug 18 22:47:17 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2412, 5107
+[Sun Aug 18 23:02:05 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2848, 3543
+[Sun Aug 18 23:25:37 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2998, 3386
+[Mon Aug 19 10:30:16 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2857, 3538
+[Mon Aug 19 10:30:25 PDT 2013] Lee [174.130.217.244] dropped a Warrior guild token at location: 2857, 3539
+[Mon Aug 19 10:31:05 PDT 2013] Lee [174.130.217.244] dropped a Warrior guild token at location: 2857, 3539
+[Mon Aug 19 14:55:39 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2853, 3728
+[Mon Aug 19 15:35:14 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2854, 3728
+[Mon Aug 19 16:44:17 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2848, 3732
+[Mon Aug 19 16:47:01 PDT 2013] Lee [174.130.217.244] dropped a Water orb at location: 2851, 3730
+[Mon Aug 19 16:48:16 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2851, 3730
+[Mon Aug 19 16:48:20 PDT 2013] Lee [174.130.217.244] dropped a Green charm at location: 2850, 3731
+[Mon Aug 19 16:49:21 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2847, 3742
+[Mon Aug 19 16:49:26 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2849, 3742
+[Mon Aug 19 17:06:29 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2849, 3732
+[Mon Aug 19 17:12:27 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2849, 3733
+[Mon Aug 19 18:37:05 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2845, 10209
+[Tue Aug 20 09:30:23 PDT 2013] Lee [174.130.217.244] dropped a Vial at location: 2838, 10207
+[Tue Aug 20 09:53:21 PDT 2013] Lee [174.130.217.244] dropped a Diamond at location: 2331, 9816
+[Tue Aug 20 20:44:59 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2333, 9816
+[Tue Aug 20 22:02:29 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 3373, 3741
+[Tue Aug 20 22:56:29 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 3366, 3735
+[Wed Aug 21 08:28:41 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 3343, 3745
+[Wed Aug 21 08:47:16 PDT 2013] Lee [75.90.93.77] dropped a Bronzed dragon claw at location: 3082, 3505
+[Wed Aug 21 08:47:20 PDT 2013] Lee [75.90.93.77] dropped a Coins at location: 3082, 3505
+[Wed Aug 21 09:38:51 PDT 2013] Lee [75.90.93.77] dropped a Super restore (4) at location: 2852, 3730
+[Wed Aug 21 10:38:02 PDT 2013] Lee [75.90.93.77] dropped a Super attack (4) at location: 3096, 3494
+[Wed Aug 21 11:23:51 PDT 2013] Lee [75.90.93.77] dropped a Ring of wealth at location: 2339, 9807
+[Wed Aug 21 11:28:28 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2813, 3466
+[Wed Aug 21 11:28:28 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2813, 3466
+[Wed Aug 21 11:28:51 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2812, 3461
+[Wed Aug 21 11:28:52 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2812, 3461
+[Wed Aug 21 11:29:09 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2813, 3462
+[Wed Aug 21 11:29:11 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2813, 3462
+[Wed Aug 21 11:30:44 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2813, 3469
+[Wed Aug 21 11:30:45 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2813, 3469
+[Wed Aug 21 11:38:27 PDT 2013] Lee [75.90.93.77] dropped a Potato seed at location: 3604, 3525
+[Wed Aug 21 11:39:24 PDT 2013] Lee [75.90.93.77] dropped a Compost at location: 2807, 3464
+[Wed Aug 21 11:41:47 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2665, 3376
+[Wed Aug 21 11:41:48 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2667, 3377
+[Wed Aug 21 11:41:51 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2667, 3377
+[Wed Aug 21 11:41:54 PDT 2013] Lee [75.90.93.77] dropped a Weeds at location: 2667, 3377
+[Wed Aug 21 11:44:00 PDT 2013] Lee [75.90.93.77] dropped a Onion seed at location: 2808, 3461
+[Wed Aug 21 11:46:45 PDT 2013] Lee [75.90.93.77] dropped a Watering can at location: 3596, 3526
+[Wed Aug 21 12:44:07 PDT 2013] Lee [75.90.93.77] dropped a Coins at location: 3378, 3742
+[Wed Aug 21 12:46:03 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 3373, 3737
+[Wed Aug 21 13:05:16 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2442, 5172
+[Wed Aug 21 13:59:16 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2910, 3610
+[Wed Aug 21 18:45:16 PDT 2013] Lee [75.90.93.77] dropped a Ring of wealth at location: 2468, 4772
+[Wed Aug 21 19:03:03 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2916, 4449
+[Wed Aug 21 19:30:43 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2743, 3148
+[Wed Aug 21 20:05:41 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2707, 9482
+[Wed Aug 21 20:05:42 PDT 2013] Lee [75.90.93.77] dropped a Vial at location: 2707, 9482
+[Thu Aug 22 11:27:46 PDT 2013] Lee [75.90.86.102] dropped a Vial at location: 2836, 10207
+[Thu Aug 22 11:31:37 PDT 2013] Lee [75.90.86.102] dropped a Vial at location: 2902, 4441
+[Thu Aug 22 12:15:07 PDT 2013] Lee [75.90.89.212] dropped a Vial at location: 3096, 3494

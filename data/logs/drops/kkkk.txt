@@ -1,0 +1,14 @@
+[Tue Aug 20 03:09:03 PDT 2013] Kkkk [188.241.23.156] dropped a Coins at location: 2865, 3546
+[Tue Aug 20 03:09:04 PDT 2013] Kkkk [188.241.23.156] dropped a Manta ray at location: 2865, 3546
+[Tue Aug 20 03:09:05 PDT 2013] Kkkk [188.241.23.156] dropped a Air rune at location: 2865, 3546
+[Tue Aug 20 03:09:07 PDT 2013] Kkkk [188.241.23.156] dropped a Mind rune at location: 2865, 3546
+[Tue Aug 20 03:09:07 PDT 2013] Kkkk [188.241.23.156] dropped a Blood rune at location: 2865, 3546
+[Tue Aug 20 03:09:09 PDT 2013] Kkkk [188.241.23.156] dropped a Fire rune at location: 2865, 3546
+[Tue Aug 20 03:09:10 PDT 2013] Kkkk [188.241.23.156] dropped a Chaos rune at location: 2865, 3546
+[Tue Aug 20 03:09:12 PDT 2013] Kkkk [188.241.23.156] dropped a Death rune at location: 2865, 3546
+[Tue Aug 20 03:09:14 PDT 2013] Kkkk [188.241.23.156] dropped a Water rune at location: 2865, 3546
+[Tue Aug 20 03:09:15 PDT 2013] Kkkk [188.241.23.156] dropped a Earth rune at location: 2865, 3546
+[Tue Aug 20 03:09:17 PDT 2013] Kkkk [188.241.23.156] dropped a Nature rune at location: 2865, 3546
+[Tue Aug 20 03:09:19 PDT 2013] Kkkk [188.241.23.156] dropped a Amulet of glory (4) at location: 2865, 3546
+[Tue Aug 20 03:09:21 PDT 2013] Kkkk [188.241.23.156] dropped a Combat bracelet (4) at location: 2865, 3546
+[Tue Aug 20 03:09:22 PDT 2013] Kkkk [188.241.23.156] dropped a Teleport to house at location: 2865, 3546

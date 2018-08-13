@@ -1,0 +1,230 @@
+[Mon Aug 19 17:12:12 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3113, 9672
+[Mon Aug 19 17:12:15 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3115, 9671
+[Mon Aug 19 17:12:48 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3114, 9672
+[Mon Aug 19 17:14:57 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon scimitar, location: 2844, 3489
+[Mon Aug 19 17:15:02 PDT 2013] Terbiium [184.6.219.44] picked up a Obsidian cape, location: 2844, 3489
+[Mon Aug 19 17:15:03 PDT 2013] Terbiium [184.6.219.44] picked up a Manta ray, location: 2844, 3489
+[Mon Aug 19 17:15:05 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2844, 3489
+[Mon Aug 19 17:15:07 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2844, 3489
+[Mon Aug 19 17:15:08 PDT 2013] Terbiium [184.6.219.44] picked up a Rune full helm, location: 2844, 3489
+[Mon Aug 19 17:15:11 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2844, 3489
+[Mon Aug 19 17:15:14 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of strength, location: 2844, 3489
+[Mon Aug 19 17:15:15 PDT 2013] Terbiium [184.6.219.44] picked up a Manta ray, location: 2844, 3489
+[Mon Aug 19 17:15:16 PDT 2013] Terbiium [184.6.219.44] picked up a Gloves, location: 2844, 3489
+[Mon Aug 19 17:15:17 PDT 2013] Terbiium [184.6.219.44] picked up a Manta ray, location: 2844, 3489
+[Mon Aug 19 17:15:17 PDT 2013] Terbiium [184.6.219.44] picked up a Manta ray, location: 2844, 3489
+[Mon Aug 19 17:15:19 PDT 2013] Terbiium [184.6.219.44] picked up a Manta ray, location: 2844, 3489
+[Tue Aug 20 04:16:41 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3418, 3512
+[Tue Aug 20 04:17:02 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3416, 3509
+[Tue Aug 20 04:17:19 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3415, 3508
+[Tue Aug 20 04:54:26 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3414, 3511
+[Tue Aug 20 04:54:26 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3414, 3511
+[Tue Aug 20 04:54:26 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3414, 3511
+[Tue Aug 20 04:54:29 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3413, 3508
+[Tue Aug 20 04:54:30 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3412, 3509
+[Tue Aug 20 04:54:33 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3410, 3511
+[Tue Aug 20 04:54:37 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3409, 3513
+[Tue Aug 20 04:54:43 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3416, 3507
+[Tue Aug 20 04:56:46 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 3415, 3510
+[Tue Aug 20 05:04:20 PDT 2013] Terbiium [184.6.219.44] picked up a Nature rune, location: 2797, 10033
+[Tue Aug 20 05:23:36 PDT 2013] Terbiium [184.6.219.44] picked up a Rune med helm, location: 2796, 10035
+[Tue Aug 20 05:46:09 PDT 2013] Terbiium [184.6.219.44] picked up a Rune med helm, location: 2794, 10031
+[Tue Aug 20 06:15:34 PDT 2013] Terbiium [184.6.219.44] picked up a Nature rune, location: 2668, 3715
+[Tue Aug 20 13:53:55 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon bones, location: 2835, 9822
+[Tue Aug 20 13:55:18 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2840, 9824
+[Tue Aug 20 13:55:24 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon bones, location: 2840, 9824
+[Tue Aug 20 13:57:16 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon bones, location: 2837, 9825
+[Tue Aug 20 13:59:11 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon bones, location: 2834, 9823
+[Tue Aug 20 13:59:12 PDT 2013] Terbiium [184.6.219.44] picked up a Air rune, location: 2834, 9823
+[Tue Aug 20 13:59:50 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon bones, location: 2833, 9827
+[Tue Aug 20 14:00:56 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon bones, location: 2831, 9824
+[Tue Aug 20 14:05:23 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3425, 3561
+[Tue Aug 20 14:06:11 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3425, 3561
+[Tue Aug 20 14:06:12 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:06:14 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:06:21 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:06:24 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:06:25 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:06:26 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3425, 3561
+[Tue Aug 20 14:07:29 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3424, 3561
+[Tue Aug 20 14:07:31 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3425, 3561
+[Tue Aug 20 14:07:32 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:07:33 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:07:33 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3560
+[Tue Aug 20 14:07:34 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3560
+[Tue Aug 20 14:07:36 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3425, 3561
+[Tue Aug 20 14:07:37 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:07:37 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:07:37 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:07:37 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:07:37 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3561
+[Tue Aug 20 14:08:29 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3562
+[Tue Aug 20 14:08:40 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3562
+[Tue Aug 20 14:09:23 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3427, 3560
+[Tue Aug 20 14:21:05 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3426, 3560
+[Tue Aug 20 14:22:14 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3420, 3560
+[Tue Aug 20 14:22:35 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3419, 3561
+[Tue Aug 20 14:23:24 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3419, 3561
+[Tue Aug 20 14:23:33 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3420, 3561
+[Tue Aug 20 14:23:35 PDT 2013] Terbiium [184.6.219.44] picked up a Blood rune, location: 3420, 3561
+[Tue Aug 20 14:24:24 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3420, 3561
+[Tue Aug 20 14:25:29 PDT 2013] Terbiium [184.6.219.44] picked up a Blood rune, location: 3420, 3561
+[Tue Aug 20 14:25:30 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3420, 3561
+[Tue Aug 20 14:25:33 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3419, 3561
+[Tue Aug 20 14:25:35 PDT 2013] Terbiium [184.6.219.44] picked up a Big bones, location: 3420, 3560
+[Tue Aug 20 17:23:34 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 2519, 4643
+[Tue Aug 20 17:23:38 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 2519, 4643
+[Tue Aug 20 17:24:04 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 2519, 4643
+[Tue Aug 20 17:25:54 PDT 2013] Terbiium [184.6.219.44] picked up a Gold charm, location: 2531, 4646
+[Tue Aug 20 17:26:57 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2532, 4650
+[Tue Aug 20 17:50:04 PDT 2013] Terbiium [184.6.219.44] picked up a Gold charm, location: 2519, 4652
+[Tue Aug 20 17:50:10 PDT 2013] Terbiium [184.6.219.44] picked up a Avantoe seed, location: 2524, 4648
+[Tue Aug 20 17:50:16 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2522, 4653
+[Tue Aug 20 17:50:16 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2522, 4653
+[Tue Aug 20 17:50:20 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2522, 4653
+[Tue Aug 20 17:51:07 PDT 2013] Terbiium [184.6.219.44] picked up a Bones, location: 2525, 4653
+[Tue Aug 20 18:08:35 PDT 2013] Terbiium [184.6.219.44] picked up a Rune battleaxe, location: 2702, 9482
+[Tue Aug 20 18:08:36 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2702, 9482
+[Tue Aug 20 19:02:10 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2839, 3501
+[Tue Aug 20 19:02:15 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2839, 3501
+[Tue Aug 20 19:03:05 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2838, 3502
+[Tue Aug 20 19:03:09 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2838, 3502
+[Tue Aug 20 19:04:09 PDT 2013] Terbiium [184.6.219.44] picked up a Rune longsword, location: 2832, 3497
+[Tue Aug 20 19:04:13 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2832, 3497
+[Tue Aug 20 19:04:13 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2832, 3497
+[Tue Aug 20 19:04:15 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2832, 3497
+[Tue Aug 20 19:04:16 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2832, 3497
+[Tue Aug 20 19:04:16 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2832, 3497
+[Tue Aug 20 19:04:16 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2832, 3497
+[Tue Aug 20 19:05:07 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2839, 3502
+[Tue Aug 20 19:06:12 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2837, 3503
+[Tue Aug 20 19:11:45 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2838, 3501
+[Wed Aug 21 07:47:00 PDT 2013] Terbiium [184.6.219.44] picked up a Rune pickaxe, location: 2678, 3717
+[Wed Aug 21 07:47:04 PDT 2013] Terbiium [184.6.219.44] picked up a Rune pickaxe, location: 2678, 3717
+[Wed Aug 21 08:33:25 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2840, 3501
+[Wed Aug 21 08:34:42 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2830, 3500
+[Wed Aug 21 08:34:43 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2830, 3500
+[Wed Aug 21 08:35:47 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2839, 3503
+[Wed Aug 21 08:40:00 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2843, 3488
+[Wed Aug 21 08:40:02 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2844, 3489
+[Wed Aug 21 08:41:16 PDT 2013] Terbiium [184.6.219.44] picked up a Law rune, location: 2846, 3488
+[Wed Aug 21 08:41:18 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2846, 3488
+[Wed Aug 21 08:41:21 PDT 2013] Terbiium [184.6.219.44] picked up a Law rune, location: 2846, 3488
+[Wed Aug 21 08:42:09 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3487
+[Wed Aug 21 08:42:49 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2843, 3488
+[Wed Aug 21 08:43:34 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3486
+[Wed Aug 21 08:43:36 PDT 2013] Terbiium [184.6.219.44] picked up a Rune longsword, location: 2841, 3486
+[Wed Aug 21 08:44:48 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2842, 3486
+[Wed Aug 21 08:45:59 PDT 2013] Terbiium [184.6.219.44] picked up a Water orb, location: 2842, 3486
+[Wed Aug 21 08:46:01 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2842, 3486
+[Wed Aug 21 08:53:53 PDT 2013] Terbiium [184.6.219.44] picked up a Marmaros rapier, location: 3226, 9324
+[Wed Aug 21 08:53:57 PDT 2013] Terbiium [184.6.219.44] picked up a Marmaros rapier, location: 3226, 9324
+[Wed Aug 21 09:16:05 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2341, 9854
+[Wed Aug 21 09:22:05 PDT 2013] Terbiium [184.6.219.44] picked up a Strength potion (1), location: 2338, 9854
+[Wed Aug 21 09:27:12 PDT 2013] Terbiium [184.6.219.44] picked up a Strength cape (t), location: 2849, 3490
+[Wed Aug 21 09:27:13 PDT 2013] Terbiium [184.6.219.44] picked up a Strength cape (t), location: 2849, 3490
+[Wed Aug 21 09:27:13 PDT 2013] Terbiium [184.6.219.44] picked up a Strength cape (t), location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Strength cape (t), location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:14 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:15 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:15 PDT 2013] Terbiium [184.6.219.44] picked up a Granite body, location: 2849, 3490
+[Wed Aug 21 09:27:17 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:17 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:17 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:17 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:17 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:17 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:18 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:18 PDT 2013] Terbiium [184.6.219.44] picked up a Helm of neitiznot, location: 2849, 3490
+[Wed Aug 21 09:27:18 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2849, 3490
+[Wed Aug 21 09:27:18 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2849, 3490
+[Wed Aug 21 09:27:18 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2849, 3490
+[Wed Aug 21 09:27:18 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2849, 3490
+[Wed Aug 21 09:27:19 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2849, 3490
+[Wed Aug 21 09:27:19 PDT 2013] Terbiium [184.6.219.44] picked up a Toktz-ket-xil, location: 2849, 3490
+[Wed Aug 21 09:27:19 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:19 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Dragon dagger (p++), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:20 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:21 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:21 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:21 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:22 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:22 PDT 2013] Terbiium [184.6.219.44] picked up a Amulet of glory (4), location: 2849, 3490
+[Wed Aug 21 09:27:22 PDT 2013] Terbiium [184.6.219.44] picked up a Gloves, location: 2849, 3490
+[Wed Aug 21 09:27:22 PDT 2013] Terbiium [184.6.219.44] picked up a Gloves, location: 2849, 3490
+[Wed Aug 21 09:27:23 PDT 2013] Terbiium [184.6.219.44] picked up a Gloves, location: 2849, 3490
+[Wed Aug 21 09:29:51 PDT 2013] Terbiium [184.6.219.44] picked up a Rune longsword, location: 2848, 3490
+[Wed Aug 21 09:30:13 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2848, 3490
+[Wed Aug 21 09:33:16 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2848, 3491
+[Wed Aug 21 09:33:18 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2848, 3491
+[Wed Aug 21 09:33:23 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2848, 3491
+[Wed Aug 21 09:33:26 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2848, 3491
+[Wed Aug 21 09:34:44 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2846, 3488
+[Wed Aug 21 09:35:35 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2845, 3489
+[Wed Aug 21 09:35:38 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3489
+[Wed Aug 21 09:36:35 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2844, 3488
+[Wed Aug 21 09:37:50 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2845, 3488
+[Wed Aug 21 09:37:51 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3488
+[Wed Aug 21 09:39:11 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2844, 3488
+[Wed Aug 21 09:39:13 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2844, 3488
+[Wed Aug 21 09:40:10 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2844, 3488
+[Wed Aug 21 09:41:01 PDT 2013] Terbiium [184.6.219.44] picked up a Water orb, location: 2845, 3489
+[Wed Aug 21 09:41:03 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3489
+[Wed Aug 21 09:41:54 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3486
+[Wed Aug 21 12:53:00 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2340, 9829
+[Wed Aug 21 13:02:55 PDT 2013] Terbiium [184.6.219.44] picked up a Soul rune, location: 2339, 9829
+[Wed Aug 21 13:02:58 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2339, 9829
+[Wed Aug 21 13:12:54 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2338, 9829
+[Wed Aug 21 13:18:22 PDT 2013] Terbiium [184.6.219.44] picked up a Manta ray, location: 2629, 9516
+[Wed Aug 21 13:24:13 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2708, 9478
+[Wed Aug 21 13:25:26 PDT 2013] Terbiium [184.6.219.44] picked up a Defence potion (3), location: 2709, 9476
+[Wed Aug 21 13:26:44 PDT 2013] Terbiium [184.6.219.44] picked up a Law rune, location: 2709, 9476
+[Wed Aug 21 13:26:48 PDT 2013] Terbiium [184.6.219.44] picked up a Law rune, location: 2708, 9477
+[Wed Aug 21 13:28:22 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2708, 9483
+[Wed Aug 21 13:31:12 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2709, 9480
+[Wed Aug 21 13:34:15 PDT 2013] Terbiium [184.6.219.44] picked up a Nature rune, location: 2709, 9481
+[Wed Aug 21 13:35:03 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2705, 9482
+[Wed Aug 21 13:36:04 PDT 2013] Terbiium [184.6.219.44] picked up a Black axe, location: 2712, 9488
+[Wed Aug 21 16:24:42 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2843, 3489
+[Wed Aug 21 16:25:01 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2843, 3489
+[Wed Aug 21 16:25:52 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3487
+[Wed Aug 21 16:28:17 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3487
+[Wed Aug 21 16:29:16 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3487
+[Wed Aug 21 16:30:39 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2843, 3487
+[Wed Aug 21 16:30:41 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2843, 3487
+[Wed Aug 21 16:31:51 PDT 2013] Terbiium [184.6.219.44] picked up a Green charm, location: 2842, 3486
+[Wed Aug 21 16:31:52 PDT 2013] Terbiium [184.6.219.44] picked up a Green charm, location: 2842, 3486
+[Wed Aug 21 16:31:53 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2842, 3486
+[Wed Aug 21 16:32:47 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2842, 3486
+[Wed Aug 21 16:32:50 PDT 2013] Terbiium [184.6.219.44] picked up a Blood rune, location: 2842, 3486
+[Wed Aug 21 16:32:52 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2842, 3486
+[Wed Aug 21 16:33:48 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2841, 3486
+[Wed Aug 21 16:33:49 PDT 2013] Terbiium [184.6.219.44] picked up a Rune longsword, location: 2841, 3486
+[Wed Aug 21 16:34:25 PDT 2013] Terbiium [184.6.219.44] picked up a Rune longsword, location: 2845, 3487
+[Wed Aug 21 16:34:26 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2845, 3487
+[Wed Aug 21 16:34:28 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3487
+[Wed Aug 21 16:35:35 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3488
+[Wed Aug 21 16:36:04 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2845, 3488
+[Wed Aug 21 16:37:12 PDT 2013] Terbiium [184.6.219.44] picked up a Shark, location: 2846, 3488
+[Wed Aug 21 16:37:17 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2846, 3488
+[Wed Aug 21 16:37:18 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2846, 3488
+[Wed Aug 21 16:38:34 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3487
+[Wed Aug 21 16:38:35 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2845, 3487
+[Wed Aug 21 16:39:19 PDT 2013] Terbiium [184.6.219.44] picked up a Death rune, location: 2848, 3489
+[Wed Aug 21 16:39:21 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2848, 3489
+[Wed Aug 21 16:40:41 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2848, 3489
+[Wed Aug 21 16:42:23 PDT 2013] Terbiium [184.6.219.44] picked up a Shark, location: 2845, 3488
+[Wed Aug 21 16:42:25 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2845, 3488
+[Wed Aug 21 16:43:23 PDT 2013] Terbiium [184.6.219.44] picked up a Coins, location: 2844, 3489
+[Wed Aug 21 16:43:26 PDT 2013] Terbiium [184.6.219.44] picked up a Frost dragon bones, location: 2844, 3489

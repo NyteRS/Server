@@ -1,0 +1,8 @@
+[Tue Aug 20 13:18:59 PDT 2013] Hahaha12333 [174.130.217.244] dropped a Iron platebody at location: 3088, 3506
+[Tue Aug 20 13:19:00 PDT 2013] Hahaha12333 [174.130.217.244] dropped a Iron platelegs at location: 3088, 3506
+[Wed Aug 21 09:51:59 PDT 2013] Hahaha12333 [75.90.93.77] dropped a Coins at location: 2986, 3382
+[Thu Aug 22 01:52:18 PDT 2013] Hahaha12333 [75.90.93.77] dropped a Manta ray at location: 2978, 3921
+[Thu Aug 22 03:26:47 PDT 2013] Hahaha12333 [75.90.93.77] dropped a Manta ray at location: 2976, 3921
+[Thu Aug 22 03:34:29 PDT 2013] Hahaha12333 [75.90.93.77] dropped a Teleport to house at location: 2976, 3920
+[Thu Aug 22 03:45:30 PDT 2013] Hahaha12333 [75.90.93.77] dropped a Manta ray at location: 2977, 3920
+[Thu Aug 22 03:48:51 PDT 2013] Hahaha12333 [75.90.93.77] dropped a Divine spirit shield at location: 3088, 3502

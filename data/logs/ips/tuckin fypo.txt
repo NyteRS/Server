@@ -1,0 +1,6 @@
+[Wed Aug 21 07:47:02 PDT 2013] Tuckin fypo attempted to be logged in from the IP-Address: [86.84.85.21]
+[Wed Aug 21 07:57:47 PDT 2013] Tuckin fypo attempted to be logged in from the IP-Address: [86.84.85.21]
+[Wed Aug 21 08:22:03 PDT 2013] Tuckin fypo attempted to be logged in from the IP-Address: [86.84.85.21]
+[Wed Aug 21 08:22:07 PDT 2013] Tuckin fypo attempted to be logged in from the IP-Address: [86.84.85.21]
+[Wed Aug 21 12:49:24 PDT 2013] Tuckin fypo attempted to be logged in from the IP-Address: [86.84.85.21]
+[Thu Aug 22 13:44:44 PDT 2013] Tuckin fypo attempted to be logged in from the IP-Address: [86.84.85.21]

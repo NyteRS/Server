@@ -1,0 +1,8 @@
+[Tue Aug 20 01:02:11 PDT 2013] Sir aaron [213.119.7.155] dropped a Iron ore at location: 2668, 3716
+[Tue Aug 20 01:03:10 PDT 2013] Sir aaron [213.119.7.155] dropped a Fire rune at location: 2672, 3716
+[Tue Aug 20 02:31:07 PDT 2013] Sir aaron [213.119.7.155] dropped a Fire battlestaff at location: 2475, 5151
+[Tue Aug 20 05:10:20 PDT 2013] Sir aaron [213.119.7.155] dropped a Shortbow at location: 2674, 9547
+[Tue Aug 20 05:10:23 PDT 2013] Sir aaron [213.119.7.155] dropped a Bronze arrow at location: 2674, 9547
+[Tue Aug 20 07:00:08 PDT 2013] Sir aaron [213.119.7.155] dropped a Mithril sword at location: 2672, 9543
+[Tue Aug 20 07:10:56 PDT 2013] Sir aaron [213.119.7.155] dropped a Grimy lantadyme at location: 2841, 3487
+[Wed Aug 21 06:37:37 PDT 2013] Sir aaron [213.119.7.155] dropped a Small pouch at location: 2852, 10223

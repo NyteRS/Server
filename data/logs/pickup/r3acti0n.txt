@@ -1,0 +1,72 @@
+[Wed Aug 21 10:02:55 PDT 2013] R3acti0n [142.196.154.81] picked up a Cadantine seed, location: 3052, 9582
+[Wed Aug 21 10:06:28 PDT 2013] R3acti0n [142.196.154.81] picked up a Death rune, location: 3047, 9581
+[Wed Aug 21 10:06:30 PDT 2013] R3acti0n [142.196.154.81] picked up a Cadantine seed, location: 3047, 9581
+[Wed Aug 21 10:06:32 PDT 2013] R3acti0n [142.196.154.81] picked up a Cadantine seed, location: 3047, 9581
+[Wed Aug 21 10:06:32 PDT 2013] R3acti0n [142.196.154.81] picked up a Death rune, location: 3047, 9581
+[Wed Aug 21 10:06:33 PDT 2013] R3acti0n [142.196.154.81] picked up a Death rune, location: 3047, 9581
+[Wed Aug 21 10:07:10 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3051, 9578
+[Wed Aug 21 10:07:51 PDT 2013] R3acti0n [142.196.154.81] picked up a Rune c'bow, location: 3049, 9575
+[Wed Aug 21 10:07:52 PDT 2013] R3acti0n [142.196.154.81] picked up a Ranarr seed, location: 3049, 9575
+[Wed Aug 21 10:07:54 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3049, 9575
+[Wed Aug 21 10:08:47 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3045, 9582
+[Wed Aug 21 10:08:50 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3045, 9582
+[Wed Aug 21 10:08:50 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3045, 9582
+[Wed Aug 21 10:08:51 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3045, 9582
+[Wed Aug 21 10:09:33 PDT 2013] R3acti0n [142.196.154.81] picked up a Mind rune, location: 3047, 9579
+[Wed Aug 21 10:09:34 PDT 2013] R3acti0n [142.196.154.81] picked up a Mind rune, location: 3047, 9579
+[Wed Aug 21 10:09:34 PDT 2013] R3acti0n [142.196.154.81] picked up a Mind rune, location: 3047, 9579
+[Wed Aug 21 10:09:35 PDT 2013] R3acti0n [142.196.154.81] picked up a Mind rune, location: 3047, 9579
+[Wed Aug 21 10:09:35 PDT 2013] R3acti0n [142.196.154.81] picked up a Avantoe seed, location: 3047, 9579
+[Wed Aug 21 10:09:35 PDT 2013] R3acti0n [142.196.154.81] picked up a Avantoe seed, location: 3047, 9579
+[Wed Aug 21 10:09:36 PDT 2013] R3acti0n [142.196.154.81] picked up a Avantoe seed, location: 3047, 9579
+[Wed Aug 21 10:09:36 PDT 2013] R3acti0n [142.196.154.81] picked up a Avantoe seed, location: 3047, 9579
+[Wed Aug 21 10:09:36 PDT 2013] R3acti0n [142.196.154.81] picked up a Avantoe seed, location: 3047, 9579
+[Wed Aug 21 10:09:36 PDT 2013] R3acti0n [142.196.154.81] picked up a Avantoe seed, location: 3047, 9579
+[Wed Aug 21 10:09:36 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3047, 9579
+[Wed Aug 21 10:09:37 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3047, 9579
+[Wed Aug 21 10:09:37 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3047, 9579
+[Wed Aug 21 10:09:37 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3047, 9579
+[Wed Aug 21 10:09:52 PDT 2013] R3acti0n [142.196.154.81] picked up a Dwarf weed seed, location: 3045, 9582
+[Wed Aug 21 10:10:26 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3045, 9579
+[Wed Aug 21 10:10:29 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy ranarr, location: 3045, 9579
+[Wed Aug 21 10:12:12 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy marrentill, location: 3053, 9588
+[Wed Aug 21 10:12:53 PDT 2013] R3acti0n [142.196.154.81] picked up a Rune c'bow, location: 3050, 9582
+[Wed Aug 21 10:12:56 PDT 2013] R3acti0n [142.196.154.81] picked up a Green charm, location: 3050, 9582
+[Wed Aug 21 10:12:58 PDT 2013] R3acti0n [142.196.154.81] picked up a Green charm, location: 3050, 9582
+[Wed Aug 21 10:13:31 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3052, 9580
+[Wed Aug 21 10:13:34 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy tarromin, location: 3052, 9580
+[Wed Aug 21 10:14:06 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy marrentill, location: 3053, 9580
+[Wed Aug 21 10:14:50 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3051, 9579
+[Wed Aug 21 10:15:40 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3044, 9582
+[Wed Aug 21 10:16:14 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3051, 9582
+[Wed Aug 21 10:16:17 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy dwarf weed, location: 3051, 9582
+[Wed Aug 21 10:17:02 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy dwarf weed, location: 3050, 9577
+[Wed Aug 21 10:17:26 PDT 2013] R3acti0n [142.196.154.81] picked up a Cosmic rune, location: 3050, 9575
+[Wed Aug 21 10:17:29 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy dwarf weed, location: 3050, 9575
+[Wed Aug 21 10:17:55 PDT 2013] R3acti0n [142.196.154.81] picked up a Rune c'bow, location: 3052, 9576
+[Wed Aug 21 10:17:59 PDT 2013] R3acti0n [142.196.154.81] picked up a Nature rune, location: 3052, 9576
+[Wed Aug 21 10:18:00 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3052, 9576
+[Wed Aug 21 10:18:02 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy harralander, location: 3052, 9576
+[Wed Aug 21 10:18:41 PDT 2013] R3acti0n [142.196.154.81] picked up a Blood rune, location: 3054, 9575
+[Wed Aug 21 10:18:44 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy cadantine, location: 3054, 9575
+[Wed Aug 21 10:19:14 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3055, 9578
+[Wed Aug 21 10:19:49 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy ranarr, location: 3056, 9573
+[Wed Aug 21 10:20:11 PDT 2013] R3acti0n [142.196.154.81] picked up a Blood rune, location: 3054, 9573
+[Wed Aug 21 10:20:13 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3054, 9573
+[Wed Aug 21 10:20:14 PDT 2013] R3acti0n [142.196.154.81] picked up a Grimy guam, location: 3054, 9573
+[Wed Aug 21 10:20:53 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3051, 9577
+[Wed Aug 21 10:20:55 PDT 2013] R3acti0n [142.196.154.81] picked up a Mind rune, location: 3051, 9577
+[Wed Aug 21 10:21:19 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3048, 9578
+[Wed Aug 21 10:21:44 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3048, 9583
+[Wed Aug 21 10:22:58 PDT 2013] R3acti0n [142.196.154.81] picked up a Nature rune, location: 3049, 9586
+[Wed Aug 21 10:23:01 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3049, 9586
+[Wed Aug 21 10:23:03 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3049, 9586
+[Wed Aug 21 10:23:32 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3054, 9585
+[Wed Aug 21 10:24:26 PDT 2013] R3acti0n [142.196.154.81] picked up a Crimson charm, location: 3060, 9585
+[Wed Aug 21 10:24:30 PDT 2013] R3acti0n [142.196.154.81] picked up a Nature rune, location: 3060, 9585
+[Wed Aug 21 10:25:26 PDT 2013] R3acti0n [142.196.154.81] picked up a Gold charm, location: 3047, 9589
+[Wed Aug 21 10:25:45 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3048, 9592
+[Wed Aug 21 10:29:18 PDT 2013] R3acti0n [142.196.154.81] picked up a Ranarr seed, location: 3052, 9588
+[Wed Aug 21 10:29:58 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3055, 9584
+[Wed Aug 21 10:30:22 PDT 2013] R3acti0n [142.196.154.81] picked up a Cosmic rune, location: 3059, 9584
+[Wed Aug 21 10:30:25 PDT 2013] R3acti0n [142.196.154.81] picked up a Coins, location: 3059, 9584

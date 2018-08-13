@@ -1,0 +1,1 @@
+[Tue Aug 20 23:01:12 PDT 2013] Taurus [217.140.178.196] dropped a Manta ray at location: 2674, 3712

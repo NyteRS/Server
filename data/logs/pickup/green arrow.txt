@@ -1,0 +1,1067 @@
+[Mon Aug 19 15:16:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:19:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2971, 3918
+[Mon Aug 19 15:20:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2977, 3916
+[Mon Aug 19 15:20:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2977, 3916
+[Mon Aug 19 15:23:31 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:23:32 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:23:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:25:35 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:25:38 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:27:22 PDT 2013] Green arrow [76.30.105.223] picked up a Rune longsword, location: 2972, 3916
+[Mon Aug 19 15:27:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:27:27 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:27:28 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:30:16 PDT 2013] Green arrow [76.30.105.223] picked up a Water orb, location: 2972, 3917
+[Mon Aug 19 15:30:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Mon Aug 19 15:32:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2977, 3916
+[Mon Aug 19 15:33:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:33:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:33:48 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:35:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3915
+[Mon Aug 19 15:37:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:39:51 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:39:53 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Mon Aug 19 15:43:23 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3915
+[Mon Aug 19 15:45:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:47:21 PDT 2013] Green arrow [76.30.105.223] picked up a Rune longsword, location: 2972, 3916
+[Mon Aug 19 15:47:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Mon Aug 19 15:49:07 PDT 2013] Green arrow [76.30.105.223] picked up a Rune longsword, location: 2972, 3917
+[Mon Aug 19 15:49:11 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:06:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:07:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2976, 3918
+[Tue Aug 20 08:07:49 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:11:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:12:42 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2972, 3917
+[Tue Aug 20 08:12:43 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:14:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:15:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:15:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:17:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:17:31 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3917
+[Tue Aug 20 08:18:46 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Tue Aug 20 08:18:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:20:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:21:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:22:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:24:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:25:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:28:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:28:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:29:35 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3917
+[Tue Aug 20 08:29:35 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3917
+[Tue Aug 20 08:29:40 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:30:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:32:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:33:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:35:33 PDT 2013] Green arrow [76.30.105.223] picked up a Adamant platebody, location: 2972, 3917
+[Tue Aug 20 08:35:33 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:37:31 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:40:32 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Tue Aug 20 08:40:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:41:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:43:07 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2972, 3917
+[Tue Aug 20 08:43:11 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2972, 3917
+[Tue Aug 20 08:43:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:45:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:46:19 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Tue Aug 20 08:46:19 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Tue Aug 20 08:46:20 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:48:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:49:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:55:23 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 08:57:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 08:58:22 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 09:00:03 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 09:00:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:02:59 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2972, 3916
+[Tue Aug 20 09:03:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:03:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:04:12 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Tue Aug 20 09:04:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:06:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 09:06:12 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3917
+[Tue Aug 20 09:07:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:08:41 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2972, 3916
+[Tue Aug 20 09:08:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:10:19 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 09:13:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:13:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:14:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 09:19:38 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3916
+[Tue Aug 20 14:24:00 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3339, 3684
+[Tue Aug 20 14:24:20 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3340, 3679
+[Tue Aug 20 18:34:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2972, 3917
+[Tue Aug 20 18:34:56 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3916
+[Tue Aug 20 18:34:57 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2961, 3916
+[Tue Aug 20 18:34:58 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3916
+[Tue Aug 20 18:35:01 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3916
+[Tue Aug 20 18:35:23 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Tue Aug 20 18:35:58 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2969, 3916
+[Tue Aug 20 18:35:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2969, 3916
+[Tue Aug 20 18:36:01 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2969, 3916
+[Tue Aug 20 18:36:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3914
+[Tue Aug 20 18:36:43 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2961, 3914
+[Tue Aug 20 18:37:08 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3918
+[Tue Aug 20 18:37:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Tue Aug 20 18:37:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Tue Aug 20 18:37:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3912
+[Tue Aug 20 18:59:11 PDT 2013] Green arrow [76.30.105.223] picked up a Fire rune, location: 2846, 5344
+[Tue Aug 20 18:59:13 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2846, 5344
+[Tue Aug 20 18:59:40 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2846, 5344
+[Tue Aug 20 18:59:43 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2846, 5344
+[Tue Aug 20 18:59:43 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2846, 5344
+[Tue Aug 20 19:10:58 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2848, 5355
+[Tue Aug 20 19:10:59 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2848, 5355
+[Tue Aug 20 19:11:02 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2848, 5355
+[Tue Aug 20 19:11:03 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2848, 5355
+[Tue Aug 20 19:19:28 PDT 2013] Green arrow [76.30.105.223] picked up a Ourg bones, location: 2872, 5356
+[Tue Aug 20 19:30:05 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 2839, 5343
+[Tue Aug 20 19:37:38 PDT 2013] Green arrow [76.30.105.223] picked up a Rune 2h sword, location: 2867, 5362
+[Tue Aug 20 19:37:39 PDT 2013] Green arrow [76.30.105.223] picked up a Ourg bones, location: 2867, 5362
+[Tue Aug 20 19:37:40 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2867, 5362
+[Wed Aug 21 16:27:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2971, 3914
+[Wed Aug 21 16:27:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3912
+[Wed Aug 21 16:28:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3914
+[Wed Aug 21 16:28:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 16:28:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3917
+[Wed Aug 21 16:29:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 16:29:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3918
+[Wed Aug 21 16:29:46 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 16:30:18 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2962, 3911
+[Wed Aug 21 16:30:20 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 16:31:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 16:31:46 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 16:32:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 16:40:03 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3339, 3686
+[Wed Aug 21 16:40:22 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3340, 3682
+[Wed Aug 21 16:40:33 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3339, 3683
+[Wed Aug 21 16:40:49 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3329, 3680
+[Wed Aug 21 16:41:04 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3326, 3681
+[Wed Aug 21 16:41:32 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3330, 3677
+[Wed Aug 21 16:41:37 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3329, 3678
+[Wed Aug 21 16:42:08 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3332, 3687
+[Wed Aug 21 16:42:20 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3328, 3678
+[Wed Aug 21 16:42:31 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3330, 3679
+[Wed Aug 21 16:42:51 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3331, 3674
+[Wed Aug 21 16:42:55 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3327, 3671
+[Wed Aug 21 16:43:26 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3332, 3678
+[Wed Aug 21 16:43:39 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3328, 3677
+[Wed Aug 21 16:43:57 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3323, 3670
+[Wed Aug 21 16:44:14 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3328, 3677
+[Wed Aug 21 16:45:28 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3329, 3676
+[Wed Aug 21 16:45:57 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3329, 3677
+[Wed Aug 21 16:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3327, 3678
+[Wed Aug 21 16:46:55 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3328, 3670
+[Wed Aug 21 16:47:29 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3330, 3676
+[Wed Aug 21 16:47:32 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3330, 3676
+[Wed Aug 21 16:47:36 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3330, 3676
+[Wed Aug 21 16:47:41 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bones, location: 3328, 3670
+[Wed Aug 21 17:06:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2973, 3918
+[Wed Aug 21 17:07:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3914
+[Wed Aug 21 17:07:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3914
+[Wed Aug 21 17:07:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3915
+[Wed Aug 21 17:07:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3915
+[Wed Aug 21 17:07:42 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2961, 3915
+[Wed Aug 21 17:07:59 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2962, 3912
+[Wed Aug 21 17:08:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:08:23 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2963, 3916
+[Wed Aug 21 17:08:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3916
+[Wed Aug 21 17:08:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3916
+[Wed Aug 21 17:08:43 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:08:44 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2962, 3911
+[Wed Aug 21 17:09:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3917
+[Wed Aug 21 17:09:44 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:09:45 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2962, 3912
+[Wed Aug 21 17:10:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3916
+[Wed Aug 21 17:10:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:11:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 17:12:03 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:12:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:12:42 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2963, 3918
+[Wed Aug 21 17:13:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3914
+[Wed Aug 21 17:14:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:14:40 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:15:22 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3917
+[Wed Aug 21 17:15:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3914
+[Wed Aug 21 17:15:48 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2963, 3914
+[Wed Aug 21 17:16:25 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3915
+[Wed Aug 21 17:16:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3915
+[Wed Aug 21 17:16:32 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2961, 3915
+[Wed Aug 21 17:19:38 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2971, 3920
+[Wed Aug 21 17:20:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3916
+[Wed Aug 21 17:20:56 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2963, 3912
+[Wed Aug 21 17:20:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3912
+[Wed Aug 21 17:21:14 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2960, 3913
+[Wed Aug 21 17:21:15 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2960, 3913
+[Wed Aug 21 17:21:41 PDT 2013] Green arrow [76.30.105.223] picked up a Draconic visage, location: 2963, 3912
+[Wed Aug 21 17:21:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3912
+[Wed Aug 21 17:22:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:23:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:23:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3917
+[Wed Aug 21 17:24:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:24:13 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2962, 3911
+[Wed Aug 21 17:24:51 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:24:53 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2963, 3918
+[Wed Aug 21 17:24:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:25:37 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3917
+[Wed Aug 21 17:25:38 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2961, 3917
+[Wed Aug 21 17:25:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3917
+[Wed Aug 21 17:26:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:26:11 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2963, 3918
+[Wed Aug 21 17:26:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2959, 3916
+[Wed Aug 21 17:26:54 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2959, 3916
+[Wed Aug 21 17:27:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3916
+[Wed Aug 21 17:31:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2969, 3912
+[Wed Aug 21 17:31:03 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2969, 3912
+[Wed Aug 21 17:31:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3912
+[Wed Aug 21 17:32:22 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:32:25 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2963, 3918
+[Wed Aug 21 17:32:29 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2963, 3912
+[Wed Aug 21 17:32:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:32:40 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2962, 3911
+[Wed Aug 21 17:33:17 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2962, 3911
+[Wed Aug 21 17:33:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:33:49 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3918
+[Wed Aug 21 17:33:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 17:34:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3915
+[Wed Aug 21 17:34:46 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2961, 3915
+[Wed Aug 21 17:35:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3916
+[Wed Aug 21 17:35:28 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2963, 3916
+[Wed Aug 21 17:35:30 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2963, 3916
+[Wed Aug 21 17:35:35 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2963, 3916
+[Wed Aug 21 17:35:54 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:35:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:35:57 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2962, 3911
+[Wed Aug 21 17:37:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 17:37:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 17:37:54 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:37:55 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2962, 3912
+[Wed Aug 21 17:37:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:37:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3912
+[Wed Aug 21 17:38:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 17:39:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3916
+[Wed Aug 21 17:39:15 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2962, 3911
+[Wed Aug 21 17:39:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:39:16 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2962, 3911
+[Wed Aug 21 17:40:16 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2962, 3911
+[Wed Aug 21 17:40:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:40:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2962, 3911
+[Wed Aug 21 17:40:43 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2961, 3918
+[Wed Aug 21 17:40:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2963, 3918
+[Wed Aug 21 17:40:46 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2963, 3918
+[Wed Aug 21 17:40:47 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2963, 3918
+[Wed Aug 21 17:40:49 PDT 2013] Green arrow [76.30.105.223] picked up a Body talisman, location: 2963, 3918
+[Wed Aug 21 17:40:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2961, 3918
+[Wed Aug 21 17:50:59 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2832, 3818
+[Wed Aug 21 17:53:45 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2335, 9811
+[Wed Aug 21 17:53:47 PDT 2013] Green arrow [76.30.105.223] picked up a Rune kiteshield, location: 2335, 9811
+[Wed Aug 21 17:53:48 PDT 2013] Green arrow [76.30.105.223] picked up a Rune kiteshield, location: 2335, 9811
+[Wed Aug 21 17:53:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2335, 9811
+[Wed Aug 21 23:48:53 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2843, 3489
+[Wed Aug 21 23:48:54 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3489
+[Wed Aug 21 23:48:55 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3489
+[Wed Aug 21 23:49:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3489
+[Wed Aug 21 23:50:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3489
+[Wed Aug 21 23:50:12 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3489
+[Wed Aug 21 23:50:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3488
+[Wed Aug 21 23:50:33 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3488
+[Wed Aug 21 23:50:35 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2845, 3488
+[Wed Aug 21 23:52:03 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2842, 3487
+[Wed Aug 21 23:52:06 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2842, 3487
+[Wed Aug 21 23:52:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3487
+[Wed Aug 21 23:57:54 PDT 2013] Green arrow [76.30.105.223] picked up a Bandos statuette, location: 3240, 3741
+[Wed Aug 21 23:57:54 PDT 2013] Green arrow [76.30.105.223] picked up a Bandos statuette, location: 3240, 3741
+[Thu Aug 22 00:04:03 PDT 2013] Green arrow [76.30.105.223] picked up a Ruby chalice, location: 3137, 3955
+[Thu Aug 22 00:05:17 PDT 2013] Green arrow [76.30.105.223] picked up a Ruby chalice, location: 3179, 3942
+[Thu Aug 22 00:11:41 PDT 2013] Green arrow [76.30.105.223] picked up a Zuriel's staff, location: 3168, 3964
+[Thu Aug 22 00:14:41 PDT 2013] Green arrow [76.30.105.223] picked up a Guthixian brazier, location: 3129, 3957
+[Thu Aug 22 00:31:59 PDT 2013] Green arrow [76.30.105.223] picked up a Bronzed dragon claw, location: 3125, 3948
+[Thu Aug 22 00:34:28 PDT 2013] Green arrow [76.30.105.223] picked up a Bronzed dragon claw, location: 3158, 3959
+[Thu Aug 22 00:36:37 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3136, 3958
+[Thu Aug 22 00:36:39 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3136, 3958
+[Thu Aug 22 00:36:39 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3136, 3958
+[Thu Aug 22 00:36:40 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3136, 3958
+[Thu Aug 22 00:36:42 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 3136, 3958
+[Thu Aug 22 00:36:42 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 3136, 3958
+[Thu Aug 22 00:36:43 PDT 2013] Green arrow [76.30.105.223] picked up a Super defence (3), location: 3136, 3958
+[Thu Aug 22 00:36:43 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 3136, 3958
+[Thu Aug 22 00:36:43 PDT 2013] Green arrow [76.30.105.223] picked up a Bronzed dragon claw, location: 3136, 3958
+[Thu Aug 22 00:36:44 PDT 2013] Green arrow [76.30.105.223] picked up a Bronzed dragon claw, location: 3136, 3958
+[Thu Aug 22 00:36:45 PDT 2013] Green arrow [76.30.105.223] picked up a Bronzed dragon claw, location: 3136, 3958
+[Thu Aug 22 00:36:45 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3136, 3958
+[Thu Aug 22 00:36:46 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (3), location: 3136, 3958
+[Thu Aug 22 00:36:47 PDT 2013] Green arrow [76.30.105.223] picked up a Black d'hide body, location: 3136, 3958
+[Thu Aug 22 00:36:48 PDT 2013] Green arrow [76.30.105.223] picked up a Super defence (3), location: 3136, 3958
+[Thu Aug 22 00:36:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:49 PDT 2013] Green arrow [76.30.105.223] picked up a Super defence (3), location: 3136, 3958
+[Thu Aug 22 00:36:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:51 PDT 2013] Green arrow [76.30.105.223] picked up a Vial, location: 3136, 3958
+[Thu Aug 22 00:36:52 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:58 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:58 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:59 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:59 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:59 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:36:59 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:01 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:02 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:02 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:03 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:03 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:04 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3136, 3958
+[Thu Aug 22 00:37:04 PDT 2013] Green arrow [76.30.105.223] picked up a Super attack (3), location: 3136, 3958
+[Thu Aug 22 00:42:58 PDT 2013] Green arrow [76.30.105.223] picked up a Bronzed dragon claw, location: 3186, 3955
+[Thu Aug 22 00:46:33 PDT 2013] Green arrow [76.30.105.223] picked up a Morrigan's coif, location: 3168, 3964
+[Thu Aug 22 00:50:49 PDT 2013] Green arrow [76.30.105.223] picked up a Bandos statuette, location: 3120, 3953
+[Thu Aug 22 00:52:11 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 3159, 3961
+[Thu Aug 22 00:53:12 PDT 2013] Green arrow [76.30.105.223] picked up a Zamorak medallion, location: 3190, 3950
+[Thu Aug 22 01:23:05 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2468, 4772
+[Thu Aug 22 02:10:59 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:03 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (3), location: 2903, 3605
+[Thu Aug 22 02:11:04 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 2903, 3605
+[Thu Aug 22 02:11:06 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:06 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 2903, 3605
+[Thu Aug 22 02:11:06 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 2903, 3605
+[Thu Aug 22 02:11:07 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:09 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:09 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:11 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 2903, 3605
+[Thu Aug 22 02:11:11 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:11 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 2903, 3605
+[Thu Aug 22 02:11:12 PDT 2013] Green arrow [76.30.105.223] picked up a Super attack (3), location: 2903, 3605
+[Thu Aug 22 02:11:14 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 2903, 3605
+[Thu Aug 22 02:11:15 PDT 2013] Green arrow [76.30.105.223] picked up a Black d'hide body, location: 2903, 3605
+[Thu Aug 22 02:11:15 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 2903, 3605
+[Thu Aug 22 02:11:16 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 2903, 3605
+[Thu Aug 22 02:11:16 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 2903, 3605
+[Thu Aug 22 02:11:17 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:17 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:18 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:18 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:42 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 2903, 3605
+[Thu Aug 22 02:11:43 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:44 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 2903, 3605
+[Thu Aug 22 02:11:45 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 2903, 3605
+[Thu Aug 22 02:11:47 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 2903, 3605
+[Thu Aug 22 02:11:47 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:11:47 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 2903, 3605
+[Thu Aug 22 02:11:48 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 2903, 3605
+[Thu Aug 22 02:12:13 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 2903, 3605
+[Thu Aug 22 02:12:15 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 2903, 3605
+[Thu Aug 22 02:12:15 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 2903, 3605
+[Thu Aug 22 02:12:16 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (3), location: 2903, 3605
+[Thu Aug 22 02:12:17 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 2903, 3605
+[Thu Aug 22 02:12:18 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (3), location: 2903, 3605
+[Thu Aug 22 02:12:18 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 2903, 3605
+[Thu Aug 22 02:12:20 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 2903, 3605
+[Thu Aug 22 02:12:21 PDT 2013] Green arrow [76.30.105.223] picked up a Super attack (3), location: 2903, 3605
+[Thu Aug 22 02:12:23 PDT 2013] Green arrow [76.30.105.223] picked up a Black d'hide body, location: 2903, 3605
+[Thu Aug 22 02:12:23 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2903, 3605
+[Thu Aug 22 02:12:24 PDT 2013] Green arrow [76.30.105.223] picked up a Black d'hide body, location: 2903, 3605
+[Thu Aug 22 02:19:05 PDT 2013] Green arrow [76.30.105.223] picked up a Teleport to house, location: 2838, 10207
+[Thu Aug 22 02:29:17 PDT 2013] Green arrow [76.30.105.223] picked up a Mystic robe bottom, location: 2090, 4429
+[Thu Aug 22 02:29:19 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2090, 4429
+[Thu Aug 22 02:29:24 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2090, 4429
+[Thu Aug 22 02:29:26 PDT 2013] Green arrow [76.30.105.223] picked up a Uncut sapphire, location: 2090, 4429
+[Thu Aug 22 03:49:46 PDT 2013] Green arrow [76.30.105.223] picked up a Divine spirit shield, location: 3088, 3502
+[Thu Aug 22 03:49:47 PDT 2013] Green arrow [76.30.105.223] picked up a Divine spirit shield, location: 3088, 3502
+[Thu Aug 22 04:14:14 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2859, 3759
+[Thu Aug 22 04:14:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3759
+[Thu Aug 22 04:14:41 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3758
+[Thu Aug 22 04:14:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2851, 3756
+[Thu Aug 22 04:14:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3756
+[Thu Aug 22 04:15:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3757
+[Thu Aug 22 04:15:58 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3757
+[Thu Aug 22 04:16:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3756
+[Thu Aug 22 04:16:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3753
+[Thu Aug 22 04:17:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3754
+[Thu Aug 22 04:18:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3751
+[Thu Aug 22 04:18:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3752
+[Thu Aug 22 04:19:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2837, 3751
+[Thu Aug 22 04:20:08 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2834, 3752
+[Thu Aug 22 04:20:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3752
+[Thu Aug 22 04:20:46 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3749
+[Thu Aug 22 04:20:48 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2836, 3749
+[Thu Aug 22 04:21:24 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3749
+[Thu Aug 22 04:22:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2840, 3758
+[Thu Aug 22 04:22:51 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3758
+[Thu Aug 22 04:23:46 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2838, 3758
+[Thu Aug 22 04:23:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3758
+[Thu Aug 22 04:25:17 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2834, 3756
+[Thu Aug 22 04:25:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3756
+[Thu Aug 22 04:26:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3756
+[Thu Aug 22 04:26:54 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3757
+[Thu Aug 22 04:31:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2863, 3762
+[Thu Aug 22 04:32:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3761
+[Thu Aug 22 04:33:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3764
+[Thu Aug 22 04:33:29 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3763
+[Thu Aug 22 04:34:03 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3761
+[Thu Aug 22 04:34:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3764
+[Thu Aug 22 04:35:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3761
+[Thu Aug 22 04:36:03 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3758
+[Thu Aug 22 04:36:31 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3756
+[Thu Aug 22 04:37:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3754
+[Thu Aug 22 04:38:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3753
+[Thu Aug 22 04:38:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3756
+[Thu Aug 22 04:39:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3753
+[Thu Aug 22 04:40:23 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2837, 3751
+[Thu Aug 22 04:40:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2837, 3751
+[Thu Aug 22 04:40:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3750
+[Thu Aug 22 04:40:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3757
+[Thu Aug 22 04:40:51 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2836, 3757
+[Thu Aug 22 04:41:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3752
+[Thu Aug 22 04:42:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3752
+[Thu Aug 22 04:42:44 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2835, 3750
+[Thu Aug 22 04:43:19 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2828, 3756
+[Thu Aug 22 04:43:54 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2831, 3753
+[Thu Aug 22 04:47:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3735
+[Thu Aug 22 04:47:31 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3735
+[Thu Aug 22 04:48:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3741
+[Thu Aug 22 04:48:16 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3741
+[Thu Aug 22 04:48:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3736
+[Thu Aug 22 04:49:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2849, 3742
+[Thu Aug 22 04:49:58 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3732
+[Thu Aug 22 04:50:19 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3735
+[Thu Aug 22 04:50:48 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2849, 3732
+[Thu Aug 22 04:51:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3733
+[Thu Aug 22 04:51:43 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2848, 3731
+[Thu Aug 22 04:51:46 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3731
+[Thu Aug 22 04:52:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3736
+[Thu Aug 22 04:52:49 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3740
+[Thu Aug 22 04:52:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3740
+[Thu Aug 22 04:53:21 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3735
+[Thu Aug 22 04:53:38 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3733
+[Thu Aug 22 04:54:07 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3736
+[Thu Aug 22 04:54:33 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3731
+[Thu Aug 22 04:55:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3734
+[Thu Aug 22 04:55:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3733
+[Thu Aug 22 04:56:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3734
+[Thu Aug 22 04:56:42 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2846, 3734
+[Thu Aug 22 04:56:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3731
+[Thu Aug 22 04:57:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3732
+[Thu Aug 22 04:57:43 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3730
+[Thu Aug 22 04:58:14 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3733
+[Thu Aug 22 04:58:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3734
+[Thu Aug 22 04:59:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3734
+[Thu Aug 22 08:59:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2862, 3750
+[Thu Aug 22 08:59:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3760
+[Thu Aug 22 09:00:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3756
+[Thu Aug 22 09:00:27 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2856, 3756
+[Thu Aug 22 09:00:29 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3756
+[Thu Aug 22 09:00:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2852, 3756
+[Thu Aug 22 09:01:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3753
+[Thu Aug 22 09:04:15 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2333, 9808
+[Thu Aug 22 09:07:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3490
+[Thu Aug 22 09:07:27 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2850, 3488
+[Thu Aug 22 09:07:33 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3488
+[Thu Aug 22 09:08:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3491
+[Thu Aug 22 09:08:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3487
+[Thu Aug 22 09:09:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2849, 3491
+[Thu Aug 22 09:09:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3489
+[Thu Aug 22 09:09:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3489
+[Thu Aug 22 09:10:40 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3489
+[Thu Aug 22 09:11:32 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3488
+[Thu Aug 22 09:11:34 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3488
+[Thu Aug 22 09:13:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3489
+[Thu Aug 22 09:13:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3488
+[Thu Aug 22 09:13:51 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3488
+[Thu Aug 22 09:14:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3489
+[Thu Aug 22 09:14:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3486
+[Thu Aug 22 09:15:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3487
+[Thu Aug 22 09:15:37 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2843, 3488
+[Thu Aug 22 09:15:38 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3488
+[Thu Aug 22 09:16:19 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3489
+[Thu Aug 22 09:16:23 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3489
+[Thu Aug 22 09:17:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3487
+[Thu Aug 22 09:17:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3488
+[Thu Aug 22 09:17:33 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3487
+[Thu Aug 22 09:17:35 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2844, 3488
+[Thu Aug 22 09:18:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3489
+[Thu Aug 22 09:18:19 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3489
+[Thu Aug 22 09:18:48 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3488
+[Thu Aug 22 09:18:49 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3488
+[Thu Aug 22 09:19:34 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3489
+[Thu Aug 22 09:19:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3489
+[Thu Aug 22 09:21:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3756
+[Thu Aug 22 09:21:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3756
+[Thu Aug 22 09:21:34 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2859, 3756
+[Thu Aug 22 09:21:41 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2858, 3756
+[Thu Aug 22 09:21:55 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3756
+[Thu Aug 22 09:22:00 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2856, 3756
+[Thu Aug 22 09:22:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3756
+[Thu Aug 22 09:22:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3756
+[Thu Aug 22 09:22:06 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2856, 3756
+[Thu Aug 22 09:22:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2852, 3752
+[Thu Aug 22 09:22:31 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2852, 3752
+[Thu Aug 22 09:23:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3756
+[Thu Aug 22 09:23:02 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2845, 3756
+[Thu Aug 22 09:23:06 PDT 2013] Green arrow [76.30.105.223] picked up a Grimy harralander, location: 2845, 3756
+[Thu Aug 22 09:23:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3756
+[Thu Aug 22 09:23:41 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2846, 3752
+[Thu Aug 22 09:23:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3752
+[Thu Aug 22 09:24:08 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2845, 3753
+[Thu Aug 22 09:24:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3753
+[Thu Aug 22 09:24:42 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3752
+[Thu Aug 22 09:24:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3752
+[Thu Aug 22 09:24:45 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2844, 3752
+[Thu Aug 22 09:24:47 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2844, 3752
+[Thu Aug 22 09:24:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3752
+[Thu Aug 22 09:25:23 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2839, 3758
+[Thu Aug 22 09:25:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3755
+[Thu Aug 22 09:26:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3753
+[Thu Aug 22 09:26:11 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2838, 3753
+[Thu Aug 22 09:26:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3753
+[Thu Aug 22 09:26:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2837, 3752
+[Thu Aug 22 09:26:31 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2837, 3752
+[Thu Aug 22 09:27:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3757
+[Thu Aug 22 09:27:02 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2840, 3757
+[Thu Aug 22 09:27:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3757
+[Thu Aug 22 09:27:28 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2839, 3749
+[Thu Aug 22 09:27:29 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2839, 3749
+[Thu Aug 22 09:27:31 PDT 2013] Green arrow [76.30.105.223] picked up a Grimy lantadyme, location: 2838, 3753
+[Thu Aug 22 09:28:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3754
+[Thu Aug 22 09:28:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2837, 3751
+[Thu Aug 22 09:29:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3758
+[Thu Aug 22 09:29:13 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2840, 3758
+[Thu Aug 22 09:29:13 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2840, 3758
+[Thu Aug 22 09:29:14 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3758
+[Thu Aug 22 09:29:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3750
+[Thu Aug 22 09:31:39 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2857, 3756
+[Thu Aug 22 09:31:41 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3756
+[Thu Aug 22 09:31:53 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2857, 3756
+[Thu Aug 22 09:32:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2854, 3757
+[Thu Aug 22 09:32:32 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2855, 3753
+[Thu Aug 22 09:32:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3753
+[Thu Aug 22 09:33:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3754
+[Thu Aug 22 09:33:01 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2859, 3754
+[Thu Aug 22 09:33:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3756
+[Thu Aug 22 09:33:31 PDT 2013] Green arrow [76.30.105.223] picked up a Grimy ranarr, location: 2853, 3756
+[Thu Aug 22 09:33:33 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2853, 3756
+[Thu Aug 22 09:33:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3754
+[Thu Aug 22 09:34:22 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3755
+[Thu Aug 22 09:34:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2837, 3752
+[Thu Aug 22 09:35:30 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2837, 3752
+[Thu Aug 22 09:35:31 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2837, 3752
+[Thu Aug 22 09:35:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3753
+[Thu Aug 22 09:35:51 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3750
+[Thu Aug 22 09:35:52 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2838, 3750
+[Thu Aug 22 09:36:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3754
+[Thu Aug 22 09:36:19 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2844, 3754
+[Thu Aug 22 09:37:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3757
+[Thu Aug 22 09:37:03 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2841, 3757
+[Thu Aug 22 09:37:08 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2841, 3757
+[Thu Aug 22 09:37:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3752
+[Thu Aug 22 09:37:38 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2840, 3752
+[Thu Aug 22 09:38:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3753
+[Thu Aug 22 09:38:06 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2838, 3753
+[Thu Aug 22 09:38:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3755
+[Thu Aug 22 09:38:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3755
+[Thu Aug 22 09:38:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3753
+[Thu Aug 22 09:39:24 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2834, 3754
+[Thu Aug 22 09:39:26 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2834, 3754
+[Thu Aug 22 09:39:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3754
+[Thu Aug 22 09:39:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3754
+[Thu Aug 22 09:39:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2830, 3754
+[Thu Aug 22 09:39:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2830, 3754
+[Thu Aug 22 09:39:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2830, 3754
+[Thu Aug 22 09:39:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2830, 3754
+[Thu Aug 22 09:40:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2829, 3750
+[Thu Aug 22 09:40:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2827, 3750
+[Thu Aug 22 09:40:36 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2827, 3750
+[Thu Aug 22 09:41:00 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2824, 3750
+[Thu Aug 22 09:41:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2824, 3750
+[Thu Aug 22 09:41:31 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2830, 3753
+[Thu Aug 22 09:41:32 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2830, 3753
+[Thu Aug 22 09:42:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2828, 3756
+[Thu Aug 22 09:42:06 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2828, 3756
+[Thu Aug 22 09:42:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2828, 3756
+[Thu Aug 22 09:44:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3760
+[Thu Aug 22 09:44:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3760
+[Thu Aug 22 09:44:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3755
+[Thu Aug 22 09:44:34 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2856, 3755
+[Thu Aug 22 09:44:49 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3757
+[Thu Aug 22 09:44:51 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2851, 3757
+[Thu Aug 22 09:45:21 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3760
+[Thu Aug 22 09:45:22 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2858, 3760
+[Thu Aug 22 09:45:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3751
+[Thu Aug 22 09:46:00 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2855, 3751
+[Thu Aug 22 09:46:31 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3753
+[Thu Aug 22 09:46:55 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3753
+[Thu Aug 22 09:46:56 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2850, 3753
+[Thu Aug 22 09:47:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3753
+[Thu Aug 22 09:47:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3756
+[Thu Aug 22 09:47:54 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2845, 3756
+[Thu Aug 22 09:48:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3756
+[Thu Aug 22 09:48:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3755
+[Thu Aug 22 09:48:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3755
+[Thu Aug 22 09:48:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3756
+[Thu Aug 22 09:49:17 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2843, 3756
+[Thu Aug 22 09:49:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3757
+[Thu Aug 22 09:49:19 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2841, 3757
+[Thu Aug 22 09:50:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3753
+[Thu Aug 22 09:50:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3753
+[Thu Aug 22 09:50:09 PDT 2013] Green arrow [76.30.105.223] picked up a Body talisman, location: 2842, 3753
+[Thu Aug 22 09:50:12 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2842, 3753
+[Thu Aug 22 09:50:34 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2842, 3750
+[Thu Aug 22 09:50:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3750
+[Thu Aug 22 09:51:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3751
+[Thu Aug 22 09:51:02 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2836, 3751
+[Thu Aug 22 09:51:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3757
+[Thu Aug 22 09:51:36 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2836, 3757
+[Thu Aug 22 09:52:05 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2831, 3758
+[Thu Aug 22 09:52:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2831, 3758
+[Thu Aug 22 09:52:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2831, 3758
+[Thu Aug 22 09:52:10 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2831, 3758
+[Thu Aug 22 09:52:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2831, 3757
+[Thu Aug 22 09:52:26 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2831, 3757
+[Thu Aug 22 09:53:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2859, 3761
+[Thu Aug 22 09:53:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3761
+[Thu Aug 22 09:54:26 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2860, 3762
+[Thu Aug 22 09:54:29 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3762
+[Thu Aug 22 09:54:30 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2860, 3762
+[Thu Aug 22 09:54:47 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2856, 3760
+[Thu Aug 22 09:54:48 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3760
+[Thu Aug 22 09:54:51 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2856, 3760
+[Thu Aug 22 09:55:07 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3758
+[Thu Aug 22 09:55:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2848, 3755
+[Thu Aug 22 09:55:35 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2848, 3755
+[Thu Aug 22 09:56:01 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2849, 3758
+[Thu Aug 22 09:56:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2849, 3758
+[Thu Aug 22 09:56:37 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3759
+[Thu Aug 22 09:56:40 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2845, 3759
+[Thu Aug 22 09:56:40 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3759
+[Thu Aug 22 09:56:41 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3759
+[Thu Aug 22 09:56:42 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3759
+[Thu Aug 22 09:57:44 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3758
+[Thu Aug 22 09:57:46 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2840, 3758
+[Thu Aug 22 09:57:49 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3756
+[Thu Aug 22 09:57:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3756
+[Thu Aug 22 09:58:33 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2843, 3756
+[Thu Aug 22 09:58:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3756
+[Thu Aug 22 09:59:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3757
+[Thu Aug 22 09:59:11 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2841, 3757
+[Thu Aug 22 09:59:12 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2841, 3757
+[Thu Aug 22 09:59:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3756
+[Thu Aug 22 09:59:35 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2842, 3756
+[Thu Aug 22 10:00:01 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2843, 3752
+[Thu Aug 22 10:00:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3752
+[Thu Aug 22 10:00:24 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2838, 3749
+[Thu Aug 22 10:00:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3749
+[Thu Aug 22 10:01:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2835, 3753
+[Thu Aug 22 10:01:09 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2835, 3753
+[Thu Aug 22 10:01:11 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2835, 3753
+[Thu Aug 22 10:01:11 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2835, 3753
+[Thu Aug 22 10:01:12 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2835, 3753
+[Thu Aug 22 10:01:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3749
+[Thu Aug 22 10:01:29 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2836, 3749
+[Thu Aug 22 10:02:11 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2835, 3753
+[Thu Aug 22 10:02:15 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2835, 3753
+[Thu Aug 22 10:02:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3750
+[Thu Aug 22 10:02:37 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2836, 3750
+[Thu Aug 22 10:03:11 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3754
+[Thu Aug 22 10:05:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3757
+[Thu Aug 22 10:05:11 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3757
+[Thu Aug 22 10:05:13 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2858, 3757
+[Thu Aug 22 10:05:43 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3755
+[Thu Aug 22 10:05:44 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3755
+[Thu Aug 22 10:05:49 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2855, 3755
+[Thu Aug 22 10:06:14 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3755
+[Thu Aug 22 10:06:15 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2856, 3755
+[Thu Aug 22 10:06:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3750
+[Thu Aug 22 10:06:38 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2860, 3750
+[Thu Aug 22 10:06:42 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2860, 3750
+[Thu Aug 22 10:06:51 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2860, 3750
+[Thu Aug 22 10:07:02 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2855, 3755
+[Thu Aug 22 10:07:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3751
+[Thu Aug 22 10:07:07 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2857, 3751
+[Thu Aug 22 10:07:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3756
+[Thu Aug 22 10:08:00 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3756
+[Thu Aug 22 10:08:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3756
+[Thu Aug 22 10:09:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2861, 3755
+[Thu Aug 22 10:09:19 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2861, 3756
+[Thu Aug 22 10:09:23 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2861, 3756
+[Thu Aug 22 10:09:38 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2859, 3757
+[Thu Aug 22 10:09:44 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3757
+[Thu Aug 22 10:09:46 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2859, 3757
+[Thu Aug 22 10:10:07 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3752
+[Thu Aug 22 10:10:09 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2860, 3752
+[Thu Aug 22 10:10:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3757
+[Thu Aug 22 10:10:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3757
+[Thu Aug 22 10:11:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3752
+[Thu Aug 22 10:11:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3753
+[Thu Aug 22 10:11:36 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2847, 3753
+[Thu Aug 22 10:12:01 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3756
+[Thu Aug 22 10:12:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3756
+[Thu Aug 22 10:12:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3758
+[Thu Aug 22 10:12:59 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2846, 3754
+[Thu Aug 22 10:13:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3754
+[Thu Aug 22 10:14:49 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2859, 3760
+[Thu Aug 22 10:14:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3760
+[Thu Aug 22 10:14:51 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2859, 3760
+[Thu Aug 22 10:15:09 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3764
+[Thu Aug 22 10:15:36 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2857, 3764
+[Thu Aug 22 10:15:40 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2858, 3760
+[Thu Aug 22 10:15:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3760
+[Thu Aug 22 10:15:44 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2858, 3760
+[Thu Aug 22 10:16:04 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2858, 3767
+[Thu Aug 22 10:16:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3767
+[Thu Aug 22 10:16:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3763
+[Thu Aug 22 10:16:27 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2853, 3763
+[Thu Aug 22 10:16:29 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2853, 3763
+[Thu Aug 22 10:16:32 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2853, 3763
+[Thu Aug 22 10:17:01 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3760
+[Thu Aug 22 10:17:04 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2857, 3760
+[Thu Aug 22 10:17:07 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2857, 3760
+[Thu Aug 22 10:17:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3756
+[Thu Aug 22 10:17:42 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2858, 3756
+[Thu Aug 22 10:17:44 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2858, 3756
+[Thu Aug 22 10:18:41 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3758
+[Thu Aug 22 10:18:43 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2850, 3758
+[Thu Aug 22 10:19:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3759
+[Thu Aug 22 10:19:11 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2842, 3759
+[Thu Aug 22 10:19:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3756
+[Thu Aug 22 10:19:41 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2843, 3756
+[Thu Aug 22 10:20:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3757
+[Thu Aug 22 10:20:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2839, 3758
+[Thu Aug 22 10:20:31 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2839, 3758
+[Thu Aug 22 10:20:33 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2839, 3758
+[Thu Aug 22 10:20:35 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2842, 3759
+[Thu Aug 22 10:20:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3757
+[Thu Aug 22 10:21:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2838, 3753
+[Thu Aug 22 10:21:49 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2838, 3753
+[Thu Aug 22 10:21:51 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2836, 3754
+[Thu Aug 22 10:21:53 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2836, 3754
+[Thu Aug 22 10:22:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2834, 3757
+[Thu Aug 22 10:22:32 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2834, 3757
+[Thu Aug 22 10:22:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3757
+[Thu Aug 22 10:23:00 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2840, 3757
+[Thu Aug 22 10:23:36 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3755
+[Thu Aug 22 10:23:38 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2841, 3755
+[Thu Aug 22 10:24:07 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2841, 3757
+[Thu Aug 22 10:24:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3756
+[Thu Aug 22 10:25:15 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2846, 3756
+[Thu Aug 22 10:25:42 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3758
+[Thu Aug 22 10:26:12 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3750
+[Thu Aug 22 10:26:14 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2840, 3750
+[Thu Aug 22 10:27:14 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2837, 3750
+[Thu Aug 22 10:27:20 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2837, 3750
+[Thu Aug 22 10:27:24 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2837, 3750
+[Thu Aug 22 10:27:25 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (4), location: 2837, 3750
+[Thu Aug 22 10:29:24 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2856, 3757
+[Thu Aug 22 10:29:26 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3757
+[Thu Aug 22 10:29:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3755
+[Thu Aug 22 10:29:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3755
+[Thu Aug 22 10:29:31 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3755
+[Thu Aug 22 10:30:12 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2849, 3753
+[Thu Aug 22 10:30:13 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2849, 3753
+[Thu Aug 22 10:30:17 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2849, 3753
+[Thu Aug 22 10:30:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2852, 3752
+[Thu Aug 22 10:30:41 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2852, 3752
+[Thu Aug 22 10:31:23 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2853, 3752
+[Thu Aug 22 10:31:28 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3752
+[Thu Aug 22 10:31:45 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2853, 3752
+[Thu Aug 22 10:32:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3753
+[Thu Aug 22 10:32:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3756
+[Thu Aug 22 10:32:37 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2853, 3756
+[Thu Aug 22 10:33:05 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3753
+[Thu Aug 22 10:33:06 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2844, 3753
+[Thu Aug 22 10:33:39 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3758
+[Thu Aug 22 10:34:14 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3761
+[Thu Aug 22 10:34:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2853, 3756
+[Thu Aug 22 10:34:55 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3756
+[Thu Aug 22 10:34:56 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2853, 3756
+[Thu Aug 22 10:34:58 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2853, 3756
+[Thu Aug 22 10:35:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2854, 3753
+[Thu Aug 22 10:35:35 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2854, 3753
+[Thu Aug 22 10:36:06 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3753
+[Thu Aug 22 10:36:07 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2850, 3753
+[Thu Aug 22 10:36:29 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3752
+[Thu Aug 22 10:37:04 PDT 2013] Green arrow [76.30.105.223] picked up a Shark, location: 2851, 3752
+[Thu Aug 22 10:37:10 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3755
+[Thu Aug 22 10:37:44 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3756
+[Thu Aug 22 10:37:46 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2845, 3756
+[Thu Aug 22 10:38:15 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3755
+[Thu Aug 22 10:38:17 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2844, 3753
+[Thu Aug 22 10:38:20 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3753
+[Thu Aug 22 10:38:49 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2843, 3755
+[Thu Aug 22 10:38:50 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2843, 3755
+[Thu Aug 22 10:38:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3755
+[Thu Aug 22 10:39:20 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2840, 3758
+[Thu Aug 22 10:39:21 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2840, 3758
+[Thu Aug 22 10:51:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3757
+[Thu Aug 22 10:51:48 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2856, 3757
+[Thu Aug 22 10:52:18 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2857, 3756
+[Thu Aug 22 10:52:19 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2857, 3756
+[Thu Aug 22 10:52:20 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3756
+[Thu Aug 22 10:52:54 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2856, 3756
+[Thu Aug 22 10:52:59 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3756
+[Thu Aug 22 10:53:22 PDT 2013] Green arrow [76.30.105.223] picked up a Grimy ranarr, location: 2856, 3756
+[Thu Aug 22 10:53:44 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2857, 3752
+[Thu Aug 22 10:53:45 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3752
+[Thu Aug 22 10:53:47 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2857, 3752
+[Thu Aug 22 10:54:24 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3757
+[Thu Aug 22 10:54:26 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2856, 3757
+[Thu Aug 22 10:54:51 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2858, 3760
+[Thu Aug 22 10:54:53 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2858, 3760
+[Thu Aug 22 10:55:27 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2856, 3757
+[Thu Aug 22 10:55:31 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2856, 3757
+[Thu Aug 22 10:56:07 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2864, 3752
+[Thu Aug 22 10:56:08 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2864, 3752
+[Thu Aug 22 10:56:13 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2864, 3752
+[Thu Aug 22 10:56:39 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2866, 3756
+[Thu Aug 22 10:56:41 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2866, 3756
+[Thu Aug 22 10:56:46 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2866, 3756
+[Thu Aug 22 10:57:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2864, 3752
+[Thu Aug 22 10:57:20 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2864, 3752
+[Thu Aug 22 10:57:23 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2864, 3752
+[Thu Aug 22 10:57:55 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2860, 3751
+[Thu Aug 22 10:57:56 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2860, 3751
+[Thu Aug 22 10:57:58 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2860, 3751
+[Thu Aug 22 10:58:49 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2855, 3757
+[Thu Aug 22 10:58:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2855, 3757
+[Thu Aug 22 10:59:22 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3751
+[Thu Aug 22 10:59:23 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2851, 3751
+[Thu Aug 22 11:00:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2849, 3753
+[Thu Aug 22 11:00:03 PDT 2013] Green arrow [76.30.105.223] picked up a Blue charm, location: 2849, 3753
+[Thu Aug 22 11:00:35 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3754
+[Thu Aug 22 11:01:38 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3752
+[Thu Aug 22 11:01:39 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3752
+[Thu Aug 22 11:32:22 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2331, 9812
+[Thu Aug 22 11:35:40 PDT 2013] Green arrow [76.30.105.223] picked up a Diamond, location: 2339, 9829
+[Thu Aug 22 11:37:11 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2330, 9816
+[Thu Aug 22 11:44:44 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:45 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:45 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:46 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:46 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:46 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:44:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2086, 4429
+[Thu Aug 22 11:46:28 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:28 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:31 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:31 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:31 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:31 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:36 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:37 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:38 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:38 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:46:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 2090, 4430
+[Thu Aug 22 11:49:10 PDT 2013] Green arrow [76.30.105.223] picked up a Regen bracelet, location: 2090, 4429
+[Thu Aug 22 11:49:12 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2090, 4429
+[Thu Aug 22 11:49:13 PDT 2013] Green arrow [76.30.105.223] picked up a Runite bolts, location: 2090, 4429
+[Thu Aug 22 11:49:13 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2090, 4429
+[Thu Aug 22 11:49:15 PDT 2013] Green arrow [76.30.105.223] picked up a Adamant bar, location: 2090, 4429
+[Thu Aug 22 12:11:51 PDT 2013] Green arrow [76.30.105.223] picked up a Dragonfire shield, location: 3089, 3519
+[Thu Aug 22 12:11:54 PDT 2013] Green arrow [76.30.105.223] picked up a Guthan's platebody, location: 3089, 3519
+[Thu Aug 22 12:11:57 PDT 2013] Green arrow [76.30.105.223] picked up a Verac's plateskirt, location: 3089, 3519
+[Thu Aug 22 12:11:59 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon bolts (e), location: 3089, 3519
+[Thu Aug 22 12:12:01 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon dagger, location: 3089, 3519
+[Thu Aug 22 12:12:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3519
+[Thu Aug 22 12:12:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3519
+[Thu Aug 22 12:12:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3519
+[Thu Aug 22 12:12:32 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3519
+[Thu Aug 22 12:12:33 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3519
+[Thu Aug 22 12:12:33 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3519
+[Thu Aug 22 12:16:55 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 3089, 3525
+[Thu Aug 22 12:16:57 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 3089, 3525
+[Thu Aug 22 12:16:57 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 3089, 3525
+[Thu Aug 22 12:17:26 PDT 2013] Green arrow [76.30.105.223] picked up a Rune platebody, location: 3089, 3525
+[Thu Aug 22 12:17:26 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3525
+[Thu Aug 22 12:17:26 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3525
+[Thu Aug 22 12:17:27 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3525
+[Thu Aug 22 12:17:27 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:27 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3525
+[Thu Aug 22 12:17:27 PDT 2013] Green arrow [76.30.105.223] picked up a Rune platebody, location: 3089, 3525
+[Thu Aug 22 12:17:27 PDT 2013] Green arrow [76.30.105.223] picked up a Rune platebody, location: 3089, 3525
+[Thu Aug 22 12:17:28 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:28 PDT 2013] Green arrow [76.30.105.223] picked up a Rune platebody, location: 3089, 3525
+[Thu Aug 22 12:17:29 PDT 2013] Green arrow [76.30.105.223] picked up a Rune platebody, location: 3089, 3525
+[Thu Aug 22 12:17:29 PDT 2013] Green arrow [76.30.105.223] picked up a Super attack (2), location: 3089, 3525
+[Thu Aug 22 12:17:29 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3089, 3525
+[Thu Aug 22 12:17:29 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3089, 3525
+[Thu Aug 22 12:17:30 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3089, 3525
+[Thu Aug 22 12:17:30 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3089, 3525
+[Thu Aug 22 12:17:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:30 PDT 2013] Green arrow [76.30.105.223] picked up a Astral rune, location: 3089, 3525
+[Thu Aug 22 12:17:31 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:31 PDT 2013] Green arrow [76.30.105.223] picked up a Astral rune, location: 3089, 3525
+[Thu Aug 22 12:17:32 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:32 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3525
+[Thu Aug 22 12:17:32 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:32 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3525
+[Thu Aug 22 12:17:32 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3525
+[Thu Aug 22 12:17:33 PDT 2013] Green arrow [76.30.105.223] picked up a Saradomin brew (2), location: 3089, 3525
+[Thu Aug 22 12:17:34 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3525
+[Thu Aug 22 12:17:34 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3525
+[Thu Aug 22 12:17:35 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:35 PDT 2013] Green arrow [76.30.105.223] picked up a Death rune, location: 3089, 3525
+[Thu Aug 22 12:17:36 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (2), location: 3089, 3525
+[Thu Aug 22 12:17:36 PDT 2013] Green arrow [76.30.105.223] picked up a Death rune, location: 3089, 3525
+[Thu Aug 22 12:17:37 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (4), location: 3089, 3525
+[Thu Aug 22 12:17:38 PDT 2013] Green arrow [76.30.105.223] picked up a Earth rune, location: 3089, 3525
+[Thu Aug 22 12:17:39 PDT 2013] Green arrow [76.30.105.223] picked up a Super restore (2), location: 3089, 3525
+[Thu Aug 22 12:17:39 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:40 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (4), location: 3089, 3525
+[Thu Aug 22 12:17:41 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:41 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (4), location: 3089, 3525
+[Thu Aug 22 12:17:42 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (4), location: 3089, 3525
+[Thu Aug 22 12:17:47 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:47 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:47 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:49 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:50 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:51 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:52 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:53 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:53 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:53 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:53 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:53 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:54 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:54 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:54 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:55 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:55 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:17:55 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3525
+[Thu Aug 22 12:21:39 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 3089, 3528
+[Thu Aug 22 12:21:42 PDT 2013] Green arrow [76.30.105.223] picked up a Gloves, location: 3089, 3528
+[Thu Aug 22 12:21:42 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 3089, 3528
+[Thu Aug 22 12:21:43 PDT 2013] Green arrow [76.30.105.223] picked up a Fire cape, location: 3089, 3528
+[Thu Aug 22 12:22:16 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3528
+[Thu Aug 22 12:22:16 PDT 2013] Green arrow [76.30.105.223] picked up a Super attack (1), location: 3089, 3528
+[Thu Aug 22 12:22:16 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3528
+[Thu Aug 22 12:22:17 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon platelegs, location: 3089, 3528
+[Thu Aug 22 12:22:17 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3528
+[Thu Aug 22 12:22:18 PDT 2013] Green arrow [76.30.105.223] picked up a Rune platebody, location: 3089, 3528
+[Thu Aug 22 12:22:19 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3089, 3528
+[Thu Aug 22 12:22:21 PDT 2013] Green arrow [76.30.105.223] picked up a Helm of neitiznot, location: 3089, 3528
+[Thu Aug 22 12:22:21 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3528
+[Thu Aug 22 12:22:21 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3528
+[Thu Aug 22 12:22:21 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3528
+[Thu Aug 22 12:22:21 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3528
+[Thu Aug 22 12:22:21 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3528
+[Thu Aug 22 12:22:22 PDT 2013] Green arrow [76.30.105.223] picked up a Dragon boots, location: 3089, 3528
+[Thu Aug 22 12:22:22 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (4), location: 3089, 3528
+[Thu Aug 22 12:22:22 PDT 2013] Green arrow [76.30.105.223] picked up a Astral rune, location: 3089, 3528
+[Thu Aug 22 12:22:22 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer renewal, location: 3089, 3528
+[Thu Aug 22 12:22:22 PDT 2013] Green arrow [76.30.105.223] picked up a Astral rune, location: 3089, 3528
+[Thu Aug 22 12:22:23 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer renewal, location: 3089, 3528
+[Thu Aug 22 12:22:23 PDT 2013] Green arrow [76.30.105.223] picked up a Astral rune, location: 3089, 3528
+[Thu Aug 22 12:22:24 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3528
+[Thu Aug 22 12:22:24 PDT 2013] Green arrow [76.30.105.223] picked up a Astral rune, location: 3089, 3528
+[Thu Aug 22 12:22:24 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3528
+[Thu Aug 22 12:22:24 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3528
+[Thu Aug 22 12:22:24 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3528
+[Thu Aug 22 12:22:24 PDT 2013] Green arrow [76.30.105.223] picked up a Amulet of glory (4), location: 3089, 3528
+[Thu Aug 22 12:22:25 PDT 2013] Green arrow [76.30.105.223] picked up a Death rune, location: 3089, 3528
+[Thu Aug 22 12:22:25 PDT 2013] Green arrow [76.30.105.223] picked up a Death rune, location: 3089, 3528
+[Thu Aug 22 12:22:26 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer renewal, location: 3089, 3528
+[Thu Aug 22 12:22:27 PDT 2013] Green arrow [76.30.105.223] picked up a Earth rune, location: 3089, 3528
+[Thu Aug 22 12:22:27 PDT 2013] Green arrow [76.30.105.223] picked up a Earth rune, location: 3089, 3528
+[Thu Aug 22 12:22:27 PDT 2013] Green arrow [76.30.105.223] picked up a Earth rune, location: 3089, 3528
+[Thu Aug 22 12:22:27 PDT 2013] Green arrow [76.30.105.223] picked up a Earth rune, location: 3089, 3528
+[Thu Aug 22 12:22:28 PDT 2013] Green arrow [76.30.105.223] picked up a Earth rune, location: 3089, 3528
+[Thu Aug 22 12:22:28 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (1), location: 3089, 3528
+[Thu Aug 22 12:22:28 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3528
+[Thu Aug 22 12:22:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3528
+[Thu Aug 22 12:22:29 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3528
+[Thu Aug 22 12:22:30 PDT 2013] Green arrow [76.30.105.223] picked up a Prayer potion (2), location: 3089, 3528
+[Thu Aug 22 12:22:30 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3089, 3528
+[Thu Aug 22 12:22:31 PDT 2013] Green arrow [76.30.105.223] picked up a Super attack (1), location: 3089, 3528
+[Thu Aug 22 12:22:32 PDT 2013] Green arrow [76.30.105.223] picked up a Saradomin brew (1), location: 3089, 3528
+[Thu Aug 22 12:22:32 PDT 2013] Green arrow [76.30.105.223] picked up a Saradomin brew (1), location: 3089, 3528
+[Thu Aug 22 12:22:33 PDT 2013] Green arrow [76.30.105.223] picked up a Saradomin brew (1), location: 3089, 3528
+[Thu Aug 22 12:22:33 PDT 2013] Green arrow [76.30.105.223] picked up a Saradomin brew (1), location: 3089, 3528
+[Thu Aug 22 12:22:34 PDT 2013] Green arrow [76.30.105.223] picked up a Super strength (1), location: 3089, 3528
+[Thu Aug 22 12:22:35 PDT 2013] Green arrow [76.30.105.223] picked up a Super restore (1), location: 3089, 3528
+[Thu Aug 22 12:23:46 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3085, 3528
+[Thu Aug 22 12:23:47 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3085, 3528
+[Thu Aug 22 12:23:47 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3085, 3528
+[Thu Aug 22 12:23:48 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3085, 3528
+[Thu Aug 22 12:23:51 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3085, 3528
+[Thu Aug 22 12:23:53 PDT 2013] Green arrow [76.30.105.223] picked up a Manta ray, location: 3085, 3528
+[Thu Aug 22 14:05:16 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2859, 3750
+[Thu Aug 22 14:05:49 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3753
+[Thu Aug 22 14:05:50 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2850, 3753
+[Thu Aug 22 14:06:17 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2854, 3754
+[Thu Aug 22 14:06:19 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2854, 3754
+[Thu Aug 22 14:06:52 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2853, 3753
+[Thu Aug 22 14:06:55 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2853, 3753
+[Thu Aug 22 14:07:23 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3756
+[Thu Aug 22 14:07:25 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3756
+[Thu Aug 22 14:07:28 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2847, 3756
+[Thu Aug 22 14:07:55 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2844, 3755
+[Thu Aug 22 14:07:57 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3755
+[Thu Aug 22 14:07:58 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2844, 3755
+[Thu Aug 22 14:08:31 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3758
+[Thu Aug 22 14:09:03 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3756
+[Thu Aug 22 14:09:04 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2842, 3756
+[Thu Aug 22 14:09:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2844, 3754
+[Thu Aug 22 14:09:36 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2844, 3754
+[Thu Aug 22 14:10:04 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3754
+[Thu Aug 22 14:10:11 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3754
+[Thu Aug 22 14:10:48 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3755
+[Thu Aug 22 14:10:51 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2845, 3755
+[Thu Aug 22 14:11:24 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2842, 3756
+[Thu Aug 22 14:11:25 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2842, 3756
+[Thu Aug 22 14:11:50 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3751
+[Thu Aug 22 14:11:52 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3751
+[Thu Aug 22 14:12:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2850, 3754
+[Thu Aug 22 14:12:19 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2850, 3754
+[Thu Aug 22 14:13:00 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2845, 3752
+[Thu Aug 22 14:13:02 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2845, 3752
+[Thu Aug 22 14:13:04 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2845, 3752
+[Thu Aug 22 14:13:33 PDT 2013] Green arrow [76.30.105.223] picked up a Crimson charm, location: 2847, 3753
+[Thu Aug 22 14:13:34 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3753
+[Thu Aug 22 14:14:18 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2851, 3752
+[Thu Aug 22 14:14:20 PDT 2013] Green arrow [76.30.105.223] picked up a Gold charm, location: 2851, 3752
+[Thu Aug 22 14:14:50 PDT 2013] Green arrow [76.30.105.223] picked up a Coins, location: 2847, 3751
+[Thu Aug 22 14:14:52 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2847, 3751
+[Thu Aug 22 14:15:28 PDT 2013] Green arrow [76.30.105.223] picked up a Green charm, location: 2843, 3755
+[Thu Aug 22 14:15:30 PDT 2013] Green arrow [76.30.105.223] picked up a Frost dragon bones, location: 2843, 3755

@@ -1,0 +1,6 @@
+[Thu Aug 22 07:48:28 PDT 2013] Forever [71.10.125.218] traded 5000000 Coins to the user Happy4you [71.10.125.218]
+[Thu Aug 22 07:48:28 PDT 2013] Forever [71.10.125.218] traded 1000 Manta ray to the user Happy4you [71.10.125.218]
+[Thu Aug 22 07:48:28 PDT 2013] Forever [71.10.125.218] traded 1000 Air rune to the user Happy4you [71.10.125.218]
+[Thu Aug 22 07:48:28 PDT 2013] Forever [71.10.125.218] traded 200 Nature rune to the user Happy4you [71.10.125.218]
+[Thu Aug 22 07:48:28 PDT 2013] Forever [71.10.125.218] traded 200 Blood rune to the user Happy4you [71.10.125.218]
+[Thu Aug 22 07:48:28 PDT 2013] Forever [71.10.125.218] traded 1000 Fire rune to the user Happy4you [71.10.125.218]

@@ -1,0 +1,30 @@
+[Tue Aug 20 08:43:55 PDT 2013] Red [76.30.94.165] dropped a Snakeskin boots at location: 2836, 10207
+[Tue Aug 20 10:17:50 PDT 2013] Red [76.30.94.165] dropped a Iron scimitar at location: 2672, 3715
+[Tue Aug 20 13:12:05 PDT 2013] Red [76.30.94.165] dropped a Climbing boots at location: 3094, 3498
+[Tue Aug 20 13:12:25 PDT 2013] Red [76.30.94.165] dropped a Brackish Blade at location: 3091, 3494
+[Tue Aug 20 13:12:27 PDT 2013] Red [76.30.94.165] dropped a Bronze kiteshield at location: 3091, 3494
+[Tue Aug 20 19:06:35 PDT 2013] Red [76.30.94.165] dropped a Coins at location: 2842, 10223
+[Tue Aug 20 19:06:42 PDT 2013] Red [76.30.94.165] dropped a Coins at location: 2842, 10223
+[Tue Aug 20 20:30:43 PDT 2013] Red [76.30.94.165] dropped a Coins at location: 2844, 10223
+[Tue Aug 20 20:33:27 PDT 2013] Red [76.30.94.165] dropped a Coins at location: 2846, 10223
+[Tue Aug 20 20:52:37 PDT 2013] Red [76.30.94.165] dropped a Death rune at location: 2316, 9832
+[Tue Aug 20 20:56:50 PDT 2013] Red [76.30.94.165] dropped a Blue charm at location: 2845, 10209
+[Tue Aug 20 22:14:47 PDT 2013] Red [76.30.94.165] dropped a Blue charm at location: 2331, 9811
+[Tue Aug 20 22:29:10 PDT 2013] Red [76.30.94.165] dropped a Blue charm at location: 2332, 9810
+[Tue Aug 20 22:33:46 PDT 2013] Red [76.30.94.165] dropped a Blue charm at location: 2330, 9809
+[Tue Aug 20 22:40:40 PDT 2013] Red [76.30.94.165] dropped a Crimson charm at location: 2329, 9812
+[Tue Aug 20 23:49:24 PDT 2013] Red [76.30.94.165] dropped a Crimson charm at location: 2330, 9810
+[Tue Aug 20 23:53:38 PDT 2013] Red [76.30.94.165] dropped a Crimson charm at location: 2331, 9811
+[Tue Aug 20 23:55:04 PDT 2013] Red [76.30.94.165] dropped a Gold charm at location: 2331, 9811
+[Tue Aug 20 23:55:06 PDT 2013] Red [76.30.94.165] dropped a Crimson charm at location: 2331, 9811
+[Wed Aug 21 00:17:59 PDT 2013] Red [76.30.94.165] dropped a Gold charm at location: 2331, 9811
+[Wed Aug 21 00:21:10 PDT 2013] Red [76.30.94.165] dropped a Death rune at location: 2330, 9810
+[Wed Aug 21 00:21:29 PDT 2013] Red [76.30.94.165] dropped a Gold charm at location: 2328, 9808
+[Wed Aug 21 11:06:35 PDT 2013] Red [76.30.94.165] dropped a Crimson charm at location: 2330, 9806
+[Wed Aug 21 11:44:52 PDT 2013] Red [76.30.94.165] dropped a Gold charm at location: 2329, 9809
+[Wed Aug 21 11:44:53 PDT 2013] Red [76.30.94.165] dropped a Grimy tarromin at location: 2329, 9809
+[Wed Aug 21 11:44:55 PDT 2013] Red [76.30.94.165] dropped a Gold charm at location: 2329, 9809
+[Wed Aug 21 11:44:59 PDT 2013] Red [76.30.94.165] dropped a Gold charm at location: 2329, 9809
+[Wed Aug 21 12:13:25 PDT 2013] Red [76.30.94.165] dropped a Strength potion (1) at location: 2324, 9824
+[Wed Aug 21 21:06:31 PDT 2013] Red [76.30.94.165] dropped a Grimy ranarr at location: 2836, 3824
+[Wed Aug 21 21:06:32 PDT 2013] Red [76.30.94.165] dropped a Pure essence at location: 2836, 3824

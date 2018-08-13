@@ -1,0 +1,47 @@
+[Wed Aug 21 21:06:57 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3236, 3298
+[Wed Aug 21 21:08:51 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3234, 3298
+[Wed Aug 21 21:09:19 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3235, 3293
+[Wed Aug 21 21:09:45 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3233, 3294
+[Wed Aug 21 21:21:59 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3230, 3298
+[Wed Aug 21 21:22:42 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3230, 3298
+[Wed Aug 21 21:24:50 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3230, 3299
+[Wed Aug 21 21:27:50 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3230, 3298
+[Wed Aug 21 21:29:06 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3229, 3298
+[Wed Aug 21 21:29:08 PDT 2013] S k i l l [50.159.32.22] picked up a Raw chicken, location: 3230, 3298
+[Wed Aug 21 21:29:47 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3228, 3298
+[Wed Aug 21 21:30:16 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3228, 3299
+[Wed Aug 21 21:30:19 PDT 2013] S k i l l [50.159.32.22] picked up a Raw chicken, location: 3229, 3298
+[Wed Aug 21 21:30:41 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3229, 3298
+[Wed Aug 21 21:31:27 PDT 2013] S k i l l [50.159.32.22] picked up a Raw chicken, location: 3231, 3298
+[Wed Aug 21 21:31:29 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3231, 3298
+[Wed Aug 21 21:32:25 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3230, 3300
+[Wed Aug 21 21:33:12 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3229, 3298
+[Wed Aug 21 21:34:57 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3231, 3296
+[Wed Aug 21 21:36:25 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3228, 3295
+[Wed Aug 21 21:52:35 PDT 2013] S k i l l [50.159.32.22] picked up a Feather, location: 3228, 3295
+[Wed Aug 21 22:50:11 PDT 2013] S k i l l [50.159.32.22] picked up a Gold charm, location: 2673, 3717
+[Wed Aug 21 22:51:18 PDT 2013] S k i l l [50.159.32.22] picked up a Gold charm, location: 2673, 3717
+[Wed Aug 21 22:52:12 PDT 2013] S k i l l [50.159.32.22] picked up a Green charm, location: 2673, 3715
+[Wed Aug 21 22:52:15 PDT 2013] S k i l l [50.159.32.22] picked up a Grimy ranarr, location: 2673, 3715
+[Wed Aug 21 22:53:02 PDT 2013] S k i l l [50.159.32.22] picked up a Fire rune, location: 2673, 3717
+[Wed Aug 21 22:56:31 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3337, 3685
+[Wed Aug 21 22:56:57 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3338, 3680
+[Wed Aug 21 22:57:24 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3330, 3678
+[Wed Aug 21 22:57:27 PDT 2013] S k i l l [50.159.32.22] picked up a Green charm, location: 3330, 3678
+[Wed Aug 21 22:57:55 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3329, 3678
+[Wed Aug 21 22:58:30 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3332, 3676
+[Wed Aug 21 22:59:56 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3338, 3684
+[Wed Aug 21 23:00:24 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3339, 3683
+[Wed Aug 21 23:00:50 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3338, 3685
+[Wed Aug 21 23:01:12 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3338, 3681
+[Wed Aug 21 23:01:37 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3340, 3684
+[Wed Aug 21 23:02:15 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3339, 3680
+[Wed Aug 21 23:02:43 PDT 2013] S k i l l [50.159.32.22] picked up a Raw bass, location: 3333, 3676
+[Wed Aug 21 23:02:48 PDT 2013] S k i l l [50.159.32.22] picked up a Dragon bones, location: 3333, 3676
+[Wed Aug 21 23:05:43 PDT 2013] S k i l l [50.159.32.22] picked up a Gold charm, location: 2673, 3713
+[Wed Aug 21 23:10:18 PDT 2013] S k i l l [50.159.32.22] picked up a Crimson charm, location: 2839, 3499
+[Wed Aug 21 23:10:21 PDT 2013] S k i l l [50.159.32.22] picked up a Frost dragon bones, location: 2839, 3499
+[Wed Aug 21 23:11:17 PDT 2013] S k i l l [50.159.32.22] picked up a Frost dragon bones, location: 2831, 3498
+[Wed Aug 21 23:12:28 PDT 2013] S k i l l [50.159.32.22] picked up a Frost dragon bones, location: 2831, 3498
+[Wed Aug 21 23:12:34 PDT 2013] S k i l l [50.159.32.22] picked up a Coins, location: 2831, 3498
+[Thu Aug 22 08:49:13 PDT 2013] S k i l l [50.159.32.22] picked up a Frost dragon bones, location: 2831, 3497

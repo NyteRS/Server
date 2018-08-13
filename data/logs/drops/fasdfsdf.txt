@@ -1,0 +1,8 @@
+[Mon Aug 19 00:45:52 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Coins at location: 2975, 3617
+[Mon Aug 19 00:45:55 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Manta ray at location: 2975, 3617
+[Mon Aug 19 00:45:57 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Teleport to house at location: 2975, 3617
+[Mon Aug 19 00:45:58 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Nature rune at location: 2975, 3617
+[Mon Aug 19 00:46:00 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Fire rune at location: 2975, 3617
+[Mon Aug 19 00:46:01 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Blood rune at location: 2975, 3617
+[Mon Aug 19 00:46:03 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Death rune at location: 2975, 3617
+[Mon Aug 19 00:46:03 PDT 2013] Fasdfsdf [72.130.15.93] dropped a Water rune at location: 2975, 3617

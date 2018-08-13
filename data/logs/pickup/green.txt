@@ -1,0 +1,21 @@
+[Tue Aug 20 09:22:35 PDT 2013] Green [76.30.105.223] picked up a Rune arrow, location: 2975, 3917
+[Tue Aug 20 09:22:37 PDT 2013] Green [76.30.105.223] picked up a Amulet of glory (4), location: 2975, 3917
+[Tue Aug 20 09:22:37 PDT 2013] Green [76.30.105.223] picked up a Rune arrow, location: 2975, 3917
+[Tue Aug 20 09:22:38 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:38 PDT 2013] Green [76.30.105.223] picked up a Rock climbing boots, location: 2975, 3917
+[Tue Aug 20 09:22:38 PDT 2013] Green [76.30.105.223] picked up a Black d'hide chaps, location: 2975, 3917
+[Tue Aug 20 09:22:39 PDT 2013] Green [76.30.105.223] picked up a Black d'hide chaps, location: 2975, 3917
+[Tue Aug 20 09:22:40 PDT 2013] Green [76.30.105.223] picked up a Ring of life, location: 2975, 3917
+[Tue Aug 20 09:22:41 PDT 2013] Green [76.30.105.223] picked up a Ghostly robetop, location: 2975, 3917
+[Tue Aug 20 09:22:41 PDT 2013] Green [76.30.105.223] picked up a Magic shortbow, location: 2975, 3917
+[Tue Aug 20 09:22:42 PDT 2013] Green [76.30.105.223] picked up a Black d'hide vambraces, location: 2975, 3917
+[Tue Aug 20 09:22:43 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:50 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:52 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:54 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:55 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:55 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:57 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:22:59 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:23:02 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917
+[Tue Aug 20 09:23:02 PDT 2013] Green [76.30.105.223] picked up a Manta ray, location: 2975, 3917

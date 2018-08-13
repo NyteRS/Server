@@ -1,0 +1,392 @@
+[Tue Aug 20 08:33:56 PDT 2013] Black [174.130.217.244] picked up a Hair, location: 2326, 3799
+[Tue Aug 20 08:44:12 PDT 2013] Black [174.130.217.244] picked up a Combat bracelet (4), location: 2328, 3798
+[Tue Aug 20 08:44:13 PDT 2013] Black [174.130.217.244] picked up a Amulet of glory (4), location: 2328, 3798
+[Tue Aug 20 08:44:15 PDT 2013] Black [174.130.217.244] picked up a Amulet of glory (4), location: 2328, 3798
+[Tue Aug 20 08:44:16 PDT 2013] Black [174.130.217.244] picked up a Amulet of glory (4), location: 2328, 3798
+[Tue Aug 20 08:44:18 PDT 2013] Black [174.130.217.244] picked up a Combat bracelet (4), location: 2328, 3798
+[Tue Aug 20 08:44:20 PDT 2013] Black [174.130.217.244] picked up a Amulet of glory (4), location: 2328, 3798
+[Tue Aug 20 08:51:18 PDT 2013] Black [174.130.217.244] picked up a Hair, location: 2327, 3799
+[Wed Aug 21 11:24:04 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2336, 9810
+[Wed Aug 21 11:24:45 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2339, 9807
+[Wed Aug 21 11:25:45 PDT 2013] Black [75.90.93.77] picked up a Ranarr seed, location: 2337, 9811
+[Wed Aug 21 11:27:21 PDT 2013] Black [75.90.93.77] picked up a Ranarr seed, location: 2334, 9807
+[Wed Aug 21 11:29:48 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2334, 9808
+[Wed Aug 21 11:31:27 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2336, 9810
+[Wed Aug 21 11:32:51 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2336, 9810
+[Wed Aug 21 11:33:01 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2336, 9810
+[Wed Aug 21 11:34:27 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2336, 9810
+[Wed Aug 21 11:36:09 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2336, 9810
+[Wed Aug 21 11:36:12 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2336, 9810
+[Wed Aug 21 11:37:43 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2337, 9811
+[Wed Aug 21 11:37:52 PDT 2013] Black [75.90.93.77] picked up a Grimy ranarr, location: 2337, 9811
+[Wed Aug 21 11:40:50 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9813
+[Wed Aug 21 11:40:53 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2339, 9813
+[Wed Aug 21 11:40:55 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2339, 9813
+[Wed Aug 21 11:43:30 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2336, 9810
+[Wed Aug 21 11:44:37 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2339, 9808
+[Wed Aug 21 11:44:39 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2339, 9808
+[Wed Aug 21 11:44:39 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2339, 9808
+[Wed Aug 21 11:44:39 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:40 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:41 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2339, 9808
+[Wed Aug 21 11:44:41 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:41 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:42 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:42 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:42 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:42 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:42 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9808
+[Wed Aug 21 11:44:42 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2339, 9808
+[Wed Aug 21 11:44:43 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2339, 9808
+[Wed Aug 21 11:44:43 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2339, 9808
+[Wed Aug 21 11:44:43 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2339, 9808
+[Wed Aug 21 11:44:43 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2339, 9808
+[Wed Aug 21 11:44:43 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2339, 9808
+[Wed Aug 21 11:44:47 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:47 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:47 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2339, 9808
+[Wed Aug 21 11:44:48 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2339, 9808
+[Wed Aug 21 11:44:49 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2339, 9808
+[Wed Aug 21 11:44:49 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2339, 9808
+[Wed Aug 21 11:44:49 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2339, 9808
+[Wed Aug 21 11:44:50 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2339, 9808
+[Wed Aug 21 11:44:50 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:50 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:50 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:51 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:51 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:51 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:51 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:51 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:52 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:52 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:53 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:54 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:55 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:55 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:55 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:56 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:56 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:56 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:56 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:56 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:56 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:57 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:58 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:58 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:58 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:58 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:44:59 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2339, 9808
+[Wed Aug 21 11:45:00 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2339, 9808
+[Wed Aug 21 11:45:02 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:02 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:02 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:02 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:03 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:03 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:04 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2339, 9808
+[Wed Aug 21 11:45:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:45:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:45:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:45:05 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:45:05 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2339, 9808
+[Wed Aug 21 11:45:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2339, 9808
+[Wed Aug 21 11:45:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2339, 9808
+[Wed Aug 21 11:45:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2339, 9808
+[Wed Aug 21 11:45:06 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2339, 9808
+[Wed Aug 21 11:45:07 PDT 2013] Black [75.90.93.77] picked up a Grimy ranarr, location: 2339, 9808
+[Wed Aug 21 11:45:07 PDT 2013] Black [75.90.93.77] picked up a Grimy ranarr, location: 2339, 9808
+[Wed Aug 21 11:45:07 PDT 2013] Black [75.90.93.77] picked up a Grimy ranarr, location: 2339, 9808
+[Wed Aug 21 11:45:07 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:45:08 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:45:08 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:45:08 PDT 2013] Black [75.90.93.77] picked up a Ranarr seed, location: 2339, 9808
+[Wed Aug 21 11:45:08 PDT 2013] Black [75.90.93.77] picked up a Ranarr seed, location: 2339, 9808
+[Wed Aug 21 11:45:08 PDT 2013] Black [75.90.93.77] picked up a Ranarr seed, location: 2339, 9808
+[Wed Aug 21 11:45:08 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:45:09 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2339, 9808
+[Wed Aug 21 11:45:10 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2339, 9808
+[Wed Aug 21 11:46:55 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2336, 9810
+[Wed Aug 21 11:50:31 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2338, 9811
+[Wed Aug 21 11:50:34 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2338, 9811
+[Wed Aug 21 11:52:07 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2337, 9811
+[Wed Aug 21 11:54:35 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2337, 9811
+[Wed Aug 21 11:54:37 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2337, 9811
+[Wed Aug 21 11:57:51 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9813
+[Wed Aug 21 11:57:55 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2339, 9813
+[Wed Aug 21 12:01:33 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2337, 9811
+[Wed Aug 21 12:01:40 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2337, 9811
+[Wed Aug 21 12:11:50 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2338, 9811
+[Wed Aug 21 12:14:01 PDT 2013] Black [75.90.93.77] picked up a Rune sword, location: 2338, 9811
+[Wed Aug 21 12:14:03 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2338, 9811
+[Wed Aug 21 12:15:39 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2337, 9811
+[Wed Aug 21 12:15:42 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2337, 9811
+[Wed Aug 21 12:16:52 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2337, 9811
+[Wed Aug 21 12:18:21 PDT 2013] Black [75.90.93.77] picked up a Dragon med helm, location: 2336, 9810
+[Wed Aug 21 12:18:26 PDT 2013] Black [75.90.93.77] picked up a Diamond, location: 2336, 9810
+[Wed Aug 21 12:21:01 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2334, 9807
+[Wed Aug 21 12:21:04 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2334, 9807
+[Wed Aug 21 12:22:21 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2336, 9810
+[Wed Aug 21 12:22:26 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2336, 9810
+[Wed Aug 21 12:23:37 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2341, 9799
+[Wed Aug 21 12:23:46 PDT 2013] Black [75.90.93.77] picked up a Dragon med helm, location: 2341, 9799
+[Wed Aug 21 12:23:46 PDT 2013] Black [75.90.93.77] picked up a Dragon med helm, location: 2341, 9799
+[Wed Aug 21 12:23:46 PDT 2013] Black [75.90.93.77] picked up a Dragon med helm, location: 2341, 9799
+[Wed Aug 21 12:23:47 PDT 2013] Black [75.90.93.77] picked up a Dragon med helm, location: 2341, 9799
+[Wed Aug 21 12:23:47 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2341, 9799
+[Wed Aug 21 12:23:47 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2341, 9799
+[Wed Aug 21 12:23:47 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2341, 9799
+[Wed Aug 21 12:23:47 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2341, 9799
+[Wed Aug 21 12:23:48 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2341, 9799
+[Wed Aug 21 12:23:48 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2341, 9799
+[Wed Aug 21 12:23:49 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2341, 9799
+[Wed Aug 21 12:23:49 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2341, 9799
+[Wed Aug 21 12:23:49 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2341, 9799
+[Wed Aug 21 12:23:49 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2341, 9799
+[Wed Aug 21 12:23:49 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2341, 9799
+[Wed Aug 21 12:23:49 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2341, 9799
+[Wed Aug 21 12:23:50 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2341, 9799
+[Wed Aug 21 12:23:50 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2341, 9799
+[Wed Aug 21 12:23:50 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2341, 9799
+[Wed Aug 21 12:23:50 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2341, 9799
+[Wed Aug 21 12:23:52 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2341, 9799
+[Wed Aug 21 12:23:52 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2341, 9799
+[Wed Aug 21 12:23:52 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2341, 9799
+[Wed Aug 21 12:23:53 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2341, 9799
+[Wed Aug 21 12:23:53 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2341, 9799
+[Wed Aug 21 12:23:54 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2341, 9799
+[Wed Aug 21 12:23:54 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2341, 9799
+[Wed Aug 21 12:23:54 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2341, 9799
+[Wed Aug 21 12:23:55 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2341, 9799
+[Wed Aug 21 12:23:55 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2341, 9799
+[Wed Aug 21 12:23:55 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2341, 9799
+[Wed Aug 21 12:23:55 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2341, 9799
+[Wed Aug 21 12:23:56 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2341, 9799
+[Wed Aug 21 12:23:57 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2341, 9799
+[Wed Aug 21 12:23:57 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2341, 9799
+[Wed Aug 21 12:23:57 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2341, 9799
+[Wed Aug 21 12:23:58 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2341, 9799
+[Wed Aug 21 12:23:58 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2341, 9799
+[Wed Aug 21 12:23:58 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2341, 9799
+[Wed Aug 21 12:24:01 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2341, 9799
+[Wed Aug 21 12:24:01 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (4), location: 2341, 9799
+[Wed Aug 21 12:24:02 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2341, 9799
+[Wed Aug 21 12:24:03 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2341, 9799
+[Wed Aug 21 12:24:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2341, 9799
+[Wed Aug 21 12:24:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2341, 9799
+[Wed Aug 21 12:24:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2341, 9799
+[Wed Aug 21 12:24:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2341, 9799
+[Wed Aug 21 12:24:04 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2341, 9799
+[Wed Aug 21 12:24:04 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2341, 9799
+[Wed Aug 21 12:24:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2341, 9799
+[Wed Aug 21 12:24:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2341, 9799
+[Wed Aug 21 12:24:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2341, 9799
+[Wed Aug 21 12:24:05 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2341, 9799
+[Wed Aug 21 12:24:06 PDT 2013] Black [75.90.93.77] picked up a Kwuarm seed, location: 2341, 9799
+[Wed Aug 21 12:24:06 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2341, 9799
+[Wed Aug 21 12:24:06 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2341, 9799
+[Wed Aug 21 12:24:06 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2341, 9799
+[Wed Aug 21 12:24:06 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2341, 9799
+[Wed Aug 21 12:24:07 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2341, 9799
+[Wed Aug 21 12:24:07 PDT 2013] Black [75.90.93.77] picked up a Ranging potion (1), location: 2341, 9799
+[Wed Aug 21 12:24:07 PDT 2013] Black [75.90.93.77] picked up a Ranarr seed, location: 2341, 9799
+[Wed Aug 21 12:24:08 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2341, 9799
+[Wed Aug 21 12:24:08 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2341, 9799
+[Wed Aug 21 12:24:08 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2341, 9799
+[Wed Aug 21 12:24:09 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2341, 9799
+[Wed Aug 21 12:24:09 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2341, 9799
+[Wed Aug 21 12:24:10 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2341, 9799
+[Wed Aug 21 12:24:10 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2341, 9799
+[Wed Aug 21 12:24:11 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2341, 9799
+[Wed Aug 21 12:24:12 PDT 2013] Black [75.90.93.77] picked up a Grimy ranarr, location: 2341, 9799
+[Wed Aug 21 12:27:39 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2336, 9810
+[Wed Aug 21 12:31:04 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9813
+[Wed Aug 21 12:31:12 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2339, 9813
+[Wed Aug 21 12:32:27 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2338, 9811
+[Wed Aug 21 12:34:33 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2339, 9813
+[Wed Aug 21 12:36:12 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2338, 9811
+[Wed Aug 21 12:36:13 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2338, 9811
+[Wed Aug 21 12:37:44 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2337, 9811
+[Wed Aug 21 12:37:48 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2337, 9811
+[Wed Aug 21 12:37:51 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2337, 9811
+[Wed Aug 21 12:37:54 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2337, 9811
+[Wed Aug 21 12:39:36 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2336, 9810
+[Wed Aug 21 12:45:21 PDT 2013] Black [75.90.93.77] picked up a Rune chainbody, location: 2334, 9807
+[Wed Aug 21 12:45:24 PDT 2013] Black [75.90.93.77] picked up a Adamant bar, location: 2336, 9810
+[Wed Aug 21 12:45:28 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2334, 9807
+[Wed Aug 21 12:47:02 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2334, 9807
+[Wed Aug 21 12:47:05 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2334, 9807
+[Wed Aug 21 12:53:14 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2338, 9811
+[Wed Aug 21 12:53:18 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2338, 9811
+[Wed Aug 21 12:57:07 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2339, 9813
+[Wed Aug 21 13:08:17 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2333, 9822
+[Wed Aug 21 13:11:42 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2328, 9812
+[Wed Aug 21 13:13:21 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2331, 9811
+[Wed Aug 21 13:20:40 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2331, 9811
+[Wed Aug 21 13:20:52 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2331, 9811
+[Wed Aug 21 13:27:24 PDT 2013] Black [75.90.93.77] picked up a Rune sword, location: 2333, 9809
+[Wed Aug 21 13:34:59 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2329, 9812
+[Wed Aug 21 13:36:22 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2331, 9811
+[Wed Aug 21 13:36:25 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2331, 9811
+[Wed Aug 21 13:38:01 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2329, 9812
+[Wed Aug 21 13:39:38 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2333, 9809
+[Wed Aug 21 13:41:09 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2331, 9811
+[Wed Aug 21 13:45:59 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9812
+[Wed Aug 21 13:47:21 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2330, 9812
+[Wed Aug 21 13:47:23 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9812
+[Wed Aug 21 14:33:50 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2332, 9810
+[Wed Aug 21 18:06:42 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2332, 9810
+[Wed Aug 21 18:25:53 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2331, 9811
+[Wed Aug 21 18:27:37 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2333, 9809
+[Wed Aug 21 18:27:40 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2333, 9809
+[Wed Aug 21 18:28:56 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2329, 9812
+[Wed Aug 21 18:31:23 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2331, 9811
+[Wed Aug 21 18:34:23 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2331, 9811
+[Wed Aug 21 18:34:28 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2331, 9811
+[Wed Aug 21 18:37:44 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9812
+[Wed Aug 21 18:40:24 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9812
+[Wed Aug 21 18:41:21 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2330, 9808
+[Wed Aug 21 18:41:22 PDT 2013] Black [75.90.93.77] picked up a Rune arrow, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:24 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:25 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:25 PDT 2013] Black [75.90.93.77] picked up a Death rune, location: 2330, 9808
+[Wed Aug 21 18:41:25 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:25 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:26 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:26 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:26 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:26 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:26 PDT 2013] Black [75.90.93.77] picked up a Law rune, location: 2330, 9808
+[Wed Aug 21 18:41:26 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2330, 9808
+[Wed Aug 21 18:41:27 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2330, 9808
+[Wed Aug 21 18:41:27 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2330, 9808
+[Wed Aug 21 18:41:27 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2330, 9808
+[Wed Aug 21 18:41:27 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2330, 9808
+[Wed Aug 21 18:41:27 PDT 2013] Black [75.90.93.77] picked up a Rock climbing boots, location: 2330, 9808
+[Wed Aug 21 18:41:27 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2330, 9808
+[Wed Aug 21 18:41:28 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2330, 9808
+[Wed Aug 21 18:41:28 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2330, 9808
+[Wed Aug 21 18:41:28 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2330, 9808
+[Wed Aug 21 18:41:29 PDT 2013] Black [75.90.93.77] picked up a Amulet of glory (4), location: 2330, 9808
+[Wed Aug 21 18:41:29 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:29 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:29 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:29 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:30 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:30 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:30 PDT 2013] Black [75.90.93.77] picked up a Ring of wealth, location: 2330, 9808
+[Wed Aug 21 18:41:30 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:30 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:30 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:31 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:31 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:32 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:32 PDT 2013] Black [75.90.93.77] picked up a Coins, location: 2330, 9808
+[Wed Aug 21 18:41:32 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2330, 9808
+[Wed Aug 21 18:41:32 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2330, 9808
+[Wed Aug 21 18:41:32 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2330, 9808
+[Wed Aug 21 18:41:33 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2330, 9808
+[Wed Aug 21 18:41:33 PDT 2013] Black [75.90.93.77] picked up a Magic shortbow, location: 2330, 9808
+[Wed Aug 21 18:41:33 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2330, 9808
+[Wed Aug 21 18:41:33 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2330, 9808
+[Wed Aug 21 18:41:33 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2330, 9808
+[Wed Aug 21 18:41:33 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2330, 9808
+[Wed Aug 21 18:41:34 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2330, 9808
+[Wed Aug 21 18:41:34 PDT 2013] Black [75.90.93.77] picked up a Ava's accumulator, location: 2330, 9808
+[Wed Aug 21 18:41:34 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:35 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:35 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:35 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:35 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:35 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:35 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:36 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:36 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:36 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:36 PDT 2013] Black [75.90.93.77] picked up a Manta ray, location: 2330, 9808
+[Wed Aug 21 18:41:37 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2330, 9808
+[Wed Aug 21 18:41:37 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2330, 9808
+[Wed Aug 21 18:41:38 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2330, 9808
+[Wed Aug 21 18:41:38 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2330, 9808
+[Wed Aug 21 18:41:38 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2330, 9808
+[Wed Aug 21 18:41:38 PDT 2013] Black [75.90.93.77] picked up a Leather body, location: 2330, 9808
+[Wed Aug 21 18:41:38 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2330, 9808
+[Wed Aug 21 18:41:39 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2330, 9808
+[Wed Aug 21 18:41:39 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2330, 9808
+[Wed Aug 21 18:41:39 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2330, 9808
+[Wed Aug 21 18:41:40 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2330, 9808
+[Wed Aug 21 18:41:40 PDT 2013] Black [75.90.93.77] picked up a Gold charm, location: 2330, 9808
+[Wed Aug 21 18:41:40 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:40 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:40 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:41 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:41 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:41 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:41 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2330, 9808
+[Wed Aug 21 18:41:42 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2330, 9808
+[Wed Aug 21 18:41:43 PDT 2013] Black [75.90.93.77] picked up a Coif, location: 2330, 9808
+[Wed Aug 21 18:41:43 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2330, 9808
+[Wed Aug 21 18:41:45 PDT 2013] Black [75.90.93.77] picked up a Vial, location: 2330, 9808
+[Wed Aug 21 18:51:13 PDT 2013] Black [75.90.93.77] picked up a Crimson charm, location: 2329, 9812
+[Wed Aug 21 18:52:40 PDT 2013] Black [75.90.93.77] picked up a Blue charm, location: 2329, 9812
+[Thu Aug 22 11:45:51 PDT 2013] Black [75.90.86.102] picked up a Death rune, location: 2343, 9807
+[Thu Aug 22 11:45:55 PDT 2013] Black [75.90.86.102] picked up a Blue charm, location: 2343, 9807
+[Thu Aug 22 11:47:18 PDT 2013] Black [75.90.86.102] picked up a Blue charm, location: 2341, 9819
+[Thu Aug 22 11:47:21 PDT 2013] Black [75.90.86.102] picked up a Death rune, location: 2341, 9819
+[Thu Aug 22 11:48:30 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2341, 9819
+[Thu Aug 22 11:48:36 PDT 2013] Black [75.90.86.102] picked up a Green charm, location: 2341, 9819
+[Thu Aug 22 11:48:40 PDT 2013] Black [75.90.86.102] picked up a Death rune, location: 2341, 9819
+[Thu Aug 22 11:50:04 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2339, 9816
+[Thu Aug 22 11:51:28 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2339, 9817
+[Thu Aug 22 11:51:31 PDT 2013] Black [75.90.86.102] picked up a Blue charm, location: 2339, 9817
+[Thu Aug 22 11:52:52 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2341, 9819
+[Thu Aug 22 11:54:02 PDT 2013] Black [75.90.86.102] picked up a Dragon med helm, location: 2339, 9817
+[Thu Aug 22 11:55:38 PDT 2013] Black [75.90.86.102] picked up a Crimson charm, location: 2339, 9817
+[Thu Aug 22 11:55:41 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2339, 9817
+[Thu Aug 22 11:58:06 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2339, 9815
+[Thu Aug 22 11:59:21 PDT 2013] Black [75.90.86.102] picked up a Coins, location: 2338, 9814
+[Thu Aug 22 12:11:10 PDT 2013] Black [75.90.89.212] picked up a Blue charm, location: 2339, 9815

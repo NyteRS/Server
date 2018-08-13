@@ -1,0 +1,3 @@
+[Mon Aug 19 06:38:02 PDT 2013] Zero [118.93.113.80] dropped a Red partyhat at location: 2672, 3714
+[Mon Aug 19 06:38:04 PDT 2013] Zero [118.93.113.80] dropped a Armadyl godsword at location: 2672, 3714
+[Mon Aug 19 06:38:30 PDT 2013] Zero [118.93.113.80] dropped a Armadyl godsword at location: 2675, 3689

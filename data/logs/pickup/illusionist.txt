@@ -1,0 +1,446 @@
+[Tue Aug 20 16:51:02 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2673, 3716
+[Tue Aug 20 16:54:50 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2675, 3713
+[Tue Aug 20 17:10:25 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3049, 9581
+[Tue Aug 20 17:18:19 PDT 2013] Illusionist [74.77.196.221] picked up a Ranarr seed, location: 3051, 9586
+[Tue Aug 20 17:18:20 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3051, 9586
+[Tue Aug 20 17:18:22 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3051, 9586
+[Tue Aug 20 17:19:17 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3048, 9591
+[Tue Aug 20 17:19:18 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3048, 9591
+[Tue Aug 20 17:19:48 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3050, 9590
+[Tue Aug 20 17:20:26 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3052, 9585
+[Tue Aug 20 17:20:27 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3052, 9585
+[Tue Aug 20 17:21:08 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3052, 9577
+[Tue Aug 20 17:21:10 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3052, 9577
+[Tue Aug 20 17:21:44 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3051, 9579
+[Tue Aug 20 17:22:19 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3054, 9575
+[Tue Aug 20 17:23:01 PDT 2013] Illusionist [74.77.196.221] picked up a Ranarr seed, location: 3052, 9580
+[Tue Aug 20 17:23:02 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3052, 9580
+[Tue Aug 20 17:23:04 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3052, 9580
+[Tue Aug 20 17:23:45 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3051, 9580
+[Tue Aug 20 17:23:46 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3051, 9580
+[Tue Aug 20 17:25:11 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3053, 9579
+[Tue Aug 20 17:25:12 PDT 2013] Illusionist [74.77.196.221] picked up a Watermelon seed, location: 3053, 9579
+[Tue Aug 20 17:25:40 PDT 2013] Illusionist [74.77.196.221] picked up a Black kiteshield, location: 3050, 9585
+[Tue Aug 20 17:25:41 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3050, 9585
+[Tue Aug 20 17:25:42 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3050, 9585
+[Tue Aug 20 17:25:42 PDT 2013] Illusionist [74.77.196.221] picked up a Black kiteshield, location: 3050, 9585
+[Tue Aug 20 17:25:44 PDT 2013] Illusionist [74.77.196.221] picked up a Black kiteshield, location: 3050, 9585
+[Tue Aug 20 17:26:29 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3049, 9576
+[Tue Aug 20 17:26:31 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3049, 9576
+[Tue Aug 20 17:38:34 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 3049, 9577
+[Tue Aug 20 17:38:35 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3049, 9577
+[Tue Aug 20 17:38:39 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 3049, 9577
+[Tue Aug 20 17:39:37 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3046, 9578
+[Tue Aug 20 17:39:38 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3046, 9578
+[Tue Aug 20 17:40:18 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3048, 9576
+[Tue Aug 20 17:40:24 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3048, 9576
+[Tue Aug 20 17:41:18 PDT 2013] Illusionist [74.77.196.221] picked up a Irit seed, location: 3050, 9581
+[Tue Aug 20 17:41:19 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3050, 9581
+[Tue Aug 20 17:41:20 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3050, 9581
+[Tue Aug 20 17:41:48 PDT 2013] Illusionist [74.77.196.221] picked up a Toadflax seed, location: 3053, 9580
+[Tue Aug 20 17:41:49 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3053, 9580
+[Tue Aug 20 17:42:21 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3054, 9583
+[Tue Aug 20 17:46:42 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3055, 9577
+[Tue Aug 20 17:46:43 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3055, 9577
+[Tue Aug 20 17:47:04 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 3051, 9577
+[Tue Aug 20 17:47:06 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3051, 9577
+[Tue Aug 20 17:47:33 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3053, 9578
+[Tue Aug 20 17:47:34 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3053, 9578
+[Tue Aug 20 17:47:58 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 3051, 9580
+[Tue Aug 20 17:47:59 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3051, 9580
+[Tue Aug 20 17:48:38 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3049, 9575
+[Tue Aug 20 17:48:39 PDT 2013] Illusionist [74.77.196.221] picked up a Toadflax seed, location: 3049, 9575
+[Tue Aug 20 17:49:09 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3050, 9574
+[Tue Aug 20 17:51:16 PDT 2013] Illusionist [74.77.196.221] picked up a Cadantine seed, location: 3050, 9579
+[Tue Aug 20 17:51:18 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3050, 9579
+[Tue Aug 20 17:51:19 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3050, 9579
+[Tue Aug 20 17:51:54 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3053, 9584
+[Tue Aug 20 17:51:55 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3053, 9584
+[Tue Aug 20 17:52:24 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3055, 9584
+[Tue Aug 20 17:52:49 PDT 2013] Illusionist [74.77.196.221] picked up a Irit seed, location: 3053, 9584
+[Tue Aug 20 17:52:51 PDT 2013] Illusionist [74.77.196.221] picked up a Irit seed, location: 3054, 9584
+[Tue Aug 20 17:52:52 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3054, 9584
+[Tue Aug 20 17:52:53 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3054, 9584
+[Tue Aug 20 17:53:14 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3053, 9587
+[Tue Aug 20 17:53:16 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 3053, 9587
+[Tue Aug 20 17:58:17 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2912, 9740
+[Tue Aug 20 17:58:37 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9735
+[Tue Aug 20 17:58:57 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2912, 9734
+[Tue Aug 20 17:58:59 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2912, 9734
+[Tue Aug 20 17:59:15 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2906, 9736
+[Tue Aug 20 17:59:30 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2905, 9737
+[Tue Aug 20 17:59:44 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2907, 9735
+[Tue Aug 20 18:00:08 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2906, 9735
+[Tue Aug 20 18:00:45 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2904, 9739
+[Tue Aug 20 18:00:46 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2904, 9739
+[Tue Aug 20 18:00:49 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2904, 9739
+[Tue Aug 20 18:01:07 PDT 2013] Illusionist [74.77.196.221] picked up a Chocolate bomb, location: 2905, 9738
+[Tue Aug 20 18:01:09 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2905, 9738
+[Tue Aug 20 18:01:45 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2903, 9737
+[Tue Aug 20 18:01:47 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy avantoe, location: 2903, 9737
+[Tue Aug 20 18:02:16 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2902, 9736
+[Tue Aug 20 18:02:26 PDT 2013] Illusionist [74.77.196.221] picked up a Chocolate bomb, location: 2902, 9736
+[Tue Aug 20 18:02:54 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2904, 9736
+[Tue Aug 20 18:03:43 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2907, 9734
+[Tue Aug 20 18:04:32 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2907, 9736
+[Tue Aug 20 18:04:52 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2910, 9734
+[Tue Aug 20 18:04:53 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2910, 9734
+[Tue Aug 20 18:05:18 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2911, 9733
+[Tue Aug 20 18:05:49 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2912, 9732
+[Tue Aug 20 18:06:03 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9733
+[Tue Aug 20 18:06:04 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2909, 9733
+[Tue Aug 20 18:06:32 PDT 2013] Illusionist [74.77.196.221] picked up a Iron dagger, location: 2906, 9731
+[Tue Aug 20 18:06:33 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2906, 9731
+[Tue Aug 20 18:07:03 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2904, 9726
+[Tue Aug 20 18:07:04 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2904, 9726
+[Tue Aug 20 18:07:28 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2898, 9729
+[Tue Aug 20 18:07:48 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2903, 9731
+[Tue Aug 20 18:08:02 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2900, 9728
+[Tue Aug 20 18:08:23 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2906, 9730
+[Tue Aug 20 18:08:25 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy harralander, location: 2906, 9730
+[Tue Aug 20 18:12:44 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2911, 9735
+[Tue Aug 20 18:12:58 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2912, 9730
+[Tue Aug 20 18:13:18 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2908, 9732
+[Tue Aug 20 18:13:45 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy irit, location: 2908, 9735
+[Tue Aug 20 18:13:46 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2908, 9735
+[Tue Aug 20 18:14:40 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2909, 9735
+[Tue Aug 20 18:14:41 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2909, 9735
+[Tue Aug 20 18:14:43 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9735
+[Tue Aug 20 18:15:06 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2908, 9736
+[Tue Aug 20 18:15:07 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy tarromin, location: 2908, 9736
+[Tue Aug 20 18:15:08 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2908, 9736
+[Tue Aug 20 18:15:16 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2908, 9736
+[Tue Aug 20 18:15:28 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9735
+[Tue Aug 20 18:15:49 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2911, 9735
+[Tue Aug 20 18:15:50 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy marrentill, location: 2911, 9735
+[Tue Aug 20 18:16:13 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2909, 9736
+[Tue Aug 20 18:16:14 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2909, 9736
+[Tue Aug 20 18:16:16 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9736
+[Tue Aug 20 18:16:31 PDT 2013] Illusionist [74.77.196.221] picked up a Nature rune, location: 2912, 9733
+[Tue Aug 20 18:16:32 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2912, 9733
+[Tue Aug 20 18:16:34 PDT 2013] Illusionist [74.77.196.221] picked up a Nature rune, location: 2912, 9733
+[Tue Aug 20 18:16:45 PDT 2013] Illusionist [74.77.196.221] picked up a Watermelon seed, location: 2909, 9734
+[Tue Aug 20 18:16:47 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9734
+[Tue Aug 20 18:17:07 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2900, 9735
+[Tue Aug 20 18:17:27 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2907, 9734
+[Tue Aug 20 18:17:43 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2903, 9735
+[Tue Aug 20 18:17:45 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2903, 9735
+[Tue Aug 20 18:17:46 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2903, 9735
+[Tue Aug 20 18:18:10 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2906, 9728
+[Tue Aug 20 18:18:12 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2906, 9728
+[Tue Aug 20 18:18:28 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2909, 9728
+[Tue Aug 20 18:18:48 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2908, 9731
+[Tue Aug 20 18:19:04 PDT 2013] Illusionist [74.77.196.221] picked up a Big bones, location: 2908, 9734
+[Tue Aug 20 23:37:04 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9923
+[Tue Aug 20 23:37:07 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Tue Aug 20 23:37:09 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2866, 9923
+[Tue Aug 20 23:38:37 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2865, 9924
+[Tue Aug 20 23:38:41 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Tue Aug 20 23:38:43 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy tarromin, location: 2865, 9924
+[Tue Aug 20 23:38:47 PDT 2013] Illusionist [74.77.196.221] picked up a Earth talisman, location: 2865, 9924
+[Tue Aug 20 23:40:15 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9925
+[Tue Aug 20 23:41:13 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9924
+[Tue Aug 20 23:41:24 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9924
+[Tue Aug 20 23:42:07 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9925
+[Tue Aug 20 23:42:09 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9925
+[Tue Aug 20 23:43:35 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Tue Aug 20 23:43:39 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Tue Aug 20 23:44:40 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2866, 9923
+[Tue Aug 20 23:44:42 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Tue Aug 20 23:46:03 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Tue Aug 20 23:46:05 PDT 2013] Illusionist [74.77.196.221] picked up a Water orb, location: 2864, 9925
+[Tue Aug 20 23:47:48 PDT 2013] Illusionist [74.77.196.221] picked up a Pure essence, location: 2865, 9923
+[Tue Aug 20 23:47:52 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Tue Aug 20 23:48:02 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9923
+[Tue Aug 20 23:49:12 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9925
+[Tue Aug 20 23:49:15 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9925
+[Tue Aug 20 23:50:41 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Tue Aug 20 23:50:43 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2865, 9923
+[Tue Aug 20 23:51:42 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Tue Aug 20 23:56:32 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9925
+[Tue Aug 20 23:56:33 PDT 2013] Illusionist [74.77.196.221] picked up a Law rune, location: 2866, 9925
+[Tue Aug 20 23:56:36 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2866, 9925
+[Tue Aug 20 23:58:10 PDT 2013] Illusionist [74.77.196.221] picked up a Law rune, location: 2866, 9925
+[Tue Aug 20 23:58:15 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9925
+[Tue Aug 20 23:58:16 PDT 2013] Illusionist [74.77.196.221] picked up a Pure essence, location: 2866, 9925
+[Tue Aug 20 23:59:22 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2865, 9923
+[Tue Aug 20 23:59:28 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 00:00:29 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:00:32 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2864, 9924
+[Wed Aug 21 00:01:27 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Wed Aug 21 00:02:56 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Wed Aug 21 00:03:00 PDT 2013] Illusionist [74.77.196.221] picked up a Shark, location: 2864, 9924
+[Wed Aug 21 00:03:14 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9924
+[Wed Aug 21 00:03:15 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:04:19 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:04:21 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9924
+[Wed Aug 21 00:06:01 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Wed Aug 21 00:06:47 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 00:06:49 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9923
+[Wed Aug 21 00:07:43 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:07:45 PDT 2013] Illusionist [74.77.196.221] picked up a Blue charm, location: 2864, 9924
+[Wed Aug 21 00:08:58 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:08:59 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Wed Aug 21 00:09:09 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2864, 9924
+[Wed Aug 21 00:10:08 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9925
+[Wed Aug 21 00:10:14 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Wed Aug 21 00:11:12 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:11:14 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9924
+[Wed Aug 21 00:12:16 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2865, 9923
+[Wed Aug 21 00:12:20 PDT 2013] Illusionist [74.77.196.221] picked up a Limpwurt root, location: 2865, 9923
+[Wed Aug 21 00:12:26 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 00:12:27 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2865, 9923
+[Wed Aug 21 00:13:51 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9924
+[Wed Aug 21 00:14:58 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2865, 9925
+[Wed Aug 21 00:15:02 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2865, 9925
+[Wed Aug 21 00:15:03 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9925
+[Wed Aug 21 00:16:07 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 00:16:27 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2866, 9923
+[Wed Aug 21 00:17:14 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2866, 9923
+[Wed Aug 21 00:17:18 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 00:23:19 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9925
+[Wed Aug 21 00:23:21 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9925
+[Wed Aug 21 00:24:18 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Wed Aug 21 00:24:20 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:25:13 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Wed Aug 21 00:25:14 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9924
+[Wed Aug 21 00:27:29 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9925
+[Wed Aug 21 00:27:45 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Wed Aug 21 00:27:46 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2864, 9925
+[Wed Aug 21 00:28:55 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Wed Aug 21 00:29:02 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 00:29:03 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9924
+[Wed Aug 21 11:24:40 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 11:24:43 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9924
+[Wed Aug 21 11:25:57 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9924
+[Wed Aug 21 11:26:56 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 11:27:58 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 11:28:02 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2866, 9923
+[Wed Aug 21 11:28:52 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9924
+[Wed Aug 21 11:28:54 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9924
+[Wed Aug 21 11:30:10 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2865, 9923
+[Wed Aug 21 11:30:13 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 11:31:23 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 11:31:24 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9923
+[Wed Aug 21 11:32:53 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9925
+[Wed Aug 21 11:32:56 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9925
+[Wed Aug 21 11:34:00 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Wed Aug 21 11:34:02 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 11:35:11 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 11:35:13 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2864, 9924
+[Wed Aug 21 11:36:14 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 11:36:16 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9923
+[Wed Aug 21 11:37:36 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 11:37:37 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9923
+[Wed Aug 21 11:39:04 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 11:39:06 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9923
+[Wed Aug 21 11:40:03 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Wed Aug 21 11:40:06 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9925
+[Wed Aug 21 11:40:55 PDT 2013] Illusionist [74.77.196.221] picked up a Shark, location: 2864, 9925
+[Wed Aug 21 11:41:12 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2866, 9924
+[Wed Aug 21 11:41:16 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2866, 9924
+[Wed Aug 21 11:41:17 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9924
+[Wed Aug 21 11:52:08 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 11:52:10 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2866, 9923
+[Wed Aug 21 11:53:18 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Wed Aug 21 11:54:15 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2864, 9924
+[Wed Aug 21 11:54:18 PDT 2013] Illusionist [74.77.196.221] picked up a Blood rune, location: 2864, 9924
+[Wed Aug 21 11:54:21 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 11:54:23 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2864, 9924
+[Wed Aug 21 11:55:45 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Wed Aug 21 11:55:47 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9925
+[Wed Aug 21 11:57:04 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9923
+[Wed Aug 21 11:57:05 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 11:58:22 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Wed Aug 21 11:58:23 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9924
+[Wed Aug 21 11:59:29 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2866, 9923
+[Wed Aug 21 11:59:33 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 11:59:34 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2866, 9923
+[Wed Aug 21 12:01:02 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9925
+[Wed Aug 21 12:01:05 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9925
+[Wed Aug 21 12:02:09 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2866, 9923
+[Wed Aug 21 12:02:11 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2866, 9923
+[Wed Aug 21 12:02:58 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 12:03:50 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Wed Aug 21 12:04:52 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9925
+[Wed Aug 21 12:04:54 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9925
+[Wed Aug 21 12:05:50 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 12:06:48 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2865, 9924
+[Wed Aug 21 12:06:52 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9924
+[Wed Aug 21 12:06:53 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2865, 9924
+[Wed Aug 21 12:07:58 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2865, 9923
+[Wed Aug 21 12:07:59 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2865, 9923
+[Wed Aug 21 12:08:51 PDT 2013] Illusionist [74.77.196.221] picked up a Frost dragon bones, location: 2864, 9924
+[Wed Aug 21 12:08:52 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2864, 9924
+[Wed Aug 21 12:13:57 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3606
+[Wed Aug 21 12:14:23 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2982, 3622
+[Wed Aug 21 12:14:26 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2982, 3622
+[Wed Aug 21 12:15:24 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2972, 3610
+[Wed Aug 21 12:16:04 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2972, 3612
+[Wed Aug 21 12:16:29 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2974, 3611
+[Wed Aug 21 12:17:18 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2972, 3613
+[Wed Aug 21 12:17:22 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2972, 3613
+[Wed Aug 21 12:17:47 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3612
+[Wed Aug 21 12:18:33 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2976, 3615
+[Wed Aug 21 12:18:59 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3609
+[Wed Aug 21 12:19:36 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2970, 3621
+[Wed Aug 21 12:19:58 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2973, 3618
+[Wed Aug 21 12:20:27 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2982, 3623
+[Wed Aug 21 12:20:31 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2982, 3623
+[Wed Aug 21 12:21:06 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2974, 3621
+[Wed Aug 21 12:21:42 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2979, 3613
+[Wed Aug 21 12:21:43 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2979, 3613
+[Wed Aug 21 12:22:18 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3614
+[Wed Aug 21 12:23:11 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2975, 3611
+[Wed Aug 21 12:23:13 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3611
+[Wed Aug 21 12:23:36 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3612
+[Wed Aug 21 12:24:12 PDT 2013] Illusionist [74.77.196.221] picked up a Blue charm, location: 2976, 3613
+[Wed Aug 21 12:24:16 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2976, 3613
+[Wed Aug 21 12:24:49 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2977, 3613
+[Wed Aug 21 12:25:18 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2970, 3621
+[Wed Aug 21 12:25:20 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2970, 3621
+[Wed Aug 21 12:25:42 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2979, 3623
+[Wed Aug 21 12:26:02 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2969, 3617
+[Wed Aug 21 12:26:39 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2976, 3620
+[Wed Aug 21 12:27:15 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2975, 3611
+[Wed Aug 21 12:27:17 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3611
+[Wed Aug 21 12:30:24 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3610
+[Wed Aug 21 12:30:56 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2976, 3615
+[Wed Aug 21 12:30:57 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2976, 3615
+[Wed Aug 21 12:31:25 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3610
+[Wed Aug 21 12:31:27 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2978, 3610
+[Wed Aug 21 12:32:15 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2982, 3613
+[Wed Aug 21 12:33:02 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2974, 3611
+[Wed Aug 21 12:33:44 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2976, 3610
+[Wed Aug 21 12:33:46 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2976, 3610
+[Wed Aug 21 12:34:21 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3612
+[Wed Aug 21 12:34:50 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2974, 3608
+[Wed Aug 21 12:34:52 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2974, 3608
+[Wed Aug 21 12:35:33 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2971, 3616
+[Wed Aug 21 12:36:05 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2971, 3618
+[Wed Aug 21 12:36:06 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2971, 3618
+[Wed Aug 21 12:36:46 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3612
+[Wed Aug 21 12:37:22 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2973, 3608
+[Wed Aug 21 12:37:26 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2973, 3608
+[Wed Aug 21 12:37:52 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3607
+[Wed Aug 21 12:38:27 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2970, 3615
+[Wed Aug 21 12:38:31 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2970, 3615
+[Wed Aug 21 12:38:58 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2976, 3622
+[Wed Aug 21 12:39:01 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2976, 3622
+[Wed Aug 21 12:39:25 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2972, 3617
+[Wed Aug 21 12:40:01 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2975, 3610
+[Wed Aug 21 12:40:04 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3610
+[Wed Aug 21 12:40:27 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2973, 3615
+[Wed Aug 21 12:41:04 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2973, 3613
+[Wed Aug 21 12:41:37 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3615
+[Wed Aug 21 12:42:08 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3611
+[Wed Aug 21 12:42:34 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2981, 3618
+[Wed Aug 21 12:43:03 PDT 2013] Illusionist [74.77.196.221] picked up a Starved ancient effigy, location: 2978, 3606
+[Wed Aug 21 12:43:11 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2978, 3606
+[Wed Aug 21 12:43:55 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2972, 3609
+[Wed Aug 21 12:43:59 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2972, 3609
+[Wed Aug 21 12:44:28 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2975, 3620
+[Wed Aug 21 13:24:54 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2796, 10034
+[Wed Aug 21 13:25:23 PDT 2013] Illusionist [74.77.196.221] picked up a Ranarr seed, location: 2795, 10035
+[Wed Aug 21 13:25:47 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy kwuarm, location: 2801, 10033
+[Wed Aug 21 13:26:05 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy harralander, location: 2796, 10034
+[Wed Aug 21 13:26:39 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy harralander, location: 2796, 10030
+[Wed Aug 21 13:27:01 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2796, 10033
+[Wed Aug 21 13:27:15 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy lantadyme, location: 2798, 10032
+[Wed Aug 21 13:28:36 PDT 2013] Illusionist [74.77.196.221] picked up a Ranarr seed, location: 2799, 10033
+[Wed Aug 21 13:29:20 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy marrentill, location: 2799, 10034
+[Wed Aug 21 13:29:23 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2799, 10034
+[Wed Aug 21 13:29:59 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2797, 10034
+[Wed Aug 21 13:30:30 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy cadantine, location: 2790, 10035
+[Wed Aug 21 13:30:31 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2790, 10035
+[Wed Aug 21 13:30:54 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2787, 10030
+[Wed Aug 21 13:30:55 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2787, 10030
+[Wed Aug 21 13:31:17 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy tarromin, location: 2796, 10035
+[Wed Aug 21 13:32:06 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2791, 10035
+[Wed Aug 21 13:32:20 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy avantoe, location: 2790, 10036
+[Wed Aug 21 13:32:36 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy guam, location: 2790, 10039
+[Wed Aug 21 13:34:04 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy avantoe, location: 2790, 10037
+[Wed Aug 21 13:34:07 PDT 2013] Illusionist [74.77.196.221] picked up a Watermelon seed, location: 2790, 10037
+[Wed Aug 21 13:34:34 PDT 2013] Illusionist [74.77.196.221] picked up a Grimy harralander, location: 2794, 10035
+[Wed Aug 21 13:36:21 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3048, 9582
+[Wed Aug 21 13:36:43 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3053, 9580
+[Wed Aug 21 13:37:08 PDT 2013] Illusionist [74.77.196.221] picked up a Dwarf weed seed, location: 3056, 9579
+[Wed Aug 21 13:38:28 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3056, 9583
+[Wed Aug 21 13:38:55 PDT 2013] Illusionist [74.77.196.221] picked up a Ranarr seed, location: 3050, 9588
+[Wed Aug 21 13:38:56 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 3050, 9588
+[Wed Aug 21 13:39:44 PDT 2013] Illusionist [74.77.196.221] picked up a Toadflax seed, location: 3056, 9577
+[Wed Aug 21 13:41:11 PDT 2013] Illusionist [74.77.196.221] picked up a Avantoe seed, location: 3056, 9579
+[Wed Aug 21 13:41:13 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3055, 9577
+[Wed Aug 21 13:42:34 PDT 2013] Illusionist [74.77.196.221] picked up a Cadantine seed, location: 3050, 9579
+[Wed Aug 21 13:42:36 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3050, 9579
+[Wed Aug 21 13:43:17 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3050, 9576
+[Wed Aug 21 13:45:19 PDT 2013] Illusionist [74.77.196.221] picked up a Dwarf weed seed, location: 3045, 9575
+[Wed Aug 21 13:45:20 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3045, 9575
+[Wed Aug 21 13:46:18 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3041, 9578
+[Wed Aug 21 13:46:51 PDT 2013] Illusionist [74.77.196.221] picked up a Dwarf weed seed, location: 3042, 9580
+[Wed Aug 21 13:46:52 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3042, 9580
+[Wed Aug 21 13:47:57 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3044, 9583
+[Wed Aug 21 13:48:58 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3044, 9579
+[Wed Aug 21 13:49:37 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 3042, 9580
+[Wed Aug 21 13:50:03 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 3047, 9577
+[Wed Aug 21 13:51:03 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 3049, 9577
+[Wed Aug 21 13:51:38 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 3042, 9581
+[Wed Aug 21 13:53:32 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3042, 9582
+[Wed Aug 21 13:54:30 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3045, 9578
+[Wed Aug 21 13:55:15 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 3044, 9579
+[Wed Aug 21 13:58:57 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2710, 10026
+[Wed Aug 21 13:59:17 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2708, 10024
+[Wed Aug 21 14:06:09 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2704, 10024
+[Wed Aug 21 14:08:15 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2708, 10024
+[Wed Aug 21 14:08:38 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2708, 10024
+[Wed Aug 21 14:10:04 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2706, 10026
+[Wed Aug 21 14:10:25 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2705, 10026
+[Wed Aug 21 14:10:41 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2708, 10025
+[Wed Aug 21 14:11:44 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2705, 10024
+[Wed Aug 21 14:12:40 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2711, 10024
+[Wed Aug 21 14:14:10 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2704, 10024
+[Wed Aug 21 14:15:28 PDT 2013] Illusionist [74.77.196.221] picked up a Crimson charm, location: 2705, 10023
+[Wed Aug 21 14:16:09 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2702, 10026
+[Wed Aug 21 14:18:03 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2707, 10030
+[Wed Aug 21 14:18:45 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2706, 10028
+[Wed Aug 21 14:25:32 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2714, 9445
+[Wed Aug 21 14:25:33 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2714, 9445
+[Wed Aug 21 14:27:01 PDT 2013] Illusionist [74.77.196.221] picked up a Super attack (3), location: 2702, 9433
+[Wed Aug 21 14:27:03 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2702, 9433
+[Wed Aug 21 14:28:27 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2721, 9430
+[Wed Aug 21 14:28:29 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2721, 9430
+[Wed Aug 21 14:30:02 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon platelegs, location: 2726, 9445
+[Wed Aug 21 14:30:03 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2726, 9445
+[Wed Aug 21 14:31:42 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2713, 9453
+[Wed Aug 21 14:31:45 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2713, 9453
+[Wed Aug 21 14:37:03 PDT 2013] Illusionist [74.77.196.221] picked up a Blood rune, location: 2717, 9448
+[Wed Aug 21 14:37:08 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2717, 9448
+[Wed Aug 21 14:38:34 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2718, 9440
+[Wed Aug 21 14:38:38 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2718, 9440
+[Wed Aug 21 14:39:58 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2726, 9448
+[Wed Aug 21 14:40:01 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2726, 9448
+[Wed Aug 21 14:41:14 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2722, 9462
+[Wed Aug 21 14:42:36 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2720, 9435
+[Wed Aug 21 14:42:39 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2720, 9435
+[Wed Aug 21 14:44:12 PDT 2013] Illusionist [74.77.196.221] picked up a Coins, location: 2711, 9436
+[Wed Aug 21 14:44:16 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2711, 9436
+[Wed Aug 21 14:45:33 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2719, 9448
+[Wed Aug 21 14:45:36 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2719, 9448
+[Wed Aug 21 14:46:46 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2712, 9433
+[Wed Aug 21 14:48:12 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2725, 9418
+[Wed Aug 21 14:49:41 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2719, 9434
+[Wed Aug 21 14:49:43 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2719, 9434
+[Wed Aug 21 14:51:31 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2714, 9445
+[Wed Aug 21 14:52:58 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2712, 9445
+[Wed Aug 21 14:53:06 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2712, 9445
+[Wed Aug 21 14:54:37 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2716, 9441
+[Wed Aug 21 14:54:38 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2716, 9441
+[Wed Aug 21 14:54:40 PDT 2013] Illusionist [74.77.196.221] picked up a Super attack (1), location: 2716, 9441
+[Wed Aug 21 14:55:59 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2707, 9446
+[Wed Aug 21 14:56:01 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2707, 9446
+[Wed Aug 21 14:57:15 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2719, 9446
+[Wed Aug 21 14:58:52 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2702, 9442
+[Wed Aug 21 15:00:36 PDT 2013] Illusionist [74.77.196.221] picked up a Gold charm, location: 2715, 9435
+[Wed Aug 21 15:00:42 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2715, 9435
+[Wed Aug 21 15:02:18 PDT 2013] Illusionist [74.77.196.221] picked up a Green charm, location: 2711, 9438
+[Wed Aug 21 15:02:24 PDT 2013] Illusionist [74.77.196.221] picked up a Dragon bones, location: 2711, 9438

@@ -1,0 +1,124 @@
+[Wed Aug 21 04:08:46 PDT 2013] Filip [90.230.138.84] picked up a Black sword, location: 3422, 3565
+[Wed Aug 21 04:10:24 PDT 2013] Filip [90.230.138.84] picked up a Rune med helm, location: 3416, 3558
+[Wed Aug 21 04:13:40 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:43 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:44 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:45 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:45 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:45 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:45 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:46 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:48 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:50 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:13:54 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 04:14:17 PDT 2013] Filip [90.230.138.84] picked up a Abyssal whip, location: 3417, 3568
+[Wed Aug 21 12:18:58 PDT 2013] Filip [90.230.138.84] picked up a Certificate, location: 2866, 10190
+[Wed Aug 21 12:23:54 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:25:20 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:26:06 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3423, 3566
+[Wed Aug 21 12:26:09 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:26:12 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:26:15 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:26:15 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:26:15 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:26:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:01 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:03 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:03 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:03 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:04 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:04 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:04 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:27:04 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3421, 3567
+[Wed Aug 21 12:33:35 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3409, 3556
+[Wed Aug 21 12:41:09 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 3418, 3561
+[Wed Aug 21 12:45:06 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 12:45:08 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 12:45:10 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 12:45:11 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 12:45:11 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 12:45:11 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 12:45:12 PDT 2013] Filip [90.230.138.84] picked up a Dragon med helm, location: 3427, 3573
+[Wed Aug 21 16:40:36 PDT 2013] Filip [90.230.138.84] picked up a Dragon boots, location: 2846, 5353
+[Wed Aug 21 16:44:32 PDT 2013] Filip [90.230.138.84] picked up a Dragon boots, location: 2848, 5358
+[Wed Aug 21 16:44:34 PDT 2013] Filip [90.230.138.84] picked up a Dragon boots, location: 2848, 5358
+[Wed Aug 21 16:54:48 PDT 2013] Filip [90.230.138.84] picked up a Ourg bones, location: 2867, 5357
+[Wed Aug 21 16:55:48 PDT 2013] Filip [90.230.138.84] picked up a Rune platebody, location: 2867, 5357
+[Wed Aug 21 16:57:11 PDT 2013] Filip [90.230.138.84] picked up a Gold charm, location: 2870, 5359
+[Wed Aug 21 16:57:15 PDT 2013] Filip [90.230.138.84] picked up a Ourg bones, location: 2870, 5359
+[Wed Aug 21 16:57:20 PDT 2013] Filip [90.230.138.84] picked up a Bones, location: 2873, 5356
+[Wed Aug 21 16:58:05 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2870, 5359
+[Wed Aug 21 16:58:16 PDT 2013] Filip [90.230.138.84] picked up a Ourg bones, location: 2870, 5359
+[Wed Aug 21 16:59:24 PDT 2013] Filip [90.230.138.84] picked up a Bones, location: 2868, 5364
+[Wed Aug 21 17:00:20 PDT 2013] Filip [90.230.138.84] picked up a Godsword shard 2, location: 2870, 5359
+[Wed Aug 21 17:00:52 PDT 2013] Filip [90.230.138.84] picked up a Ourg bones, location: 2870, 5359
+[Wed Aug 21 17:02:14 PDT 2013] Filip [90.230.138.84] picked up a Ourg bones, location: 2870, 5359
+[Wed Aug 21 17:02:21 PDT 2013] Filip [90.230.138.84] picked up a Super restore (4), location: 2870, 5359
+[Wed Aug 21 17:02:22 PDT 2013] Filip [90.230.138.84] picked up a Bones, location: 2873, 5356
+[Wed Aug 21 17:15:15 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2906, 3605
+[Wed Aug 21 17:16:05 PDT 2013] Filip [90.230.138.84] picked up a Gloves, location: 2917, 3607
+[Wed Aug 21 17:16:07 PDT 2013] Filip [90.230.138.84] picked up a Gloves, location: 2917, 3607
+[Wed Aug 21 17:16:07 PDT 2013] Filip [90.230.138.84] picked up a Rune platelegs, location: 2917, 3607
+[Wed Aug 21 17:16:08 PDT 2013] Filip [90.230.138.84] picked up a Rune platelegs, location: 2917, 3607
+[Wed Aug 21 17:16:08 PDT 2013] Filip [90.230.138.84] picked up a Rune platelegs, location: 2917, 3607
+[Wed Aug 21 17:16:08 PDT 2013] Filip [90.230.138.84] picked up a Rune platelegs, location: 2917, 3607
+[Wed Aug 21 17:16:08 PDT 2013] Filip [90.230.138.84] picked up a Rune platelegs, location: 2917, 3607
+[Wed Aug 21 17:16:08 PDT 2013] Filip [90.230.138.84] picked up a Rune platelegs, location: 2917, 3607
+[Wed Aug 21 17:16:11 PDT 2013] Filip [90.230.138.84] picked up a Fire cape, location: 2917, 3607
+[Wed Aug 21 17:16:12 PDT 2013] Filip [90.230.138.84] picked up a Fire cape, location: 2917, 3607
+[Wed Aug 21 17:16:12 PDT 2013] Filip [90.230.138.84] picked up a Fire cape, location: 2917, 3607
+[Wed Aug 21 17:16:12 PDT 2013] Filip [90.230.138.84] picked up a Fire cape, location: 2917, 3607
+[Wed Aug 21 17:16:12 PDT 2013] Filip [90.230.138.84] picked up a Helm of neitiznot, location: 2917, 3607
+[Wed Aug 21 17:16:13 PDT 2013] Filip [90.230.138.84] picked up a Helm of neitiznot, location: 2917, 3607
+[Wed Aug 21 17:16:13 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:13 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:14 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:14 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:14 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:15 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:15 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:15 PDT 2013] Filip [90.230.138.84] picked up a Steel of legends scroll, location: 2917, 3607
+[Wed Aug 21 17:16:15 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:15 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:16 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2917, 3607
+[Wed Aug 21 17:16:17 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:17 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:17 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:18 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:18 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:18 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:18 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:18 PDT 2013] Filip [90.230.138.84] picked up a Bandos boots, location: 2917, 3607
+[Wed Aug 21 17:16:18 PDT 2013] Filip [90.230.138.84] picked up a Berserker ring, location: 2917, 3607
+[Wed Aug 21 17:16:19 PDT 2013] Filip [90.230.138.84] picked up a Berserker ring, location: 2917, 3607
+[Wed Aug 21 17:16:20 PDT 2013] Filip [90.230.138.84] picked up a Super restore (4), location: 2917, 3607
+[Wed Aug 21 17:16:22 PDT 2013] Filip [90.230.138.84] picked up a Shark, location: 2917, 3607
+[Wed Aug 21 17:16:24 PDT 2013] Filip [90.230.138.84] picked up a Shark, location: 2917, 3607
+[Wed Aug 21 17:16:31 PDT 2013] Filip [90.230.138.84] picked up a Shark, location: 2917, 3607
+[Wed Aug 21 17:38:28 PDT 2013] Filip [90.230.138.84] picked up a Death rune, location: 2091, 4427
+[Wed Aug 21 17:38:32 PDT 2013] Filip [90.230.138.84] picked up a Raw shark, location: 2091, 4427
+[Wed Aug 21 17:38:36 PDT 2013] Filip [90.230.138.84] picked up a Magic logs, location: 2091, 4427
+[Wed Aug 21 17:38:40 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2091, 4427
+[Wed Aug 21 17:38:44 PDT 2013] Filip [90.230.138.84] picked up a Crimson charm, location: 2091, 4427
+[Wed Aug 21 17:41:43 PDT 2013] Filip [90.230.138.84] picked up a Onyx bolts (e), location: 2090, 4428
+[Wed Aug 21 17:41:46 PDT 2013] Filip [90.230.138.84] picked up a Blue charm, location: 2090, 4428
+[Wed Aug 21 17:41:53 PDT 2013] Filip [90.230.138.84] picked up a Spirit shield, location: 2090, 4428
+[Wed Aug 21 17:41:59 PDT 2013] Filip [90.230.138.84] picked up a Adamantite ore, location: 2090, 4428
+[Wed Aug 21 17:42:02 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2090, 4428
+[Wed Aug 21 17:42:05 PDT 2013] Filip [90.230.138.84] picked up a Mystic robe bottom, location: 2090, 4428
+[Wed Aug 21 17:42:09 PDT 2013] Filip [90.230.138.84] picked up a Law rune, location: 2090, 4428
+[Wed Aug 21 17:48:41 PDT 2013] Filip [90.230.138.84] picked up a Runite ore, location: 2090, 4428
+[Wed Aug 21 17:48:46 PDT 2013] Filip [90.230.138.84] picked up a Soul rune, location: 2090, 4428
+[Wed Aug 21 17:48:49 PDT 2013] Filip [90.230.138.84] picked up a Coins, location: 2090, 4428
+[Wed Aug 21 17:48:52 PDT 2013] Filip [90.230.138.84] picked up a Gold charm, location: 2090, 4428
+[Wed Aug 21 17:52:21 PDT 2013] Filip [90.230.138.84] picked up a Spirit shield, location: 2090, 4426
+[Wed Aug 21 17:52:25 PDT 2013] Filip [90.230.138.84] picked up a Regen bracelet, location: 2090, 4426
+[Wed Aug 21 17:52:29 PDT 2013] Filip [90.230.138.84] picked up a Adamantite ore, location: 2090, 4426
+[Wed Aug 21 17:52:32 PDT 2013] Filip [90.230.138.84] picked up a Pure essence, location: 2090, 4426
+[Wed Aug 21 17:52:36 PDT 2013] Filip [90.230.138.84] picked up a Ranarr seed, location: 2090, 4426
+[Wed Aug 21 17:52:41 PDT 2013] Filip [90.230.138.84] picked up a Gold charm, location: 2090, 4426

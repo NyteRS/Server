@@ -1,0 +1,2 @@
+[Sat Jan 05 20:45:12 CET 2013] Lukas [192.168.218.139] dropped a Spirit shards at location: 2998, 3383
+[Sat Jan 05 20:50:45 CET 2013] Lukas [192.168.218.139] dropped a Spirit shards at location: 2995, 3385

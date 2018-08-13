@@ -1,0 +1,25 @@
+[Thu Aug 22 01:37:38 PDT 2013] Red arrow [76.30.105.223] picked up a Blood rune, location: 2974, 3922
+[Thu Aug 22 01:37:43 PDT 2013] Red arrow [76.30.105.223] picked up a Manta ray, location: 2974, 3922
+[Thu Aug 22 01:37:44 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2974, 3922
+[Thu Aug 22 01:45:05 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3921
+[Thu Aug 22 01:51:23 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2978, 3922
+[Thu Aug 22 01:57:08 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2978, 3921
+[Thu Aug 22 02:02:18 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2979, 3921
+[Thu Aug 22 02:02:19 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2979, 3921
+[Thu Aug 22 02:02:19 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2979, 3921
+[Thu Aug 22 02:02:20 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2979, 3921
+[Thu Aug 22 02:43:27 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3920
+[Thu Aug 22 02:50:09 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2977, 3919
+[Thu Aug 22 02:54:55 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2977, 3922
+[Thu Aug 22 02:54:56 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2977, 3922
+[Thu Aug 22 02:54:57 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2977, 3922
+[Thu Aug 22 03:03:17 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3923
+[Thu Aug 22 03:07:58 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2977, 3922
+[Thu Aug 22 03:12:24 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3922
+[Thu Aug 22 03:18:05 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3920
+[Thu Aug 22 03:26:02 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3921
+[Thu Aug 22 03:33:09 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2974, 3920
+[Thu Aug 22 03:39:17 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2978, 3920
+[Thu Aug 22 03:43:10 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2978, 3920
+[Thu Aug 22 03:47:31 PDT 2013] Red arrow [76.30.105.223] picked up a Coins, location: 2976, 3922
+[Thu Aug 22 03:47:33 PDT 2013] Red arrow [76.30.105.223] picked up a Rune scimitar, location: 2976, 3922

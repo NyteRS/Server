@@ -1,0 +1,2 @@
+[Thu Aug 22 11:10:21 PDT 2013] Jesus [98.198.100.215] picked up a Rune pickaxe, location: 2675, 3714
+[Thu Aug 22 11:10:26 PDT 2013] Jesus [98.198.100.215] picked up a Rune pickaxe, location: 2675, 3714

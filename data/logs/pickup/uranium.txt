@@ -1,0 +1,2 @@
+[Wed Aug 21 11:28:56 PDT 2013] Uranium [31.210.113.141] picked up a Coins, location: 3079, 3488
+[Wed Aug 21 13:57:28 PDT 2013] Uranium [31.210.113.143] picked up a Coins, location: 3079, 3486

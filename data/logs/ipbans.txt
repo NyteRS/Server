@@ -1,0 +1,7 @@
+[2012/06/22][00:03:56]: Rene ipbanned: rene:192.168.1.15.
+[2013/08/18][17:20:33]: hatsune miku ipbanned: server2:127.0.0.1.
+[2013/08/18][17:24:30]: hatsune miku ipbanned: server2:127.0.0.1.
+[2013/08/18][17:28:30]: hatsune miku ipbanned: server2:127.0.0.1.
+[2013/08/18][17:29:47]: hatsune miku ipbanned: server2:127.0.0.1.
+[2013/08/18][17:35:49]: hatsune miku ipbanned: server2:127.0.0.1.
+[2013/08/21][07:02:04]: lelouch ipbanned: lelouchc:81.152.61.203.

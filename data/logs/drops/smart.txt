@@ -1,0 +1,132 @@
+[Sun Aug 18 19:30:08 PDT 2013] Smart [71.203.152.149] dropped a Coins at location: 2994, 3385
+[Sun Aug 18 19:30:18 PDT 2013] Smart [71.203.152.149] dropped a Marigold seed at location: 2994, 3385
+[Sun Aug 18 19:30:21 PDT 2013] Smart [71.203.152.149] dropped a Cabbage seed at location: 2994, 3385
+[Sun Aug 18 19:39:18 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:20 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:20 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:21 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:22 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:23 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:23 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:25 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:27 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:28 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2923
+[Sun Aug 18 19:39:46 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:48 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:49 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:50 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:51 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:52 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:53 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:39:54 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2835, 2921
+[Sun Aug 18 19:40:15 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2921
+[Sun Aug 18 19:40:18 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2921
+[Sun Aug 18 19:40:19 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2921
+[Sun Aug 18 19:40:20 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2833, 2921
+[Sun Aug 18 19:40:21 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2921
+[Sun Aug 18 19:40:22 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2833, 2921
+[Sun Aug 18 19:40:23 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2833, 2921
+[Sun Aug 18 19:42:31 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2853, 2924
+[Sun Aug 18 19:42:32 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2853, 2924
+[Sun Aug 18 19:42:33 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2853, 2924
+[Sun Aug 18 19:42:35 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2853, 2924
+[Tue Aug 20 18:41:34 PDT 2013] Smart [71.203.152.149] dropped a Potato seed at location: 3080, 3252
+[Tue Aug 20 18:42:28 PDT 2013] Smart [71.203.152.149] dropped a Blue feather at location: 2841, 2923
+[Tue Aug 20 18:42:28 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2841, 2923
+[Tue Aug 20 18:42:45 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2841, 2924
+[Tue Aug 20 18:42:47 PDT 2013] Smart [71.203.152.149] dropped a Blue feather at location: 2841, 2924
+[Tue Aug 20 18:42:49 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2841, 2924
+[Tue Aug 20 18:42:49 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2841, 2924
+[Tue Aug 20 18:43:24 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2927
+[Tue Aug 20 18:43:25 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2927
+[Tue Aug 20 18:43:26 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2927
+[Tue Aug 20 18:43:27 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2927
+[Tue Aug 20 18:43:28 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2927
+[Tue Aug 20 18:43:30 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2927
+[Tue Aug 20 18:43:31 PDT 2013] Smart [71.203.152.149] dropped a Blue feather at location: 2822, 2927
+[Tue Aug 20 18:43:32 PDT 2013] Smart [71.203.152.149] dropped a Stripy feather at location: 2822, 2927
+[Tue Aug 20 18:44:42 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:44:43 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:44:43 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:44:45 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:44:51 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2926
+[Tue Aug 20 18:44:53 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2926
+[Tue Aug 20 18:44:53 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2926
+[Tue Aug 20 18:44:54 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2822, 2926
+[Tue Aug 20 18:45:13 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2825, 2926
+[Tue Aug 20 18:45:14 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2825, 2926
+[Tue Aug 20 18:45:15 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2825, 2926
+[Tue Aug 20 18:45:16 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2825, 2926
+[Tue Aug 20 18:45:17 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2825, 2926
+[Tue Aug 20 18:45:20 PDT 2013] Smart [71.203.152.149] dropped a Bones at location: 2825, 2926
+[Tue Aug 20 18:48:45 PDT 2013] Smart [71.203.152.149] dropped a Stripy feather at location: 2821, 2925
+[Tue Aug 20 18:48:46 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2821, 2925
+[Tue Aug 20 18:48:49 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2821, 2925
+[Tue Aug 20 18:49:24 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:49:25 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:49:26 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:49:26 PDT 2013] Smart [71.203.152.149] dropped a Raw bird meat at location: 2822, 2926
+[Tue Aug 20 18:58:17 PDT 2013] Smart [71.203.152.149] dropped a Rune scimitar at location: 2758, 2774
+[Tue Aug 20 18:58:49 PDT 2013] Smart [71.203.152.149] dropped a Black scimitar at location: 2757, 2770
+[Tue Aug 20 18:58:51 PDT 2013] Smart [71.203.152.149] dropped a Iron scimitar at location: 2757, 2770
+[Tue Aug 20 19:00:35 PDT 2013] Smart [71.203.152.149] dropped a Black scimitar at location: 2758, 2774
+[Tue Aug 20 19:00:36 PDT 2013] Smart [71.203.152.149] dropped a Rune scimitar at location: 2758, 2774
+[Tue Aug 20 19:00:50 PDT 2013] Smart [71.203.152.149] dropped a Adamant scimitar at location: 2757, 2770
+[Tue Aug 20 19:12:45 PDT 2013] Smart [71.203.152.149] dropped a Marigold seed at location: 3079, 3252
+[Tue Aug 20 19:12:47 PDT 2013] Smart [71.203.152.149] dropped a Potato seed at location: 3079, 3252
+[Wed Aug 21 17:49:08 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2806, 3462
+[Wed Aug 21 17:49:09 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2806, 3462
+[Wed Aug 21 17:49:10 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2806, 3462
+[Wed Aug 21 17:51:00 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2666, 3376
+[Wed Aug 21 17:51:01 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2666, 3376
+[Wed Aug 21 17:51:02 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2666, 3376
+[Wed Aug 21 17:52:15 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2808, 3461
+[Wed Aug 21 17:52:16 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2808, 3461
+[Wed Aug 21 17:52:19 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2808, 3461
+[Wed Aug 21 17:52:29 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2808, 3461
+[Wed Aug 21 17:53:31 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2812, 3463
+[Wed Aug 21 17:53:31 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2812, 3463
+[Wed Aug 21 17:53:34 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2812, 3463
+[Wed Aug 21 17:56:02 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2808, 3463
+[Wed Aug 21 17:56:06 PDT 2013] Smart [71.203.152.149] dropped a Bucket at location: 2808, 3463
+[Wed Aug 21 17:56:08 PDT 2013] Smart [71.203.152.149] dropped a Bucket at location: 2808, 3463
+[Wed Aug 21 17:56:29 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2812, 3463
+[Wed Aug 21 17:56:33 PDT 2013] Smart [71.203.152.149] dropped a Bucket at location: 2812, 3463
+[Wed Aug 21 17:56:34 PDT 2013] Smart [71.203.152.149] dropped a Bucket at location: 2812, 3463
+[Wed Aug 21 17:57:43 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2813, 3461
+[Wed Aug 21 17:57:44 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2813, 3461
+[Wed Aug 21 17:57:46 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2813, 3461
+[Wed Aug 21 17:57:47 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2813, 3461
+[Wed Aug 21 17:57:48 PDT 2013] Smart [71.203.152.149] dropped a Weeds at location: 2813, 3461
+[Wed Aug 21 18:04:09 PDT 2013] Smart [71.203.152.149] dropped a Raw shrimps at location: 3281, 3419
+[Wed Aug 21 18:05:44 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:05:45 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:05:46 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:05:47 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:05:48 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:05:49 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:05:50 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:06:00 PDT 2013] Smart [71.203.152.149] dropped a Logs at location: 3282, 3419
+[Wed Aug 21 18:28:02 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:03 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:06 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:07 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:09 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:12 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:13 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:15 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:15 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:17 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:17 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:18 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:18 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:20 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:20 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:21 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:22 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:23 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:24 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:24 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:28:26 PDT 2013] Smart [71.203.152.149] dropped a Potato at location: 2808, 3466
+[Wed Aug 21 18:39:26 PDT 2013] Smart [71.203.152.149] dropped a Iron axe at location: 3086, 3234
+[Wed Aug 21 18:53:00 PDT 2013] Smart [71.203.152.149] dropped a Iron axe at location: 3087, 3233

@@ -1,0 +1,6 @@
+[Mon Aug 19 07:16:10 PDT 2013] Chinchompa [77.245.179.12] dropped a Iron scimitar at location: 2671, 3714
+[Mon Aug 19 07:16:12 PDT 2013] Chinchompa [77.245.179.12] dropped a Iron platebody at location: 2671, 3714
+[Mon Aug 19 07:16:12 PDT 2013] Chinchompa [77.245.179.12] dropped a Iron platelegs at location: 2671, 3714
+[Mon Aug 19 07:16:15 PDT 2013] Chinchompa [77.245.179.12] dropped a Iron full helm at location: 2671, 3714
+[Mon Aug 19 07:16:16 PDT 2013] Chinchompa [77.245.179.12] dropped a Iron boots at location: 2671, 3714
+[Mon Aug 19 07:16:16 PDT 2013] Chinchompa [77.245.179.12] dropped a Instruction manual at location: 2671, 3714

@@ -1,0 +1,28 @@
+[Tue Aug 20 11:25:19 PDT 2013] Razzz [188.241.23.156] dropped a Grimy marrentill at location: 3054, 9576
+[Tue Aug 20 11:34:50 PDT 2013] Razzz [188.241.23.156] dropped a Clean guam at location: 3049, 9591
+[Tue Aug 20 11:35:17 PDT 2013] Razzz [188.241.23.156] dropped a Grimy irit at location: 3048, 9592
+[Tue Aug 20 11:35:45 PDT 2013] Razzz [188.241.23.156] dropped a Clean tarromin at location: 3048, 9592
+[Tue Aug 20 11:37:37 PDT 2013] Razzz [188.241.23.156] dropped a Clean marrentill at location: 3050, 9578
+[Tue Aug 20 11:39:07 PDT 2013] Razzz [188.241.23.156] dropped a Clean harralander at location: 3051, 9583
+[Tue Aug 20 11:39:09 PDT 2013] Razzz [188.241.23.156] dropped a Clean irit at location: 3051, 9583
+[Tue Aug 20 11:40:16 PDT 2013] Razzz [188.241.23.156] dropped a Clean guam at location: 3055, 9570
+[Tue Aug 20 11:52:34 PDT 2013] Razzz [188.241.23.156] dropped a Clean guam at location: 2638, 9593
+[Tue Aug 20 11:53:59 PDT 2013] Razzz [188.241.23.156] dropped a Clean harralander at location: 2637, 9591
+[Tue Aug 20 11:54:44 PDT 2013] Razzz [188.241.23.156] dropped a Clean harralander at location: 2634, 9588
+[Tue Aug 20 13:11:21 PDT 2013] Razzz [188.241.23.156] dropped a Clean harralander at location: 2632, 9593
+[Tue Aug 20 13:12:17 PDT 2013] Razzz [188.241.23.156] dropped a Clean tarromin at location: 2635, 9589
+[Tue Aug 20 13:15:24 PDT 2013] Razzz [188.241.23.156] dropped a Clean guam at location: 2633, 9584
+[Tue Aug 20 13:19:06 PDT 2013] Razzz [188.241.23.156] dropped a Clean avantoe at location: 2632, 9583
+[Tue Aug 20 13:23:27 PDT 2013] Razzz [188.241.23.156] dropped a Clean tarromin at location: 2633, 9580
+[Tue Aug 20 13:23:29 PDT 2013] Razzz [188.241.23.156] dropped a Clean kwuarm at location: 2633, 9580
+[Tue Aug 20 13:26:21 PDT 2013] Razzz [188.241.23.156] dropped a Clean marrentill at location: 2641, 9563
+[Tue Aug 20 13:35:34 PDT 2013] Razzz [188.241.23.156] dropped a Vial at location: 2721, 9444
+[Tue Aug 20 13:35:36 PDT 2013] Razzz [188.241.23.156] dropped a Vial at location: 2721, 9444
+[Tue Aug 20 13:36:19 PDT 2013] Razzz [188.241.23.156] dropped a Iron bar at location: 2722, 9436
+[Tue Aug 20 13:46:58 PDT 2013] Razzz [188.241.23.156] dropped a Curry at location: 2700, 9460
+[Tue Aug 20 14:01:08 PDT 2013] Razzz [188.241.23.156] dropped a Vial at location: 2709, 9451
+[Tue Aug 20 14:01:09 PDT 2013] Razzz [188.241.23.156] dropped a Vial at location: 2709, 9451
+[Tue Aug 20 14:07:19 PDT 2013] Razzz [188.241.23.156] dropped a Crimson charm at location: 2698, 9453
+[Tue Aug 20 14:07:31 PDT 2013] Razzz [188.241.23.156] dropped a Crimson charm at location: 2700, 9452
+[Tue Aug 20 14:25:02 PDT 2013] Razzz [188.241.23.156] dropped a Iron bar at location: 2699, 9450
+[Thu Aug 22 02:46:47 PDT 2013] Razzz [188.241.23.156] dropped a Vial at location: 2857, 9838

@@ -1,0 +1,4 @@
+[Mon Aug 19 13:29:20 PDT 2013] 88684 [76.30.94.165] dropped a Iron full helm at location: 3094, 3498
+[Mon Aug 19 13:29:23 PDT 2013] 88684 [76.30.94.165] dropped a Iron boots at location: 3094, 3498
+[Mon Aug 19 13:29:24 PDT 2013] 88684 [76.30.94.165] dropped a Iron platebody at location: 3094, 3498
+[Mon Aug 19 13:29:27 PDT 2013] 88684 [76.30.94.165] dropped a Iron scimitar at location: 3094, 3498

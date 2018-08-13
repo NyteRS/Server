@@ -1,0 +1,3 @@
+[Tue Aug 20 13:38:35 PDT 2013] Sinatra [72.130.15.93] won: Coins amount: 1000000 from the user: Dan[77.245.179.12]
+[Tue Aug 20 13:39:57 PDT 2013] Sinatra [72.130.15.93] won: Coins amount: 1000000 from the user: Dan[77.245.179.12]
+[Tue Aug 20 13:41:05 PDT 2013] Sinatra [72.130.15.93] lost: Coins amount: 1000000 to the user: Dan [77.245.179.12]

@@ -1,0 +1,462 @@
+[Sun Aug 18 19:55:12 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 2674, 3713
+[Sun Aug 18 19:57:23 PDT 2013] Dan [77.245.179.12] dropped a Steel arrow at location: 2681, 3726
+[Sun Aug 18 19:57:26 PDT 2013] Dan [77.245.179.12] dropped a Mithril arrow at location: 2681, 3726
+[Sun Aug 18 19:57:26 PDT 2013] Dan [77.245.179.12] dropped a Adamant arrow at location: 2681, 3726
+[Sun Aug 18 19:57:27 PDT 2013] Dan [77.245.179.12] dropped a Iron arrow at location: 2681, 3726
+[Sun Aug 18 19:57:28 PDT 2013] Dan [77.245.179.12] dropped a Maple shortbow at location: 2681, 3726
+[Sun Aug 18 19:57:28 PDT 2013] Dan [77.245.179.12] dropped a Yew shortbow at location: 2681, 3726
+[Sun Aug 18 19:57:30 PDT 2013] Dan [77.245.179.12] dropped a Shortbow at location: 2681, 3726
+[Sun Aug 18 20:02:19 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2997, 3385
+[Sun Aug 18 20:03:44 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2991, 3383
+[Sun Aug 18 21:32:07 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3094, 3491
+[Sun Aug 18 22:27:39 PDT 2013] Dan [77.245.179.12] dropped a Pure essence at location: 2991, 3386
+[Sun Aug 18 22:30:07 PDT 2013] Dan [77.245.179.12] dropped a Dragon bolts (e) at location: 3095, 3496
+[Sun Aug 18 22:30:07 PDT 2013] Dan [77.245.179.12] dropped a Rune arrow at location: 3095, 3496
+[Sun Aug 18 22:30:09 PDT 2013] Dan [77.245.179.12] dropped a Rune arrow (p) at location: 3095, 3496
+[Sun Aug 18 22:30:10 PDT 2013] Dan [77.245.179.12] dropped a Onyx bolts (e) at location: 3095, 3496
+[Sun Aug 18 22:30:10 PDT 2013] Dan [77.245.179.12] dropped a Dragon arrow at location: 3095, 3496
+[Sun Aug 18 22:30:11 PDT 2013] Dan [77.245.179.12] dropped a Toktz-xil-ul at location: 3095, 3496
+[Sun Aug 18 22:30:12 PDT 2013] Dan [77.245.179.12] dropped a Diamond bolts (e) at location: 3095, 3496
+[Sun Aug 18 22:35:05 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3079, 3512
+[Sun Aug 18 23:29:52 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 2974, 3614
+[Sun Aug 18 23:30:23 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 2974, 3615
+[Sun Aug 18 23:36:22 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 2978, 3609
+[Sun Aug 18 23:37:11 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 2973, 3616
+[Sun Aug 18 23:37:14 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 2973, 3616
+[Sun Aug 18 23:37:25 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 2972, 3613
+[Sun Aug 18 23:38:14 PDT 2013] Dan [77.245.179.12] dropped a Grimy dwarf weed at location: 2975, 3617
+[Sun Aug 18 23:38:52 PDT 2013] Dan [77.245.179.12] dropped a Chocolate bomb at location: 2974, 3613
+[Sun Aug 18 23:39:30 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 2974, 3614
+[Sun Aug 18 23:42:54 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 2972, 3607
+[Mon Aug 19 00:13:29 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 2342, 9810
+[Mon Aug 19 00:19:30 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 2338, 9813
+[Mon Aug 19 00:25:51 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 2339, 9817
+[Mon Aug 19 00:41:21 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 2335, 9812
+[Mon Aug 19 00:42:27 PDT 2013] Dan [77.245.179.12] dropped a Strength potion (1) at location: 2334, 9813
+[Mon Aug 19 00:51:06 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 2339, 9818
+[Mon Aug 19 00:51:07 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 2339, 9818
+[Mon Aug 19 01:33:33 PDT 2013] Dan [77.245.179.12] dropped a Bob's print at location: 2834, 9822
+[Mon Aug 19 01:56:52 PDT 2013] Dan [77.245.179.12] dropped a Blood rune at location: 2835, 9825
+[Mon Aug 19 02:37:22 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2836, 2923
+[Mon Aug 19 02:38:53 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2846, 2922
+[Mon Aug 19 02:39:29 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2829, 2933
+[Mon Aug 19 02:40:53 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2829, 2928
+[Mon Aug 19 02:41:12 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2821, 2932
+[Mon Aug 19 02:41:39 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2822, 2925
+[Mon Aug 19 02:42:13 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2821, 2926
+[Mon Aug 19 02:43:20 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2830, 2926
+[Mon Aug 19 02:43:26 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2926
+[Mon Aug 19 02:43:55 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2932
+[Mon Aug 19 02:44:05 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2928
+[Mon Aug 19 02:44:24 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2817, 2922
+[Mon Aug 19 02:44:31 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2821, 2925
+[Mon Aug 19 02:44:41 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2821, 2924
+[Mon Aug 19 02:44:54 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2927
+[Mon Aug 19 02:44:55 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2927
+[Mon Aug 19 02:45:25 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2821, 2924
+[Mon Aug 19 02:45:51 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2928
+[Mon Aug 19 02:45:52 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2928
+[Mon Aug 19 02:46:08 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2927
+[Mon Aug 19 02:46:10 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2927
+[Mon Aug 19 02:46:23 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2927
+[Mon Aug 19 02:46:32 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2928
+[Mon Aug 19 02:46:48 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2930
+[Mon Aug 19 02:46:53 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2822, 2928
+[Mon Aug 19 02:47:08 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2928
+[Mon Aug 19 02:47:08 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2928
+[Mon Aug 19 02:47:25 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2928
+[Mon Aug 19 02:47:35 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2821, 2926
+[Mon Aug 19 02:48:01 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2931
+[Mon Aug 19 02:48:32 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2933
+[Mon Aug 19 02:49:06 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2928
+[Mon Aug 19 02:49:07 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2830, 2931
+[Mon Aug 19 02:49:14 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2932
+[Mon Aug 19 02:49:22 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2822, 2928
+[Mon Aug 19 02:49:36 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2932
+[Mon Aug 19 02:49:51 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2933
+[Mon Aug 19 02:49:52 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2933
+[Mon Aug 19 02:50:11 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2932
+[Mon Aug 19 02:50:13 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2932
+[Mon Aug 19 02:50:20 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2927
+[Mon Aug 19 02:50:28 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2928
+[Mon Aug 19 02:50:32 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2928
+[Mon Aug 19 02:50:41 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2929
+[Mon Aug 19 02:51:19 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2933
+[Mon Aug 19 02:52:00 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2825, 2930
+[Mon Aug 19 02:52:04 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2929
+[Mon Aug 19 02:52:46 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2822, 2927
+[Mon Aug 19 02:53:14 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2931
+[Mon Aug 19 02:53:15 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2931
+[Mon Aug 19 02:53:47 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2823, 2928
+[Mon Aug 19 02:53:56 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2930
+[Mon Aug 19 02:54:42 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2824, 2928
+[Mon Aug 19 02:54:55 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2931
+[Mon Aug 19 02:55:20 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2822, 2928
+[Mon Aug 19 02:55:44 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2930
+[Mon Aug 19 02:55:46 PDT 2013] Dan [77.245.179.12] dropped a Raw bird meat at location: 2827, 2930
+[Mon Aug 19 04:06:39 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3574, 3299
+[Mon Aug 19 04:06:40 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3575, 3298
+[Mon Aug 19 05:21:12 PDT 2013] Dan [77.245.179.12] dropped a Law rune at location: 2725, 9433
+[Mon Aug 19 05:25:16 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2721, 9436
+[Mon Aug 19 05:25:17 PDT 2013] Dan [77.245.179.12] dropped a Steel bar at location: 2721, 9436
+[Mon Aug 19 05:29:07 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2720, 9430
+[Mon Aug 19 05:32:12 PDT 2013] Dan [77.245.179.12] dropped a Steel bar at location: 2727, 9445
+[Mon Aug 19 05:33:36 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2720, 9445
+[Mon Aug 19 05:39:01 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2705, 9440
+[Mon Aug 19 05:58:00 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2713, 9446
+[Mon Aug 19 07:25:13 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3005, 3376
+[Tue Aug 20 00:16:41 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2830, 9827
+[Tue Aug 20 00:16:42 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2830, 9827
+[Tue Aug 20 00:38:35 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2834, 9820
+[Tue Aug 20 00:48:08 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3054, 9550
+[Tue Aug 20 00:49:07 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3062, 9548
+[Tue Aug 20 00:52:54 PDT 2013] Dan [77.245.179.12] dropped a Clean kwuarm at location: 3060, 9543
+[Tue Aug 20 00:53:49 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3062, 9545
+[Tue Aug 20 00:56:58 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3063, 9543
+[Tue Aug 20 00:58:13 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 3060, 9545
+[Tue Aug 20 00:59:59 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3063, 9542
+[Tue Aug 20 01:01:51 PDT 2013] Dan [77.245.179.12] dropped a Grimy dwarf weed at location: 3064, 9545
+[Tue Aug 20 01:04:02 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3060, 9543
+[Tue Aug 20 01:06:10 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3060, 9543
+[Tue Aug 20 01:13:49 PDT 2013] Dan [77.245.179.12] dropped a Pure essence at location: 3061, 9546
+[Tue Aug 20 01:13:54 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3061, 9546
+[Tue Aug 20 01:15:31 PDT 2013] Dan [77.245.179.12] dropped a Cadantine seed at location: 3062, 9546
+[Tue Aug 20 01:15:33 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3062, 9546
+[Tue Aug 20 01:18:09 PDT 2013] Dan [77.245.179.12] dropped a Grimy dwarf weed at location: 3062, 9546
+[Tue Aug 20 01:21:17 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3063, 9544
+[Tue Aug 20 01:22:48 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3064, 9546
+[Tue Aug 20 01:24:04 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3062, 9542
+[Tue Aug 20 01:27:31 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3063, 9547
+[Tue Aug 20 01:28:49 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3062, 9545
+[Tue Aug 20 01:33:47 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3064, 9545
+[Tue Aug 20 01:38:46 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 3060, 9544
+[Tue Aug 20 01:41:02 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3062, 9542
+[Tue Aug 20 02:04:28 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3276, 2932
+[Tue Aug 20 02:04:34 PDT 2013] Dan [77.245.179.12] dropped a Law rune at location: 3277, 2930
+[Tue Aug 20 02:05:09 PDT 2013] Dan [77.245.179.12] dropped a Dragon chainbody at location: 3277, 2931
+[Tue Aug 20 02:06:58 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3275, 2935
+[Tue Aug 20 02:10:15 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3279, 2935
+[Tue Aug 20 02:10:33 PDT 2013] Dan [77.245.179.12] dropped a Rune arrow at location: 3278, 2935
+[Tue Aug 20 02:11:27 PDT 2013] Dan [77.245.179.12] dropped a Clean lantadyme at location: 3279, 2928
+[Tue Aug 20 02:11:28 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3279, 2928
+[Tue Aug 20 02:12:24 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3283, 2933
+[Tue Aug 20 02:17:10 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3271, 2937
+[Tue Aug 20 02:18:22 PDT 2013] Dan [77.245.179.12] dropped a Clean kwuarm at location: 3270, 2936
+[Tue Aug 20 02:19:30 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3277, 2936
+[Tue Aug 20 02:19:55 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3277, 2930
+[Tue Aug 20 02:20:02 PDT 2013] Dan [77.245.179.12] dropped a Earth battlestaff at location: 3278, 2928
+[Tue Aug 20 02:21:33 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3278, 2937
+[Tue Aug 20 02:24:38 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 3269, 2928
+[Tue Aug 20 02:25:18 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3279, 2931
+[Tue Aug 20 02:25:43 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3283, 2929
+[Tue Aug 20 02:34:17 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3273, 2934
+[Tue Aug 20 02:34:31 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3273, 2936
+[Tue Aug 20 02:34:33 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3273, 2936
+[Tue Aug 20 02:35:44 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3279, 2935
+[Tue Aug 20 02:36:23 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3280, 2936
+[Tue Aug 20 02:37:52 PDT 2013] Dan [77.245.179.12] dropped a Clean kwuarm at location: 3277, 2940
+[Tue Aug 20 02:39:07 PDT 2013] Dan [77.245.179.12] dropped a Clean guam at location: 3278, 2933
+[Tue Aug 20 02:40:12 PDT 2013] Dan [77.245.179.12] dropped a Clean kwuarm at location: 3278, 2934
+[Tue Aug 20 02:41:01 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3278, 2935
+[Tue Aug 20 02:42:38 PDT 2013] Dan [77.245.179.12] dropped a Clean guam at location: 3278, 2939
+[Tue Aug 20 02:43:07 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3277, 2930
+[Tue Aug 20 02:43:28 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3278, 2929
+[Tue Aug 20 02:44:02 PDT 2013] Dan [77.245.179.12] dropped a Clean guam at location: 3279, 2929
+[Tue Aug 20 02:59:49 PDT 2013] Dan [77.245.179.12] dropped a Lantadyme seed at location: 3303, 9830
+[Tue Aug 20 03:04:28 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 3292, 9838
+[Tue Aug 20 03:09:07 PDT 2013] Dan [77.245.179.12] dropped a Grimy dwarf weed at location: 3286, 9849
+[Tue Aug 20 03:09:45 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 3288, 9848
+[Tue Aug 20 03:10:20 PDT 2013] Dan [77.245.179.12] dropped a Watermelon seed at location: 3284, 9838
+[Tue Aug 20 03:10:21 PDT 2013] Dan [77.245.179.12] dropped a Rune axe at location: 3284, 9838
+[Tue Aug 20 03:10:26 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3284, 9838
+[Tue Aug 20 03:12:57 PDT 2013] Dan [77.245.179.12] dropped a Focus sight at location: 3287, 9843
+[Tue Aug 20 03:12:58 PDT 2013] Dan [77.245.179.12] dropped a Adamant bar at location: 3287, 9843
+[Tue Aug 20 03:12:59 PDT 2013] Dan [77.245.179.12] dropped a Gold charm at location: 3287, 9843
+[Tue Aug 20 03:16:21 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3284, 9838
+[Tue Aug 20 03:16:24 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3284, 9838
+[Tue Aug 20 03:17:15 PDT 2013] Dan [77.245.179.12] dropped a Clean ranarr at location: 3284, 9838
+[Tue Aug 20 03:18:46 PDT 2013] Dan [77.245.179.12] dropped a Clean guam at location: 3279, 9845
+[Tue Aug 20 03:21:28 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3288, 9844
+[Tue Aug 20 03:22:11 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3288, 9844
+[Tue Aug 20 03:24:52 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3279, 9839
+[Tue Aug 20 03:26:10 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3277, 9851
+[Tue Aug 20 03:26:59 PDT 2013] Dan [77.245.179.12] dropped a Grimy lantadyme at location: 3274, 9845
+[Tue Aug 20 03:27:56 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3277, 9851
+[Tue Aug 20 03:28:33 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3275, 9847
+[Tue Aug 20 03:31:53 PDT 2013] Dan [77.245.179.12] dropped a Lantadyme seed at location: 3275, 9852
+[Tue Aug 20 03:31:55 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3275, 9852
+[Tue Aug 20 03:33:32 PDT 2013] Dan [77.245.179.12] dropped a Clean irit at location: 3275, 9845
+[Tue Aug 20 04:03:20 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3309, 9828
+[Tue Aug 20 04:05:48 PDT 2013] Dan [77.245.179.12] dropped a Clean marrentill at location: 3312, 9834
+[Tue Aug 20 04:06:33 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3311, 9827
+[Tue Aug 20 04:09:04 PDT 2013] Dan [77.245.179.12] dropped a Clean kwuarm at location: 3309, 9828
+[Tue Aug 20 04:09:46 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3311, 9828
+[Tue Aug 20 04:15:34 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3313, 9828
+[Tue Aug 20 04:15:35 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 3313, 9828
+[Tue Aug 20 04:16:51 PDT 2013] Dan [77.245.179.12] dropped a Ranarr seed at location: 3311, 9828
+[Tue Aug 20 04:19:42 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3307, 9828
+[Tue Aug 20 04:30:04 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3312, 9828
+[Tue Aug 20 04:30:05 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3312, 9828
+[Tue Aug 20 04:39:14 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3313, 9828
+[Tue Aug 20 04:40:05 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3308, 9830
+[Tue Aug 20 11:09:13 PDT 2013] Dan [77.245.179.12] dropped a Torstol seed at location: 2516, 3868
+[Tue Aug 20 11:09:14 PDT 2013] Dan [77.245.179.12] dropped a Clean avantoe at location: 2516, 3868
+[Tue Aug 20 11:09:16 PDT 2013] Dan [77.245.179.12] dropped a Yew logs at location: 2516, 3868
+[Tue Aug 20 11:09:18 PDT 2013] Dan [77.245.179.12] dropped a Raw monkfish at location: 2516, 3868
+[Tue Aug 20 11:11:19 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3079, 3512
+[Tue Aug 20 11:29:20 PDT 2013] Dan [77.245.179.12] dropped a Coal at location: 3096, 3494
+[Tue Aug 20 11:39:47 PDT 2013] Dan [77.245.179.12] dropped a Grimy tarromin at location: 2852, 3733
+[Tue Aug 20 11:40:29 PDT 2013] Dan [77.245.179.12] dropped a Grimy ranarr at location: 2851, 3731
+[Tue Aug 20 11:40:32 PDT 2013] Dan [77.245.179.12] dropped a Grimy ranarr at location: 2851, 3731
+[Tue Aug 20 11:43:30 PDT 2013] Dan [77.245.179.12] dropped a Grimy kwuarm at location: 2852, 3730
+[Tue Aug 20 11:43:42 PDT 2013] Dan [77.245.179.12] dropped a Limpwurt root at location: 2852, 3730
+[Tue Aug 20 11:54:03 PDT 2013] Dan [77.245.179.12] dropped a Ring of wealth at location: 3094, 3494
+[Tue Aug 20 11:54:14 PDT 2013] Dan [77.245.179.12] dropped a Ring of wealth at location: 3092, 3494
+[Tue Aug 20 11:56:49 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:50 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:50 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:51 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:52 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:53 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:53 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:55 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:56 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:57 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:57 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:58 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:59 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:56:59 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:00 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:01 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:02 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:04 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:05 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:05 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:06 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:07 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:09 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:10 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:11 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:13 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:32 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:32 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:32 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:32 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:32 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:32 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:33 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:33 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:33 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:34 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:34 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:34 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:35 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:35 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:35 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:35 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:35 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:36 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:37 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:37 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:37 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:37 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:38 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:38 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:38 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:39 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:57:40 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3080, 3511
+[Tue Aug 20 11:58:06 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:06 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:06 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:06 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:07 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:08 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:09 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:09 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:09 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:09 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:09 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:10 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:11 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:11 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:12 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:12 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:12 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:13 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:14 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:14 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3511
+[Tue Aug 20 11:58:20 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3512
+[Tue Aug 20 11:58:21 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3079, 3512
+[Tue Aug 20 11:59:02 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3096, 3494
+[Tue Aug 20 12:49:48 PDT 2013] Dan [77.245.179.12] dropped a Water orb at location: 2854, 3736
+[Tue Aug 20 12:59:54 PDT 2013] Dan [77.245.179.12] dropped a Water orb at location: 2860, 3738
+[Tue Aug 20 13:07:50 PDT 2013] Dan [77.245.179.12] dropped a Farseer helm at location: 2998, 3386
+[Tue Aug 20 13:14:30 PDT 2013] Dan [77.245.179.12] dropped a Fire rune at location: 3101, 3509
+[Tue Aug 20 13:14:42 PDT 2013] Dan [77.245.179.12] dropped a Air rune at location: 3099, 3510
+[Tue Aug 20 13:14:50 PDT 2013] Dan [77.245.179.12] dropped a Blood rune at location: 3099, 3510
+[Tue Aug 20 15:46:33 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3080, 3512
+[Tue Aug 20 15:46:59 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3079, 3512
+[Tue Aug 20 16:20:04 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2870, 10189
+[Tue Aug 20 16:20:06 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2870, 10189
+[Tue Aug 20 16:20:12 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:13 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:13 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:14 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:15 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:17 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:18 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:18 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:19 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:20:20 PDT 2013] Dan [77.245.179.12] dropped a Banana at location: 2870, 10189
+[Tue Aug 20 16:22:53 PDT 2013] Dan [77.245.179.12] dropped a Stony shell scroll at location: 2870, 10190
+[Tue Aug 20 16:23:58 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:23:59 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:00 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:01 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:02 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:03 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:04 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:05 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:07 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:07 PDT 2013] Dan [77.245.179.12] dropped a Thorny snail pouch at location: 2838, 10207
+[Tue Aug 20 16:24:08 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:09 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:10 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:11 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:12 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:13 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:13 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:14 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:15 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:16 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:36 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:36 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:37 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:37 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:37 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:37 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:38 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:38 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:39 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:41 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:41 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:41 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:41 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:55 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:55 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:55 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:55 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:56 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:56 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:57 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:57 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:58 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:58 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:58 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:58 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:59 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:24:59 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:25:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:25:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:25:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:25:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:25:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:25:01 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2838, 10207
+[Tue Aug 20 16:26:38 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:38 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:39 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:39 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:40 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:42 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:43 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:43 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:43 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:43 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:44 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:44 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:45 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:45 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:46 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3864
+[Tue Aug 20 16:26:56 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:26:56 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:26:59 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:26:59 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:00 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:02 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:02 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:02 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:02 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:03 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:03 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:03 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:03 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:04 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:04 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:27:05 PDT 2013] Dan [77.245.179.12] dropped a Granite crab pouch at location: 2509, 3865
+[Tue Aug 20 16:55:09 PDT 2013] Dan [77.245.179.12] dropped a Raw yak meat at location: 2523, 3880
+[Tue Aug 20 17:10:16 PDT 2013] Dan [77.245.179.12] dropped a Steel platelegs at location: 2998, 3386
+[Tue Aug 20 17:11:01 PDT 2013] Dan [77.245.179.12] dropped a Steel platebody at location: 2516, 3860
+[Tue Aug 20 18:24:12 PDT 2013] Dan [77.245.179.12] dropped a Rocktail at location: 3316, 3678
+[Tue Aug 20 18:24:16 PDT 2013] Dan [77.245.179.12] dropped a Clean dwarf weed at location: 3316, 3678
+[Tue Aug 20 20:30:33 PDT 2013] Dan [77.245.179.12] dropped a Granite maul at location: 3435, 3538
+[Tue Aug 20 20:43:13 PDT 2013] Dan [77.245.179.12] dropped a Clean harralander at location: 3420, 3558
+[Tue Aug 20 20:44:51 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3421, 3561
+[Tue Aug 20 20:46:36 PDT 2013] Dan [77.245.179.12] dropped a Clean tarromin at location: 3424, 3562
+[Tue Aug 20 20:47:52 PDT 2013] Dan [77.245.179.12] dropped a Clean cadantine at location: 3425, 3559
+[Tue Aug 20 20:50:58 PDT 2013] Dan [77.245.179.12] dropped a Clean lantadyme at location: 3426, 3560
+[Wed Aug 21 08:51:09 PDT 2013] Dan [77.245.179.12] dropped a Nourished ancient effigy at location: 2335, 9831
+[Wed Aug 21 09:19:36 PDT 2013] Dan [77.245.179.12] dropped a Gold charm at location: 2341, 9857
+[Wed Aug 21 09:19:39 PDT 2013] Dan [77.245.179.12] dropped a Gold charm at location: 2335, 9857
+[Wed Aug 21 09:58:01 PDT 2013] Dan [77.245.179.12] dropped a Seed dibber at location: 2804, 3462
+[Wed Aug 21 10:11:18 PDT 2013] Dan [77.245.179.12] dropped a Bucket at location: 2867, 10194
+[Wed Aug 21 10:11:19 PDT 2013] Dan [77.245.179.12] dropped a Bucket at location: 2867, 10194
+[Wed Aug 21 10:11:19 PDT 2013] Dan [77.245.179.12] dropped a Bucket at location: 2867, 10194
+[Wed Aug 21 10:11:21 PDT 2013] Dan [77.245.179.12] dropped a Bucket at location: 2867, 10194
+[Wed Aug 21 10:56:05 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2910, 3604
+[Wed Aug 21 11:13:05 PDT 2013] Dan [77.245.179.12] dropped a Diamond at location: 3078, 3511
+[Wed Aug 21 11:14:40 PDT 2013] Dan [77.245.179.12] dropped a Diamond at location: 3080, 3505
+[Wed Aug 21 11:27:51 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3079, 3488
+[Wed Aug 21 13:53:35 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3079, 3486
+[Wed Aug 21 13:56:37 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3079, 3486
+[Wed Aug 21 16:14:58 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 3367, 3266
+[Wed Aug 21 16:53:29 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2855, 5350
+[Wed Aug 21 17:01:31 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2870, 5359
+[Wed Aug 21 17:03:23 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2870, 5359
+[Wed Aug 21 17:13:44 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2906, 3605
+[Wed Aug 21 17:19:55 PDT 2013] Dan [77.245.179.12] dropped a Coins at location: 2906, 3609
+[Wed Aug 21 17:39:08 PDT 2013] Dan [77.245.179.12] dropped a Rocktail at location: 2087, 4429
+[Wed Aug 21 17:48:36 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2087, 4429
+[Wed Aug 21 17:52:13 PDT 2013] Dan [77.245.179.12] dropped a Vial at location: 2087, 4429
+[Thu Aug 22 04:49:04 PDT 2013] Dan [193.150.8.19] dropped a Regen bracelet at location: 2091, 4428
+[Thu Aug 22 04:49:05 PDT 2013] Dan [193.150.8.19] dropped a Spirit shield at location: 2091, 4428
+[Thu Aug 22 05:06:36 PDT 2013] Dan [193.150.8.19] dropped a Vial at location: 2090, 4430
+[Thu Aug 22 05:32:08 PDT 2013] Dan [193.150.8.19] dropped a Cannonball at location: 2838, 10207
+[Thu Aug 22 06:39:35 PDT 2013] Dan [193.150.8.19] dropped a Death rune at location: 2841, 10209
+[Thu Aug 22 06:39:37 PDT 2013] Dan [193.150.8.19] dropped a Blood rune at location: 2836, 10210
+[Thu Aug 22 08:20:04 PDT 2013] Dan [193.150.8.19] dropped a Vial at location: 2088, 4429
+[Thu Aug 22 08:23:56 PDT 2013] Dan [193.150.8.19] dropped a Vial at location: 2091, 4426
+[Thu Aug 22 08:24:05 PDT 2013] Dan [193.150.8.19] dropped a Tuna potato at location: 2091, 4426
+[Thu Aug 22 08:51:45 PDT 2013] Dan [193.150.8.19] dropped a Vial at location: 2088, 4429
+[Thu Aug 22 08:54:03 PDT 2013] Dan [193.150.8.19] dropped a Tuna potato at location: 2091, 4428

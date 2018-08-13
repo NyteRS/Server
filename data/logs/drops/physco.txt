@@ -1,0 +1,39 @@
+[Sat Aug 17 10:54:13 PDT 2013] Physco [86.186.152.47] dropped a Death rune at location: 3058, 9587
+[Sat Aug 17 13:09:27 PDT 2013] Physco [86.186.152.47] dropped a Blood rune at location: 2732, 9484
+[Sat Aug 17 13:09:31 PDT 2013] Physco [86.186.152.47] dropped a Ruby ring at location: 2730, 9484
+[Sat Aug 17 13:09:33 PDT 2013] Physco [86.186.152.47] dropped a Emerald ring at location: 2730, 9484
+[Sat Aug 17 13:09:34 PDT 2013] Physco [86.186.152.47] dropped a Ruby ring at location: 2730, 9484
+[Sat Aug 17 13:21:36 PDT 2013] Physco [86.186.152.47] dropped a Coins at location: 2739, 9497
+[Mon Aug 19 06:51:54 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2772, 2796
+[Mon Aug 19 07:30:43 PDT 2013] Physco [86.186.152.47] dropped a Runite limbs at location: 2705, 9454
+[Mon Aug 19 08:18:52 PDT 2013] Physco [86.186.152.47] dropped a Prayer renewal at location: 2721, 9448
+[Mon Aug 19 08:38:05 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2833, 9825
+[Mon Aug 19 08:41:39 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2838, 10207
+[Mon Aug 19 09:18:57 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2836, 9825
+[Mon Aug 19 09:22:48 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2834, 9824
+[Mon Aug 19 09:30:10 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2834, 9823
+[Mon Aug 19 15:26:06 PDT 2013] Physco [86.186.152.47] dropped a Nasturtium seed at location: 2854, 10220
+[Mon Aug 19 15:26:10 PDT 2013] Physco [86.186.152.47] dropped a Tarromin seed at location: 2848, 10211
+[Mon Aug 19 20:06:36 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2850, 3488
+[Mon Aug 19 20:11:53 PDT 2013] Physco [86.186.152.47] dropped a Grimy avantoe at location: 2852, 3487
+[Mon Aug 19 20:37:11 PDT 2013] Physco [86.186.152.47] dropped a Prayer potion (1) at location: 2892, 9799
+[Wed Aug 21 07:56:36 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2838, 9826
+[Wed Aug 21 07:56:38 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2838, 9826
+[Wed Aug 21 07:59:22 PDT 2013] Physco [86.186.152.47] dropped a Saradomin brew (2) at location: 2834, 9823
+[Wed Aug 21 07:59:23 PDT 2013] Physco [86.186.152.47] dropped a Super restore (2) at location: 2834, 9823
+[Wed Aug 21 17:42:48 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 2845, 10209
+[Wed Aug 21 17:53:27 PDT 2013] Physco [86.186.152.47] dropped a Manta ray at location: 3061, 9546
+[Wed Aug 21 18:00:23 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 3061, 9546
+[Wed Aug 21 18:05:39 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 3061, 9544
+[Wed Aug 21 18:09:45 PDT 2013] Physco [86.186.152.47] dropped a Prayer potion (1) at location: 3062, 9541
+[Wed Aug 21 18:10:25 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 3062, 9545
+[Wed Aug 21 18:45:09 PDT 2013] Physco [86.186.152.47] dropped a Prayer renewal at location: 3046, 9544
+[Wed Aug 21 18:45:14 PDT 2013] Physco [86.186.152.47] dropped a Vial at location: 3047, 9543
+[Wed Aug 21 19:20:23 PDT 2013] Physco [86.174.211.196] dropped a Sheep bones (1) at location: 2703, 9990
+[Wed Aug 21 19:49:28 PDT 2013] Physco [86.174.211.196] dropped a Vial at location: 2515, 4634
+[Thu Aug 22 04:03:19 PDT 2013] Physco [86.174.211.196] dropped a Water orb at location: 2973, 9500
+[Thu Aug 22 04:18:20 PDT 2013] Physco [86.174.211.196] dropped a Seaweed at location: 2972, 9505
+[Thu Aug 22 04:37:29 PDT 2013] Physco [86.174.211.196] dropped a Vial at location: 2976, 9502
+[Thu Aug 22 04:46:39 PDT 2013] Physco [86.174.211.196] dropped a Steel 2h sword at location: 3441, 3565
+[Thu Aug 22 04:50:49 PDT 2013] Physco [86.174.211.196] dropped a Prayer potion (1) at location: 3437, 3566
+[Thu Aug 22 04:51:22 PDT 2013] Physco [86.174.211.196] dropped a Vial at location: 3436, 3567

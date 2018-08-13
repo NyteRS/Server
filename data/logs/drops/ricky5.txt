@@ -1,0 +1,2 @@
+[Wed Aug 21 17:54:37 PDT 2013] Ricky5 [99.108.100.13] dropped a Shortbow at location: 2871, 5320
+[Wed Aug 21 17:54:40 PDT 2013] Ricky5 [99.108.100.13] dropped a Bronze arrow at location: 2995, 3381

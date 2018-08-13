@@ -1,0 +1,2 @@
+[Wed Aug 21 18:07:26 PDT 2013] Smart [71.203.152.149] picked up a Logs, location: 3282, 3419
+[Wed Aug 21 18:39:33 PDT 2013] Smart [71.203.152.149] picked up a Iron axe, location: 3086, 3234

@@ -1,0 +1,2 @@
+[Mon Aug 19 18:29:49 PDT 2013] Jason [65.13.152.21] picked up a Bones, location: 2868, 5356
+[Tue Aug 20 18:10:29 PDT 2013] Jason [65.13.152.21] picked up a Rune sq shield, location: 2869, 5356

@@ -1,0 +1,20 @@
+sv_name                 "localhost"
+sv_site                 "localhost.com"
+sv_dbg                  false // enables debug output and features, MAKE SURE THIS IS FALSE ON LIVE SERVER
+sv_bindaddr             "0.0.0.0:43594" // address we want to bind to, default is ANY address on port 43594
+sv_nodeid               1 // what this server's id is (doesn't affect bind port)
+sv_maxclients           2000 // max amount of clients (max is really 2046)
+sv_cyclerate            600
+sv_connthrottle         3 // maximum connections per ip (temporary before uids)
+ls_addr                 "localhost:8101" // login server address
+ls_pwd                  "password" // login server password
+ds_addr               	"localhost/server2"
+ds_usr                  "root" // data server user
+ds_pwd                  "" // data server password //try
+ds_keepalive            60000 // data server keep-alive check time in milliseconds
+cl_xpmulti              1 // experience multiplier
+cl_buffersize           25000
+cl_minversion           632
+cl_inactivethreshold    3600 // the amount of time in seconds before someone is considered "inactive"
+cl_maxitemid            23000
+cl_home                 2845, 10209

@@ -1,0 +1,8 @@
+[Tue Aug 20 10:53:00 PDT 2013] Lee [174.130.217.244] won: Coins amount: 2000000 from the user: Dan[77.245.179.12]
+[Tue Aug 20 10:56:40 PDT 2013] Lee [174.130.217.244] lost: Coins amount: 5000000 to the user: Dan [77.245.179.12]
+[Tue Aug 20 10:57:47 PDT 2013] Lee [174.130.217.244] lost: Coins amount: 4000000 to the user: Dan [77.245.179.12]
+[Tue Aug 20 10:58:43 PDT 2013] Lee [174.130.217.244] won: Coins amount: 3000000 from the user: Dan[77.245.179.12]
+[Tue Aug 20 10:59:39 PDT 2013] Lee [174.130.217.244] won: Coins amount: 6000000 from the user: Dan[77.245.179.12]
+[Tue Aug 20 11:00:55 PDT 2013] Lee [174.130.217.244] won: Coins amount: 3500000 from the user: Dan[77.245.179.12]
+[Tue Aug 20 11:01:56 PDT 2013] Lee [174.130.217.244] lost: Coins amount: 4000000 to the user: Dan [77.245.179.12]
+[Tue Aug 20 11:02:55 PDT 2013] Lee [174.130.217.244] won: Coins amount: 6000000 from the user: Dan[77.245.179.12]

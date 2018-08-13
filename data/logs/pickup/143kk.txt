@@ -1,0 +1,2 @@
+[Tue Aug 20 13:51:16 PDT 2013] 143kk [206.28.41.8] picked up a Bones, location: 2320, 3799
+[Tue Aug 20 13:53:41 PDT 2013] 143kk [206.28.41.8] picked up a Bones, location: 2320, 3799

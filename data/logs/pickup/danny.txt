@@ -1,0 +1,120 @@
+[Tue Aug 20 19:42:13 PDT 2013] Danny [80.47.43.196] picked up a Fire cape, location: 2439, 5168
+[Tue Aug 20 19:42:20 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2439, 5168
+[Tue Aug 20 19:47:09 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5151
+[Tue Aug 20 19:48:30 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2480, 5151
+[Tue Aug 20 19:50:43 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2476, 5150
+[Tue Aug 20 19:51:22 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2480, 5154
+[Tue Aug 20 19:59:41 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2477, 5152
+[Tue Aug 20 19:59:43 PDT 2013] Danny [80.47.43.196] picked up a Fire battlestaff, location: 2477, 5152
+[Tue Aug 20 20:00:32 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5155
+[Tue Aug 20 20:01:08 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2477, 5155
+[Tue Aug 20 20:05:25 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2464, 5143
+[Tue Aug 20 20:06:04 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5151
+[Tue Aug 20 20:06:32 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2469, 5146
+[Tue Aug 20 20:07:18 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5151
+[Tue Aug 20 20:08:07 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2464, 5144
+[Tue Aug 20 20:15:42 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2469, 5145
+[Tue Aug 20 20:17:11 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5153
+[Tue Aug 20 20:17:28 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2476, 5153
+[Tue Aug 20 20:17:30 PDT 2013] Danny [80.47.43.196] picked up a Fire battlestaff, location: 2476, 5153
+[Tue Aug 20 20:17:54 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5157
+[Tue Aug 20 20:19:08 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2476, 5153
+[Tue Aug 20 20:19:38 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5152
+[Tue Aug 20 20:20:08 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2476, 5152
+[Tue Aug 20 20:20:42 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5152
+[Tue Aug 20 20:23:26 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2476, 5153
+[Tue Aug 20 20:25:39 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5153
+[Tue Aug 20 20:26:51 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2474, 5152
+[Tue Aug 20 20:28:18 PDT 2013] Danny [80.47.43.196] picked up a Body rune, location: 2475, 5155
+[Tue Aug 20 20:29:57 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2477, 5155
+[Tue Aug 20 20:30:32 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5155
+[Tue Aug 20 20:31:47 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5155
+[Tue Aug 20 20:32:41 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2477, 5155
+[Tue Aug 20 20:34:36 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2477, 5155
+[Tue Aug 20 20:36:01 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2477, 5155
+[Tue Aug 20 20:54:55 PDT 2013] Danny [80.47.43.196] picked up a Bones, location: 3417, 3508
+[Wed Aug 21 08:42:30 PDT 2013] Danny [80.47.43.196] picked up a Coins, location: 3055, 9578
+[Wed Aug 21 08:58:35 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2463, 5141
+[Wed Aug 21 08:58:41 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2463, 5141
+[Wed Aug 21 08:59:49 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5152
+[Wed Aug 21 09:02:52 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5152
+[Wed Aug 21 09:03:17 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5156
+[Wed Aug 21 09:04:56 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5153
+[Wed Aug 21 09:05:52 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5152
+[Wed Aug 21 09:06:34 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5151
+[Wed Aug 21 09:07:14 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5156
+[Wed Aug 21 09:07:45 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5151
+[Wed Aug 21 09:08:22 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2474, 5151
+[Wed Aug 21 09:09:31 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5151
+[Wed Aug 21 09:09:59 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2480, 5151
+[Wed Aug 21 09:10:38 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5157
+[Wed Aug 21 09:11:04 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5152
+[Wed Aug 21 09:11:04 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5152
+[Wed Aug 21 09:11:49 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2474, 5152
+[Wed Aug 21 09:12:36 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2480, 5153
+[Wed Aug 21 09:13:11 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5153
+[Wed Aug 21 09:13:51 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5152
+[Wed Aug 21 09:14:55 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5151
+[Wed Aug 21 09:17:11 PDT 2013] Danny [80.47.43.196] picked up a Onyx bolt tips, location: 2479, 5151
+[Wed Aug 21 09:17:15 PDT 2013] Danny [80.47.43.196] picked up a Onyx bolt tips, location: 2479, 5151
+[Wed Aug 21 09:21:26 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5158
+[Wed Aug 21 09:25:47 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5152
+[Wed Aug 21 09:26:22 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5153
+[Wed Aug 21 09:28:18 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5152
+[Wed Aug 21 09:28:54 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5158
+[Wed Aug 21 09:30:27 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2480, 5151
+[Wed Aug 21 09:32:24 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2475, 5153
+[Wed Aug 21 09:32:55 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5153
+[Wed Aug 21 09:32:57 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5153
+[Wed Aug 21 09:34:20 PDT 2013] Danny [80.47.43.196] picked up a Fire battlestaff, location: 2479, 5153
+[Wed Aug 21 09:35:01 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5151
+[Wed Aug 21 09:36:22 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5156
+[Wed Aug 21 09:36:52 PDT 2013] Danny [80.47.43.196] picked up a Mind rune, location: 2484, 5156
+[Wed Aug 21 09:37:42 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5153
+[Wed Aug 21 09:39:10 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5153
+[Wed Aug 21 09:39:48 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5151
+[Wed Aug 21 09:41:20 PDT 2013] Danny [80.47.43.196] picked up a Starved ancient effigy, location: 2473, 5151
+[Wed Aug 21 09:42:12 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5152
+[Wed Aug 21 09:42:42 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5156
+[Wed Aug 21 09:43:20 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2481, 5152
+[Wed Aug 21 09:43:24 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5152
+[Wed Aug 21 09:45:58 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5152
+[Wed Aug 21 09:47:40 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5156
+[Wed Aug 21 09:49:01 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5152
+[Wed Aug 21 09:49:40 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2478, 5152
+[Wed Aug 21 09:52:42 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5151
+[Wed Aug 21 09:55:53 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2484, 5158
+[Wed Aug 21 09:56:24 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5151
+[Wed Aug 21 09:57:31 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5151
+[Wed Aug 21 10:01:29 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5153
+[Wed Aug 21 10:03:57 PDT 2013] Danny [80.47.43.196] picked up a Fire battlestaff, location: 2482, 5158
+[Wed Aug 21 10:04:34 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2474, 5153
+[Wed Aug 21 10:04:35 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2474, 5153
+[Wed Aug 21 10:05:11 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2480, 5152
+[Wed Aug 21 10:10:16 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2475, 5151
+[Wed Aug 21 10:11:06 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2481, 5151
+[Wed Aug 21 10:13:57 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5156
+[Wed Aug 21 10:15:09 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5158
+[Wed Aug 21 10:16:29 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5158
+[Wed Aug 21 10:16:29 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2482, 5158
+[Wed Aug 21 10:16:30 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2482, 5158
+[Wed Aug 21 10:16:31 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2482, 5158
+[Wed Aug 21 10:16:31 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2482, 5158
+[Wed Aug 21 10:16:31 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2482, 5158
+[Wed Aug 21 10:16:31 PDT 2013] Danny [80.47.43.196] picked up a Obsidian cape, location: 2482, 5158
+[Wed Aug 21 10:16:32 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2482, 5158
+[Wed Aug 21 10:38:23 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5152
+[Wed Aug 21 10:39:22 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2479, 5153
+[Wed Aug 21 10:39:53 PDT 2013] Danny [80.47.43.196] picked up a Tokkul, location: 2473, 5151
+[Wed Aug 21 10:40:35 PDT 2013] Danny [80.47.43.196] picked up a Fire rune, location: 2479, 5152
+[Thu Aug 22 09:48:53 PDT 2013] Danny [89.242.215.252] picked up a Tokkul, location: 2484, 5156
+[Thu Aug 22 09:51:30 PDT 2013] Danny [89.242.215.252] picked up a Tokkul, location: 2481, 5151
+[Thu Aug 22 09:52:00 PDT 2013] Danny [89.242.215.252] picked up a Tokkul, location: 2484, 5158
+[Thu Aug 22 09:52:01 PDT 2013] Danny [89.242.215.252] picked up a Tokkul, location: 2484, 5158
+[Thu Aug 22 09:52:56 PDT 2013] Danny [89.242.215.252] picked up a Tokkul, location: 2474, 5152
+[Thu Aug 22 10:03:10 PDT 2013] Danny [89.242.215.252] picked up a Tokkul, location: 2484, 5158
+[Thu Aug 22 13:44:54 PDT 2013] Danny [92.17.235.131] picked up a Tokkul, location: 2482, 5156
+[Thu Aug 22 13:45:36 PDT 2013] Danny [92.17.235.131] picked up a Tokkul, location: 2479, 5151
+[Thu Aug 22 13:46:09 PDT 2013] Danny [92.17.235.131] picked up a Tokkul, location: 2474, 5153
+[Thu Aug 22 14:08:25 PDT 2013] Danny [92.17.235.131] picked up a Sapphire ring, location: 3411, 3539
+[Thu Aug 22 14:11:40 PDT 2013] Danny [92.17.235.131] picked up a Ruby ring, location: 3416, 3535

@@ -1,0 +1,2 @@
+[Thu Aug 22 10:38:00 PDT 2013] Pure ice [76.30.94.165] dropped a Death rune at location: 2338, 9811
+[Thu Aug 22 12:21:53 PDT 2013] Pure ice [76.30.94.165] dropped a Coins at location: 2091, 4428

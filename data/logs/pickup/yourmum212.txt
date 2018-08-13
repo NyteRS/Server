@@ -1,0 +1,9 @@
+[Mon Aug 19 14:55:55 PDT 2013] Yourmum212 [217.121.65.81] picked up a Gold charm, location: 2685, 3720
+[Mon Aug 19 14:55:56 PDT 2013] Yourmum212 [217.121.65.81] picked up a Gold charm, location: 2685, 3720
+[Mon Aug 19 15:08:26 PDT 2013] Yourmum212 [217.121.65.81] picked up a Gold charm, location: 2673, 3715
+[Mon Aug 19 15:08:37 PDT 2013] Yourmum212 [217.121.65.81] picked up a Iron boots, location: 2674, 3716
+[Mon Aug 19 15:12:30 PDT 2013] Yourmum212 [217.121.65.81] picked up a Gold charm, location: 2675, 3713
+[Mon Aug 19 15:15:56 PDT 2013] Yourmum212 [217.121.65.81] picked up a Fire rune, location: 2681, 3724
+[Mon Aug 19 15:21:41 PDT 2013] Yourmum212 [217.121.65.81] picked up a Fire rune, location: 2682, 3728
+[Mon Aug 19 15:24:53 PDT 2013] Yourmum212 [217.121.65.81] picked up a Gold charm, location: 2679, 3730
+[Mon Aug 19 15:25:45 PDT 2013] Yourmum212 [217.121.65.81] picked up a Gold charm, location: 2680, 3729

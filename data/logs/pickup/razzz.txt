@@ -1,0 +1,463 @@
+[Tue Aug 20 03:07:10 PDT 2013] Razzz [188.241.23.156] picked up a Iron full helm, location: 2865, 3546
+[Tue Aug 20 03:07:10 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2865, 3545
+[Tue Aug 20 03:07:11 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2865, 3545
+[Tue Aug 20 03:07:12 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3545
+[Tue Aug 20 03:07:12 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3545
+[Tue Aug 20 03:07:13 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3545
+[Tue Aug 20 03:07:13 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3545
+[Tue Aug 20 03:07:13 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3545
+[Tue Aug 20 03:07:13 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3545
+[Tue Aug 20 03:07:14 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3545
+[Tue Aug 20 03:07:14 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3545
+[Tue Aug 20 03:07:15 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:16 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:16 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:17 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:17 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:17 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:17 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:17 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:18 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3545
+[Tue Aug 20 03:07:18 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3545
+[Tue Aug 20 03:07:18 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3545
+[Tue Aug 20 03:07:18 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3545
+[Tue Aug 20 03:07:18 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3545
+[Tue Aug 20 03:07:19 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3545
+[Tue Aug 20 03:07:19 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3545
+[Tue Aug 20 03:07:20 PDT 2013] Razzz [188.241.23.156] picked up a Mind rune, location: 2865, 3545
+[Tue Aug 20 03:07:21 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3545
+[Tue Aug 20 03:07:21 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3545
+[Tue Aug 20 03:07:22 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3545
+[Tue Aug 20 03:07:23 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3545
+[Tue Aug 20 03:07:23 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3545
+[Tue Aug 20 03:07:23 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3545
+[Tue Aug 20 03:07:23 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3545
+[Tue Aug 20 03:07:24 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3545
+[Tue Aug 20 03:07:24 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3545
+[Tue Aug 20 03:07:24 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3545
+[Tue Aug 20 03:07:25 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2865, 3545
+[Tue Aug 20 03:07:26 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2865, 3545
+[Tue Aug 20 03:07:26 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2865, 3545
+[Tue Aug 20 03:07:28 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3545
+[Tue Aug 20 03:07:29 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3545
+[Tue Aug 20 03:07:29 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3545
+[Tue Aug 20 03:07:30 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3545
+[Tue Aug 20 03:07:30 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3545
+[Tue Aug 20 03:07:31 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3545
+[Tue Aug 20 03:07:31 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3545
+[Tue Aug 20 03:07:31 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3545
+[Tue Aug 20 03:07:32 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3545
+[Tue Aug 20 03:07:33 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3545
+[Tue Aug 20 03:07:34 PDT 2013] Razzz [188.241.23.156] picked up a Teleport to house, location: 2865, 3545
+[Tue Aug 20 03:07:35 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2865, 3545
+[Tue Aug 20 03:07:35 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2865, 3545
+[Tue Aug 20 03:07:37 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2865, 3545
+[Tue Aug 20 03:09:54 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3546
+[Tue Aug 20 03:09:55 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2865, 3546
+[Tue Aug 20 03:09:56 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2865, 3546
+[Tue Aug 20 03:09:56 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2865, 3546
+[Tue Aug 20 03:09:56 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2865, 3546
+[Tue Aug 20 03:09:56 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3546
+[Tue Aug 20 03:09:57 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2865, 3546
+[Tue Aug 20 03:09:57 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:57 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:57 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:58 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:58 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:58 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:59 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2865, 3546
+[Tue Aug 20 03:09:59 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3546
+[Tue Aug 20 03:09:59 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3546
+[Tue Aug 20 03:09:59 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3546
+[Tue Aug 20 03:10:00 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3546
+[Tue Aug 20 03:10:00 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2865, 3546
+[Tue Aug 20 03:10:00 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3546
+[Tue Aug 20 03:10:00 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3546
+[Tue Aug 20 03:10:00 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3546
+[Tue Aug 20 03:10:01 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3546
+[Tue Aug 20 03:10:01 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2865, 3546
+[Tue Aug 20 03:10:01 PDT 2013] Razzz [188.241.23.156] picked up a Mind rune, location: 2865, 3546
+[Tue Aug 20 03:10:02 PDT 2013] Razzz [188.241.23.156] picked up a Mind rune, location: 2865, 3546
+[Tue Aug 20 03:10:02 PDT 2013] Razzz [188.241.23.156] picked up a Mind rune, location: 2865, 3546
+[Tue Aug 20 03:10:02 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3546
+[Tue Aug 20 03:10:02 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3546
+[Tue Aug 20 03:10:02 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3546
+[Tue Aug 20 03:10:03 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2865, 3546
+[Tue Aug 20 03:10:04 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3546
+[Tue Aug 20 03:10:04 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3546
+[Tue Aug 20 03:10:05 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3546
+[Tue Aug 20 03:10:05 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2865, 3546
+[Tue Aug 20 03:10:06 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3546
+[Tue Aug 20 03:10:07 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3546
+[Tue Aug 20 03:10:07 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3546
+[Tue Aug 20 03:10:07 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3546
+[Tue Aug 20 03:10:07 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3546
+[Tue Aug 20 03:10:08 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2865, 3546
+[Tue Aug 20 03:10:09 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3546
+[Tue Aug 20 03:10:10 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3546
+[Tue Aug 20 03:10:10 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3546
+[Tue Aug 20 03:10:10 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2865, 3546
+[Tue Aug 20 03:10:11 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2865, 3546
+[Tue Aug 20 03:10:11 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2865, 3546
+[Tue Aug 20 03:10:11 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2865, 3546
+[Tue Aug 20 03:10:13 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2865, 3546
+[Tue Aug 20 03:10:13 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2865, 3546
+[Tue Aug 20 03:10:14 PDT 2013] Razzz [188.241.23.156] picked up a Teleport to house, location: 2865, 3546
+[Tue Aug 20 03:10:15 PDT 2013] Razzz [188.241.23.156] picked up a Teleport to house, location: 2865, 3546
+[Tue Aug 20 03:12:37 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2868, 3546
+[Tue Aug 20 03:12:39 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2868, 3546
+[Tue Aug 20 03:12:40 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2868, 3546
+[Tue Aug 20 03:12:40 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2868, 3546
+[Tue Aug 20 03:12:40 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2868, 3546
+[Tue Aug 20 03:12:40 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2868, 3546
+[Tue Aug 20 03:12:40 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2868, 3546
+[Tue Aug 20 03:12:41 PDT 2013] Razzz [188.241.23.156] picked up a Combat bracelet (4), location: 2868, 3546
+[Tue Aug 20 03:12:42 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2868, 3546
+[Tue Aug 20 03:12:42 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2868, 3546
+[Tue Aug 20 03:12:43 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2868, 3546
+[Tue Aug 20 03:12:43 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2868, 3546
+[Tue Aug 20 03:12:43 PDT 2013] Razzz [188.241.23.156] picked up a Manta ray, location: 2868, 3546
+[Tue Aug 20 03:12:45 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:45 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:45 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:45 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:46 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:46 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:46 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:46 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:47 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:47 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:48 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 2868, 3546
+[Tue Aug 20 03:12:48 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2868, 3546
+[Tue Aug 20 03:12:49 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2868, 3546
+[Tue Aug 20 03:12:50 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2868, 3546
+[Tue Aug 20 03:12:50 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2868, 3546
+[Tue Aug 20 03:12:51 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2868, 3546
+[Tue Aug 20 03:12:51 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2868, 3546
+[Tue Aug 20 03:12:53 PDT 2013] Razzz [188.241.23.156] picked up a Air rune, location: 2868, 3546
+[Tue Aug 20 03:12:53 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2868, 3546
+[Tue Aug 20 03:12:54 PDT 2013] Razzz [188.241.23.156] picked up a Mind rune, location: 2868, 3546
+[Tue Aug 20 03:12:56 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2868, 3546
+[Tue Aug 20 03:12:56 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2868, 3546
+[Tue Aug 20 03:12:56 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2868, 3546
+[Tue Aug 20 03:12:56 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2868, 3546
+[Tue Aug 20 03:12:57 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2868, 3546
+[Tue Aug 20 03:12:58 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2868, 3546
+[Tue Aug 20 03:12:59 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2868, 3546
+[Tue Aug 20 03:13:01 PDT 2013] Razzz [188.241.23.156] picked up a Water rune, location: 2868, 3546
+[Tue Aug 20 03:13:02 PDT 2013] Razzz [188.241.23.156] picked up a Amulet of glory (4), location: 2868, 3546
+[Tue Aug 20 03:13:02 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2868, 3546
+[Tue Aug 20 03:13:04 PDT 2013] Razzz [188.241.23.156] picked up a Earth rune, location: 2868, 3546
+[Tue Aug 20 03:13:05 PDT 2013] Razzz [188.241.23.156] picked up a Teleport to house, location: 2868, 3546
+[Tue Aug 20 03:13:05 PDT 2013] Razzz [188.241.23.156] picked up a Teleport to house, location: 2868, 3546
+[Tue Aug 20 03:13:06 PDT 2013] Razzz [188.241.23.156] picked up a Teleport to house, location: 2868, 3546
+[Tue Aug 20 05:06:25 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 3044, 9578
+[Tue Aug 20 05:06:28 PDT 2013] Razzz [188.241.23.156] picked up a Mind rune, location: 3044, 9578
+[Tue Aug 20 05:06:31 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3044, 9578
+[Tue Aug 20 11:21:54 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3048, 9578
+[Tue Aug 20 11:22:51 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 3050, 9575
+[Tue Aug 20 11:23:43 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 3055, 9584
+[Tue Aug 20 11:24:06 PDT 2013] Razzz [188.241.23.156] picked up a Cadantine seed, location: 3055, 9580
+[Tue Aug 20 11:24:07 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3055, 9580
+[Tue Aug 20 11:24:34 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3055, 9570
+[Tue Aug 20 11:25:13 PDT 2013] Razzz [188.241.23.156] picked up a Grimy marrentill, location: 3054, 9575
+[Tue Aug 20 11:25:36 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 3054, 9577
+[Tue Aug 20 11:26:07 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 3056, 9573
+[Tue Aug 20 11:26:25 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3056, 9573
+[Tue Aug 20 11:26:41 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3055, 9574
+[Tue Aug 20 11:26:44 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3055, 9574
+[Tue Aug 20 11:26:46 PDT 2013] Razzz [188.241.23.156] picked up a Cosmic rune, location: 3055, 9574
+[Tue Aug 20 11:27:13 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3053, 9578
+[Tue Aug 20 11:27:16 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 3053, 9578
+[Tue Aug 20 11:27:37 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3055, 9583
+[Tue Aug 20 11:27:43 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3055, 9583
+[Tue Aug 20 11:28:02 PDT 2013] Razzz [188.241.23.156] picked up a Mithril ore, location: 3051, 9580
+[Tue Aug 20 11:28:28 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 3053, 9578
+[Tue Aug 20 11:28:57 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 3055, 9583
+[Tue Aug 20 11:28:59 PDT 2013] Razzz [188.241.23.156] picked up a Cadantine seed, location: 3055, 9583
+[Tue Aug 20 11:29:27 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3053, 9584
+[Tue Aug 20 11:29:30 PDT 2013] Razzz [188.241.23.156] picked up a Dwarf weed seed, location: 3053, 9584
+[Tue Aug 20 11:29:47 PDT 2013] Razzz [188.241.23.156] picked up a Rune longsword, location: 3054, 9581
+[Tue Aug 20 11:29:50 PDT 2013] Razzz [188.241.23.156] picked up a Watermelon seed, location: 3054, 9581
+[Tue Aug 20 11:30:10 PDT 2013] Razzz [188.241.23.156] picked up a Toadflax seed, location: 3055, 9583
+[Tue Aug 20 11:30:12 PDT 2013] Razzz [188.241.23.156] picked up a Toadflax seed, location: 3055, 9583
+[Tue Aug 20 11:31:34 PDT 2013] Razzz [188.241.23.156] picked up a Rune c'bow, location: 3049, 9579
+[Tue Aug 20 11:31:35 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 3049, 9579
+[Tue Aug 20 11:31:39 PDT 2013] Razzz [188.241.23.156] picked up a Rune c'bow, location: 3049, 9579
+[Tue Aug 20 11:32:09 PDT 2013] Razzz [188.241.23.156] picked up a Rune longsword, location: 3052, 9575
+[Tue Aug 20 11:32:11 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 3052, 9575
+[Tue Aug 20 11:32:15 PDT 2013] Razzz [188.241.23.156] picked up a Cadantine seed, location: 3052, 9575
+[Tue Aug 20 11:32:16 PDT 2013] Razzz [188.241.23.156] picked up a Cadantine seed, location: 3052, 9575
+[Tue Aug 20 11:32:19 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3052, 9575
+[Tue Aug 20 11:32:52 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 3053, 9575
+[Tue Aug 20 11:33:22 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3054, 9569
+[Tue Aug 20 11:34:33 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3049, 9586
+[Tue Aug 20 11:34:35 PDT 2013] Razzz [188.241.23.156] picked up a Grimy guam, location: 3049, 9586
+[Tue Aug 20 11:34:39 PDT 2013] Razzz [188.241.23.156] picked up a Grimy guam, location: 3049, 9586
+[Tue Aug 20 11:35:10 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 3048, 9592
+[Tue Aug 20 11:35:12 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3048, 9592
+[Tue Aug 20 11:35:14 PDT 2013] Razzz [188.241.23.156] picked up a Grimy irit, location: 3048, 9592
+[Tue Aug 20 11:35:41 PDT 2013] Razzz [188.241.23.156] picked up a Grimy tarromin, location: 3048, 9592
+[Tue Aug 20 11:36:17 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 3044, 9583
+[Tue Aug 20 11:36:19 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3044, 9583
+[Tue Aug 20 11:36:20 PDT 2013] Razzz [188.241.23.156] picked up a Avantoe seed, location: 3044, 9583
+[Tue Aug 20 11:36:30 PDT 2013] Razzz [188.241.23.156] picked up a Avantoe seed, location: 3044, 9583
+[Tue Aug 20 11:36:58 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 3051, 9583
+[Tue Aug 20 11:37:00 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3051, 9583
+[Tue Aug 20 11:37:00 PDT 2013] Razzz [188.241.23.156] picked up a Rune longsword, location: 3051, 9583
+[Tue Aug 20 11:37:32 PDT 2013] Razzz [188.241.23.156] picked up a Grimy marrentill, location: 3050, 9578
+[Tue Aug 20 11:38:09 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 3044, 9582
+[Tue Aug 20 11:38:24 PDT 2013] Razzz [188.241.23.156] picked up a Grimy irit, location: 3046, 9581
+[Tue Aug 20 11:38:28 PDT 2013] Razzz [188.241.23.156] picked up a Rune c'bow, location: 3046, 9581
+[Tue Aug 20 11:39:02 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3051, 9583
+[Tue Aug 20 11:39:03 PDT 2013] Razzz [188.241.23.156] picked up a Grimy harralander, location: 3051, 9583
+[Tue Aug 20 11:39:37 PDT 2013] Razzz [188.241.23.156] picked up a Cosmic rune, location: 3054, 9578
+[Tue Aug 20 11:40:12 PDT 2013] Razzz [188.241.23.156] picked up a Grimy guam, location: 3055, 9570
+[Tue Aug 20 11:40:42 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3050, 9583
+[Tue Aug 20 11:41:07 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3051, 9584
+[Tue Aug 20 11:41:28 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 3053, 9580
+[Tue Aug 20 11:41:30 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3053, 9580
+[Tue Aug 20 11:41:46 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 3053, 9581
+[Tue Aug 20 11:41:48 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 3053, 9581
+[Tue Aug 20 11:42:12 PDT 2013] Razzz [188.241.23.156] picked up a Grimy cadantine, location: 3049, 9582
+[Tue Aug 20 11:42:18 PDT 2013] Razzz [188.241.23.156] picked up a Cadantine seed, location: 3049, 9582
+[Tue Aug 20 11:42:20 PDT 2013] Razzz [188.241.23.156] picked up a Coins, location: 3049, 9582
+[Tue Aug 20 11:42:34 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 3048, 9582
+[Tue Aug 20 11:52:28 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2638, 9593
+[Tue Aug 20 11:52:30 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2638, 9593
+[Tue Aug 20 11:52:31 PDT 2013] Razzz [188.241.23.156] picked up a Grimy guam, location: 2638, 9593
+[Tue Aug 20 11:52:39 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2638, 9593
+[Tue Aug 20 11:52:44 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2638, 9593
+[Tue Aug 20 11:52:45 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2638, 9593
+[Tue Aug 20 11:52:47 PDT 2013] Razzz [188.241.23.156] picked up a Grimy guam, location: 2638, 9593
+[Tue Aug 20 11:52:47 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2638, 9593
+[Tue Aug 20 11:52:47 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2638, 9593
+[Tue Aug 20 11:52:48 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2638, 9593
+[Tue Aug 20 11:53:19 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2636, 9593
+[Tue Aug 20 11:53:24 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2636, 9593
+[Tue Aug 20 11:53:53 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2637, 9591
+[Tue Aug 20 11:53:56 PDT 2013] Razzz [188.241.23.156] picked up a Grimy harralander, location: 2637, 9591
+[Tue Aug 20 11:54:01 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2637, 9591
+[Tue Aug 20 11:54:03 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2637, 9591
+[Tue Aug 20 11:54:37 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2634, 9588
+[Tue Aug 20 11:54:41 PDT 2013] Razzz [188.241.23.156] picked up a Grimy harralander, location: 2634, 9588
+[Tue Aug 20 11:54:46 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2634, 9588
+[Tue Aug 20 11:54:49 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2637, 9591
+[Tue Aug 20 13:03:45 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 2635, 9592
+[Tue Aug 20 13:03:46 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2635, 9592
+[Tue Aug 20 13:03:50 PDT 2013] Razzz [188.241.23.156] picked up a Mithril sq shield, location: 2635, 9592
+[Tue Aug 20 13:03:52 PDT 2013] Razzz [188.241.23.156] picked up a Nature rune, location: 2635, 9592
+[Tue Aug 20 13:03:55 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2635, 9592
+[Tue Aug 20 13:04:29 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2633, 9592
+[Tue Aug 20 13:04:31 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2633, 9592
+[Tue Aug 20 13:04:34 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2633, 9592
+[Tue Aug 20 13:07:50 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2634, 9591
+[Tue Aug 20 13:09:31 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2632, 9591
+[Tue Aug 20 13:09:34 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2632, 9591
+[Tue Aug 20 13:09:49 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2631, 9592
+[Tue Aug 20 13:09:51 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2631, 9592
+[Tue Aug 20 13:10:27 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2636, 9593
+[Tue Aug 20 13:10:29 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2636, 9593
+[Tue Aug 20 13:11:14 PDT 2013] Razzz [188.241.23.156] picked up a Grimy harralander, location: 2632, 9593
+[Tue Aug 20 13:11:15 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2632, 9593
+[Tue Aug 20 13:11:18 PDT 2013] Razzz [188.241.23.156] picked up a Grimy harralander, location: 2632, 9593
+[Tue Aug 20 13:11:23 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2631, 9592
+[Tue Aug 20 13:11:24 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2632, 9591
+[Tue Aug 20 13:11:50 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2634, 9590
+[Tue Aug 20 13:11:54 PDT 2013] Razzz [188.241.23.156] picked up a Blue charm, location: 2634, 9590
+[Tue Aug 20 13:12:13 PDT 2013] Razzz [188.241.23.156] picked up a Grimy tarromin, location: 2635, 9589
+[Tue Aug 20 13:12:19 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2635, 9589
+[Tue Aug 20 13:12:39 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2635, 9590
+[Tue Aug 20 13:12:41 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2635, 9590
+[Tue Aug 20 13:13:29 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2637, 9591
+[Tue Aug 20 13:13:32 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2637, 9591
+[Tue Aug 20 13:13:35 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2637, 9591
+[Tue Aug 20 13:14:00 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2637, 9589
+[Tue Aug 20 13:14:02 PDT 2013] Razzz [188.241.23.156] picked up a Rune sq shield, location: 2637, 9589
+[Tue Aug 20 13:14:06 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2637, 9589
+[Tue Aug 20 13:14:36 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2636, 9590
+[Tue Aug 20 13:15:16 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2633, 9584
+[Tue Aug 20 13:15:20 PDT 2013] Razzz [188.241.23.156] picked up a Grimy guam, location: 2633, 9584
+[Tue Aug 20 13:15:26 PDT 2013] Razzz [188.241.23.156] picked up a Blue charm, location: 2633, 9584
+[Tue Aug 20 13:15:53 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2633, 9585
+[Tue Aug 20 13:15:54 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2633, 9585
+[Tue Aug 20 13:16:01 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2633, 9585
+[Tue Aug 20 13:16:41 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2634, 9585
+[Tue Aug 20 13:16:44 PDT 2013] Razzz [188.241.23.156] picked up a Iron bar, location: 2634, 9585
+[Tue Aug 20 13:16:47 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2634, 9585
+[Tue Aug 20 13:17:08 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2634, 9585
+[Tue Aug 20 13:17:23 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2634, 9586
+[Tue Aug 20 13:17:26 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2634, 9586
+[Tue Aug 20 13:17:59 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2632, 9585
+[Tue Aug 20 13:18:01 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2632, 9585
+[Tue Aug 20 13:18:27 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2631, 9586
+[Tue Aug 20 13:18:58 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2632, 9583
+[Tue Aug 20 13:19:02 PDT 2013] Razzz [188.241.23.156] picked up a Grimy avantoe, location: 2632, 9583
+[Tue Aug 20 13:19:04 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2632, 9583
+[Tue Aug 20 13:19:08 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2632, 9583
+[Tue Aug 20 13:19:32 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2631, 9584
+[Tue Aug 20 13:19:34 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2631, 9584
+[Tue Aug 20 13:19:59 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2630, 9584
+[Tue Aug 20 13:20:00 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2630, 9584
+[Tue Aug 20 13:20:02 PDT 2013] Razzz [188.241.23.156] picked up a Rune sq shield, location: 2630, 9584
+[Tue Aug 20 13:20:06 PDT 2013] Razzz [188.241.23.156] picked up a Rune sq shield, location: 2630, 9584
+[Tue Aug 20 13:20:38 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2630, 9583
+[Tue Aug 20 13:20:40 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2630, 9583
+[Tue Aug 20 13:20:42 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2630, 9583
+[Tue Aug 20 13:21:17 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2628, 9584
+[Tue Aug 20 13:21:18 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2628, 9584
+[Tue Aug 20 13:21:40 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2629, 9584
+[Tue Aug 20 13:21:42 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2629, 9584
+[Tue Aug 20 13:22:09 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2632, 9580
+[Tue Aug 20 13:22:53 PDT 2013] Razzz [188.241.23.156] picked up a Grimy tarromin, location: 2630, 9581
+[Tue Aug 20 13:22:56 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2630, 9581
+[Tue Aug 20 13:22:58 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2630, 9581
+[Tue Aug 20 13:23:00 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2630, 9583
+[Tue Aug 20 13:23:24 PDT 2013] Razzz [188.241.23.156] picked up a Grimy kwuarm, location: 2633, 9580
+[Tue Aug 20 13:23:30 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2633, 9580
+[Tue Aug 20 13:23:56 PDT 2013] Razzz [188.241.23.156] picked up a Grimy avantoe, location: 2632, 9583
+[Tue Aug 20 13:24:35 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2639, 9562
+[Tue Aug 20 13:24:36 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2639, 9562
+[Tue Aug 20 13:24:38 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2639, 9562
+[Tue Aug 20 13:24:39 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2639, 9562
+[Tue Aug 20 13:24:40 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2639, 9562
+[Tue Aug 20 13:25:09 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2639, 9562
+[Tue Aug 20 13:25:11 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2639, 9562
+[Tue Aug 20 13:25:11 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2638, 9563
+[Tue Aug 20 13:25:12 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2638, 9563
+[Tue Aug 20 13:25:45 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2639, 9563
+[Tue Aug 20 13:25:47 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2639, 9563
+[Tue Aug 20 13:26:08 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2639, 9564
+[Tue Aug 20 13:26:09 PDT 2013] Razzz [188.241.23.156] picked up a Grimy marrentill, location: 2639, 9564
+[Tue Aug 20 13:26:10 PDT 2013] Razzz [188.241.23.156] picked up a Fire rune, location: 2639, 9564
+[Tue Aug 20 13:26:12 PDT 2013] Razzz [188.241.23.156] picked up a Grimy marrentill, location: 2639, 9564
+[Tue Aug 20 13:26:14 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2639, 9564
+[Tue Aug 20 13:26:15 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2639, 9564
+[Tue Aug 20 13:26:40 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2641, 9563
+[Tue Aug 20 13:26:42 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2641, 9563
+[Tue Aug 20 13:26:43 PDT 2013] Razzz [188.241.23.156] picked up a Big bones, location: 2641, 9563
+[Tue Aug 20 13:35:53 PDT 2013] Razzz [188.241.23.156] picked up a Iron bar, location: 2722, 9443
+[Tue Aug 20 13:35:53 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2722, 9443
+[Tue Aug 20 13:35:56 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2722, 9443
+[Tue Aug 20 13:35:57 PDT 2013] Razzz [188.241.23.156] picked up a Curry, location: 2722, 9443
+[Tue Aug 20 13:36:58 PDT 2013] Razzz [188.241.23.156] picked up a Dragon plateskirt, location: 2723, 9435
+[Tue Aug 20 13:36:59 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2723, 9435
+[Tue Aug 20 13:37:49 PDT 2013] Razzz [188.241.23.156] picked up a Super attack (3), location: 2724, 9435
+[Tue Aug 20 13:37:50 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2724, 9435
+[Tue Aug 20 13:38:33 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2734, 9418
+[Tue Aug 20 13:38:34 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2734, 9418
+[Tue Aug 20 13:38:37 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2734, 9418
+[Tue Aug 20 13:38:39 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2734, 9418
+[Tue Aug 20 13:39:31 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2724, 9425
+[Tue Aug 20 13:39:32 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2724, 9425
+[Tue Aug 20 13:40:34 PDT 2013] Razzz [188.241.23.156] picked up a Blood rune, location: 2709, 9453
+[Tue Aug 20 13:40:35 PDT 2013] Razzz [188.241.23.156] picked up a Adamant axe, location: 2709, 9453
+[Tue Aug 20 13:40:37 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2709, 9453
+[Tue Aug 20 13:40:38 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2709, 9453
+[Tue Aug 20 13:41:41 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2702, 9447
+[Tue Aug 20 13:42:26 PDT 2013] Razzz [188.241.23.156] picked up a Soul rune, location: 2699, 9451
+[Tue Aug 20 13:42:28 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2699, 9451
+[Tue Aug 20 13:42:31 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2699, 9451
+[Tue Aug 20 13:43:27 PDT 2013] Razzz [188.241.23.156] picked up a Rune axe, location: 2708, 9457
+[Tue Aug 20 13:43:33 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2708, 9457
+[Tue Aug 20 13:43:35 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2708, 9457
+[Tue Aug 20 13:43:41 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2708, 9457
+[Tue Aug 20 13:44:46 PDT 2013] Razzz [188.241.23.156] picked up a Rune med helm, location: 2702, 9455
+[Tue Aug 20 13:44:51 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2702, 9455
+[Tue Aug 20 13:45:49 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2705, 9453
+[Tue Aug 20 13:46:59 PDT 2013] Razzz [188.241.23.156] picked up a Blue charm, location: 2699, 9460
+[Tue Aug 20 13:47:01 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2699, 9460
+[Tue Aug 20 13:53:05 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2710, 9453
+[Tue Aug 20 13:54:01 PDT 2013] Razzz [188.241.23.156] picked up a Rune battleaxe, location: 2700, 9448
+[Tue Aug 20 13:54:02 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2700, 9448
+[Tue Aug 20 13:54:04 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2700, 9448
+[Tue Aug 20 13:54:49 PDT 2013] Razzz [188.241.23.156] picked up a Soul rune, location: 2698, 9450
+[Tue Aug 20 13:54:50 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2698, 9450
+[Tue Aug 20 13:55:35 PDT 2013] Razzz [188.241.23.156] picked up a Rune mace, location: 2704, 9460
+[Tue Aug 20 13:55:37 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2704, 9460
+[Tue Aug 20 13:55:39 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2704, 9460
+[Tue Aug 20 13:56:22 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2708, 9460
+[Tue Aug 20 13:56:24 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2708, 9460
+[Tue Aug 20 13:57:29 PDT 2013] Razzz [188.241.23.156] picked up a Rune sq shield, location: 2705, 9461
+[Tue Aug 20 13:57:30 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2705, 9461
+[Tue Aug 20 13:58:13 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2709, 9457
+[Tue Aug 20 13:58:15 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2709, 9457
+[Tue Aug 20 13:59:12 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2704, 9455
+[Tue Aug 20 13:59:13 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2704, 9455
+[Tue Aug 20 14:00:03 PDT 2013] Razzz [188.241.23.156] picked up a Rune 2h sword, location: 2707, 9456
+[Tue Aug 20 14:00:05 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2707, 9456
+[Tue Aug 20 14:00:07 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2707, 9456
+[Tue Aug 20 14:01:03 PDT 2013] Razzz [188.241.23.156] picked up a Rune longsword, location: 2709, 9451
+[Tue Aug 20 14:01:04 PDT 2013] Razzz [188.241.23.156] picked up a Super strength (1), location: 2709, 9451
+[Tue Aug 20 14:01:05 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2709, 9451
+[Tue Aug 20 14:02:09 PDT 2013] Razzz [188.241.23.156] picked up a Soul rune, location: 2709, 9447
+[Tue Aug 20 14:02:10 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2709, 9447
+[Tue Aug 20 14:02:40 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2709, 9450
+[Tue Aug 20 14:02:42 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2709, 9450
+[Tue Aug 20 14:04:05 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2702, 9455
+[Tue Aug 20 14:04:07 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2702, 9455
+[Tue Aug 20 14:05:14 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2707, 9444
+[Tue Aug 20 14:06:16 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2709, 9458
+[Tue Aug 20 14:06:18 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2709, 9458
+[Tue Aug 20 14:07:09 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2698, 9453
+[Tue Aug 20 14:07:10 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2698, 9453
+[Tue Aug 20 14:07:15 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2698, 9453
+[Tue Aug 20 14:07:21 PDT 2013] Razzz [188.241.23.156] picked up a Rune longsword, location: 2698, 9453
+[Tue Aug 20 14:07:32 PDT 2013] Razzz [188.241.23.156] picked up a Rune longsword, location: 2698, 9453
+[Tue Aug 20 14:23:00 PDT 2013] Razzz [188.241.23.156] picked up a Rune sq shield, location: 2708, 9457
+[Tue Aug 20 14:23:01 PDT 2013] Razzz [188.241.23.156] picked up a Chaos rune, location: 2708, 9457
+[Tue Aug 20 14:23:03 PDT 2013] Razzz [188.241.23.156] picked up a Super strength (1), location: 2708, 9457
+[Tue Aug 20 14:23:05 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2708, 9457
+[Tue Aug 20 14:24:01 PDT 2013] Razzz [188.241.23.156] picked up a Rune battleaxe, location: 2699, 9449
+[Tue Aug 20 14:24:02 PDT 2013] Razzz [188.241.23.156] picked up a Crimson charm, location: 2699, 9449
+[Tue Aug 20 14:24:04 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2699, 9449
+[Tue Aug 20 14:24:51 PDT 2013] Razzz [188.241.23.156] picked up a Dragon platelegs, location: 2699, 9450
+[Tue Aug 20 14:24:53 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2699, 9450
+[Tue Aug 20 14:24:56 PDT 2013] Razzz [188.241.23.156] picked up a Iron bar, location: 2699, 9450
+[Tue Aug 20 14:24:56 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 2699, 9450
+[Tue Aug 20 14:24:58 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2699, 9450
+[Tue Aug 20 14:24:59 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2699, 9450
+[Tue Aug 20 14:25:53 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2703, 9448
+[Tue Aug 20 14:26:43 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2700, 9448
+[Tue Aug 20 14:27:25 PDT 2013] Razzz [188.241.23.156] picked up a Law rune, location: 2700, 9452
+[Tue Aug 20 14:27:26 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2700, 9452
+[Tue Aug 20 14:28:44 PDT 2013] Razzz [188.241.23.156] picked up a Dragon platelegs, location: 2707, 9455
+[Tue Aug 20 14:28:47 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2707, 9455
+[Tue Aug 20 14:29:37 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2708, 9454
+[Tue Aug 20 14:29:40 PDT 2013] Razzz [188.241.23.156] picked up a Death rune, location: 2708, 9454
+[Tue Aug 20 14:29:42 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2708, 9454
+[Tue Aug 20 14:30:41 PDT 2013] Razzz [188.241.23.156] picked up a Runite limbs, location: 2702, 9460
+[Tue Aug 20 14:30:50 PDT 2013] Razzz [188.241.23.156] picked up a Rune axe, location: 2702, 9460
+[Tue Aug 20 14:30:55 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2702, 9460
+[Tue Aug 20 14:31:35 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2697, 9455
+[Tue Aug 20 14:32:36 PDT 2013] Razzz [188.241.23.156] picked up a Rune battleaxe, location: 2713, 9446
+[Tue Aug 20 14:32:42 PDT 2013] Razzz [188.241.23.156] picked up a Dragon bones, location: 2713, 9446
+[Thu Aug 22 02:43:43 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2856, 9840
+[Thu Aug 22 02:45:41 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2860, 9839
+[Thu Aug 22 02:46:06 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2860, 9838
+[Thu Aug 22 02:46:48 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2856, 9839
+[Thu Aug 22 02:47:40 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9834
+[Thu Aug 22 02:48:07 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2854, 9835
+[Thu Aug 22 02:48:58 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9834
+[Thu Aug 22 02:49:29 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2856, 9840
+[Thu Aug 22 02:51:00 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2861, 9841
+[Thu Aug 22 02:51:20 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2861, 9840
+[Thu Aug 22 02:51:46 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2860, 9838
+[Thu Aug 22 02:52:18 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9835
+[Thu Aug 22 02:52:59 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2855, 9836
+[Thu Aug 22 02:53:24 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2856, 9839
+[Thu Aug 22 02:54:01 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2858, 9835
+[Thu Aug 22 02:54:35 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2855, 9836
+[Thu Aug 22 02:54:59 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2856, 9838
+[Thu Aug 22 02:55:38 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9834
+[Thu Aug 22 02:56:19 PDT 2013] Razzz [188.241.23.156] picked up a Bones, location: 2857, 9835
+[Thu Aug 22 02:56:53 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9836
+[Thu Aug 22 02:57:19 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2855, 9835
+[Thu Aug 22 02:58:03 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2860, 9837
+[Thu Aug 22 02:59:17 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2855, 9837
+[Thu Aug 22 02:59:56 PDT 2013] Razzz [188.241.23.156] picked up a Green charm, location: 2854, 9838
+[Thu Aug 22 03:00:36 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2855, 9835
+[Thu Aug 22 03:01:12 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9840
+[Thu Aug 22 03:01:42 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2861, 9840
+[Thu Aug 22 03:03:51 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2857, 9849
+[Thu Aug 22 03:04:38 PDT 2013] Razzz [188.241.23.156] picked up a Gold charm, location: 2855, 9850

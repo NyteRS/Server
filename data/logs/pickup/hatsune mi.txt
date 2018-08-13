@@ -1,0 +1,2 @@
+[Sun Aug 18 16:37:49 PDT 2013] Hatsune mi [86.169.91.145] picked up a Coins, location: 2845, 10220
+[Sun Aug 18 16:38:04 PDT 2013] Hatsune mi [86.169.91.145] picked up a Coins, location: 2845, 10220

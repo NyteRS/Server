@@ -1,0 +1,2004 @@
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM badplayers where username = 'lukasio' and type = 2
+
+SELECT * from characters  order BY ID DESC LIMIT 1
+
+SELECT * from characters where ID=165031
+
+SELECT * from web_login where ID = 165031
+
+INSERT INTO web_login (userid, password, ID) VALUEs('lukasio', 'p15131408','165031')
+
+INSERT INTO characters (username, password, ID) VALUEs('lukasio', 'p15131408','165031')
+
+insert into playersonlinelog (count, time) values ('1', '1356191282218')
+
+insert into playersonlinelog (count, time) values ('1', '1356191342218')
+
+insert into playersonlinelog (count, time) values ('1', '1356191402220')
+
+insert into playersonlinelog (count, time) values ('1', '1356191462221')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM badplayers where username = 'lukasio' and type = 2
+
+SELECT * from characters where username='lukasio'
+
+SELECT * FROM badplayers where username = 'lukasio5' and type = 2
+
+SELECT * from characters where username='lukasio5'
+
+SELECT * from characters  order BY ID DESC LIMIT 1
+
+SELECT * from characters where ID=165121
+
+SELECT * from web_login where ID = 165121
+
+INSERT INTO web_login (userid, password, ID) VALUEs('lukasio5', 'p151314085','165121')
+
+INSERT INTO characters (username, password, ID) VALUEs('lukasio5', 'p151314085','165121')
+
+SELECT * FROM votes WHERE authcode = in31sij5
+
+insert into playersonlinelog (count, time) values ('1', '1356191553409')
+
+insert into playersonlinelog (count, time) values ('1', '1356191613409')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM badplayers where username = 'lukasio5' and type = 2
+
+SELECT * from characters where username='lukasio5'
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM badplayers where username = 'lukasio5' and type = 2
+
+SELECT * from characters where username='lukasio5'
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM badplayers where username = 'lukasio5' and type = 2
+
+SELECT * from characters where username='lukasio5'
+
+SELECT * FROM votes WHERE authcode = 'in31sij5'
+
+DELETE FROM votes WHERE authcode = 'in31sij5'
+
+SELECT * FROM votes WHERE authcode = 'in31sij5'
+
+insert into playersonlinelog (count, time) values ('1', '1356191847871')
+
+insert into playersonlinelog (count, time) values ('1', '1356191907866')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+insert into playersonlinelog (count, time) values ('0', '1356208386544')
+
+insert into playersonlinelog (count, time) values ('0', '1356208446545')
+
+insert into playersonlinelog (count, time) values ('0', '1356208506547')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+insert into playersonlinelog (count, time) values ('0', '1356208604557')
+
+insert into playersonlinelog (count, time) values ('0', '1356208664557')
+
+insert into playersonlinelog (count, time) values ('0', '1356208724559')
+
+insert into playersonlinelog (count, time) values ('0', '1356208784562')
+
+insert into playersonlinelog (count, time) values ('0', '1356208844854')
+
+insert into playersonlinelog (count, time) values ('0', '1356208904855')
+
+insert into playersonlinelog (count, time) values ('0', '1356208964856')
+
+insert into playersonlinelog (count, time) values ('0', '1356209024859')
+
+insert into playersonlinelog (count, time) values ('0', '1356209084860')
+
+insert into playersonlinelog (count, time) values ('0', '1356209144862')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * from characters where username='dfggf'
+
+SELECT * from characters  order BY ID DESC LIMIT 1
+
+SELECT * from characters where ID=12956
+
+SELECT * from web_login where ID = 12956
+
+SELECT * from web_login where ID = 12957
+
+SELECT * from web_login where ID = 12958
+
+SELECT * from web_login where ID = 12959
+
+SELECT * from web_login where ID = 12960
+
+SELECT * from web_login where ID = 12961
+
+SELECT * from web_login where ID = 12962
+
+SELECT * from web_login where ID = 12963
+
+SELECT * from web_login where ID = 12964
+
+SELECT * from web_login where ID = 12965
+
+SELECT * from web_login where ID = 12966
+
+SELECT * from web_login where ID = 12967
+
+SELECT * from web_login where ID = 12968
+
+SELECT * from web_login where ID = 12969
+
+SELECT * from web_login where ID = 12970
+
+SELECT * from web_login where ID = 12971
+
+SELECT * from web_login where ID = 12972
+
+SELECT * from web_login where ID = 12973
+
+SELECT * from web_login where ID = 12974
+
+INSERT INTO web_login (userid, password, ID) VALUEs('dfggf', 'fdgf','12974')
+
+INSERT INTO characters (username, password, ID) VALUEs('dfggf', 'fdgf','12974')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * from characters where username='dfggf'
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+insert into playersonlinelog (count, time) values ('0', '1356220647326')
+
+insert into playersonlinelog (count, time) values ('0', '1356220707327')
+
+insert into playersonlinelog (count, time) values ('0', '1356220767328')
+
+insert into playersonlinelog (count, time) values ('0', '1356220827330')
+
+insert into playersonlinelog (count, time) values ('0', '1356220887636')
+
+insert into playersonlinelog (count, time) values ('0', '1356220947639')
+
+insert into playersonlinelog (count, time) values ('0', '1356221007641')
+
+insert into playersonlinelog (count, time) values ('0', '1356221067644')
+
+insert into playersonlinelog (count, time) values ('0', '1356221127646')
+
+insert into playersonlinelog (count, time) values ('0', '1356221187670')
+
+insert into playersonlinelog (count, time) values ('0', '1356221247672')
+
+insert into playersonlinelog (count, time) values ('0', '1356221307674')
+
+insert into playersonlinelog (count, time) values ('0', '1356221367676')
+
+insert into playersonlinelog (count, time) values ('0', '1356221427678')
+
+insert into playersonlinelog (count, time) values ('0', '1356221487694')
+
+insert into playersonlinelog (count, time) values ('0', '1356221547696')
+
+insert into playersonlinelog (count, time) values ('0', '1356221607699')
+
+insert into playersonlinelog (count, time) values ('0', '1356221667701')
+
+insert into playersonlinelog (count, time) values ('0', '1356221727702')
+
+insert into playersonlinelog (count, time) values ('0', '1356221787705')
+
+insert into playersonlinelog (count, time) values ('0', '1356221847706')
+
+insert into playersonlinelog (count, time) values ('0', '1356221907709')
+
+insert into playersonlinelog (count, time) values ('0', '1356221967710')
+
+insert into playersonlinelog (count, time) values ('0', '1356222027712')
+
+insert into playersonlinelog (count, time) values ('0', '1356222087714')
+
+insert into playersonlinelog (count, time) values ('0', '1356222147714')
+
+insert into playersonlinelog (count, time) values ('0', '1356222207716')
+
+insert into playersonlinelog (count, time) values ('0', '1356222267717')
+
+insert into playersonlinelog (count, time) values ('0', '1356222327720')
+
+insert into playersonlinelog (count, time) values ('0', '1356222387722')
+
+insert into playersonlinelog (count, time) values ('0', '1356222447724')
+
+insert into playersonlinelog (count, time) values ('0', '1356222507726')
+
+insert into playersonlinelog (count, time) values ('0', '1356222567728')
+
+insert into playersonlinelog (count, time) values ('0', '1356222627731')
+
+insert into playersonlinelog (count, time) values ('0', '1356222687732')
+
+insert into playersonlinelog (count, time) values ('0', '1356222747734')
+
+insert into playersonlinelog (count, time) values ('0', '1356222807735')
+
+insert into playersonlinelog (count, time) values ('0', '1356222867738')
+
+insert into playersonlinelog (count, time) values ('0', '1356222927739')
+
+insert into playersonlinelog (count, time) values ('0', '1356222987741')
+
+insert into playersonlinelog (count, time) values ('0', '1356223047743')
+
+insert into playersonlinelog (count, time) values ('0', '1356223107745')
+
+insert into playersonlinelog (count, time) values ('0', '1356223167747')
+
+insert into playersonlinelog (count, time) values ('0', '1356223227749')
+
+insert into playersonlinelog (count, time) values ('0', '1356223287752')
+
+insert into playersonlinelog (count, time) values ('0', '1356223347754')
+
+insert into playersonlinelog (count, time) values ('0', '1356223407755')
+
+insert into playersonlinelog (count, time) values ('0', '1356223467758')
+
+insert into playersonlinelog (count, time) values ('0', '1356223527759')
+
+insert into playersonlinelog (count, time) values ('0', '1356223587761')
+
+insert into playersonlinelog (count, time) values ('0', '1356223647767')
+
+insert into playersonlinelog (count, time) values ('0', '1356223707770')
+
+insert into playersonlinelog (count, time) values ('0', '1356223767771')
+
+insert into playersonlinelog (count, time) values ('0', '1356223827773')
+
+insert into playersonlinelog (count, time) values ('0', '1356223887775')
+
+insert into playersonlinelog (count, time) values ('0', '1356223947776')
+
+insert into playersonlinelog (count, time) values ('0', '1356224007778')
+
+insert into playersonlinelog (count, time) values ('0', '1356224067778')
+
+insert into playersonlinelog (count, time) values ('0', '1356224127781')
+
+insert into playersonlinelog (count, time) values ('0', '1356224187782')
+
+insert into playersonlinelog (count, time) values ('0', '1356224247783')
+
+insert into playersonlinelog (count, time) values ('0', '1356224307785')
+
+insert into playersonlinelog (count, time) values ('0', '1356224367787')
+
+insert into playersonlinelog (count, time) values ('0', '1356224427790')
+
+insert into playersonlinelog (count, time) values ('0', '1356224487792')
+
+insert into playersonlinelog (count, time) values ('0', '1356224547794')
+
+insert into playersonlinelog (count, time) values ('0', '1356224607796')
+
+insert into playersonlinelog (count, time) values ('0', '1356224667798')
+
+insert into playersonlinelog (count, time) values ('0', '1356224727800')
+
+insert into playersonlinelog (count, time) values ('0', '1356224787804')
+
+insert into playersonlinelog (count, time) values ('0', '1356224847807')
+
+insert into playersonlinelog (count, time) values ('0', '1356224907809')
+
+insert into playersonlinelog (count, time) values ('0', '1356224967812')
+
+insert into playersonlinelog (count, time) values ('0', '1356225027814')
+
+insert into playersonlinelog (count, time) values ('0', '1356225087815')
+
+insert into playersonlinelog (count, time) values ('0', '1356225147818')
+
+insert into playersonlinelog (count, time) values ('0', '1356225207819')
+
+insert into playersonlinelog (count, time) values ('0', '1356225267821')
+
+insert into playersonlinelog (count, time) values ('0', '1356225327823')
+
+insert into playersonlinelog (count, time) values ('0', '1356225387825')
+
+insert into playersonlinelog (count, time) values ('0', '1356225447827')
+
+insert into playersonlinelog (count, time) values ('0', '1356225507828')
+
+insert into playersonlinelog (count, time) values ('0', '1356225567830')
+
+insert into playersonlinelog (count, time) values ('0', '1356225627832')
+
+insert into playersonlinelog (count, time) values ('0', '1356225687834')
+
+insert into playersonlinelog (count, time) values ('0', '1356225747836')
+
+insert into playersonlinelog (count, time) values ('0', '1356225807839')
+
+insert into playersonlinelog (count, time) values ('0', '1356225867841')
+
+insert into playersonlinelog (count, time) values ('0', '1356225927842')
+
+insert into playersonlinelog (count, time) values ('0', '1356225987844')
+
+insert into playersonlinelog (count, time) values ('0', '1356226047845')
+
+insert into playersonlinelog (count, time) values ('0', '1356226107847')
+
+insert into playersonlinelog (count, time) values ('0', '1356226167848')
+
+insert into playersonlinelog (count, time) values ('0', '1356226227850')
+
+insert into playersonlinelog (count, time) values ('0', '1356226287852')
+
+insert into playersonlinelog (count, time) values ('0', '1356226347853')
+
+insert into playersonlinelog (count, time) values ('0', '1356226407856')
+
+insert into playersonlinelog (count, time) values ('0', '1356226467858')
+
+insert into playersonlinelog (count, time) values ('0', '1356226527860')
+
+insert into playersonlinelog (count, time) values ('0', '1356226587862')
+
+insert into playersonlinelog (count, time) values ('0', '1356226647863')
+
+insert into playersonlinelog (count, time) values ('0', '1356226707865')
+
+insert into playersonlinelog (count, time) values ('0', '1356226767866')
+
+insert into playersonlinelog (count, time) values ('0', '1356226827869')
+
+insert into playersonlinelog (count, time) values ('0', '1356226887870')
+
+insert into playersonlinelog (count, time) values ('0', '1356226947873')
+
+insert into playersonlinelog (count, time) values ('0', '1356227007874')
+
+insert into playersonlinelog (count, time) values ('1', '1356227067877')
+
+insert into playersonlinelog (count, time) values ('1', '1356227127879')
+
+insert into playersonlinelog (count, time) values ('1', '1356227187880')
+
+insert into playersonlinelog (count, time) values ('1', '1356227247882')
+
+insert into playersonlinelog (count, time) values ('1', '1356227307883')
+
+insert into playersonlinelog (count, time) values ('1', '1356227367886')
+
+insert into playersonlinelog (count, time) values ('1', '1356227427888')
+
+insert into playersonlinelog (count, time) values ('1', '1356227487891')
+
+insert into playersonlinelog (count, time) values ('1', '1356227547893')
+
+insert into playersonlinelog (count, time) values ('1', '1356227607896')
+
+insert into playersonlinelog (count, time) values ('1', '1356227667898')
+
+insert into playersonlinelog (count, time) values ('1', '1356227727899')
+
+insert into playersonlinelog (count, time) values ('1', '1356227787901')
+
+insert into playersonlinelog (count, time) values ('1', '1356227847902')
+
+insert into playersonlinelog (count, time) values ('1', '1356227907904')
+
+insert into playersonlinelog (count, time) values ('1', '1356227967906')
+
+insert into playersonlinelog (count, time) values ('1', '1356228027909')
+
+insert into playersonlinelog (count, time) values ('1', '1356228087911')
+
+insert into playersonlinelog (count, time) values ('1', '1356228147913')
+
+insert into playersonlinelog (count, time) values ('1', '1356228207916')
+
+insert into playersonlinelog (count, time) values ('1', '1356228267918')
+
+insert into playersonlinelog (count, time) values ('1', '1356228327921')
+
+insert into playersonlinelog (count, time) values ('1', '1356228387923')
+
+insert into playersonlinelog (count, time) values ('1', '1356228447925')
+
+insert into playersonlinelog (count, time) values ('1', '1356228507926')
+
+insert into playersonlinelog (count, time) values ('1', '1356228567928')
+
+insert into playersonlinelog (count, time) values ('1', '1356228627931')
+
+insert into playersonlinelog (count, time) values ('1', '1356228687933')
+
+insert into playersonlinelog (count, time) values ('1', '1356228747936')
+
+insert into playersonlinelog (count, time) values ('1', '1356228807938')
+
+insert into playersonlinelog (count, time) values ('1', '1356228867941')
+
+insert into playersonlinelog (count, time) values ('0', '1356228927943')
+
+insert into playersonlinelog (count, time) values ('0', '1356228987945')
+
+insert into playersonlinelog (count, time) values ('0', '1356229047947')
+
+insert into playersonlinelog (count, time) values ('0', '1356229107949')
+
+insert into playersonlinelog (count, time) values ('0', '1356229167952')
+
+insert into playersonlinelog (count, time) values ('0', '1356229227954')
+
+insert into playersonlinelog (count, time) values ('0', '1356229287956')
+
+insert into playersonlinelog (count, time) values ('0', '1356229347957')
+
+insert into playersonlinelog (count, time) values ('0', '1356229407958')
+
+insert into playersonlinelog (count, time) values ('0', '1356229467961')
+
+insert into playersonlinelog (count, time) values ('0', '1356229527963')
+
+insert into playersonlinelog (count, time) values ('0', '1356229587965')
+
+insert into playersonlinelog (count, time) values ('0', '1356229647968')
+
+insert into playersonlinelog (count, time) values ('0', '1356229707970')
+
+insert into playersonlinelog (count, time) values ('0', '1356229767971')
+
+insert into playersonlinelog (count, time) values ('0', '1356229827973')
+
+insert into playersonlinelog (count, time) values ('0', '1356229887976')
+
+insert into playersonlinelog (count, time) values ('0', '1356229947978')
+
+insert into playersonlinelog (count, time) values ('0', '1356230007981')
+
+insert into playersonlinelog (count, time) values ('0', '1356230067982')
+
+insert into playersonlinelog (count, time) values ('0', '1356230127984')
+
+insert into playersonlinelog (count, time) values ('0', '1356230187985')
+
+insert into playersonlinelog (count, time) values ('0', '1356230247987')
+
+insert into playersonlinelog (count, time) values ('0', '1356230307989')
+
+insert into playersonlinelog (count, time) values ('0', '1356230367990')
+
+insert into playersonlinelog (count, time) values ('0', '1356230427993')
+
+insert into playersonlinelog (count, time) values ('0', '1356230487994')
+
+insert into playersonlinelog (count, time) values ('0', '1356230547996')
+
+insert into playersonlinelog (count, time) values ('0', '1356230607998')
+
+insert into playersonlinelog (count, time) values ('0', '1356230668001')
+
+insert into playersonlinelog (count, time) values ('0', '1356230728003')
+
+insert into playersonlinelog (count, time) values ('0', '1356230788005')
+
+insert into playersonlinelog (count, time) values ('0', '1356230848008')
+
+insert into playersonlinelog (count, time) values ('0', '1356230908010')
+
+insert into playersonlinelog (count, time) values ('0', '1356230968012')
+
+insert into playersonlinelog (count, time) values ('0', '1356231028014')
+
+insert into playersonlinelog (count, time) values ('0', '1356231088016')
+
+insert into playersonlinelog (count, time) values ('0', '1356231148018')
+
+insert into playersonlinelog (count, time) values ('0', '1356231208019')
+
+insert into playersonlinelog (count, time) values ('0', '1356231268022')
+
+insert into playersonlinelog (count, time) values ('0', '1356231328023')
+
+insert into playersonlinelog (count, time) values ('0', '1356231388026')
+
+insert into playersonlinelog (count, time) values ('0', '1356231448027')
+
+insert into playersonlinelog (count, time) values ('0', '1356231508029')
+
+insert into playersonlinelog (count, time) values ('0', '1356231568030')
+
+insert into playersonlinelog (count, time) values ('0', '1356231628031')
+
+insert into playersonlinelog (count, time) values ('0', '1356231688033')
+
+insert into playersonlinelog (count, time) values ('0', '1356231748035')
+
+insert into playersonlinelog (count, time) values ('0', '1356231808040')
+
+insert into playersonlinelog (count, time) values ('0', '1356231868042')
+
+insert into playersonlinelog (count, time) values ('0', '1356231928044')
+
+insert into playersonlinelog (count, time) values ('0', '1356231988046')
+
+insert into playersonlinelog (count, time) values ('0', '1356232048047')
+
+insert into playersonlinelog (count, time) values ('0', '1356232108054')
+
+insert into playersonlinelog (count, time) values ('0', '1356232168056')
+
+insert into playersonlinelog (count, time) values ('0', '1356232228058')
+
+insert into playersonlinelog (count, time) values ('0', '1356232288059')
+
+insert into playersonlinelog (count, time) values ('0', '1356232348062')
+
+insert into playersonlinelog (count, time) values ('0', '1356232408063')
+
+insert into playersonlinelog (count, time) values ('0', '1356232468066')
+
+insert into playersonlinelog (count, time) values ('0', '1356232528067')
+
+insert into playersonlinelog (count, time) values ('0', '1356232588069')
+
+insert into playersonlinelog (count, time) values ('0', '1356232648071')
+
+insert into playersonlinelog (count, time) values ('0', '1356232708073')
+
+insert into playersonlinelog (count, time) values ('0', '1356232768075')
+
+insert into playersonlinelog (count, time) values ('0', '1356232828076')
+
+insert into playersonlinelog (count, time) values ('0', '1356232888079')
+
+insert into playersonlinelog (count, time) values ('0', '1356232948080')
+
+insert into playersonlinelog (count, time) values ('0', '1356233008082')
+
+insert into playersonlinelog (count, time) values ('0', '1356233068084')
+
+insert into playersonlinelog (count, time) values ('0', '1356233128086')
+
+insert into playersonlinelog (count, time) values ('0', '1356233188089')
+
+insert into playersonlinelog (count, time) values ('0', '1356233248090')
+
+insert into playersonlinelog (count, time) values ('0', '1356233308093')
+
+insert into playersonlinelog (count, time) values ('0', '1356233368094')
+
+insert into playersonlinelog (count, time) values ('0', '1356233428095')
+
+insert into playersonlinelog (count, time) values ('0', '1356233488097')
+
+insert into playersonlinelog (count, time) values ('0', '1356233548098')
+
+insert into playersonlinelog (count, time) values ('0', '1356233608101')
+
+insert into playersonlinelog (count, time) values ('0', '1356233668102')
+
+insert into playersonlinelog (count, time) values ('0', '1356233728105')
+
+insert into playersonlinelog (count, time) values ('0', '1356233788107')
+
+insert into playersonlinelog (count, time) values ('0', '1356233848108')
+
+insert into playersonlinelog (count, time) values ('0', '1356233908110')
+
+insert into playersonlinelog (count, time) values ('0', '1356233968112')
+
+insert into playersonlinelog (count, time) values ('0', '1356239377515')
+
+insert into playersonlinelog (count, time) values ('0', '1356270492427')
+
+insert into playersonlinelog (count, time) values ('0', '1356270552428')
+
+insert into playersonlinelog (count, time) values ('0', '1356270612430')
+
+insert into playersonlinelog (count, time) values ('0', '1356270672433')
+
+insert into playersonlinelog (count, time) values ('0', '1356270732434')
+
+insert into playersonlinelog (count, time) values ('0', '1356270792726')
+
+insert into playersonlinelog (count, time) values ('0', '1356270852728')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+insert into playersonlinelog (count, time) values ('0', '1356271017018')
+
+SELECT * FROM badplayers where username = 'lukas' and type = 2
+
+SELECT * from characters where username='lukas'
+
+insert into playersonlinelog (count, time) values ('1', '1356271076728')
+
+insert into playersonlinelog (count, time) values ('1', '1356271136729')
+
+SELECT * FROM shops
+
+SELECT * FROM npcdrops
+
+SELECT * FROM npcdefinitions
+
+SELECT * FROM npcattacks
+
+SELECT * FROM npcemotions
+
+SELECT * FROM npcspawns
+
+SELECT * FROM badplayers where username = 'lukas' and type = 2
+
+SELECT * from characters where username='lukas'
+
+insert into playersonlinelog (count, time) values ('1', '1356271269364')
+
+insert into playersonlinelog (count, time) values ('1', '1356271329364')
+
+insert into playersonlinelog (count, time) values ('1', '1356271389366')
+
+insert into playersonlinelog (count, time) values ('1', '1356271449367')
+
+insert into playersonlinelog (count, time) values ('1', '1356271509369')
+
+insert into playersonlinelog (count, time) values ('1', '1356271569370')
+
+insert into playersonlinelog (count, time) values ('1', '1356271629372')
+
+insert into playersonlinelog (count, time) values ('1', '1356271689373')
+
+insert into playersonlinelog (count, time) values ('1', '1356271749375')
+
+insert into playersonlinelog (count, time) values ('1', '1356271809377')
+
+insert into playersonlinelog (count, time) values ('1', '1356271869379')
+
+insert into playersonlinelog (count, time) values ('1', '1356271929382')
+
+insert into playersonlinelog (count, time) values ('1', '1356271989384')
+
+insert into npcspawns (id, absX, absY, height, rangeX1, rangeX2, rangeY1, rangeY2, walktype, Descrption) value ('553', '3088', '3502', '0', '3088', '3502', '3088', '3502', '1', '')
+
+insert into npcspawns (id, absX, absY, height, rangeX1, rangeX2, rangeY1, rangeY2, walktype, Descrption) value ('7951', '3088', '3501', '0', '3088', '3501', '3088', '3501', '1', '')
+
+insert into playersonlinelog (count, time) values ('1', '1356272049387')
+
+insert into playersonlinelog (count, time) values ('1', '1356272301038')
+
+insert into playersonlinelog (count, time) values ('1', '1356272361038')
+
+insert into playersonlinelog (count, time) values ('1', '1356272421040')
+
+insert into playersonlinelog (count, time) values ('1', '1356272481041')
+
+insert into playersonlinelog (count, time) values ('0', '1356272555449')
+
+insert into playersonlinelog (count, time) values ('0', '1356272615448')
+
+insert into playersonlinelog (count, time) values ('0', '1356272675450')
+
+insert into playersonlinelog (count, time) values ('0', '1356272735453')
+
+insert into playersonlinelog (count, time) values ('0', '1356272795745')
+
+insert into playersonlinelog (count, time) values ('0', '1356272855747')
+
+insert into playersonlinelog (count, time) values ('0', '1356272915748')
+
+insert into playersonlinelog (count, time) values ('0', '1356272975751')
+
+insert into playersonlinelog (count, time) values ('0', '1356273035752')
+
+insert into playersonlinelog (count, time) values ('0', '1356273095755')
+
+insert into playersonlinelog (count, time) values ('0', '1356273155756')
+
+insert into playersonlinelog (count, time) values ('0', '1356273215757')
+
+insert into playersonlinelog (count, time) values ('0', '1356273275760')
+
+insert into playersonlinelog (count, time) values ('0', '1356273335762')
+
+insert into playersonlinelog (count, time) values ('0', '1356273395817')
+
+insert into playersonlinelog (count, time) values ('0', '1356273455819')
+
+insert into playersonlinelog (count, time) values ('0', '1356273515822')
+
+insert into playersonlinelog (count, time) values ('0', '1356273575823')
+
+insert into playersonlinelog (count, time) values ('0', '1356273635824')
+
+insert into playersonlinelog (count, time) values ('0', '1356273695826')
+
+insert into playersonlinelog (count, time) values ('0', '1356273755827')
+
+insert into playersonlinelog (count, time) values ('0', '1356273815829')
+
+insert into playersonlinelog (count, time) values ('1', '1356273875830')
+
+insert into playersonlinelog (count, time) values ('1', '1356273935833')
+
+insert into playersonlinelog (count, time) values ('0', '1356274068394')
+
+insert into playersonlinelog (count, time) values ('0', '1356274128395')
+
+insert into playersonlinelog (count, time) values ('1', '1356274188397')
+
+insert into playersonlinelog (count, time) values ('1', '1356274248399')
+
+insert into playersonlinelog (count, time) values ('1', '1356274308688')
+
+insert into playersonlinelog (count, time) values ('1', '1356274368690')
+
+insert into playersonlinelog (count, time) values ('1', '1356274428693')
+
+insert into playersonlinelog (count, time) values ('1', '1356274488695')
+
+insert into playersonlinelog (count, time) values ('1', '1356274548697')
+
+insert into playersonlinelog (count, time) values ('1', '1356274608698')
+
+insert into playersonlinelog (count, time) values ('1', '1356274668699')
+
+insert into playersonlinelog (count, time) values ('1', '1356274728702')
+
+insert into playersonlinelog (count, time) values ('1', '1356274788704')
+
+insert into playersonlinelog (count, time) values ('1', '1356274848707')
+
+insert into playersonlinelog (count, time) values ('1', '1356274908769')
+
+insert into playersonlinelog (count, time) values ('1', '1356274968772')
+
+insert into playersonlinelog (count, time) values ('1', '1356275028774')
+
+insert into playersonlinelog (count, time) values ('1', '1356275088777')
+
+insert into playersonlinelog (count, time) values ('1', '1356275148779')
+
+insert into playersonlinelog (count, time) values ('1', '1356275208780')
+
+insert into playersonlinelog (count, time) values ('1', '1356275268782')
+
+insert into playersonlinelog (count, time) values ('1', '1356275328783')
+
+insert into playersonlinelog (count, time) values ('1', '1356275388786')
+
+insert into playersonlinelog (count, time) values ('1', '1356275448788')
+
+insert into playersonlinelog (count, time) values ('1', '1356275508791')
+
+insert into playersonlinelog (count, time) values ('1', '1356275568792')
+
+insert into playersonlinelog (count, time) values ('1', '1356275628794')
+
+insert into playersonlinelog (count, time) values ('1', '1356275688797')
+
+insert into playersonlinelog (count, time) values ('1', '1356275748799')
+
+insert into playersonlinelog (count, time) values ('1', '1356275808802')
+
+insert into playersonlinelog (count, time) values ('1', '1356275868803')
+
+insert into playersonlinelog (count, time) values ('1', '1356275928805')
+
+insert into playersonlinelog (count, time) values ('1', '1356275988807')
+
+insert into playersonlinelog (count, time) values ('1', '1356276095568')
+
+insert into playersonlinelog (count, time) values ('0', '1356276191420')
+
+insert into playersonlinelog (count, time) values ('0', '1356276251419')
+
+insert into playersonlinelog (count, time) values ('1', '1356276311420')
+
+insert into playersonlinelog (count, time) values ('1', '1356276400699')
+
+insert into playersonlinelog (count, time) values ('1', '1356276460700')
+
+insert into playersonlinelog (count, time) values ('1', '1356276520701')
+
+insert into playersonlinelog (count, time) values ('1', '1356276628670')
+
+insert into playersonlinelog (count, time) values ('1', '1356276737919')
+
+insert into playersonlinelog (count, time) values ('1', '1356276797918')
+
+insert into playersonlinelog (count, time) values ('1', '1356276857920')
+
+insert into playersonlinelog (count, time) values ('1', '1356276917921')
+
+insert into playersonlinelog (count, time) values ('1', '1356276977923')
+
+insert into playersonlinelog (count, time) values ('1', '1356277037925')
+
+insert into playersonlinelog (count, time) values ('1', '1356277097926')
+
+insert into playersonlinelog (count, time) values ('1', '1356277157928')
+
+insert into playersonlinelog (count, time) values ('1', '1356277217930')
+
+insert into playersonlinelog (count, time) values ('1', '1356277278221')
+
+insert into playersonlinelog (count, time) values ('1', '1356277338221')
+
+insert into playersonlinelog (count, time) values ('1', '1356277398224')
+
+insert into playersonlinelog (count, time) values ('1', '1356277458226')
+
+insert into playersonlinelog (count, time) values ('1', '1356277518228')
+
+insert into playersonlinelog (count, time) values ('1', '1356277578283')
+
+insert into playersonlinelog (count, time) values ('1', '1356277638285')
+
+insert into playersonlinelog (count, time) values ('1', '1356277698287')
+
+insert into playersonlinelog (count, time) values ('1', '1356277758288')
+
+insert into playersonlinelog (count, time) values ('1', '1356277818291')
+
+insert into playersonlinelog (count, time) values ('1', '1356277878293')
+
+insert into playersonlinelog (count, time) values ('1', '1356277938295')
+
+insert into playersonlinelog (count, time) values ('1', '1356277998298')
+
+insert into playersonlinelog (count, time) values ('1', '1356278058300')
+
+insert into playersonlinelog (count, time) values ('1', '1356278118303')
+
+insert into playersonlinelog (count, time) values ('1', '1356278178305')
+
+insert into playersonlinelog (count, time) values ('1', '1356278238308')
+
+insert into playersonlinelog (count, time) values ('1', '1356278298310')
+
+insert into playersonlinelog (count, time) values ('1', '1356278358312')
+
+insert into playersonlinelog (count, time) values ('1', '1356278418313')
+
+insert into playersonlinelog (count, time) values ('1', '1356278478315')
+
+insert into playersonlinelog (count, time) values ('1', '1356278538318')
+
+insert into playersonlinelog (count, time) values ('1', '1356278598320')
+
+insert into playersonlinelog (count, time) values ('1', '1356278658323')
+
+insert into playersonlinelog (count, time) values ('1', '1356278718325')
+
+insert into playersonlinelog (count, time) values ('1', '1356278778328')
+
+insert into playersonlinelog (count, time) values ('1', '1356278838330')
+
+insert into playersonlinelog (count, time) values ('1', '1356278898332')
+
+insert into playersonlinelog (count, time) values ('1', '1356278958334')
+
+insert into playersonlinelog (count, time) values ('1', '1356279018335')
+
+insert into playersonlinelog (count, time) values ('1', '1356279078338')
+
+insert into playersonlinelog (count, time) values ('1', '1356279138340')
+
+insert into playersonlinelog (count, time) values ('1', '1356279198343')
+
+insert into playersonlinelog (count, time) values ('1', '1356279258345')
+
+insert into playersonlinelog (count, time) values ('1', '1356279318347')
+
+insert into playersonlinelog (count, time) values ('1', '1356279378350')
+
+insert into playersonlinelog (count, time) values ('1', '1356279438352')
+
+insert into playersonlinelog (count, time) values ('1', '1356279498355')
+
+insert into playersonlinelog (count, time) values ('1', '1356279558356')
+
+insert into playersonlinelog (count, time) values ('1', '1356279618357')
+
+insert into playersonlinelog (count, time) values ('1', '1356279678359')
+
+insert into playersonlinelog (count, time) values ('1', '1356279738361')
+
+insert into playersonlinelog (count, time) values ('1', '1356279798364')
+
+insert into playersonlinelog (count, time) values ('1', '1356279858366')
+
+insert into playersonlinelog (count, time) values ('1', '1356279918369')
+
+insert into playersonlinelog (count, time) values ('1', '1356279978371')
+
+insert into playersonlinelog (count, time) values ('1', '1356280038374')
+
+insert into playersonlinelog (count, time) values ('1', '1356280098376')
+
+insert into playersonlinelog (count, time) values ('1', '1356280158378')
+
+insert into playersonlinelog (count, time) values ('1', '1356280218380')
+
+insert into playersonlinelog (count, time) values ('1', '1356280278381')
+
+insert into playersonlinelog (count, time) values ('1', '1356280338384')
+
+insert into playersonlinelog (count, time) values ('1', '1356280398386')
+
+insert into playersonlinelog (count, time) values ('1', '1356280458389')
+
+insert into playersonlinelog (count, time) values ('1', '1356280518391')
+
+insert into playersonlinelog (count, time) values ('1', '1356280578393')
+
+insert into playersonlinelog (count, time) values ('1', '1356280638396')
+
+insert into playersonlinelog (count, time) values ('1', '1356280698398')
+
+insert into playersonlinelog (count, time) values ('1', '1356280758401')
+
+insert into playersonlinelog (count, time) values ('1', '1356280818402')
+
+insert into playersonlinelog (count, time) values ('1', '1356280878404')
+
+insert into playersonlinelog (count, time) values ('1', '1356280938406')
+
+insert into playersonlinelog (count, time) values ('1', '1356280998409')
+
+insert into playersonlinelog (count, time) values ('1', '1356281058411')
+
+insert into playersonlinelog (count, time) values ('1', '1356281118413')
+
+insert into playersonlinelog (count, time) values ('1', '1356281178416')
+
+insert into playersonlinelog (count, time) values ('1', '1356281238418')
+
+insert into playersonlinelog (count, time) values ('1', '1356281298421')
+
+insert into playersonlinelog (count, time) values ('1', '1356281358423')
+
+insert into playersonlinelog (count, time) values ('1', '1356281418425')
+
+insert into playersonlinelog (count, time) values ('1', '1356281478426')
+
+insert into playersonlinelog (count, time) values ('1', '1356281538427')
+
+insert into playersonlinelog (count, time) values ('1', '1356281598430')
+
+insert into playersonlinelog (count, time) values ('1', '1356281658432')
+
+insert into playersonlinelog (count, time) values ('1', '1356281718435')
+
+insert into playersonlinelog (count, time) values ('1', '1356281778437')
+
+insert into playersonlinelog (count, time) values ('1', '1356281838440')
+
+insert into playersonlinelog (count, time) values ('1', '1356281898441')
+
+insert into playersonlinelog (count, time) values ('1', '1356281958443')
+
+insert into playersonlinelog (count, time) values ('1', '1356282018445')
+
+insert into playersonlinelog (count, time) values ('1', '1356282078446')
+
+insert into playersonlinelog (count, time) values ('1', '1356282138448')
+
+insert into playersonlinelog (count, time) values ('1', '1356282198450')
+
+insert into playersonlinelog (count, time) values ('1', '1356282258453')
+
+insert into playersonlinelog (count, time) values ('1', '1356282318455')
+
+insert into playersonlinelog (count, time) values ('1', '1356282378457')
+
+insert into playersonlinelog (count, time) values ('1', '1356282438460')
+
+insert into playersonlinelog (count, time) values ('1', '1356282498462')
+
+insert into playersonlinelog (count, time) values ('1', '1356282558465')
+
+insert into playersonlinelog (count, time) values ('1', '1356282618467')
+
+insert into playersonlinelog (count, time) values ('1', '1356282678470')
+
+insert into playersonlinelog (count, time) values ('1', '1356282738471')
+
+insert into playersonlinelog (count, time) values ('1', '1356282798472')
+
+insert into playersonlinelog (count, time) values ('1', '1356282858475')
+
+insert into playersonlinelog (count, time) values ('1', '1356282918477')
+
+insert into playersonlinelog (count, time) values ('1', '1356282978480')
+
+insert into playersonlinelog (count, time) values ('1', '1356283038482')
+
+insert into playersonlinelog (count, time) values ('1', '1356283098485')
+
+insert into playersonlinelog (count, time) values ('1', '1356283158487')
+
+insert into playersonlinelog (count, time) values ('1', '1356283218489')
+
+insert into playersonlinelog (count, time) values ('1', '1356283278492')
+
+insert into playersonlinelog (count, time) values ('1', '1356283338493')
+
+insert into playersonlinelog (count, time) values ('1', '1356283398496')
+
+insert into playersonlinelog (count, time) values ('1', '1356283458498')
+
+insert into playersonlinelog (count, time) values ('1', '1356283518501')
+
+insert into playersonlinelog (count, time) values ('1', '1356283578503')
+
+insert into playersonlinelog (count, time) values ('1', '1356283638506')
+
+insert into playersonlinelog (count, time) values ('1', '1356283698508')
+
+insert into playersonlinelog (count, time) values ('1', '1356283758510')
+
+insert into playersonlinelog (count, time) values ('1', '1356283818513')
+
+insert into playersonlinelog (count, time) values ('1', '1356283878515')
+
+insert into playersonlinelog (count, time) values ('1', '1356283938518')
+
+insert into playersonlinelog (count, time) values ('1', '1356283998519')
+
+insert into playersonlinelog (count, time) values ('1', '1356284058522')
+
+insert into playersonlinelog (count, time) values ('1', '1356284118524')
+
+insert into playersonlinelog (count, time) values ('1', '1356284178526')
+
+insert into playersonlinelog (count, time) values ('1', '1356284238529')
+
+insert into playersonlinelog (count, time) values ('1', '1356284298531')
+
+insert into playersonlinelog (count, time) values ('1', '1356284358534')
+
+insert into playersonlinelog (count, time) values ('1', '1356284418536')
+
+insert into playersonlinelog (count, time) values ('1', '1356284478539')
+
+insert into playersonlinelog (count, time) values ('1', '1356284538540')
+
+insert into playersonlinelog (count, time) values ('1', '1356284598540')
+
+insert into playersonlinelog (count, time) values ('1', '1356284658543')
+
+insert into playersonlinelog (count, time) values ('1', '1356284718545')
+
+insert into playersonlinelog (count, time) values ('1', '1356284778548')
+
+insert into playersonlinelog (count, time) values ('1', '1356284838550')
+
+insert into playersonlinelog (count, time) values ('1', '1356284898553')
+
+insert into playersonlinelog (count, time) values ('1', '1356284958555')
+
+insert into playersonlinelog (count, time) values ('1', '1356285018557')
+
+insert into playersonlinelog (count, time) values ('1', '1356285078560')
+
+insert into playersonlinelog (count, time) values ('1', '1356285138562')
+
+insert into playersonlinelog (count, time) values ('1', '1356285198564')
+
+insert into playersonlinelog (count, time) values ('1', '1356285258565')
+
+insert into playersonlinelog (count, time) values ('1', '1356285318568')
+
+insert into playersonlinelog (count, time) values ('1', '1356285378570')
+
+insert into playersonlinelog (count, time) values ('1', '1356285438572')
+
+insert into playersonlinelog (count, time) values ('1', '1356285498575')
+
+insert into playersonlinelog (count, time) values ('1', '1356285558577')
+
+insert into playersonlinelog (count, time) values ('1', '1356285618580')
+
+insert into playersonlinelog (count, time) values ('1', '1356285678582')
+
+insert into playersonlinelog (count, time) values ('1', '1356285738585')
+
+insert into playersonlinelog (count, time) values ('1', '1356285798586')
+
+insert into playersonlinelog (count, time) values ('1', '1356285858587')
+
+insert into playersonlinelog (count, time) values ('1', '1356285918589')
+
+insert into playersonlinelog (count, time) values ('1', '1356285978591')
+
+insert into playersonlinelog (count, time) values ('1', '1356286038594')
+
+insert into playersonlinelog (count, time) values ('1', '1356286098596')
+
+insert into playersonlinelog (count, time) values ('1', '1356286158599')
+
+insert into playersonlinelog (count, time) values ('1', '1356286218601')
+
+insert into playersonlinelog (count, time) values ('1', '1356286278604')
+
+insert into playersonlinelog (count, time) values ('1', '1356286338606')
+
+insert into playersonlinelog (count, time) values ('1', '1356286398608')
+
+insert into playersonlinelog (count, time) values ('1', '1356286458610')
+
+insert into playersonlinelog (count, time) values ('1', '1356286518611')
+
+insert into playersonlinelog (count, time) values ('1', '1356286578614')
+
+insert into playersonlinelog (count, time) values ('1', '1356286638616')
+
+insert into playersonlinelog (count, time) values ('1', '1356286698619')
+
+insert into playersonlinelog (count, time) values ('1', '1356286758621')
+
+insert into playersonlinelog (count, time) values ('1', '1356286818623')
+
+insert into playersonlinelog (count, time) values ('1', '1356286878626')
+
+insert into playersonlinelog (count, time) values ('1', '1356286938628')
+
+insert into playersonlinelog (count, time) values ('1', '1356286998631')
+
+insert into playersonlinelog (count, time) values ('1', '1356287058633')
+
+insert into playersonlinelog (count, time) values ('1', '1356287118635')
+
+insert into playersonlinelog (count, time) values ('1', '1356287178637')
+
+insert into playersonlinelog (count, time) values ('1', '1356287238639')
+
+insert into playersonlinelog (count, time) values ('1', '1356287298642')
+
+insert into playersonlinelog (count, time) values ('1', '1356287358644')
+
+insert into playersonlinelog (count, time) values ('1', '1356287418647')
+
+insert into playersonlinelog (count, time) values ('1', '1356287478649')
+
+insert into playersonlinelog (count, time) values ('1', '1356287538652')
+
+insert into playersonlinelog (count, time) values ('1', '1356287598654')
+
+insert into playersonlinelog (count, time) values ('1', '1356287658655')
+
+insert into playersonlinelog (count, time) values ('1', '1356287718657')
+
+insert into playersonlinelog (count, time) values ('1', '1356287778658')
+
+insert into playersonlinelog (count, time) values ('1', '1356287838661')
+
+insert into playersonlinelog (count, time) values ('1', '1356287898663')
+
+insert into playersonlinelog (count, time) values ('1', '1356287958666')
+
+insert into playersonlinelog (count, time) values ('1', '1356288018668')
+
+insert into playersonlinelog (count, time) values ('1', '1356288078670')
+
+insert into playersonlinelog (count, time) values ('1', '1356288138673')
+
+insert into playersonlinelog (count, time) values ('1', '1356288198675')
+
+insert into playersonlinelog (count, time) values ('1', '1356288258678')
+
+insert into playersonlinelog (count, time) values ('1', '1356288318680')
+
+insert into playersonlinelog (count, time) values ('1', '1356288378682')
+
+insert into playersonlinelog (count, time) values ('1', '1356288438684')
+
+insert into playersonlinelog (count, time) values ('1', '1356288498687')
+
+insert into playersonlinelog (count, time) values ('1', '1356288558689')
+
+insert into playersonlinelog (count, time) values ('1', '1356288618691')
+
+insert into playersonlinelog (count, time) values ('1', '1356288678694')
+
+insert into playersonlinelog (count, time) values ('1', '1356288738696')
+
+insert into playersonlinelog (count, time) values ('1', '1356288798699')
+
+insert into playersonlinelog (count, time) values ('1', '1356288858701')
+
+insert into playersonlinelog (count, time) values ('1', '1356288918703')
+
+insert into playersonlinelog (count, time) values ('1', '1356288978704')
+
+insert into playersonlinelog (count, time) values ('1', '1356289038705')
+
+insert into playersonlinelog (count, time) values ('1', '1356289098708')
+
+insert into playersonlinelog (count, time) values ('1', '1356289158710')
+
+insert into playersonlinelog (count, time) values ('1', '1356289218713')
+
+insert into playersonlinelog (count, time) values ('1', '1356289278715')
+
+insert into playersonlinelog (count, time) values ('1', '1356289338718')
+
+insert into playersonlinelog (count, time) values ('1', '1356289398720')
+
+insert into playersonlinelog (count, time) values ('1', '1356289458722')
+
+insert into playersonlinelog (count, time) values ('1', '1356289518725')
+
+insert into playersonlinelog (count, time) values ('1', '1356289578726')
+
+insert into playersonlinelog (count, time) values ('1', '1356289638728')
+
+insert into playersonlinelog (count, time) values ('1', '1356289698730')
+
+insert into playersonlinelog (count, time) values ('1', '1356289758733')
+
+insert into playersonlinelog (count, time) values ('1', '1356289818735')
+
+insert into playersonlinelog (count, time) values ('1', '1356289878737')
+
+insert into playersonlinelog (count, time) values ('1', '1356289938740')
+
+insert into playersonlinelog (count, time) values ('1', '1356289998742')
+
+insert into playersonlinelog (count, time) values ('1', '1356290058745')
+
+insert into playersonlinelog (count, time) values ('1', '1356290118747')
+
+insert into playersonlinelog (count, time) values ('1', '1356290178749')
+
+insert into playersonlinelog (count, time) values ('1', '1356290238750')
+
+insert into playersonlinelog (count, time) values ('1', '1356290298752')
+
+insert into playersonlinelog (count, time) values ('1', '1356290358755')
+
+insert into playersonlinelog (count, time) values ('1', '1356290418757')
+
+insert into playersonlinelog (count, time) values ('1', '1356290478760')
+
+insert into playersonlinelog (count, time) values ('1', '1356290538762')
+
+insert into playersonlinelog (count, time) values ('1', '1356290598765')
+
+insert into playersonlinelog (count, time) values ('1', '1356290658767')
+
+insert into playersonlinelog (count, time) values ('1', '1356290718769')
+
+insert into playersonlinelog (count, time) values ('1', '1356290778772')
+
+insert into playersonlinelog (count, time) values ('1', '1356290838773')
+
+insert into playersonlinelog (count, time) values ('1', '1356290898775')
+
+insert into playersonlinelog (count, time) values ('1', '1356290958777')
+
+insert into playersonlinelog (count, time) values ('1', '1356291018780')
+
+insert into playersonlinelog (count, time) values ('1', '1356291078782')
+
+insert into playersonlinelog (count, time) values ('1', '1356291138785')
+
+insert into playersonlinelog (count, time) values ('1', '1356291198787')
+
+insert into playersonlinelog (count, time) values ('1', '1356291258789')
+
+insert into playersonlinelog (count, time) values ('1', '1356291318792')
+
+insert into playersonlinelog (count, time) values ('1', '1356291378794')
+
+insert into playersonlinelog (count, time) values ('1', '1356291438796')
+
+insert into playersonlinelog (count, time) values ('1', '1356291498797')
+
+insert into playersonlinelog (count, time) values ('1', '1356291558800')
+
+insert into playersonlinelog (count, time) values ('1', '1356291618802')
+
+insert into playersonlinelog (count, time) values ('1', '1356291678804')
+
+insert into playersonlinelog (count, time) values ('1', '1356291738807')
+
+insert into playersonlinelog (count, time) values ('1', '1356291798809')
+
+insert into playersonlinelog (count, time) values ('1', '1356291858812')
+
+insert into playersonlinelog (count, time) values ('1', '1356291918814')
+
+insert into playersonlinelog (count, time) values ('1', '1356291978817')
+
+insert into playersonlinelog (count, time) values ('1', '1356292038818')
+
+insert into playersonlinelog (count, time) values ('1', '1356292098819')
+
+insert into playersonlinelog (count, time) values ('1', '1356292158821')
+
+insert into playersonlinelog (count, time) values ('1', '1356292218823')
+
+insert into playersonlinelog (count, time) values ('1', '1356292278826')
+
+insert into playersonlinelog (count, time) values ('1', '1356292338828')
+
+insert into playersonlinelog (count, time) values ('1', '1356292398831')
+
+insert into playersonlinelog (count, time) values ('1', '1356292458833')
+
+insert into playersonlinelog (count, time) values ('1', '1356292518835')
+
+insert into playersonlinelog (count, time) values ('1', '1356292578838')
+
+insert into playersonlinelog (count, time) values ('1', '1356292638840')
+
+insert into playersonlinelog (count, time) values ('1', '1356292698842')
+
+insert into playersonlinelog (count, time) values ('1', '1356292758843')
+
+insert into playersonlinelog (count, time) values ('1', '1356292818846')
+
+insert into playersonlinelog (count, time) values ('1', '1356292878848')
+
+insert into playersonlinelog (count, time) values ('1', '1356292938850')
+
+insert into playersonlinelog (count, time) values ('1', '1356292998853')
+
+insert into playersonlinelog (count, time) values ('1', '1356293058855')
+
+insert into playersonlinelog (count, time) values ('1', '1356293118858')
+
+insert into playersonlinelog (count, time) values ('1', '1356293178860')
+
+insert into playersonlinelog (count, time) values ('1', '1356293238863')
+
+insert into playersonlinelog (count, time) values ('1', '1356293298865')
+
+insert into playersonlinelog (count, time) values ('1', '1356293358866')
+
+insert into playersonlinelog (count, time) values ('1', '1356293418869')
+
+insert into playersonlinelog (count, time) values ('1', '1356293478871')
+
+insert into playersonlinelog (count, time) values ('1', '1356293538874')
+
+insert into playersonlinelog (count, time) values ('1', '1356293598876')
+
+insert into playersonlinelog (count, time) values ('1', '1356293658879')
+
+insert into playersonlinelog (count, time) values ('1', '1356293718881')
+
+insert into playersonlinelog (count, time) values ('1', '1356293778883')
+
+insert into playersonlinelog (count, time) values ('1', '1356293838886')
+
+insert into playersonlinelog (count, time) values ('1', '1356293898888')
+
+insert into playersonlinelog (count, time) values ('1', '1356293958890')
+
+insert into playersonlinelog (count, time) values ('1', '1356294018891')
+
+insert into playersonlinelog (count, time) values ('1', '1356294078894')
+
+insert into playersonlinelog (count, time) values ('1', '1356294138896')
+
+insert into playersonlinelog (count, time) values ('1', '1356294198898')
+
+insert into playersonlinelog (count, time) values ('1', '1356294258901')
+
+insert into playersonlinelog (count, time) values ('1', '1356294318903')
+
+insert into playersonlinelog (count, time) values ('1', '1356294378906')
+
+insert into playersonlinelog (count, time) values ('1', '1356294438908')
+
+insert into playersonlinelog (count, time) values ('1', '1356294498911')
+
+insert into playersonlinelog (count, time) values ('1', '1356294558913')
+
+insert into playersonlinelog (count, time) values ('1', '1356294618915')
+
+insert into playersonlinelog (count, time) values ('1', '1356294678917')
+
+insert into playersonlinelog (count, time) values ('1', '1356294738918')
+
+insert into playersonlinelog (count, time) values ('1', '1356294798921')
+
+insert into playersonlinelog (count, time) values ('1', '1356294858923')
+
+insert into playersonlinelog (count, time) values ('1', '1356294918925')
+
+insert into playersonlinelog (count, time) values ('1', '1356294978928')
+
+insert into playersonlinelog (count, time) values ('1', '1356295038930')
+
+insert into playersonlinelog (count, time) values ('1', '1356295098933')
+
+insert into playersonlinelog (count, time) values ('1', '1356295158934')
+
+insert into playersonlinelog (count, time) values ('1', '1356295218937')
+
+insert into playersonlinelog (count, time) values ('1', '1356295278938')
+
+insert into playersonlinelog (count, time) values ('1', '1356295338939')
+
+insert into playersonlinelog (count, time) values ('1', '1356295398941')
+
+insert into playersonlinelog (count, time) values ('1', '1356295458942')
+
+insert into playersonlinelog (count, time) values ('1', '1356295518945')
+
+insert into playersonlinelog (count, time) values ('1', '1356295578947')
+
+insert into playersonlinelog (count, time) values ('1', '1356295638950')
+
+insert into playersonlinelog (count, time) values ('1', '1356295698952')
+
+insert into playersonlinelog (count, time) values ('1', '1356295758954')
+
+insert into playersonlinelog (count, time) values ('1', '1356295818957')
+
+insert into playersonlinelog (count, time) values ('1', '1356295878959')
+
+insert into playersonlinelog (count, time) values ('1', '1356295938962')
+
+insert into playersonlinelog (count, time) values ('1', '1356295998963')
+
+insert into playersonlinelog (count, time) values ('1', '1356296058966')
+
+insert into playersonlinelog (count, time) values ('1', '1356296118968')
+
+insert into playersonlinelog (count, time) values ('1', '1356296178970')
+
+insert into playersonlinelog (count, time) values ('1', '1356296238973')
+
+insert into playersonlinelog (count, time) values ('1', '1356296298975')
+
+insert into playersonlinelog (count, time) values ('1', '1356296358978')
+
+insert into playersonlinelog (count, time) values ('1', '1356296418980')
+
+insert into playersonlinelog (count, time) values ('1', '1356296478983')
+
+insert into playersonlinelog (count, time) values ('1', '1356296538984')
+
+insert into playersonlinelog (count, time) values ('1', '1356296598987')
+
+insert into playersonlinelog (count, time) values ('1', '1356296658988')
+
+insert into playersonlinelog (count, time) values ('1', '1356296718990')
+
+insert into playersonlinelog (count, time) values ('1', '1356296778993')
+
+insert into playersonlinelog (count, time) values ('1', '1356296838995')
+
+insert into playersonlinelog (count, time) values ('1', '1356296898998')
+
+insert into playersonlinelog (count, time) values ('1', '1356296959000')
+
+insert into playersonlinelog (count, time) values ('1', '1356297019003')
+
+insert into playersonlinelog (count, time) values ('1', '1356297079005')
+
+insert into playersonlinelog (count, time) values ('1', '1356297139007')
+
+insert into playersonlinelog (count, time) values ('1', '1356297199010')
+
+insert into playersonlinelog (count, time) values ('1', '1356297259011')
+
+insert into playersonlinelog (count, time) values ('1', '1356297368772')
+
+insert into playersonlinelog (count, time) values ('1', '1356297428769')
+
+insert into playersonlinelog (count, time) values ('1', '1356297488770')
+
+insert into playersonlinelog (count, time) values ('1', '1356297548772')
+
+insert into playersonlinelog (count, time) values ('1', '1356297609071')
+
+insert into playersonlinelog (count, time) values ('1', '1356297668778')
+
+insert into playersonlinelog (count, time) values ('1', '1356297728780')
+
+insert into playersonlinelog (count, time) values ('1', '1356297788783')
+
+insert into playersonlinelog (count, time) values ('1', '1356297848785')
+
+insert into playersonlinelog (count, time) values ('1', '1356297909058')
+
+insert into playersonlinelog (count, time) values ('1', '1356297969061')
+
+insert into playersonlinelog (count, time) values ('1', '1356298029062')
+
+insert into playersonlinelog (count, time) values ('1', '1356298089064')
+
+insert into playersonlinelog (count, time) values ('1', '1356298149065')
+
+insert into playersonlinelog (count, time) values ('1', '1356298209132')
+
+insert into playersonlinelog (count, time) values ('1', '1356298269134')
+
+insert into playersonlinelog (count, time) values ('1', '1356298329136')
+
+insert into playersonlinelog (count, time) values ('1', '1356298389139')
+
+insert into playersonlinelog (count, time) values ('1', '1356298449141')
+
+insert into playersonlinelog (count, time) values ('1', '1356298509144')
+
+insert into playersonlinelog (count, time) values ('1', '1356298569145')
+
+insert into playersonlinelog (count, time) values ('1', '1356298629148')
+
+insert into playersonlinelog (count, time) values ('1', '1356298689148')
+
+insert into playersonlinelog (count, time) values ('1', '1356298749150')
+
+insert into playersonlinelog (count, time) values ('1', '1356298809152')
+
+insert into playersonlinelog (count, time) values ('1', '1356298869154')
+
+insert into playersonlinelog (count, time) values ('1', '1356298929157')
+
+insert into playersonlinelog (count, time) values ('1', '1356298989159')
+
+insert into playersonlinelog (count, time) values ('1', '1356299049162')
+
+insert into playersonlinelog (count, time) values ('1', '1356299109164')
+
+insert into playersonlinelog (count, time) values ('1', '1356299169167')
+
+insert into playersonlinelog (count, time) values ('1', '1356299229169')
+
+insert into playersonlinelog (count, time) values ('1', '1356299289171')
+
+insert into playersonlinelog (count, time) values ('1', '1356299349173')
+
+insert into playersonlinelog (count, time) values ('1', '1356299483826')
+
+insert into playersonlinelog (count, time) values ('1', '1356299543827')
+
+insert into playersonlinelog (count, time) values ('1', '1356299603828')
+
+insert into playersonlinelog (count, time) values ('1', '1356299663830')
+
+insert into playersonlinelog (count, time) values ('1', '1356299724137')
+
+insert into playersonlinelog (count, time) values ('1', '1356299783834')
+
+insert into playersonlinelog (count, time) values ('1', '1356299843836')
+
+insert into playersonlinelog (count, time) values ('1', '1356299903839')
+
+insert into playersonlinelog (count, time) values ('1', '1356299963841')
+
+insert into playersonlinelog (count, time) values ('1', '1356300024133')
+
+insert into playersonlinelog (count, time) values ('1', '1356300084135')
+
+insert into playersonlinelog (count, time) values ('1', '1356300144137')
+
+insert into playersonlinelog (count, time) values ('1', '1356300204140')
+
+insert into playersonlinelog (count, time) values ('1', '1356300332589')
+
+insert into playersonlinelog (count, time) values ('1', '1356300392598')
+
+insert into playersonlinelog (count, time) values ('1', '1356300452600')
+
+insert into playersonlinelog (count, time) values ('1', '1356300512601')
+
+insert into playersonlinelog (count, time) values ('1', '1356300572892')
+
+insert into playersonlinelog (count, time) values ('1', '1356300632893')
+
+insert into playersonlinelog (count, time) values ('1', '1356300692895')
+
+insert into playersonlinelog (count, time) values ('1', '1356300752896')
+
+insert into playersonlinelog (count, time) values ('1', '1356300812899')
+
+insert into playersonlinelog (count, time) values ('1', '1356300872902')
+
+insert into playersonlinelog (count, time) values ('1', '1356300932903')
+
+insert into playersonlinelog (count, time) values ('1', '1356300992906')
+
+insert into playersonlinelog (count, time) values ('1', '1356301052908')
+
+insert into playersonlinelog (count, time) values ('1', '1356301112911')
+
+insert into playersonlinelog (count, time) values ('1', '1356301172955')
+
+insert into playersonlinelog (count, time) values ('1', '1356301232957')
+
+insert into playersonlinelog (count, time) values ('1', '1356301292958')
+
+insert into playersonlinelog (count, time) values ('1', '1356301352959')
+
+insert into playersonlinelog (count, time) values ('1', '1356301412961')
+
+insert into playersonlinelog (count, time) values ('1', '1356301472963')
+
+insert into playersonlinelog (count, time) values ('1', '1356301532966')
+
+insert into playersonlinelog (count, time) values ('1', '1356301592968')
+
+insert into playersonlinelog (count, time) values ('1', '1356301652971')
+
+insert into playersonlinelog (count, time) values ('1', '1356301712973')
+
+insert into playersonlinelog (count, time) values ('1', '1356301772975')
+
+insert into playersonlinelog (count, time) values ('1', '1356301832977')
+
+insert into playersonlinelog (count, time) values ('1', '1356301892979')
+
+insert into playersonlinelog (count, time) values ('1', '1356301952981')
+
+insert into playersonlinelog (count, time) values ('1', '1356302012982')
+
+insert into playersonlinelog (count, time) values ('1', '1356302072985')
+
+insert into playersonlinelog (count, time) values ('1', '1356302132987')
+
+insert into playersonlinelog (count, time) values ('1', '1356302192989')
+
+insert into playersonlinelog (count, time) values ('1', '1356302252992')
+
+insert into playersonlinelog (count, time) values ('1', '1356302312994')
+
+insert into playersonlinelog (count, time) values ('1', '1356302372997')
+
+insert into playersonlinelog (count, time) values ('1', '1356302432999')
+
+insert into playersonlinelog (count, time) values ('1', '1356302493002')
+
+insert into playersonlinelog (count, time) values ('1', '1356302553003')
+
+insert into playersonlinelog (count, time) values ('1', '1356302613004')
+
+insert into playersonlinelog (count, time) values ('1', '1356302673006')
+
+insert into playersonlinelog (count, time) values ('1', '1356302733008')
+
+insert into playersonlinelog (count, time) values ('1', '1356302793011')
+
+insert into playersonlinelog (count, time) values ('1', '1356302853013')
+
+insert into playersonlinelog (count, time) values ('1', '1356302913016')
+
+insert into playersonlinelog (count, time) values ('1', '1356302973018')
+
+insert into playersonlinelog (count, time) values ('1', '1356303033021')
+
+insert into playersonlinelog (count, time) values ('0', '1356443723086')
+
+insert into playersonlinelog (count, time) values ('0', '1356443783095')
+
+INSERT INTO web_login (userid, password, ID) VALUEs('lelouch', 'thekiller','460')
+
+INSERT INTO characters (username, password, ID) VALUEs('lelouch', 'thekiller','460')
+
+insert into badplayers (username, ip, type, time) values ('lelouchz', 'lelouchz', '0', '0')
+
+insert into badplayers (username, ip, type, time) values ('mitch', 'mitch', '2', '0')
+
+delete from badplayers where username = 'mitch' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('mitch', 'mitch', '2', '0')
+
+delete from badplayers where username = 'mitch' and type = 2
+
+delete from badplayers where username = 'mitch' and type = 2
+
+delete from badplayers where username = 'hatsune miku' and type = 0
+
+delete from badplayers where username = ' hatsune miku' and type = 1
+
+delete from badplayers where username = ' hatsune miku' and type = 1
+
+delete from badplayers where username = 'hatsune miku' and type = 0
+
+delete from badplayers where username = ' Hatsune miku' and type = 1
+
+delete from badplayers where username = 'hatsune miku' and type = 0
+
+delete from badplayers where username = 'hatsune miku' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('hatsune', 'hatsune', '0', '0')
+
+insert into badplayers (username, ip, type, time) values ('server2', '127.0.0.1', '1', '0')
+
+delete from badplayers where username = ' server2' and type = 1
+
+delete from badplayers where username = ' server2' and type = 1
+
+insert into badplayers (username, ip, type, time) values ('server2', '127.0.0.1', '1', '0')
+
+insert into badplayers (username, ip, type, time) values ('server2', '127.0.0.1', '1', '0')
+
+delete from badplayers where username = 'server2' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2', '127.0.0.1', '1', '0')
+
+delete from badplayers where username = 'server2' and type = 1
+
+insert into badplayers (username, ip, type, time) values ('server2', 'server2', '0', '0')
+
+delete from badplayers where username = 'server2' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2', 'server2', '0', '0')
+
+delete from badplayers where username = 'server2' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2z', 'server2z', '0', '0')
+
+delete from badplayers where username = 'server2z' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2z', 'server2z', '0', '0')
+
+delete from badplayers where username = 'server2z' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2', 'server2', '0', '0')
+
+delete from badplayers where username = 'server2' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2', 'server2', '0', '0')
+
+delete from badplayers where username = 'server2' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('server2', '127.0.0.1', '1', '0')
+
+delete from badplayers where username = 'server2' and type = 1
+
+insert into badplayers (username, ip, type, time) values ('hatsune miku', 'hatsune miku', '2', '0')
+
+delete from badplayers where username = 'hatsune miku' and type = 2
+
+delete from badplayers where username = 'hatsune miku' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('hatsune miku', 'hatsune miku', '2', '0')
+
+delete from badplayers where username = 'hatsune mikui' and type = 2
+
+delete from badplayers where username = 'hatsune miku' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('hatz', 'hatz', '0', '0')
+
+insert into badplayers (username, ip, type, time) values ('level 3', 'level 3', '2', '0')
+
+delete from badplayers where username = 'level 3' and type = 2
+
+DELETE FROM `donation` WHERE `username` = 'lelouch';
+
+DELETE FROM `donation` WHERE `username` = 'lelouch';
+
+DELETE FROM `donation` WHERE `username` = 'lelouch';
+
+DELETE FROM `donation` WHERE `username` = 'lelouch';
+
+insert into badplayers (username, ip, type, time) values ('123213445', '123213445', '2', '0')
+
+delete from badplayers where username = '123213445' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('3242343', '3242343', '0', '0')
+
+insert into badplayers (username, ip, type, time) values ('wowzoor', 'wowzoor', '2', '0')
+
+insert into badplayers (username, ip, type, time) values ('troll', 'troll', '2', '0')
+
+delete from badplayers where username = 'troll' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('keyhan', 'keyhan', '2', '0')
+
+insert into badplayers (username, ip, type, time) values ('troll', 'troll', '2', '0')
+
+delete from badplayers where username = 'troll' and type = 2
+
+delete from badplayers where username = 'wowzoor' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('liam baby', 'liam baby', '2', '0')
+
+delete from badplayers where username = 'liam baby' and type = 2
+
+insert into badplayers (username, ip, type, time) values ('lelouchc', 'lelouchc', '0', '0')
+
+delete from badplayers where username = 'lelouchc' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('lelouchc', 'lelouchc', '0', '0')
+
+delete from badplayers where username = 'lelouchc' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('lelouchc', 'lelouchc', '0', '0')
+
+delete from badplayers where username = 'lelouchc' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('lelouchc', 'lelouchc', '0', '0')
+
+delete from badplayers where username = 'lelouchc' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('lelouchc', 'lelouchc', '0', '0')
+
+delete from badplayers where username = 'lelouchc' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('lelouchc', '81.152.61.203', '1', '0')
+
+insert into badplayers (username, ip, type, time) values ('peter', 'peter', '2', '0')
+
+delete from badplayers where username = 'peter' and type = 2
+
+delete from badplayers where username = 'peter' and type = 0
+
+delete from badplayers where username = 'ricky' and type = 0
+
+delete from badplayers where username = 'ricky' and type = 0
+
+insert into badplayers (username, ip, type, time) values ('sinatra', 'sinatra', '0', '0')
+

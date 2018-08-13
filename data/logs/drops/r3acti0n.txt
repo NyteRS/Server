@@ -1,0 +1,26 @@
+[Wed Aug 21 09:50:26 PDT 2013] R3acti0n [142.196.154.81] dropped a Instruction manual at location: 2836, 10207
+[Wed Aug 21 09:53:36 PDT 2013] R3acti0n [142.196.154.81] dropped a Flowers at location: 3082, 3503
+[Wed Aug 21 09:56:04 PDT 2013] R3acti0n [142.196.154.81] dropped a Iron boots at location: 3095, 3496
+[Wed Aug 21 10:03:38 PDT 2013] R3acti0n [142.196.154.81] dropped a Iron scimitar at location: 3092, 3486
+[Wed Aug 21 10:06:14 PDT 2013] R3acti0n [142.196.154.81] dropped a Iron platelegs at location: 3048, 9582
+[Wed Aug 21 10:06:15 PDT 2013] R3acti0n [142.196.154.81] dropped a Iron platebody at location: 3048, 9582
+[Wed Aug 21 10:21:24 PDT 2013] R3acti0n [142.196.154.81] dropped a Rune scimitar at location: 3048, 9578
+[Wed Aug 21 10:21:55 PDT 2013] R3acti0n [142.196.154.81] dropped a Iron full helm at location: 3051, 9592
+[Wed Aug 21 10:36:42 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy guam at location: 3079, 3509
+[Wed Aug 21 10:36:43 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy ranarr at location: 3080, 3507
+[Wed Aug 21 10:36:44 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy cadantine at location: 3080, 3505
+[Wed Aug 21 10:36:44 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy ranarr at location: 3081, 3503
+[Wed Aug 21 10:36:45 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy dwarf weed at location: 3084, 3501
+[Wed Aug 21 10:36:46 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy marrentill at location: 3084, 3501
+[Wed Aug 21 10:36:47 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy dwarf weed at location: 3084, 3501
+[Wed Aug 21 10:36:48 PDT 2013] R3acti0n [142.196.154.81] dropped a Rune c'bow at location: 3084, 3501
+[Wed Aug 21 10:36:49 PDT 2013] R3acti0n [142.196.154.81] dropped a Rune c'bow at location: 3084, 3501
+[Wed Aug 21 10:36:50 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy marrentill at location: 3084, 3501
+[Wed Aug 21 10:36:51 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy dwarf weed at location: 3084, 3501
+[Wed Aug 21 10:36:52 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy tarromin at location: 3084, 3501
+[Wed Aug 21 10:36:52 PDT 2013] R3acti0n [142.196.154.81] dropped a Grimy harralander at location: 3084, 3501
+[Wed Aug 21 10:36:56 PDT 2013] R3acti0n [142.196.154.81] dropped a Rune c'bow at location: 3084, 3501
+[Wed Aug 21 10:36:59 PDT 2013] R3acti0n [142.196.154.81] dropped a Avantoe seed at location: 3084, 3501
+[Wed Aug 21 10:37:00 PDT 2013] R3acti0n [142.196.154.81] dropped a Dwarf weed seed at location: 3084, 3501
+[Wed Aug 21 10:37:02 PDT 2013] R3acti0n [142.196.154.81] dropped a Ranarr seed at location: 3084, 3501
+[Wed Aug 21 10:37:03 PDT 2013] R3acti0n [142.196.154.81] dropped a Cadantine seed at location: 3084, 3501

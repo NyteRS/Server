@@ -1,0 +1,3 @@
+[Thu Aug 22 13:56:07 PDT 2013] Mink [107.202.53.105] dropped a Green dragonhide at location: 3329, 3677
+[Thu Aug 22 14:02:20 PDT 2013] Mink [107.202.53.105] dropped a Chocolate bomb at location: 3329, 3677
+[Thu Aug 22 14:03:29 PDT 2013] Mink [107.202.53.105] dropped a Clean guam at location: 3327, 3679

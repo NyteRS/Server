@@ -1,0 +1,52 @@
+[Tue Aug 20 17:16:47 PDT 2013] Illusionist [74.77.196.221] dropped a Novite 2h sword at location: 3486, 3090
+[Tue Aug 20 17:36:10 PDT 2013] Illusionist [74.77.196.221] dropped a Proselyte sallet at location: 2845, 10209
+[Tue Aug 20 18:01:50 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy avantoe at location: 2903, 9737
+[Tue Aug 20 18:02:18 PDT 2013] Illusionist [74.77.196.221] dropped a Chocolate bomb at location: 2902, 9736
+[Tue Aug 20 18:06:06 PDT 2013] Illusionist [74.77.196.221] dropped a Clean guam at location: 2909, 9733
+[Tue Aug 20 18:06:35 PDT 2013] Illusionist [74.77.196.221] dropped a Iron dagger at location: 2906, 9731
+[Tue Aug 20 18:08:28 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy harralander at location: 2906, 9730
+[Tue Aug 20 18:13:53 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy irit at location: 2908, 9735
+[Tue Aug 20 18:14:45 PDT 2013] Illusionist [74.77.196.221] dropped a Clean guam at location: 2909, 9735
+[Tue Aug 20 18:15:14 PDT 2013] Illusionist [74.77.196.221] dropped a Clean tarromin at location: 2908, 9736
+[Tue Aug 20 18:15:52 PDT 2013] Illusionist [74.77.196.221] dropped a Clean marrentill at location: 2911, 9735
+[Tue Aug 20 18:16:50 PDT 2013] Illusionist [74.77.196.221] dropped a Nature rune at location: 2904, 9734
+[Tue Aug 20 23:37:12 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy guam at location: 2866, 9923
+[Tue Aug 20 23:38:39 PDT 2013] Illusionist [74.77.196.221] dropped a Coins at location: 2865, 9924
+[Tue Aug 20 23:39:09 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy tarromin at location: 2865, 9924
+[Tue Aug 20 23:39:11 PDT 2013] Illusionist [74.77.196.221] dropped a Earth talisman at location: 2865, 9924
+[Tue Aug 20 23:43:41 PDT 2013] Illusionist [74.77.196.221] dropped a Coins at location: 2864, 9924
+[Tue Aug 20 23:46:07 PDT 2013] Illusionist [74.77.196.221] dropped a Water orb at location: 2864, 9925
+[Tue Aug 20 23:56:35 PDT 2013] Illusionist [74.77.196.221] dropped a Law rune at location: 2866, 9925
+[Tue Aug 20 23:58:12 PDT 2013] Illusionist [74.77.196.221] dropped a Law rune at location: 2866, 9925
+[Wed Aug 21 00:12:24 PDT 2013] Illusionist [74.77.196.221] dropped a Limpwurt root at location: 2865, 9923
+[Wed Aug 21 11:54:24 PDT 2013] Illusionist [74.77.196.221] dropped a Blood rune at location: 2864, 9924
+[Wed Aug 21 13:24:57 PDT 2013] Illusionist [74.77.196.221] dropped a Clean guam at location: 2796, 10034
+[Wed Aug 21 13:25:50 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy kwuarm at location: 2801, 10033
+[Wed Aug 21 13:26:07 PDT 2013] Illusionist [74.77.196.221] dropped a Clean harralander at location: 2796, 10034
+[Wed Aug 21 13:26:43 PDT 2013] Illusionist [74.77.196.221] dropped a Clean harralander at location: 2796, 10030
+[Wed Aug 21 13:27:04 PDT 2013] Illusionist [74.77.196.221] dropped a Clean guam at location: 2796, 10033
+[Wed Aug 21 13:27:20 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy lantadyme at location: 2798, 10033
+[Wed Aug 21 13:29:25 PDT 2013] Illusionist [74.77.196.221] dropped a Clean marrentill at location: 2799, 10034
+[Wed Aug 21 13:30:33 PDT 2013] Illusionist [74.77.196.221] dropped a Grimy cadantine at location: 2790, 10035
+[Wed Aug 21 13:30:59 PDT 2013] Illusionist [74.77.196.221] dropped a Clean guam at location: 2795, 10034
+[Wed Aug 21 13:31:19 PDT 2013] Illusionist [74.77.196.221] dropped a Clean tarromin at location: 2796, 10035
+[Wed Aug 21 13:32:24 PDT 2013] Illusionist [74.77.196.221] dropped a Clean avantoe at location: 2790, 10036
+[Wed Aug 21 13:32:39 PDT 2013] Illusionist [74.77.196.221] dropped a Clean guam at location: 2790, 10039
+[Wed Aug 21 13:34:10 PDT 2013] Illusionist [74.77.196.221] dropped a Clean avantoe at location: 2789, 10035
+[Wed Aug 21 13:34:37 PDT 2013] Illusionist [74.77.196.221] dropped a Clean harralander at location: 2794, 10031
+[Wed Aug 21 14:27:06 PDT 2013] Illusionist [74.77.196.221] dropped a Super attack (2) at location: 2702, 9433
+[Wed Aug 21 14:37:05 PDT 2013] Illusionist [74.77.196.221] dropped a Blood rune at location: 2717, 9448
+[Wed Aug 21 14:38:32 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2717, 9441
+[Wed Aug 21 14:42:33 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2721, 9434
+[Wed Aug 21 14:44:14 PDT 2013] Illusionist [74.77.196.221] dropped a Coins at location: 2711, 9436
+[Wed Aug 21 14:46:45 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2711, 9434
+[Wed Aug 21 14:47:06 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2724, 9419
+[Wed Aug 21 14:51:26 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2715, 9444
+[Wed Aug 21 14:53:04 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2712, 9445
+[Wed Aug 21 14:53:48 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2717, 9440
+[Wed Aug 21 14:54:14 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2717, 9440
+[Wed Aug 21 14:54:15 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2717, 9440
+[Wed Aug 21 14:54:42 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2716, 9441
+[Wed Aug 21 14:58:50 PDT 2013] Illusionist [74.77.196.221] dropped a Vial at location: 2701, 9442
+[Wed Aug 21 15:00:41 PDT 2013] Illusionist [74.77.196.221] dropped a Antifire (1) at location: 2715, 9435
+[Wed Aug 21 15:02:23 PDT 2013] Illusionist [74.77.196.221] dropped a Prayer potion (1) at location: 2711, 9438

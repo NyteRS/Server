@@ -1,0 +1,5 @@
+[Mon Aug 19 16:01:10 PDT 2013] Ricky [173.44.51.37] picked up a Small fishing net, location: 2836, 3432
+[Mon Aug 19 16:02:42 PDT 2013] Ricky [173.44.51.37] picked up a Small fishing net, location: 2836, 3432
+[Tue Aug 20 15:16:37 PDT 2013] Ricky [173.44.51.9] picked up a Gold charm, location: 2677, 3718
+[Tue Aug 20 15:17:25 PDT 2013] Ricky [173.44.51.9] picked up a Gold charm, location: 2678, 3718
+[Tue Aug 20 15:18:01 PDT 2013] Ricky [173.44.51.9] picked up a Gold charm, location: 2669, 3718

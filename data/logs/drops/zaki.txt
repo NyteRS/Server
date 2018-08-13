@@ -1,0 +1,20 @@
+[Wed Aug 21 09:46:17 PDT 2013] Zaki [176.205.165.94] dropped a Coins at location: 3095, 3501
+[Wed Aug 21 09:46:21 PDT 2013] Zaki [176.205.165.94] dropped a Coins at location: 3097, 3501
+[Wed Aug 21 09:46:28 PDT 2013] Zaki [176.205.165.94] dropped a Coins at location: 3092, 3502
+[Thu Aug 22 03:59:16 PDT 2013] Zaki [176.205.165.94] dropped a Banana tree seed at location: 2722, 3483
+[Thu Aug 22 03:59:17 PDT 2013] Zaki [176.205.165.94] dropped a Bird's nest at location: 2722, 3483
+[Thu Aug 22 04:04:58 PDT 2013] Zaki [176.205.165.94] dropped a Bird's nest at location: 2725, 3481
+[Thu Aug 22 04:15:59 PDT 2013] Zaki [176.205.165.94] dropped a Bird's nest at location: 2723, 3478
+[Thu Aug 22 04:43:20 PDT 2013] Zaki [176.205.165.94] dropped a Curry tree seed at location: 3087, 3233
+[Thu Aug 22 04:43:21 PDT 2013] Zaki [176.205.165.94] dropped a Bird's nest at location: 3087, 3233
+[Thu Aug 22 04:45:00 PDT 2013] Zaki [176.205.165.94] dropped a Bird's nest at location: 3086, 3234
+[Thu Aug 22 04:45:02 PDT 2013] Zaki [176.205.165.94] dropped a Sapphire ring at location: 3086, 3234
+[Thu Aug 22 04:47:25 PDT 2013] Zaki [176.205.165.94] dropped a Sapphire ring at location: 3087, 3233
+[Thu Aug 22 04:53:58 PDT 2013] Zaki [176.205.165.94] dropped a Orange tree seed at location: 3089, 3232
+[Thu Aug 22 05:26:24 PDT 2013] Zaki [176.205.165.94] dropped a Willow longbow (u) at location: 3093, 3243
+[Thu Aug 22 06:48:01 PDT 2013] Zaki [176.205.165.94] dropped a Willow seed at location: 2723, 3502
+[Thu Aug 22 06:48:01 PDT 2013] Zaki [176.205.165.94] dropped a Bird's nest at location: 2723, 3502
+[Thu Aug 22 06:56:26 PDT 2013] Zaki [176.205.165.94] dropped a Willow logs at location: 2721, 3505
+[Thu Aug 22 06:56:28 PDT 2013] Zaki [176.205.165.94] dropped a Willow logs at location: 2721, 3505
+[Thu Aug 22 06:56:30 PDT 2013] Zaki [176.205.165.94] dropped a Willow logs at location: 2721, 3505
+[Thu Aug 22 06:56:31 PDT 2013] Zaki [176.205.165.94] dropped a Willow logs at location: 2721, 3505

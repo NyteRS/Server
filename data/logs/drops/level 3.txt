@@ -1,0 +1,24 @@
+[Sun Aug 18 15:21:59 PDT 2013] Level 3 [77.245.179.12] dropped a Iron scimitar at location: 2845, 10209
+[Sun Aug 18 15:21:59 PDT 2013] Level 3 [77.245.179.12] dropped a Iron platebody at location: 2845, 10209
+[Sun Aug 18 15:22:00 PDT 2013] Level 3 [77.245.179.12] dropped a Iron full helm at location: 2845, 10209
+[Sun Aug 18 15:22:01 PDT 2013] Level 3 [77.245.179.12] dropped a Iron boots at location: 2845, 10209
+[Sun Aug 18 15:22:02 PDT 2013] Level 3 [77.245.179.12] dropped a Iron platelegs at location: 2845, 10209
+[Sun Aug 18 15:22:05 PDT 2013] Level 3 [77.245.179.12] dropped a Bronze arrow at location: 2845, 10209
+[Sun Aug 18 15:22:07 PDT 2013] Level 3 [77.245.179.12] dropped a Shortbow at location: 2845, 10209
+[Sun Aug 18 15:22:08 PDT 2013] Level 3 [77.245.179.12] dropped a Amulet of glory (4) at location: 2845, 10209
+[Sun Aug 18 15:22:09 PDT 2013] Level 3 [77.245.179.12] dropped a Instruction manual at location: 2845, 10209
+[Sun Aug 18 15:22:10 PDT 2013] Level 3 [77.245.179.12] dropped a Combat bracelet (4) at location: 2845, 10209
+[Sun Aug 18 15:22:12 PDT 2013] Level 3 [77.245.179.12] dropped a Water rune at location: 2845, 10209
+[Sun Aug 18 15:22:15 PDT 2013] Level 3 [77.245.179.12] dropped a Death rune at location: 2845, 10209
+[Sun Aug 18 15:22:15 PDT 2013] Level 3 [77.245.179.12] dropped a Earth rune at location: 2845, 10209
+[Sun Aug 18 15:22:16 PDT 2013] Level 3 [77.245.179.12] dropped a Chaos rune at location: 2845, 10209
+[Sun Aug 18 15:22:16 PDT 2013] Level 3 [77.245.179.12] dropped a Nature rune at location: 2845, 10209
+[Sun Aug 18 15:22:17 PDT 2013] Level 3 [77.245.179.12] dropped a Air rune at location: 2845, 10209
+[Sun Aug 18 15:22:18 PDT 2013] Level 3 [77.245.179.12] dropped a Mind rune at location: 2845, 10209
+[Sun Aug 18 15:22:20 PDT 2013] Level 3 [77.245.179.12] dropped a Fire rune at location: 2845, 10209
+[Sun Aug 18 15:22:21 PDT 2013] Level 3 [77.245.179.12] dropped a Blood rune at location: 2845, 10209
+[Sun Aug 18 15:22:23 PDT 2013] Level 3 [77.245.179.12] dropped a Ring of kinship at location: 2845, 10209
+[Sun Aug 18 16:01:23 PDT 2013] Level 3 [77.245.179.12] dropped a Avantoe seed at location: 2842, 10226
+[Sun Aug 18 16:01:24 PDT 2013] Level 3 [77.245.179.12] dropped a Nasturtium seed at location: 2842, 10226
+[Sun Aug 18 16:08:20 PDT 2013] Level 3 [77.245.179.12] dropped a Steel scimitar at location: 2846, 10220
+[Sun Aug 18 16:08:22 PDT 2013] Level 3 [77.245.179.12] dropped a Mithril scimitar at location: 2846, 10220

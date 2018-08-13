@@ -1,0 +1,14 @@
+[Tue Aug 20 03:11:42 PDT 2013] Lolkj [188.241.23.156] dropped a Blood rune at location: 2868, 3546
+[Tue Aug 20 03:11:44 PDT 2013] Lolkj [188.241.23.156] dropped a Mind rune at location: 2868, 3546
+[Tue Aug 20 03:11:46 PDT 2013] Lolkj [188.241.23.156] dropped a Fire rune at location: 2868, 3546
+[Tue Aug 20 03:11:46 PDT 2013] Lolkj [188.241.23.156] dropped a Air rune at location: 2868, 3546
+[Tue Aug 20 03:11:47 PDT 2013] Lolkj [188.241.23.156] dropped a Coins at location: 2868, 3546
+[Tue Aug 20 03:11:49 PDT 2013] Lolkj [188.241.23.156] dropped a Combat bracelet (4) at location: 2868, 3546
+[Tue Aug 20 03:11:51 PDT 2013] Lolkj [188.241.23.156] dropped a Manta ray at location: 2868, 3546
+[Tue Aug 20 03:11:53 PDT 2013] Lolkj [188.241.23.156] dropped a Amulet of glory (4) at location: 2868, 3546
+[Tue Aug 20 03:11:56 PDT 2013] Lolkj [188.241.23.156] dropped a Earth rune at location: 2868, 3546
+[Tue Aug 20 03:11:57 PDT 2013] Lolkj [188.241.23.156] dropped a Nature rune at location: 2868, 3546
+[Tue Aug 20 03:12:00 PDT 2013] Lolkj [188.241.23.156] dropped a Death rune at location: 2868, 3546
+[Tue Aug 20 03:12:01 PDT 2013] Lolkj [188.241.23.156] dropped a Teleport to house at location: 2868, 3546
+[Tue Aug 20 03:12:03 PDT 2013] Lolkj [188.241.23.156] dropped a Chaos rune at location: 2868, 3546
+[Tue Aug 20 03:12:04 PDT 2013] Lolkj [188.241.23.156] dropped a Water rune at location: 2868, 3546

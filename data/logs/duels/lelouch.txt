@@ -1,0 +1,2 @@
+[Wed Aug 21 07:54:26 PDT 2013] Lelouch [81.152.61.203] lost: Green h'ween mask amount: 1 to the user: Filip [90.230.138.84]
+[Wed Aug 21 10:37:37 PDT 2013] Lelouch [81.152.61.203] won: Coins amount: 1000000 from the user: Filip[90.230.138.84]

@@ -1,0 +1,2 @@
+[Thu Aug 22 10:36:57 PDT 2013] Ardi rizal [177.157.59.69] lost: Coins amount: 4999960 to the user: Dan [193.150.8.19]
+[Thu Aug 22 10:43:09 PDT 2013] Ardi rizal [177.157.59.69] lost: Coins amount: 4999960 to the user: Proto [78.149.249.167]

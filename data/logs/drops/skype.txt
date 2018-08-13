@@ -1,0 +1,60 @@
+[Tue Aug 20 17:28:28 PDT 2013] Skype [41.73.207.18] dropped a Fire rune at location: 2693, 3718
+[Tue Aug 20 17:44:06 PDT 2013] Skype [41.73.207.18] dropped a Hair at location: 2322, 3799
+[Wed Aug 21 01:34:35 PDT 2013] Skype [41.73.207.18] dropped a Gold charm at location: 3040, 9578
+[Wed Aug 21 01:34:37 PDT 2013] Skype [41.73.207.18] dropped a Vial at location: 3040, 9578
+[Wed Aug 21 01:39:36 PDT 2013] Skype [41.73.207.18] dropped a Cosmic rune at location: 3047, 9584
+[Wed Aug 21 01:41:16 PDT 2013] Skype [41.73.207.18] dropped a Iron platelegs at location: 3052, 9591
+[Wed Aug 21 02:39:00 PDT 2013] Skype [41.73.207.18] dropped a Iron platelegs at location: 3555, 9944
+[Wed Aug 21 02:56:55 PDT 2013] Skype [41.73.207.18] dropped a Bronze arrow at location: 3185, 3436
+[Wed Aug 21 03:07:54 PDT 2013] Skype [41.73.207.18] dropped a Rune scimitar at location: 3094, 3489
+[Wed Aug 21 03:09:11 PDT 2013] Skype [41.73.207.18] dropped a Iron scimitar at location: 3094, 3489
+[Wed Aug 21 03:18:17 PDT 2013] Skype [41.73.207.18] dropped a Iron scimitar at location: 3103, 3516
+[Wed Aug 21 03:18:31 PDT 2013] Skype [41.73.207.18] dropped a Bronze arrow at location: 3094, 3498
+[Wed Aug 21 03:22:38 PDT 2013] Skype [41.73.207.18] dropped a Iron boots at location: 2744, 10003
+[Wed Aug 21 03:22:41 PDT 2013] Skype [41.73.207.18] dropped a Iron platebody at location: 2744, 10003
+[Wed Aug 21 03:23:36 PDT 2013] Skype [41.73.207.18] dropped a Iron full helm at location: 2743, 10004
+[Wed Aug 21 03:24:03 PDT 2013] Skype [41.73.207.18] dropped a Rune dagger at location: 2742, 10005
+[Wed Aug 21 03:24:08 PDT 2013] Skype [41.73.207.18] dropped a Green charm at location: 2741, 10005
+[Wed Aug 21 03:49:43 PDT 2013] Skype [41.73.207.18] dropped a Vial at location: 2740, 10006
+[Wed Aug 21 04:34:25 PDT 2013] Skype [41.73.207.18] dropped a Meat pizza at location: 2673, 3712
+[Wed Aug 21 04:47:49 PDT 2013] Skype [41.73.207.18] dropped a Fire rune at location: 3422, 3557
+[Wed Aug 21 04:47:50 PDT 2013] Skype [41.73.207.18] dropped a Fire rune at location: 3422, 3557
+[Wed Aug 21 04:47:52 PDT 2013] Skype [41.73.207.18] dropped a Vial at location: 3422, 3557
+[Wed Aug 21 04:50:24 PDT 2013] Skype [41.73.207.18] dropped a Fire rune at location: 3419, 3561
+[Wed Aug 21 05:48:20 PDT 2013] Skype [41.73.207.18] dropped a Harralander seed at location: 2846, 10224
+[Wed Aug 21 05:48:21 PDT 2013] Skype [41.73.207.18] dropped a Marrentill seed at location: 2846, 10224
+[Wed Aug 21 05:48:27 PDT 2013] Skype [41.73.207.18] dropped a Potato seed at location: 2846, 10224
+[Wed Aug 21 05:48:55 PDT 2013] Skype [41.73.207.18] dropped a Snapdragon seed at location: 2844, 10223
+[Wed Aug 21 05:48:56 PDT 2013] Skype [41.73.207.18] dropped a Guam seed at location: 2844, 10223
+[Wed Aug 21 06:06:31 PDT 2013] Skype [41.73.207.18] dropped a Rune scimitar at location: 2758, 2774
+[Wed Aug 21 06:06:34 PDT 2013] Skype [41.73.207.18] dropped a Earth rune at location: 2758, 2774
+[Wed Aug 21 06:06:34 PDT 2013] Skype [41.73.207.18] dropped a Air rune at location: 2758, 2774
+[Wed Aug 21 06:06:36 PDT 2013] Skype [41.73.207.18] dropped a Gold charm at location: 2758, 2774
+[Wed Aug 21 06:07:21 PDT 2013] Skype [41.73.207.18] dropped a Mithril scimitar at location: 2758, 2774
+[Wed Aug 21 06:07:22 PDT 2013] Skype [41.73.207.18] dropped a Bronze scimitar at location: 2758, 2774
+[Wed Aug 21 06:07:24 PDT 2013] Skype [41.73.207.18] dropped a Iron scimitar at location: 2758, 2774
+[Wed Aug 21 07:12:15 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:16 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:17 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:18 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:19 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:20 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:21 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:24 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:25 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:28 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:28 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:29 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2843, 2920
+[Wed Aug 21 07:12:40 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2842, 2921
+[Wed Aug 21 07:12:51 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2842, 2922
+[Wed Aug 21 07:15:45 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2845, 10208
+[Wed Aug 21 07:15:47 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2846, 10209
+[Wed Aug 21 07:15:51 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2847, 10210
+[Wed Aug 21 07:15:56 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2846, 10211
+[Wed Aug 21 07:24:52 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2854, 2922
+[Wed Aug 21 07:24:56 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2854, 2922
+[Wed Aug 21 07:24:57 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2854, 2922
+[Wed Aug 21 07:24:59 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2854, 2922
+[Wed Aug 21 07:25:00 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2854, 2922
+[Wed Aug 21 07:25:01 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2854, 2922
+[Wed Aug 21 07:36:06 PDT 2013] Skype [41.73.207.18] dropped a Raw bird meat at location: 2858, 2928

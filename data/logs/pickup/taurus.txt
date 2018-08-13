@@ -1,0 +1,8 @@
+[Tue Aug 20 23:01:13 PDT 2013] Taurus [217.140.178.196] picked up a Manta ray, location: 2674, 3712
+[Tue Aug 20 23:05:51 PDT 2013] Taurus [217.140.178.196] picked up a Snapdragon seed, location: 2675, 3714
+[Tue Aug 20 23:07:12 PDT 2013] Taurus [217.140.178.196] picked up a Fire rune, location: 2670, 3716
+[Tue Aug 20 23:07:16 PDT 2013] Taurus [217.140.178.196] picked up a Fire rune, location: 2670, 3716
+[Tue Aug 20 23:08:11 PDT 2013] Taurus [217.140.178.196] picked up a Gold charm, location: 2672, 3717
+[Tue Aug 20 23:09:48 PDT 2013] Taurus [217.140.178.196] picked up a Fire rune, location: 2674, 3714
+[Wed Aug 21 08:27:24 PDT 2013] Taurus [217.140.178.196] picked up a Gold charm, location: 2672, 3716
+[Wed Aug 21 08:29:22 PDT 2013] Taurus [217.140.178.196] picked up a Fire rune, location: 2666, 3717

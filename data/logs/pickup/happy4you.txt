@@ -1,0 +1,207 @@
+[Wed Aug 21 17:56:44 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 2673, 3715
+[Wed Aug 21 18:02:11 PDT 2013] Happy4you [71.10.125.218] picked up a Fire rune, location: 2687, 3722
+[Wed Aug 21 18:02:58 PDT 2013] Happy4you [71.10.125.218] picked up a Nature rune, location: 2687, 3724
+[Wed Aug 21 18:06:26 PDT 2013] Happy4you [71.10.125.218] picked up a Rune pickaxe, location: 2685, 3721
+[Wed Aug 21 18:06:26 PDT 2013] Happy4you [71.10.125.218] picked up a Rune pickaxe, location: 2685, 3721
+[Wed Aug 21 18:06:28 PDT 2013] Happy4you [71.10.125.218] picked up a Rune pickaxe, location: 2685, 3721
+[Wed Aug 21 18:07:02 PDT 2013] Happy4you [71.10.125.218] picked up a Fire rune, location: 2683, 3721
+[Wed Aug 21 18:07:03 PDT 2013] Happy4you [71.10.125.218] picked up a Green charm, location: 2683, 3721
+[Thu Aug 22 07:14:58 PDT 2013] Happy4you [71.10.125.218] picked up a Tokkul, location: 2446, 5147
+[Thu Aug 22 07:27:44 PDT 2013] Happy4you [71.10.125.218] picked up a Air rune, location: 2446, 5147
+[Thu Aug 22 07:40:40 PDT 2013] Happy4you [71.10.125.218] picked up a Tokkul, location: 2447, 5148
+[Thu Aug 22 07:43:51 PDT 2013] Happy4you [71.10.125.218] picked up a Teleport to house, location: 2443, 5145
+[Thu Aug 22 07:54:13 PDT 2013] Happy4you [71.10.125.218] picked up a Rune boots, location: 2999, 3385
+[Thu Aug 22 07:57:31 PDT 2013] Happy4you [71.10.125.218] picked up a Green dragonhide, location: 3342, 3687
+[Thu Aug 22 07:57:32 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3342, 3687
+[Thu Aug 22 07:58:08 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3337, 3681
+[Thu Aug 22 07:58:40 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3333, 3677
+[Thu Aug 22 07:58:43 PDT 2013] Happy4you [71.10.125.218] picked up a Crimson charm, location: 3293, 3653
+[Thu Aug 22 07:58:47 PDT 2013] Happy4you [71.10.125.218] picked up a Crimson charm, location: 3333, 3677
+[Thu Aug 22 07:59:31 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3678
+[Thu Aug 22 07:59:55 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3676
+[Thu Aug 22 08:00:23 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3333, 3678
+[Thu Aug 22 08:00:25 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3333, 3678
+[Thu Aug 22 08:00:34 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 3327, 3677
+[Thu Aug 22 08:00:37 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3677
+[Thu Aug 22 08:10:00 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:03 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:03 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:04 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:05 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:05 PDT 2013] Happy4you [71.10.125.218] picked up a Archer helm, location: 3358, 3684
+[Thu Aug 22 08:10:05 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:05 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:06 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:07 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:08 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:08 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:08 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:09 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:09 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3358, 3684
+[Thu Aug 22 08:10:09 PDT 2013] Happy4you [71.10.125.218] picked up a Rune c'bow, location: 3358, 3684
+[Thu Aug 22 08:10:09 PDT 2013] Happy4you [71.10.125.218] picked up a Anti-dragon shield, location: 3358, 3684
+[Thu Aug 22 08:10:11 PDT 2013] Happy4you [71.10.125.218] picked up a Anti-dragon shield, location: 3358, 3684
+[Thu Aug 22 08:10:11 PDT 2013] Happy4you [71.10.125.218] picked up a Black d'hide chaps, location: 3358, 3684
+[Thu Aug 22 08:10:12 PDT 2013] Happy4you [71.10.125.218] picked up a Black d'hide chaps, location: 3358, 3684
+[Thu Aug 22 08:10:12 PDT 2013] Happy4you [71.10.125.218] picked up a Black d'hide chaps, location: 3358, 3684
+[Thu Aug 22 08:10:12 PDT 2013] Happy4you [71.10.125.218] picked up a Black d'hide chaps, location: 3358, 3684
+[Thu Aug 22 08:10:12 PDT 2013] Happy4you [71.10.125.218] picked up a Black d'hide chaps, location: 3358, 3684
+[Thu Aug 22 08:10:12 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:12 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:13 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:13 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:14 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:14 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:14 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:15 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:15 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:16 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:16 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:16 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:17 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:17 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:18 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:18 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:19 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:20 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:20 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:20 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3358, 3684
+[Thu Aug 22 08:10:34 PDT 2013] Happy4you [71.10.125.218] picked up a Morrigan's javelin, location: 3360, 3682
+[Thu Aug 22 08:11:06 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3342, 3682
+[Thu Aug 22 08:11:56 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3340, 3683
+[Thu Aug 22 08:11:57 PDT 2013] Happy4you [71.10.125.218] picked up a Green charm, location: 3340, 3683
+[Thu Aug 22 08:11:59 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3338, 3680
+[Thu Aug 22 08:11:59 PDT 2013] Happy4you [71.10.125.218] picked up a Coins, location: 3338, 3680
+[Thu Aug 22 08:12:04 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3338, 3680
+[Thu Aug 22 08:12:34 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3334, 3678
+[Thu Aug 22 08:12:51 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3335, 3678
+[Thu Aug 22 08:12:52 PDT 2013] Happy4you [71.10.125.218] picked up a Green charm, location: 3335, 3678
+[Thu Aug 22 08:13:24 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3331, 3677
+[Thu Aug 22 08:13:49 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3677
+[Thu Aug 22 08:14:15 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3328, 3676
+[Thu Aug 22 08:14:42 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3672
+[Thu Aug 22 08:14:45 PDT 2013] Happy4you [71.10.125.218] picked up a Green charm, location: 3327, 3672
+[Thu Aug 22 08:15:21 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 3327, 3676
+[Thu Aug 22 08:15:23 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3676
+[Thu Aug 22 08:15:46 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3672
+[Thu Aug 22 08:16:27 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3328, 3676
+[Thu Aug 22 08:16:50 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3672
+[Thu Aug 22 08:17:16 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3673
+[Thu Aug 22 08:25:41 PDT 2013] Happy4you [71.10.125.218] picked up a Saradomin amphora, location: 3362, 3685
+[Thu Aug 22 08:26:42 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3337, 3683
+[Thu Aug 22 08:27:24 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3338, 3682
+[Thu Aug 22 08:28:11 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3339, 3682
+[Thu Aug 22 08:28:44 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3335, 3682
+[Thu Aug 22 08:29:15 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3332, 3678
+[Thu Aug 22 08:29:17 PDT 2013] Happy4you [71.10.125.218] picked up a Crimson charm, location: 3332, 3678
+[Thu Aug 22 08:29:36 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3679
+[Thu Aug 22 08:30:21 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3678
+[Thu Aug 22 08:30:35 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3326, 3678
+[Thu Aug 22 08:30:55 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3677
+[Thu Aug 22 08:31:24 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 3328, 3677
+[Thu Aug 22 08:31:25 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3328, 3677
+[Thu Aug 22 08:31:50 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3677
+[Thu Aug 22 08:32:19 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3678
+[Thu Aug 22 08:32:20 PDT 2013] Happy4you [71.10.125.218] picked up a Crimson charm, location: 3327, 3678
+[Thu Aug 22 08:35:13 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3340, 3684
+[Thu Aug 22 08:35:38 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3336, 3681
+[Thu Aug 22 08:36:23 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3337, 3681
+[Thu Aug 22 08:37:53 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3342, 3677
+[Thu Aug 22 09:00:02 PDT 2013] Happy4you [71.10.125.218] picked up a Coins, location: 2834, 10214
+[Thu Aug 22 09:08:23 PDT 2013] Happy4you [71.10.125.218] picked up a Coins, location: 3416, 3538
+[Thu Aug 22 09:09:56 PDT 2013] Happy4you [71.10.125.218] picked up a Leather gloves, location: 3417, 3544
+[Thu Aug 22 09:13:52 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 3417, 3543
+[Thu Aug 22 09:16:12 PDT 2013] Happy4you [71.10.125.218] picked up a Green charm, location: 2800, 10030
+[Thu Aug 22 09:19:42 PDT 2013] Happy4you [71.10.125.218] picked up a Green charm, location: 2785, 10040
+[Thu Aug 22 09:20:02 PDT 2013] Happy4you [71.10.125.218] picked up a Blue charm, location: 2790, 10039
+[Thu Aug 22 09:23:14 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 2784, 10036
+[Thu Aug 22 09:29:28 PDT 2013] Happy4you [71.10.125.218] picked up a Third age carafe, location: 3358, 3680
+[Thu Aug 22 09:30:20 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3339, 3682
+[Thu Aug 22 09:31:53 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3339, 3683
+[Thu Aug 22 09:32:23 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3335, 3680
+[Thu Aug 22 09:32:50 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3331, 3677
+[Thu Aug 22 09:33:52 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3341, 3675
+[Thu Aug 22 09:34:15 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3332, 3676
+[Thu Aug 22 09:34:38 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3328, 3676
+[Thu Aug 22 09:35:10 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3676
+[Thu Aug 22 09:35:31 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3677
+[Thu Aug 22 09:35:59 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3325, 3673
+[Thu Aug 22 09:36:26 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3325, 3674
+[Thu Aug 22 09:36:48 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3325, 3670
+[Thu Aug 22 09:37:09 PDT 2013] Happy4you [71.10.125.218] picked up a Rune full helm, location: 3325, 3671
+[Thu Aug 22 09:37:11 PDT 2013] Happy4you [71.10.125.218] picked up a Chocolate bomb, location: 3325, 3671
+[Thu Aug 22 09:37:19 PDT 2013] Happy4you [71.10.125.218] picked up a Chocolate bomb, location: 3325, 3671
+[Thu Aug 22 09:37:21 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3325, 3671
+[Thu Aug 22 09:37:49 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3326, 3669
+[Thu Aug 22 09:38:26 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3326, 3670
+[Thu Aug 22 09:38:32 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3668
+[Thu Aug 22 09:39:03 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3673
+[Thu Aug 22 09:39:35 PDT 2013] Happy4you [71.10.125.218] picked up a Coins, location: 3326, 3670
+[Thu Aug 22 09:39:39 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3326, 3670
+[Thu Aug 22 09:39:50 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3326, 3670
+[Thu Aug 22 09:39:56 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3326, 3673
+[Thu Aug 22 09:40:29 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3325, 3669
+[Thu Aug 22 09:41:04 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3676
+[Thu Aug 22 09:41:36 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3677
+[Thu Aug 22 09:42:02 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3676
+[Thu Aug 22 09:46:12 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3337, 3683
+[Thu Aug 22 09:58:36 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3555, 3297
+[Thu Aug 22 12:00:11 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3343, 3674
+[Thu Aug 22 12:00:44 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3336, 3681
+[Thu Aug 22 12:01:03 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3331, 3678
+[Thu Aug 22 12:01:48 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3678
+[Thu Aug 22 12:01:50 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon dagger (p++), location: 3330, 3678
+[Thu Aug 22 12:01:52 PDT 2013] Happy4you [71.10.125.218] picked up a Verac's helm, location: 3330, 3678
+[Thu Aug 22 12:01:53 PDT 2013] Happy4you [71.10.125.218] picked up a Verac's flail, location: 3330, 3678
+[Thu Aug 22 12:01:54 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3330, 3678
+[Thu Aug 22 12:01:54 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3330, 3678
+[Thu Aug 22 12:01:55 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3330, 3678
+[Thu Aug 22 12:01:56 PDT 2013] Happy4you [71.10.125.218] picked up a Amulet of glory (4), location: 3330, 3678
+[Thu Aug 22 12:01:56 PDT 2013] Happy4you [71.10.125.218] picked up a Black d'hide body, location: 3330, 3678
+[Thu Aug 22 12:01:57 PDT 2013] Happy4you [71.10.125.218] picked up a Warrior ring, location: 3330, 3678
+[Thu Aug 22 12:01:58 PDT 2013] Happy4you [71.10.125.218] picked up a Combat bracelet (4), location: 3330, 3678
+[Thu Aug 22 12:01:58 PDT 2013] Happy4you [71.10.125.218] picked up a Warrior ring, location: 3330, 3678
+[Thu Aug 22 12:02:00 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3330, 3678
+[Thu Aug 22 12:02:01 PDT 2013] Happy4you [71.10.125.218] picked up a Manta ray, location: 3330, 3678
+[Thu Aug 22 12:02:01 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3678
+[Thu Aug 22 12:02:02 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3678
+[Thu Aug 22 12:02:03 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3678
+[Thu Aug 22 12:02:04 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3678
+[Thu Aug 22 12:02:04 PDT 2013] Happy4you [71.10.125.218] picked up a Super attack (3), location: 3330, 3678
+[Thu Aug 22 12:02:05 PDT 2013] Happy4you [71.10.125.218] picked up a Super restore (1), location: 3330, 3678
+[Thu Aug 22 12:02:05 PDT 2013] Happy4you [71.10.125.218] picked up a Super restore (1), location: 3330, 3678
+[Thu Aug 22 12:02:06 PDT 2013] Happy4you [71.10.125.218] picked up a Rune c'bow, location: 3330, 3678
+[Thu Aug 22 12:02:07 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bolts (e), location: 3330, 3678
+[Thu Aug 22 12:02:07 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon scimitar, location: 3330, 3678
+[Thu Aug 22 12:02:08 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon scimitar, location: 3330, 3678
+[Thu Aug 22 12:02:17 PDT 2013] Happy4you [71.10.125.218] picked up a Super strength (2), location: 3330, 3678
+[Thu Aug 22 12:04:27 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3334, 3682
+[Thu Aug 22 12:04:47 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3325, 3673
+[Thu Aug 22 12:05:08 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3669
+[Thu Aug 22 12:05:17 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3676
+[Thu Aug 22 12:05:43 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3677
+[Thu Aug 22 12:06:03 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3327, 3671
+[Thu Aug 22 12:06:23 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3676
+[Thu Aug 22 12:06:52 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3328, 3677
+[Thu Aug 22 12:07:12 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3330, 3676
+[Thu Aug 22 12:07:40 PDT 2013] Happy4you [71.10.125.218] picked up a Dragon bones, location: 3329, 3677
+[Thu Aug 22 12:07:41 PDT 2013] Happy4you [71.10.125.218] picked up a Gold charm, location: 3329, 3677
+[Thu Aug 22 12:54:13 PDT 2013] Happy4you [71.10.125.218] picked up a Mystic gloves, location: 3436, 3562

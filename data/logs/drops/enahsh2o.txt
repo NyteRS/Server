@@ -1,0 +1,4 @@
+[Tue Aug 20 16:34:57 PDT 2013] Enahsh2o [97.96.123.57] dropped a Empty cup at location: 3268, 3410
+[Tue Aug 20 16:35:01 PDT 2013] Enahsh2o [97.96.123.57] dropped a Cup of tea at location: 3268, 3410
+[Tue Aug 20 16:35:04 PDT 2013] Enahsh2o [97.96.123.57] dropped a Cup of tea at location: 3269, 3412
+[Tue Aug 20 16:38:42 PDT 2013] Enahsh2o [97.96.123.57] dropped a Empty cup at location: 3265, 3422
